@@ -1,0 +1,1304 @@
+<Song resolves-to="org.jjazz.song.api.Song$SerializationProxy">
+  <spVERSION>3</spVERSION>
+  <spName>ConcertoDeAranjuez-Am-Theme</spName>
+  <spComments>Edit me...</spComments>
+  <spTempo>64</spTempo>
+  <spTags/>
+  <spChordLeadSheet class="org.jjazz.chordleadsheet.ChordLeadSheetImpl" resolves-to="org.jjazz.chordleadsheet.ChordLeadSheetImpl$SerializationProxy">
+    <spVERSION>1</spVERSION>
+    <spItems>
+      <org.jjazz.chordleadsheet.item.CLI__SectionImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_SectionImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spName>Intro</spName>
+        <spTs>FOUR_FOUR</spTs>
+        <spBarIndex>0</spBarIndex>
+        <spClientProperties>
+          <properties>
+            <entry>
+              <string>PropSectionQuantization</string>
+              <string>ONE_QUARTER_BEAT</string>
+            </entry>
+          </properties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_SectionImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__SectionImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
+          <spVERSION>2</spVERSION>
+          <spName>Am</spName>
+          <spOriginalName>Am</spOriginalName>
+          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
+            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+              <int>2</int>
+              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+              <null/>
+            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[0:0]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      <org.jjazz.chordleadsheet.item.CLI__SectionImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_SectionImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spName>A</spName>
+        <spTs>FOUR_FOUR</spTs>
+        <spBarIndex>2</spBarIndex>
+        <spClientProperties>
+          <properties>
+            <entry>
+              <string>PropSectionQuantization</string>
+              <string>ONE_QUARTER_BEAT</string>
+            </entry>
+          </properties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_SectionImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__SectionImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
+          <spVERSION>2</spVERSION>
+          <spName>Am</spName>
+          <spOriginalName>Am</spOriginalName>
+          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
+            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+              <int>2</int>
+              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+              <null/>
+            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[2:0]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
+          <spVERSION>2</spVERSION>
+          <spName>Dm</spName>
+          <spOriginalName>Dm</spOriginalName>
+          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
+            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+              <int>2</int>
+              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+              <null/>
+            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[6:0]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
+          <spVERSION>2</spVERSION>
+          <spName>E</spName>
+          <spOriginalName>E</spOriginalName>
+          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
+            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+              <int>2</int>
+              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+              <null/>
+            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[8:0]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
+          <spVERSION>2</spVERSION>
+          <spName>E7</spName>
+          <spOriginalName>E7</spOriginalName>
+          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
+            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+              <int>2</int>
+              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+              <null/>
+            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[9:0]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
+          <spVERSION>2</spVERSION>
+          <spName>Am</spName>
+          <spOriginalName>Am</spOriginalName>
+          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
+            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+              <int>2</int>
+              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+              <null/>
+            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[10:0]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      <org.jjazz.chordleadsheet.item.CLI__SectionImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_SectionImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spName>B</spName>
+        <spTs>FOUR_FOUR</spTs>
+        <spBarIndex>12</spBarIndex>
+        <spClientProperties>
+          <properties>
+            <entry>
+              <string>PropSectionQuantization</string>
+              <string>ONE_QUARTER_BEAT</string>
+            </entry>
+          </properties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_SectionImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__SectionImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
+          <spVERSION>2</spVERSION>
+          <spName>FM7</spName>
+          <spOriginalName>FM7</spOriginalName>
+          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
+            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+              <int>2</int>
+              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+              <null/>
+            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[12:0]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
+          <spVERSION>2</spVERSION>
+          <spName>Em</spName>
+          <spOriginalName>Em</spOriginalName>
+          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
+            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+              <int>2</int>
+              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+              <null/>
+            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[14:0]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
+          <spVERSION>2</spVERSION>
+          <spName>Dm</spName>
+          <spOriginalName>Dm</spOriginalName>
+          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
+            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+              <int>2</int>
+              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+              <null/>
+            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[16:0]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
+          <spVERSION>2</spVERSION>
+          <spName>E</spName>
+          <spOriginalName>E</spOriginalName>
+          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
+            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+              <int>2</int>
+              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+              <null/>
+            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[18:0]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
+          <spVERSION>2</spVERSION>
+          <spName>Am</spName>
+          <spOriginalName>Am</spOriginalName>
+          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
+            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+              <int>2</int>
+              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+              <null/>
+            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[20:0]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      <org.jjazz.chordleadsheet.item.CLI__SectionImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_SectionImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spName>C</spName>
+        <spTs>FOUR_FOUR</spTs>
+        <spBarIndex>22</spBarIndex>
+        <spClientProperties>
+          <properties>
+            <entry>
+              <string>PropSectionQuantization</string>
+              <string>ONE_QUARTER_BEAT</string>
+            </entry>
+          </properties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_SectionImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__SectionImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
+          <spVERSION>2</spVERSION>
+          <spName>E</spName>
+          <spOriginalName>E</spOriginalName>
+          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
+            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+              <int>2</int>
+              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+              <null/>
+            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[22:0]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
+          <spVERSION>2</spVERSION>
+          <spName>Am</spName>
+          <spOriginalName>Am</spOriginalName>
+          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
+            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+              <int>2</int>
+              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+              <null/>
+            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[23:0]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
+          <spVERSION>2</spVERSION>
+          <spName>B</spName>
+          <spOriginalName>B</spOriginalName>
+          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
+            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+              <int>2</int>
+              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+              <null/>
+            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[24:0]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
+          <spVERSION>2</spVERSION>
+          <spName>Em</spName>
+          <spOriginalName>Em</spOriginalName>
+          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
+            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+              <int>2</int>
+              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+              <null/>
+            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[25:0]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
+          <spVERSION>2</spVERSION>
+          <spName>E7</spName>
+          <spOriginalName>E7</spOriginalName>
+          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
+            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+              <int>2</int>
+              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+              <null/>
+            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[27:0]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      <org.jjazz.chordleadsheet.item.CLI__SectionImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_SectionImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spName>Ending</spName>
+        <spTs>FOUR_FOUR</spTs>
+        <spBarIndex>29</spBarIndex>
+        <spClientProperties>
+          <properties>
+            <entry>
+              <string>PropSectionQuantization</string>
+              <string>ONE_QUARTER_BEAT</string>
+            </entry>
+          </properties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_SectionImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__SectionImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
+          <spVERSION>2</spVERSION>
+          <spName>Am</spName>
+          <spOriginalName>Am</spOriginalName>
+          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
+            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+              <int>2</int>
+              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+              <null/>
+            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[29:0]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+    </spItems>
+    <spSize>32</spSize>
+  </spChordLeadSheet>
+  <spSongStructure class="org.jjazz.songstructure.SongStructureImpl" resolves-to="org.jjazz.songstructure.SongStructureImpl$SerializationProxy">
+    <spVERSION>1</spVERSION>
+    <spSpts>
+      <org.jjazz.songstructure.SongPartImpl resolves-to="org.jjazz.songstructure.SongPartImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spRhythmId>Acousticjazz-Drums-02.S837.sty-ID</spRhythmId>
+        <spRhythmName>Acousticjazz-Drums-02.S837.sty</spRhythmName>
+        <spRhythmTs>FOUR_FOUR</spRhythmTs>
+        <spStartBarIndex>0</spStartBarIndex>
+        <spName>Intro</spName>
+        <spNbBars>2</spNbBars>
+        <spParentSection class="org.jjazz.chordleadsheet.item.CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/org.jjazz.chordleadsheet.item.CLI__SectionImpl"/>
+        <spMapRpIdValue>
+          <VERSION>1</VERSION>
+          <keys>
+            <string>rpVariationID</string>
+            <string>rpIntensityID</string>
+            <string>RpFillID</string>
+            <string>RpSysMuteID</string>
+            <string>rpSysMarkerID</string>
+            <string>rpTempoID</string>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>RP_SYS_CustomPhraseId</string>
+          </keys>
+          <values>
+            <string>Main A-1</string>
+            <string>0</string>
+            <string></string>
+            <string>[Rhythm]</string>
+            <string>theme</string>
+            <string>100</string>
+            <string>[DrumsMixIdhidden#BASS=-37,CRASH=-34,PERCUSSION=-36,TOM=-36,SNARE=-41]</string>
+            <string></string>
+          </values>
+        </spMapRpIdValue>
+        <spMapRpIdDisplayName>
+          <VERSION>1</VERSION>
+          <keys>
+            <string>rpVariationID</string>
+            <string>rpIntensityID</string>
+            <string>RpFillID</string>
+            <string>RpSysMuteID</string>
+            <string>rpSysMarkerID</string>
+            <string>rpTempoID</string>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>RP_SYS_CustomPhraseId</string>
+          </keys>
+          <values>
+            <string>Variation</string>
+            <string>Intensity</string>
+            <string>Fill</string>
+            <string>Mute</string>
+            <string>Marker</string>
+            <string>Tempo %</string>
+            <string>Drums transform</string>
+            <string>Custom phrase</string>
+          </values>
+        </spMapRpIdDisplayName>
+        <spMapRpIdPercentageValue>
+          <VERSION>1</VERSION>
+          <keys>
+            <string>rpVariationID</string>
+            <string>rpIntensityID</string>
+            <string>RpFillID</string>
+            <string>RpSysMuteID</string>
+            <string>rpSysMarkerID</string>
+            <string>rpTempoID</string>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>RP_SYS_CustomPhraseId</string>
+          </keys>
+          <values>
+            <double>NaN</double>
+            <double>0.5</double>
+            <double>0.0</double>
+            <double>1.0E-4</double>
+            <double>0.0</double>
+            <double>0.3333333333333333</double>
+            <double>-1.0</double>
+            <double>-1.0</double>
+          </values>
+        </spMapRpIdPercentageValue>
+        <spClientProperties>
+          <owner class="org.jjazz.songstructure.SongPartImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.songstructure.SongPartImpl>
+      <org.jjazz.songstructure.SongPartImpl resolves-to="org.jjazz.songstructure.SongPartImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spRhythmId>Acousticjazz-Drums-02.S837.sty-ID</spRhythmId>
+        <spRhythmName>Acousticjazz-Drums-02.S837.sty</spRhythmName>
+        <spRhythmTs>FOUR_FOUR</spRhythmTs>
+        <spStartBarIndex>2</spStartBarIndex>
+        <spName>Chorus 1</spName>
+        <spNbBars>10</spNbBars>
+        <spParentSection class="org.jjazz.chordleadsheet.item.CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/org.jjazz.chordleadsheet.item.CLI__SectionImpl[2]"/>
+        <spMapRpIdValue>
+          <VERSION>1</VERSION>
+          <keys>
+            <string>rpVariationID</string>
+            <string>rpIntensityID</string>
+            <string>RpFillID</string>
+            <string>RpSysMuteID</string>
+            <string>rpSysMarkerID</string>
+            <string>rpTempoID</string>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>RP_SYS_CustomPhraseId</string>
+          </keys>
+          <values>
+            <string>Main A-1</string>
+            <string>0</string>
+            <string></string>
+            <string>[Rhythm]</string>
+            <string>theme</string>
+            <string>100</string>
+            <string>[DrumsMixIdhidden#BASS=-37,CRASH=-34,PERCUSSION=-36,TOM=-36,SNARE=-41]</string>
+            <string></string>
+          </values>
+        </spMapRpIdValue>
+        <spMapRpIdDisplayName>
+          <VERSION>1</VERSION>
+          <keys>
+            <string>rpVariationID</string>
+            <string>rpIntensityID</string>
+            <string>RpFillID</string>
+            <string>RpSysMuteID</string>
+            <string>rpSysMarkerID</string>
+            <string>rpTempoID</string>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>RP_SYS_CustomPhraseId</string>
+          </keys>
+          <values>
+            <string>Variation</string>
+            <string>Intensity</string>
+            <string>Fill</string>
+            <string>Mute</string>
+            <string>Marker</string>
+            <string>Tempo %</string>
+            <string>Drums transform</string>
+            <string>Custom phrase</string>
+          </values>
+        </spMapRpIdDisplayName>
+        <spMapRpIdPercentageValue>
+          <VERSION>1</VERSION>
+          <keys>
+            <string>rpVariationID</string>
+            <string>rpIntensityID</string>
+            <string>RpFillID</string>
+            <string>RpSysMuteID</string>
+            <string>rpSysMarkerID</string>
+            <string>rpTempoID</string>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>RP_SYS_CustomPhraseId</string>
+          </keys>
+          <values>
+            <double>NaN</double>
+            <double>0.5</double>
+            <double>0.0</double>
+            <double>1.0E-4</double>
+            <double>0.0</double>
+            <double>0.3333333333333333</double>
+            <double>-1.0</double>
+            <double>-1.0</double>
+          </values>
+        </spMapRpIdPercentageValue>
+        <spClientProperties>
+          <owner class="org.jjazz.songstructure.SongPartImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.songstructure.SongPartImpl>
+      <org.jjazz.songstructure.SongPartImpl resolves-to="org.jjazz.songstructure.SongPartImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spRhythmId>Acousticjazz-Drums-02.S837.sty-ID</spRhythmId>
+        <spRhythmName>Acousticjazz-Drums-02.S837.sty</spRhythmName>
+        <spRhythmTs>FOUR_FOUR</spRhythmTs>
+        <spStartBarIndex>12</spStartBarIndex>
+        <spName>Chorus 1</spName>
+        <spNbBars>10</spNbBars>
+        <spParentSection class="org.jjazz.chordleadsheet.item.CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/org.jjazz.chordleadsheet.item.CLI__SectionImpl[2]"/>
+        <spMapRpIdValue>
+          <VERSION>1</VERSION>
+          <keys>
+            <string>rpVariationID</string>
+            <string>rpIntensityID</string>
+            <string>RpFillID</string>
+            <string>RpSysMuteID</string>
+            <string>rpSysMarkerID</string>
+            <string>rpTempoID</string>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>RP_SYS_CustomPhraseId</string>
+          </keys>
+          <values>
+            <string>Main A-1</string>
+            <string>0</string>
+            <string></string>
+            <string>[Rhythm]</string>
+            <string>theme</string>
+            <string>100</string>
+            <string>[DrumsMixIdhidden#BASS=-37,CRASH=-34,PERCUSSION=-36,TOM=-36,SNARE=-41]</string>
+            <string></string>
+          </values>
+        </spMapRpIdValue>
+        <spMapRpIdDisplayName>
+          <VERSION>1</VERSION>
+          <keys>
+            <string>rpVariationID</string>
+            <string>rpIntensityID</string>
+            <string>RpFillID</string>
+            <string>RpSysMuteID</string>
+            <string>rpSysMarkerID</string>
+            <string>rpTempoID</string>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>RP_SYS_CustomPhraseId</string>
+          </keys>
+          <values>
+            <string>Variation</string>
+            <string>Intensity</string>
+            <string>Fill</string>
+            <string>Mute</string>
+            <string>Marker</string>
+            <string>Tempo %</string>
+            <string>Drums transform</string>
+            <string>Custom phrase</string>
+          </values>
+        </spMapRpIdDisplayName>
+        <spMapRpIdPercentageValue>
+          <VERSION>1</VERSION>
+          <keys>
+            <string>rpVariationID</string>
+            <string>rpIntensityID</string>
+            <string>RpFillID</string>
+            <string>RpSysMuteID</string>
+            <string>rpSysMarkerID</string>
+            <string>rpTempoID</string>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>RP_SYS_CustomPhraseId</string>
+          </keys>
+          <values>
+            <double>NaN</double>
+            <double>0.5</double>
+            <double>0.0</double>
+            <double>1.0E-4</double>
+            <double>0.0</double>
+            <double>0.3333333333333333</double>
+            <double>-1.0</double>
+            <double>-1.0</double>
+          </values>
+        </spMapRpIdPercentageValue>
+        <spClientProperties>
+          <owner class="org.jjazz.songstructure.SongPartImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.songstructure.SongPartImpl>
+      <org.jjazz.songstructure.SongPartImpl resolves-to="org.jjazz.songstructure.SongPartImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spRhythmId>Acousticjazz-Drums-02.S837.sty-ID</spRhythmId>
+        <spRhythmName>Acousticjazz-Drums-02.S837.sty</spRhythmName>
+        <spRhythmTs>FOUR_FOUR</spRhythmTs>
+        <spStartBarIndex>22</spStartBarIndex>
+        <spName>Chorus 1</spName>
+        <spNbBars>10</spNbBars>
+        <spParentSection class="org.jjazz.chordleadsheet.item.CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/org.jjazz.chordleadsheet.item.CLI__SectionImpl[3]"/>
+        <spMapRpIdValue>
+          <VERSION>1</VERSION>
+          <keys>
+            <string>rpVariationID</string>
+            <string>rpIntensityID</string>
+            <string>RpFillID</string>
+            <string>RpSysMuteID</string>
+            <string>rpSysMarkerID</string>
+            <string>rpTempoID</string>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>RP_SYS_CustomPhraseId</string>
+          </keys>
+          <values>
+            <string>Main A-1</string>
+            <string>0</string>
+            <string></string>
+            <string>[Rhythm]</string>
+            <string>theme</string>
+            <string>100</string>
+            <string>[DrumsMixIdhidden#BASS=-37,CRASH=-34,PERCUSSION=-36,TOM=-36,SNARE=-41]</string>
+            <string></string>
+          </values>
+        </spMapRpIdValue>
+        <spMapRpIdDisplayName>
+          <VERSION>1</VERSION>
+          <keys>
+            <string>rpVariationID</string>
+            <string>rpIntensityID</string>
+            <string>RpFillID</string>
+            <string>RpSysMuteID</string>
+            <string>rpSysMarkerID</string>
+            <string>rpTempoID</string>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>RP_SYS_CustomPhraseId</string>
+          </keys>
+          <values>
+            <string>Variation</string>
+            <string>Intensity</string>
+            <string>Fill</string>
+            <string>Mute</string>
+            <string>Marker</string>
+            <string>Tempo %</string>
+            <string>Drums transform</string>
+            <string>Custom phrase</string>
+          </values>
+        </spMapRpIdDisplayName>
+        <spMapRpIdPercentageValue>
+          <VERSION>1</VERSION>
+          <keys>
+            <string>rpVariationID</string>
+            <string>rpIntensityID</string>
+            <string>RpFillID</string>
+            <string>RpSysMuteID</string>
+            <string>rpSysMarkerID</string>
+            <string>rpTempoID</string>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>RP_SYS_CustomPhraseId</string>
+          </keys>
+          <values>
+            <double>NaN</double>
+            <double>0.5</double>
+            <double>0.0</double>
+            <double>1.0E-4</double>
+            <double>0.0</double>
+            <double>0.3333333333333333</double>
+            <double>-1.0</double>
+            <double>-1.0</double>
+          </values>
+        </spMapRpIdPercentageValue>
+        <spClientProperties>
+          <owner class="org.jjazz.songstructure.SongPartImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.songstructure.SongPartImpl>
+      <org.jjazz.songstructure.SongPartImpl resolves-to="org.jjazz.songstructure.SongPartImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spRhythmId>Acousticjazz-Drums-02.S837.sty-ID</spRhythmId>
+        <spRhythmName>Acousticjazz-Drums-02.S837.sty</spRhythmName>
+        <spRhythmTs>FOUR_FOUR</spRhythmTs>
+        <spStartBarIndex>32</spStartBarIndex>
+        <spName>Chorus 1</spName>
+        <spNbBars>7</spNbBars>
+        <spParentSection class="org.jjazz.chordleadsheet.item.CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/org.jjazz.chordleadsheet.item.CLI__SectionImpl[4]"/>
+        <spMapRpIdValue>
+          <VERSION>1</VERSION>
+          <keys>
+            <string>rpVariationID</string>
+            <string>rpIntensityID</string>
+            <string>RpFillID</string>
+            <string>RpSysMuteID</string>
+            <string>rpSysMarkerID</string>
+            <string>rpTempoID</string>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>RP_SYS_CustomPhraseId</string>
+          </keys>
+          <values>
+            <string>Main A-1</string>
+            <string>0</string>
+            <string></string>
+            <string>[Rhythm]</string>
+            <string>theme</string>
+            <string>100</string>
+            <string>[DrumsMixIdhidden#BASS=-37,CRASH=-34,PERCUSSION=-36,TOM=-36,SNARE=-41]</string>
+            <string></string>
+          </values>
+        </spMapRpIdValue>
+        <spMapRpIdDisplayName>
+          <VERSION>1</VERSION>
+          <keys>
+            <string>rpVariationID</string>
+            <string>rpIntensityID</string>
+            <string>RpFillID</string>
+            <string>RpSysMuteID</string>
+            <string>rpSysMarkerID</string>
+            <string>rpTempoID</string>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>RP_SYS_CustomPhraseId</string>
+          </keys>
+          <values>
+            <string>Variation</string>
+            <string>Intensity</string>
+            <string>Fill</string>
+            <string>Mute</string>
+            <string>Marker</string>
+            <string>Tempo %</string>
+            <string>Drums transform</string>
+            <string>Custom phrase</string>
+          </values>
+        </spMapRpIdDisplayName>
+        <spMapRpIdPercentageValue>
+          <VERSION>1</VERSION>
+          <keys>
+            <string>rpVariationID</string>
+            <string>rpIntensityID</string>
+            <string>RpFillID</string>
+            <string>RpSysMuteID</string>
+            <string>rpSysMarkerID</string>
+            <string>rpTempoID</string>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>RP_SYS_CustomPhraseId</string>
+          </keys>
+          <values>
+            <double>NaN</double>
+            <double>0.5</double>
+            <double>0.0</double>
+            <double>1.0E-4</double>
+            <double>0.0</double>
+            <double>0.3333333333333333</double>
+            <double>-1.0</double>
+            <double>-1.0</double>
+          </values>
+        </spMapRpIdPercentageValue>
+        <spClientProperties>
+          <owner class="org.jjazz.songstructure.SongPartImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.songstructure.SongPartImpl>
+      <org.jjazz.songstructure.SongPartImpl resolves-to="org.jjazz.songstructure.SongPartImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spRhythmId>Acousticjazz-Drums-02.S837.sty-ID</spRhythmId>
+        <spRhythmName>Acousticjazz-Drums-02.S837.sty</spRhythmName>
+        <spRhythmTs>FOUR_FOUR</spRhythmTs>
+        <spStartBarIndex>39</spStartBarIndex>
+        <spName>Chorus 2</spName>
+        <spNbBars>10</spNbBars>
+        <spParentSection class="org.jjazz.chordleadsheet.item.CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/org.jjazz.chordleadsheet.item.CLI__SectionImpl[2]"/>
+        <spMapRpIdValue>
+          <VERSION>1</VERSION>
+          <keys>
+            <string>rpVariationID</string>
+            <string>rpIntensityID</string>
+            <string>RpFillID</string>
+            <string>RpSysMuteID</string>
+            <string>rpSysMarkerID</string>
+            <string>rpTempoID</string>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>RP_SYS_CustomPhraseId</string>
+          </keys>
+          <values>
+            <string>Main A-1</string>
+            <string>0</string>
+            <string></string>
+            <string>[Rhythm]</string>
+            <string>theme</string>
+            <string>100</string>
+            <string>[DrumsMixIdhidden#BASS=-37,CRASH=-34,PERCUSSION=-36,TOM=-36,SNARE=-41]</string>
+            <string></string>
+          </values>
+        </spMapRpIdValue>
+        <spMapRpIdDisplayName>
+          <VERSION>1</VERSION>
+          <keys>
+            <string>rpVariationID</string>
+            <string>rpIntensityID</string>
+            <string>RpFillID</string>
+            <string>RpSysMuteID</string>
+            <string>rpSysMarkerID</string>
+            <string>rpTempoID</string>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>RP_SYS_CustomPhraseId</string>
+          </keys>
+          <values>
+            <string>Variation</string>
+            <string>Intensity</string>
+            <string>Fill</string>
+            <string>Mute</string>
+            <string>Marker</string>
+            <string>Tempo %</string>
+            <string>Drums transform</string>
+            <string>Custom phrase</string>
+          </values>
+        </spMapRpIdDisplayName>
+        <spMapRpIdPercentageValue>
+          <VERSION>1</VERSION>
+          <keys>
+            <string>rpVariationID</string>
+            <string>rpIntensityID</string>
+            <string>RpFillID</string>
+            <string>RpSysMuteID</string>
+            <string>rpSysMarkerID</string>
+            <string>rpTempoID</string>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>RP_SYS_CustomPhraseId</string>
+          </keys>
+          <values>
+            <double>NaN</double>
+            <double>0.5</double>
+            <double>0.0</double>
+            <double>1.0E-4</double>
+            <double>0.0</double>
+            <double>0.3333333333333333</double>
+            <double>-1.0</double>
+            <double>-1.0</double>
+          </values>
+        </spMapRpIdPercentageValue>
+        <spClientProperties>
+          <owner class="org.jjazz.songstructure.SongPartImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.songstructure.SongPartImpl>
+      <org.jjazz.songstructure.SongPartImpl resolves-to="org.jjazz.songstructure.SongPartImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spRhythmId>Acousticjazz-Drums-02.S837.sty-ID</spRhythmId>
+        <spRhythmName>Acousticjazz-Drums-02.S837.sty</spRhythmName>
+        <spRhythmTs>FOUR_FOUR</spRhythmTs>
+        <spStartBarIndex>49</spStartBarIndex>
+        <spName>Chorus 2</spName>
+        <spNbBars>10</spNbBars>
+        <spParentSection class="org.jjazz.chordleadsheet.item.CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/org.jjazz.chordleadsheet.item.CLI__SectionImpl[3]"/>
+        <spMapRpIdValue>
+          <VERSION>1</VERSION>
+          <keys>
+            <string>rpVariationID</string>
+            <string>rpIntensityID</string>
+            <string>RpFillID</string>
+            <string>RpSysMuteID</string>
+            <string>rpSysMarkerID</string>
+            <string>rpTempoID</string>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>RP_SYS_CustomPhraseId</string>
+          </keys>
+          <values>
+            <string>Main A-1</string>
+            <string>0</string>
+            <string></string>
+            <string>[Rhythm]</string>
+            <string>theme</string>
+            <string>100</string>
+            <string>[DrumsMixIdhidden#BASS=-37,CRASH=-34,PERCUSSION=-36,TOM=-36,SNARE=-41]</string>
+            <string></string>
+          </values>
+        </spMapRpIdValue>
+        <spMapRpIdDisplayName>
+          <VERSION>1</VERSION>
+          <keys>
+            <string>rpVariationID</string>
+            <string>rpIntensityID</string>
+            <string>RpFillID</string>
+            <string>RpSysMuteID</string>
+            <string>rpSysMarkerID</string>
+            <string>rpTempoID</string>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>RP_SYS_CustomPhraseId</string>
+          </keys>
+          <values>
+            <string>Variation</string>
+            <string>Intensity</string>
+            <string>Fill</string>
+            <string>Mute</string>
+            <string>Marker</string>
+            <string>Tempo %</string>
+            <string>Drums transform</string>
+            <string>Custom phrase</string>
+          </values>
+        </spMapRpIdDisplayName>
+        <spMapRpIdPercentageValue>
+          <VERSION>1</VERSION>
+          <keys>
+            <string>rpVariationID</string>
+            <string>rpIntensityID</string>
+            <string>RpFillID</string>
+            <string>RpSysMuteID</string>
+            <string>rpSysMarkerID</string>
+            <string>rpTempoID</string>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>RP_SYS_CustomPhraseId</string>
+          </keys>
+          <values>
+            <double>NaN</double>
+            <double>0.5</double>
+            <double>0.0</double>
+            <double>1.0E-4</double>
+            <double>0.0</double>
+            <double>0.3333333333333333</double>
+            <double>-1.0</double>
+            <double>-1.0</double>
+          </values>
+        </spMapRpIdPercentageValue>
+        <spClientProperties>
+          <owner class="org.jjazz.songstructure.SongPartImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.songstructure.SongPartImpl>
+      <org.jjazz.songstructure.SongPartImpl resolves-to="org.jjazz.songstructure.SongPartImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spRhythmId>Acousticjazz-Drums-02.S837.sty-ID</spRhythmId>
+        <spRhythmName>Acousticjazz-Drums-02.S837.sty</spRhythmName>
+        <spRhythmTs>FOUR_FOUR</spRhythmTs>
+        <spStartBarIndex>59</spStartBarIndex>
+        <spName>Chorus 2</spName>
+        <spNbBars>7</spNbBars>
+        <spParentSection class="org.jjazz.chordleadsheet.item.CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/org.jjazz.chordleadsheet.item.CLI__SectionImpl[4]"/>
+        <spMapRpIdValue>
+          <VERSION>1</VERSION>
+          <keys>
+            <string>rpVariationID</string>
+            <string>rpIntensityID</string>
+            <string>RpFillID</string>
+            <string>RpSysMuteID</string>
+            <string>rpSysMarkerID</string>
+            <string>rpTempoID</string>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>RP_SYS_CustomPhraseId</string>
+          </keys>
+          <values>
+            <string>Main A-1</string>
+            <string>0</string>
+            <string></string>
+            <string>[Rhythm]</string>
+            <string>theme</string>
+            <string>100</string>
+            <string>[DrumsMixIdhidden#BASS=-37,CRASH=-34,PERCUSSION=-36,TOM=-36,SNARE=-41]</string>
+            <string></string>
+          </values>
+        </spMapRpIdValue>
+        <spMapRpIdDisplayName>
+          <VERSION>1</VERSION>
+          <keys>
+            <string>rpVariationID</string>
+            <string>rpIntensityID</string>
+            <string>RpFillID</string>
+            <string>RpSysMuteID</string>
+            <string>rpSysMarkerID</string>
+            <string>rpTempoID</string>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>RP_SYS_CustomPhraseId</string>
+          </keys>
+          <values>
+            <string>Variation</string>
+            <string>Intensity</string>
+            <string>Fill</string>
+            <string>Mute</string>
+            <string>Marker</string>
+            <string>Tempo %</string>
+            <string>Drums transform</string>
+            <string>Custom phrase</string>
+          </values>
+        </spMapRpIdDisplayName>
+        <spMapRpIdPercentageValue>
+          <VERSION>1</VERSION>
+          <keys>
+            <string>rpVariationID</string>
+            <string>rpIntensityID</string>
+            <string>RpFillID</string>
+            <string>RpSysMuteID</string>
+            <string>rpSysMarkerID</string>
+            <string>rpTempoID</string>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>RP_SYS_CustomPhraseId</string>
+          </keys>
+          <values>
+            <double>NaN</double>
+            <double>0.5</double>
+            <double>0.0</double>
+            <double>1.0E-4</double>
+            <double>0.0</double>
+            <double>0.3333333333333333</double>
+            <double>-1.0</double>
+            <double>-1.0</double>
+          </values>
+        </spMapRpIdPercentageValue>
+        <spClientProperties>
+          <owner class="org.jjazz.songstructure.SongPartImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.songstructure.SongPartImpl>
+      <org.jjazz.songstructure.SongPartImpl resolves-to="org.jjazz.songstructure.SongPartImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spRhythmId>Acousticjazz-Drums-02.S837.sty-ID</spRhythmId>
+        <spRhythmName>Acousticjazz-Drums-02.S837.sty</spRhythmName>
+        <spRhythmTs>FOUR_FOUR</spRhythmTs>
+        <spStartBarIndex>66</spStartBarIndex>
+        <spName>Ending</spName>
+        <spNbBars>3</spNbBars>
+        <spParentSection class="org.jjazz.chordleadsheet.item.CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/org.jjazz.chordleadsheet.item.CLI__SectionImpl[5]"/>
+        <spMapRpIdValue>
+          <VERSION>1</VERSION>
+          <keys>
+            <string>rpVariationID</string>
+            <string>rpIntensityID</string>
+            <string>RpFillID</string>
+            <string>RpSysMuteID</string>
+            <string>rpSysMarkerID</string>
+            <string>rpTempoID</string>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>RP_SYS_CustomPhraseId</string>
+          </keys>
+          <values>
+            <string>Main A-1</string>
+            <string>0</string>
+            <string></string>
+            <string>[Rhythm]</string>
+            <string>theme</string>
+            <string>100</string>
+            <string>[DrumsMixIdhidden#BASS=-37,CRASH=-34,PERCUSSION=-36,TOM=-36,SNARE=-41]</string>
+            <string></string>
+          </values>
+        </spMapRpIdValue>
+        <spMapRpIdDisplayName>
+          <VERSION>1</VERSION>
+          <keys>
+            <string>rpVariationID</string>
+            <string>rpIntensityID</string>
+            <string>RpFillID</string>
+            <string>RpSysMuteID</string>
+            <string>rpSysMarkerID</string>
+            <string>rpTempoID</string>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>RP_SYS_CustomPhraseId</string>
+          </keys>
+          <values>
+            <string>Variation</string>
+            <string>Intensity</string>
+            <string>Fill</string>
+            <string>Mute</string>
+            <string>Marker</string>
+            <string>Tempo %</string>
+            <string>Drums transform</string>
+            <string>Custom phrase</string>
+          </values>
+        </spMapRpIdDisplayName>
+        <spMapRpIdPercentageValue>
+          <VERSION>1</VERSION>
+          <keys>
+            <string>rpVariationID</string>
+            <string>rpIntensityID</string>
+            <string>RpFillID</string>
+            <string>RpSysMuteID</string>
+            <string>rpSysMarkerID</string>
+            <string>rpTempoID</string>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>RP_SYS_CustomPhraseId</string>
+          </keys>
+          <values>
+            <double>NaN</double>
+            <double>0.5</double>
+            <double>0.0</double>
+            <double>1.0E-4</double>
+            <double>0.0</double>
+            <double>0.3333333333333333</double>
+            <double>-1.0</double>
+            <double>-1.0</double>
+          </values>
+        </spMapRpIdPercentageValue>
+        <spClientProperties>
+          <owner class="org.jjazz.songstructure.SongPartImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.songstructure.SongPartImpl>
+    </spSpts>
+    <spParentCls class="org.jjazz.chordleadsheet.ChordLeadSheetImpl" reference="../../spChordLeadSheet"/>
+    <spKeepUpdated>true</spKeepUpdated>
+  </spSongStructure>
+  <spMapUserPhrases>
+    <entry>
+      <string>Bass</string>
+      <org.jjazz.phrase.api.Phrase resolves-to="org.jjazz.phrase.api.Phrase$SerializationProxy">
+        <spVERSION>1</spVERSION>
+        <spSaveString>[0|33,94,3.90625:0.010416667|33,94,3.921875:3.9947917|33,94,2.9895833:7.9947915|28,90,0.9895833:10.994792|33,94,1.9895834:11.994792|31,94,1.9895834:13.994792|33,94,2.9895833:15.994792|28,94,0.9895833:18.994791|33,94,3.9739583:19.994791|26,96,2.9895833:23.994791|33,94,0.9895833:26.994791|26,94,3.9895833:27.994791|28,94,1.9270834:31.994791|28,94,1.9270834:33.994793|28,94,1.921875:35.994793|28,94,1.9375:37.994793|33,94,2.9895833:39.994793|28,92,0.9895833:42.994793|33,94,3.953125:43.994793|33,94,1.921875:47.994793|33,96,0.9895833:49.994793|28,94,0.9895833:50.994793|33,94,1.9895834:51.994793|35,94,1.9895834:53.994793|36,94,2.9270833:55.994793|36,94,0.9895833:58.994793|33,94,3.9895833:59.994793|38,119,3.9895833:63.994793|29,114,3.9895833:67.99479|28,94,2.9895833:71.99479|35,94,0.9895833:74.99479|28,94,2.9895833:75.99479|32,94,0.9895833:78.99479|33,94,2.9895833:79.99479|28,94,0.9895833:82.99479|33,94,0.921875:83.99479|33,94,0.32291666:84.99479|35,94,0.32291666:85.328125|36,94,0.32291666:85.66146|38,98,0.28645834:85.99479|38,94,0.32291666:86.328125|40,95,0.31770834:86.66146|41,97,0.25520834:86.99479|41,94,0.32291666:87.328125|43,94,0.32291666:87.66146|41,96,1.421875:87.99479|41,94,0.25520834:89.49479|41,94,1.4895834:89.99479|36,94,0.48958334:91.49479|29,94,1.4895834:91.99479|41,94,0.25520834:93.49479|41,94,1.4270834:93.99479|41,94,0.48958334:95.49479|40,94,1.4375:95.99479|40,94,0.28125:97.49479|40,94,1.4895834:97.99479|35,94,0.48958334:99.49479|28,94,1.4895834:99.99479|28,92,0.27604166:101.49479|28,94,1.3489584:101.99479|40,97,0.23958333:103.49479|39,87,0.23958333:103.74479|38,96,1.421875:103.99479|38,94,0.26041666:105.49479|38,94,1.4895834:105.99479|33,94,0.48958334:107.49479|26,94,1.4895834:107.99479|38,94,0.27083334:109.49479|38,94,1.4895834:109.99479|41,94,0.48958334:111.49479|33,96,1.421875:111.99479|33,94,0.265625:113.49479|33,96,1.4114584:113.99479|33,94,0.48958334:115.49479|28,96,1.4322916:115.99479|28,94,0.41145834:117.49479|28,94,0.296875:117.99479|28,94,0.921875:118.49479|28,94,0.48958334:119.49479|33,96,1.421875:119.99479|33,94,0.26041666:121.49479|33,94,1.4895834:121.99479|28,94,0.48958334:123.49479|33,94,1.3802084:123.99479|33,94,0.25520834:125.49479|33,94,1.4270834:125.99479|33,94,0.48958334:127.49479|28,96,1.421875:127.99479|28,94,0.25520834:129.4948|28,94,1.4895834:129.9948|28,94,0.48958334:131.4948|36,94,1.4895834:131.9948|36,94,0.25520834:133.4948|36,94,1.4270834:133.9948|36,94,0.48958334:135.4948|35,94,1.9427084:135.9948|35,94,1.9427084:137.9948|28,96,1.4114584:139.9948|28,94,0.41145834:141.4948|28,96,0.36458334:141.9948|28,94,0.9114583:142.4948|28,94,0.48958334:143.4948|28,94,0.41145834:143.9948|28,92,0.921875:144.4948|28,94,0.48958334:145.4948|26,94,1.4114584:145.9948|26,94,0.48958334:147.4948|28,94,0.20833333:147.9948|26,92,0.20833333:148.2448|28,94,7.4791665:148.4948|33,96,1.8697916:155.9948|33,94,1.4010416:157.9948|40,94,0.48958334:159.4948|33,94,1.3958334:159.9948|33,94,0.48958334:161.4948|35,94,1.4114584:161.9948|35,94,0.48958334:163.4948|36,94,1.9010416:163.9948|36,97,1.4322916:165.9948|35,94,0.48958334:167.4948|33,94,1.8697916:167.9948|33,97,1.375:169.9948|33,94,0.48958334:171.4948|38,94,1.8697916:171.9948|38,94,1.4322916:173.9948|38,94,0.46354166:175.4948|41,96,1.453125:175.9948|41,94,0.4375:177.4948|41,96,1.4114584:177.9948|41,94,0.48958334:179.4948|40,94,1.9895834:179.9948|28,94,1.421875:181.9948|28,94,0.48958334:183.4948|40,94,1.375:183.9948|40,94,0.48958334:185.4948|28,94,1.4114584:185.9948|28,94,0.48958334:187.4948|33,94,1.8802084:187.9948|33,97,1.4895834:189.9948|28,94,0.48958334:191.4948|33,94,0.921875:191.9948|33,94,0.32291666:192.9948|35,94,0.32291666:193.32812|36,94,0.32291666:193.66145|38,98,0.28645834:193.9948|38,94,0.32291666:194.32812|40,95,0.31770834:194.66145|41,97,0.25520834:194.9948|41,94,0.32291666:195.32812|43,94,0.32291666:195.66145|41,96,1.421875:195.9948|41,94,0.25520834:197.4948|41,94,1.4895834:197.9948|36,94,0.48958334:199.4948|29,94,1.4895834:199.9948|41,94,0.25520834:201.4948|41,94,1.4270834:201.9948|41,94,0.48958334:203.4948|40,94,1.4375:203.9948|40,94,0.28125:205.4948|40,94,1.4895834:205.9948|35,94,0.48958334:207.4948|28,94,1.4895834:207.9948|28,92,0.27604166:209.4948|28,94,1.3489584:209.9948|40,97,0.23958333:211.4948|39,87,0.23958333:211.7448|38,96,1.421875:211.9948|38,94,0.26041666:213.4948|38,94,1.4895834:213.9948|33,94,0.48958334:215.4948|26,94,1.4895834:215.9948|38,94,0.27083334:217.4948|38,94,1.4895834:217.9948|41,94,0.48958334:219.4948|33,96,1.421875:219.9948|33,94,0.265625:221.4948|33,96,1.4114584:221.9948|33,94,0.48958334:223.4948|28,96,1.4322916:223.9948|28,94,0.41145834:225.4948|28,94,0.296875:225.9948|28,94,0.921875:226.4948|28,94,0.48958334:227.4948|33,96,1.421875:227.9948|33,94,0.26041666:229.4948|33,94,1.4895834:229.9948|28,94,0.48958334:231.4948|33,94,1.3802084:231.9948|33,94,0.25520834:233.4948|33,94,1.4270834:233.9948|33,94,0.48958334:235.4948|28,96,1.421875:235.9948|28,94,0.25520834:237.4948|28,94,1.4895834:237.9948|28,94,0.48958334:239.4948|36,94,1.4895834:239.9948|36,94,0.25520834:241.4948|36,94,1.4270834:241.9948|36,94,0.48958334:243.4948|35,94,1.9427084:243.9948|35,94,1.9427084:245.9948|28,96,1.4114584:247.9948|28,94,0.41145834:249.4948|28,96,0.36458334:249.9948|28,94,0.9114583:250.4948|28,94,0.48958334:251.4948|28,94,0.41145834:251.9948|28,92,0.921875:252.4948|28,94,0.48958334:253.4948|26,94,1.4114584:253.9948|26,94,0.48958334:255.4948|28,94,0.20833333:255.9948|26,92,0.20833333:256.24478|28,94,7.4791665:256.49478|33,96,0.171875:263.99478|31,94,0.171875:264.24478|33,95,7.703125:264.49478]</spSaveString>
+      </org.jjazz.phrase.api.Phrase>
+    </entry>
+    <entry>
+      <string>Nylon G</string>
+      <org.jjazz.phrase.api.Phrase resolves-to="org.jjazz.phrase.api.Phrase$SerializationProxy">
+        <spVERSION>1</spVERSION>
+        <spSaveString>[0|57,93,0.046875:0.0|60,93,0.083333336:0.0|64,98,0.119791664:0.010416667|69,93,0.13541667:0.07083333|57,89,0.140625:1.9010416|60,93,0.13541667:1.953125|64,93,0.14583333:2.0104167|69,85,0.13541667:2.0677083|57,98,0.13541667:3.9010417|60,107,0.13020833:3.953125|64,98,0.140625:4.0104165|69,85,0.13541667:4.0677085|57,98,0.15625:5.9010415|60,93,0.15625:5.953125|64,98,0.15104167:6.0104165|69,98,0.125:6.0677085|57,82,0.15104167:7.8645835|60,101,0.13020833:7.9166665|64,106,0.119791664:8.020833|69,101,0.13541667:8.078125|57,97,0.140625:9.96875|60,101,0.13541667:10.020833|64,101,0.14583333:10.078125|69,93,0.13541667:10.135417|57,93,0.13541667:11.96875|60,106,0.13020833:12.020833|64,106,0.140625:12.078125|69,93,0.13541667:12.135417|55,95,0.15625:13.96875|59,101,0.15625:14.020833|62,106,0.15104167:14.078125|69,106,0.125:14.135417|57,94,0.15104167:15.96875|60,101,0.13020833:16.020834|64,106,0.119791664:16.078125|69,101,0.13541667:16.135416|57,97,0.140625:17.96875|60,101,0.13541667:18.020834|64,101,0.14583333:18.078125|69,93,0.13541667:18.135416|57,106,0.140625:19.96875|60,106,0.13020833:20.020834|64,106,0.140625:20.078125|69,93,0.13541667:20.135416|57,106,0.15625:21.96875|60,101,0.15625:22.020834|64,106,0.15104167:22.078125|69,106,0.125:22.135416|50,90,0.203125:23.90625|53,92,0.15625:23.973959|57,106,0.119791664:24.03125|62,110,0.09375:24.130209|50,86,0.19791667:25.895834|53,92,0.13541667:25.984375|57,106,0.125:26.036459|62,92,0.119791664:26.135416|50,90,0.20833333:27.838541|53,102,0.15625:27.927084|57,106,0.13020833:27.989584|62,93,0.125:28.088541|50,92,0.17708333:29.802084|53,92,0.13020833:29.890625|57,110,0.125:29.947916|62,106,0.125:30.052084|52,98,0.24479167:31.901041|56,77,0.13541667:31.994791|59,86,0.125:32.052082|64,84,0.109375:32.140625|52,86,0.109375:33.911457|56,67,0.109375:33.942707|59,82,0.119791664:33.989582|64,86,0.098958336:34.052082|52,97,0.13541667:35.9375|56,88,0.119791664:35.984375|59,98,0.13020833:36.036457|62,103,0.125:36.119793|52,98,0.16666667:37.875|56,90,0.119791664:37.932293|59,84,0.140625:37.973957|62,86,0.13020833:38.067707|52,78,0.15104167:39.973957|57,86,0.14583333:40.041668|62,98,0.13020833:40.135418|52,79,0.30729166:41.864582|57,90,0.24479167:41.973957|60,98,0.22916667:42.010418|64,82,0.19791667:42.098957|52,75,0.19791667:43.807293|57,82,0.140625:43.901043|60,98,0.119791664:43.947918|64,79,0.098958336:44.046875|52,75,0.19270833:45.859375|57,79,0.140625:45.963543|60,82,0.125:46.005207|64,71,0.104166664:46.088543|57,82,0.15104167:47.921875|60,101,0.13020833:47.9375|64,106,0.119791664:48.020832|69,101,0.13541667:48.072918|57,97,0.140625:49.96875|60,101,0.13541667:50.020832|64,101,0.14583333:50.078125|69,93,0.13541667:50.135418|57,93,0.13541667:51.96875|60,106,0.13020833:52.020832|64,106,0.140625:52.078125|69,93,0.13541667:52.135418|55,95,0.15625:53.96875|59,101,0.15625:54.020832|62,106,0.15104167:54.078125|69,106,0.125:54.135418|57,94,0.15104167:55.96875|60,101,0.13020833:56.020832|64,106,0.119791664:56.078125|69,101,0.13541667:56.135418|57,97,0.140625:57.96875|60,101,0.13541667:58.020832|64,101,0.14583333:58.078125|69,93,0.13541667:58.135418|57,106,0.140625:59.96875|60,106,0.13020833:60.020832|64,106,0.140625:60.078125|69,93,0.13541667:60.135418|57,106,0.15625:61.96875|60,101,0.15625:62.020832|64,106,0.15104167:62.078125|69,106,0.125:62.135418|50,90,0.203125:63.90625|53,92,0.15625:63.973957|57,106,0.119791664:64.03125|62,110,0.09375:64.13021|50,86,0.19791667:65.895836|53,92,0.13541667:65.984375|57,106,0.125:66.03646|62,92,0.119791664:66.135414|50,90,0.20833333:67.83854|53,102,0.15625:67.927086|57,106,0.13020833:67.989586|62,93,0.125:68.08854|50,92,0.17708333:69.802086|53,92,0.13020833:69.890625|57,110,0.125:69.947914|62,106,0.125:70.052086|52,98,0.24479167:71.90104|56,77,0.13541667:71.99479|59,86,0.125:72.052086|64,84,0.109375:72.140625|52,86,0.109375:73.91146|56,67,0.109375:73.94271|59,82,0.119791664:73.989586|64,86,0.098958336:74.052086|52,97,0.13541667:75.9375|56,88,0.119791664:75.984375|59,98,0.13020833:76.03646|62,103,0.125:76.11979|52,98,0.16666667:77.875|56,90,0.119791664:77.93229|59,84,0.140625:77.97396|62,86,0.13020833:78.06771|52,90,0.15104167:79.97396|57,86,0.14583333:80.041664|62,99,0.13020833:80.135414|52,90,0.30729166:81.864586|57,90,0.24479167:81.97396|60,98,0.22916667:82.010414|64,82,0.19791667:82.09896|52,75,0.19791667:83.80729|57,82,0.140625:83.90104|60,98,0.119791664:83.947914|64,79,0.098958336:84.046875|52,75,0.19270833:85.859375|57,79,0.140625:85.96354|60,82,0.125:86.00521|64,71,0.104166664:86.08854|53,94,0.088541664:87.93229|57,94,0.119791664:87.989586|60,112,0.119791664:88.020836|65,117,0.13020833:88.08854|53,92,0.20833333:89.81771|57,94,0.140625:89.91146|60,108,0.109375:89.96354|65,117,0.125:90.041664|53,104,0.19791667:91.83854|57,85,0.13541667:91.93229|60,117,0.119791664:91.979164|65,117,0.13541667:92.072914|53,94,0.19270833:93.81771|57,96,0.125:93.90104|60,96,0.104166664:93.94271|65,104,0.119791664:94.020836|52,92,0.17708333:95.86979|55,96,0.109375:95.947914|59,94,0.109375:95.989586|64,121,0.119791664:96.0625|52,88,0.1875:97.84896|55,94,0.125:97.927086|59,100,0.13541667:97.958336|64,94,0.13541667:98.041664|52,88,0.20833333:99.72396|55,96,0.15104167:99.8125|59,108,0.13020833:99.875|64,121,0.114583336:99.96875|52,89,0.1875:101.80729|55,94,0.119791664:101.90104|59,100,0.13020833:101.93229|64,104,0.13020833:102.015625|50,104,0.1875:103.88021|53,92,0.13541667:103.947914|57,112,0.09375:104.015625|62,121,0.114583336:104.072914|50,89,0.18229167:105.760414|53,96,0.125:105.859375|57,125,0.083333336:105.927086|62,121,0.109375:106.0|50,88,0.18229167:107.822914|53,91,0.13541667:107.90104|57,108,0.109375:107.953125|62,108,0.119791664:108.03125|50,91,0.17708333:109.80729|53,92,0.13020833:109.890625|57,104,0.119791664:109.93229|62,108,0.119791664:110.02604|52,91,0.19270833:111.8125|57,96,0.15104167:111.90104|60,112,0.140625:111.93229|64,104,0.14583333:112.010414|52,87,0.19791667:113.78646|57,96,0.15104167:113.875|60,108,0.13020833:113.916664|64,92,0.125:114.00521|52,88,0.19270833:115.854164|57,104,0.140625:115.927086|59,94,0.13541667:115.96875|62,104,0.15104167:116.041664|52,84,0.16666667:117.875|56,89,0.15104167:117.93229|59,88,0.13020833:117.97396|62,104,0.140625:118.052086|57,104,0.203125:119.895836|62,94,0.1875:119.96875|64,96,0.16666667:120.041664|52,87,0.203125:121.78646|57,94,0.15625:121.86979|60,104,0.140625:121.90625|64,92,0.140625:121.989586|52,100,0.16666667:123.822914|57,104,0.13541667:123.895836|59,92,0.119791664:123.9375|64,104,0.125:124.00521|52,92,0.16666667:125.875|57,104,0.13541667:125.94271|60,104,0.119791664:125.984375|64,108,0.114583336:126.05729|52,101,1.2552084:127.890625|59,88,1.2708334:128.0|62,93,1.3697916:128.0573|52,88,0.15625:129.91667|56,84,0.13541667:129.97395|59,101,0.119791664:130.01562|62,109,0.119791664:130.09375|52,86,0.19791667:131.85938|55,88,0.171875:131.91145|60,97,0.15104167:131.96875|64,101,0.14583333:132.0625|52,80,0.19270833:133.8125|55,93,0.15625:133.875|60,101,0.140625:133.9323|64,101,0.125:134.02083|52,97,0.22395833:135.92708|54,91,0.20833333:135.97395|59,105,0.171875:136.04688|64,105,0.1875:136.13542|51,97,0.17708333:137.9427|54,82,0.14583333:138.0|59,109,0.114583336:138.0625|63,122,0.140625:138.14062|52,90,0.171875:139.89062|55,90,0.15625:139.9427|59,95,0.13020833:140.01042|64,111,0.15104167:140.09375|52,84,0.171875:141.79688|55,102,0.140625:141.85938|59,94,0.125:141.92188|64,115,0.140625:142.01042|52,84,0.16666667:143.85417|55,98,0.14583333:143.90625|59,98,0.109375:143.96875|64,115,0.15104167:144.03125|50,94,0.16666667:145.85417|54,84,0.16145833:145.90105|57,107,0.109375:145.96875|62,120,0.15625:146.03645|57,82,0.15104167:155.91667|60,101,0.13020833:155.97917|64,106,0.119791664:156.02083|69,101,0.13541667:156.07812|57,97,0.140625:157.96875|60,101,0.13541667:158.02083|64,101,0.14583333:158.07812|69,93,0.13541667:158.13542|57,93,0.13541667:159.96875|60,106,0.13020833:160.02083|64,106,0.140625:160.07812|69,93,0.13541667:160.13542|55,95,0.15625:161.96875|59,101,0.15625:162.02083|62,106,0.15104167:162.07812|69,106,0.125:162.13542|57,94,0.15104167:163.96875|60,101,0.13020833:164.02083|64,106,0.119791664:164.07812|69,101,0.13541667:164.13542|57,97,0.140625:165.96875|60,101,0.13541667:166.02083|64,101,0.14583333:166.07812|69,93,0.13541667:166.13542|57,106,0.140625:167.96875|60,106,0.13020833:168.02083|64,106,0.140625:168.07812|69,93,0.13541667:168.13542|57,106,0.15625:169.96875|60,101,0.15625:170.02083|64,106,0.15104167:170.07812|69,106,0.125:170.13542|50,90,0.203125:171.90625|53,92,0.15625:171.97395|57,106,0.119791664:172.03125|62,110,0.09375:172.1302|50,86,0.19791667:173.89583|53,92,0.13541667:173.98438|57,106,0.125:174.03645|62,92,0.119791664:174.13542|50,90,0.20833333:175.83855|53,102,0.15625:175.92708|57,106,0.13020833:175.98958|62,93,0.125:176.08855|50,92,0.17708333:177.80208|53,92,0.13020833:177.89062|57,110,0.125:177.94792|62,106,0.125:178.05208|52,98,0.24479167:179.90105|56,77,0.13541667:179.9948|59,86,0.125:180.05208|64,84,0.109375:180.14062|52,86,0.109375:181.91145|56,67,0.109375:181.9427|59,82,0.119791664:181.98958|64,86,0.098958336:182.05208|52,97,0.13541667:183.9375|56,88,0.119791664:183.98438|59,98,0.13020833:184.03645|62,103,0.125:184.1198|52,98,0.16666667:185.875|56,90,0.119791664:185.9323|59,84,0.140625:185.97395|62,86,0.13020833:186.0677|52,90,0.15104167:187.97395|57,86,0.14583333:188.04167|62,99,0.13020833:188.13542|52,90,0.30729166:189.86458|57,90,0.24479167:189.97395|60,98,0.22916667:190.01042|64,82,0.19791667:190.09895|52,75,0.19791667:191.8073|57,82,0.140625:191.90105|60,98,0.119791664:191.94792|64,79,0.098958336:192.04688|52,75,0.19270833:193.85938|57,79,0.140625:193.96355|60,82,0.125:194.0052|64,71,0.104166664:194.08855|53,94,0.088541664:195.92188|57,94,0.119791664:195.9948|60,112,0.119791664:196.01042|65,117,0.13020833:196.08855|53,92,0.20833333:197.8177|57,94,0.140625:197.91145|60,108,0.109375:197.96355|65,117,0.125:198.04167|53,104,0.19791667:199.83855|57,85,0.13541667:199.9323|60,117,0.119791664:199.97917|65,117,0.13541667:200.07292|53,94,0.19270833:201.8177|57,96,0.125:201.90105|60,96,0.104166664:201.9427|65,104,0.119791664:202.02083|52,92,0.17708333:203.8698|55,96,0.109375:203.94792|59,94,0.109375:203.98958|64,121,0.119791664:204.0625|52,88,0.1875:205.84895|55,94,0.125:205.92708|59,100,0.13541667:205.95833|64,94,0.13541667:206.04167|52,88,0.20833333:207.72395|55,96,0.15104167:207.8125|59,108,0.13020833:207.875|64,121,0.114583336:207.96875|52,89,0.1875:209.8073|55,94,0.119791664:209.90105|59,100,0.13020833:209.9323|64,104,0.13020833:210.01562|50,104,0.1875:211.8802|53,92,0.13541667:211.94792|57,112,0.09375:212.01562|62,121,0.114583336:212.07292|50,89,0.18229167:213.76042|53,96,0.125:213.85938|57,125,0.083333336:213.92708|62,121,0.109375:214.0|50,88,0.18229167:215.82292|53,91,0.13541667:215.90105|57,108,0.109375:215.95312|62,108,0.119791664:216.03125|50,91,0.17708333:217.8073|53,92,0.13020833:217.89062|57,104,0.119791664:217.9323|62,108,0.119791664:218.02605|52,91,0.19270833:219.8125|57,96,0.15104167:219.90105|60,112,0.140625:219.9323|64,104,0.14583333:220.01042|52,87,0.19791667:221.78645|57,96,0.15104167:221.875|60,108,0.13020833:221.91667|64,92,0.125:222.0052|52,88,0.19270833:223.85417|57,104,0.140625:223.92708|59,94,0.13541667:223.96875|62,104,0.15104167:224.04167|52,84,0.16666667:225.875|56,89,0.15104167:225.9323|59,88,0.13020833:225.97395|62,104,0.140625:226.05208|57,104,0.203125:227.89583|62,94,0.1875:227.96875|64,96,0.16666667:228.04167|52,87,0.203125:229.78645|57,94,0.15625:229.8698|60,104,0.140625:229.90625|64,92,0.140625:229.98958|52,100,0.16666667:231.82292|57,104,0.13541667:231.89583|59,92,0.119791664:231.9375|64,104,0.125:232.0052|52,92,0.16666667:233.875|57,104,0.13541667:233.9427|60,104,0.114583336:233.98438|64,108,0.114583336:234.0573|57,101,1.5:235.94792|59,88,1.5208334:236.0|64,93,1.6197916:236.05208|52,88,0.15625:237.91667|56,84,0.13541667:237.97395|59,101,0.119791664:238.01562|62,109,0.119791664:238.09375|52,86,0.19791667:239.85938|55,88,0.171875:239.91145|60,97,0.15104167:239.96875|64,101,0.14583333:240.0625|52,80,0.19270833:241.8125|55,93,0.15625:241.875|60,101,0.140625:241.9323|64,101,0.125:242.02083|52,97,0.22395833:243.92708|54,91,0.20833333:243.97395|59,105,0.171875:244.04688|64,105,0.1875:244.13542|51,97,0.17708333:245.9427|54,82,0.14583333:246.0|59,109,0.114583336:246.0625|63,122,0.140625:246.14062|52,90,0.171875:247.89062|55,90,0.15625:247.9427|59,95,0.13020833:248.01042|64,111,0.15104167:248.09375|52,84,0.171875:249.79688|55,102,0.140625:249.85938|59,94,0.125:249.92188|64,115,0.140625:250.01042|52,84,0.16666667:251.85417|55,98,0.14583333:251.90625|59,98,0.109375:251.96875|64,115,0.15104167:252.03125|50,94,0.16666667:253.85417|54,84,0.16145833:253.90105|57,107,0.109375:253.96875|62,120,0.15625:254.03645]</spSaveString>
+      </org.jjazz.phrase.api.Phrase>
+    </entry>
+    <entry>
+      <string>Cello</string>
+      <org.jjazz.phrase.api.Phrase resolves-to="org.jjazz.phrase.api.Phrase$SerializationProxy">
+        <spVERSION>1</spVERSION>
+        <spSaveString>[0|57,92,7.929167:0.01875|57,87,15.989583:7.96875|57,97,7.9947915:23.96875|52,93,3.9947917:31.96875|56,93,3.9947917:35.96875|57,89,7.8697915:39.96875|45,93,5.9947915:47.96875|47,82,1.9947916:53.96875|48,86,3.9947917:55.96875|45,78,3.9791667:59.96875|50,92,3.9947917:63.96875|53,86,3.9947917:67.96875|52,92,3.9947917:71.96875|40,97,2.9947917:75.96875|44,91,0.9947917:78.96875|45,99,4.984375:79.96875|57,117,0.328125:84.96875|59,113,0.328125:85.302086|60,108,0.328125:85.635414|62,117,0.30208334:85.96875|62,111,0.328125:86.302086|64,108,0.328125:86.635414|65,117,0.31770834:86.96875|65,110,0.328125:87.302086|67,110,0.328125:87.635414|65,85,0.24479167:87.96875|64,107,0.24479167:88.21875|65,98,7.3854165:88.46875|50,101,7.9947915:103.96875|45,99,3.9947917:111.96875|40,102,2.9947917:115.96875|44,102,0.9947917:118.96875|45,103,7.84375:119.96875|57,115,0.49479166:129.46875|56,119,0.9947917:129.96875|52,112,0.9947917:130.96875|48,116,1.9010416:131.96875|48,105,1.9479166:133.96875|52,108,0.49479166:137.46875|51,109,0.9947917:137.96875|47,109,0.9947917:138.96875|52,104,1.890625:139.96875|52,104,2.9479167:141.96875|52,103,0.9947917:144.96875|50,109,1.9270834:145.96875|52,113,0.20833333:147.96875|50,112,0.20833333:148.21875|52,124,7.0572915:148.46875|45,93,5.9947915:155.96875|47,82,1.9947916:161.96875|48,86,3.9947917:163.96875|45,78,3.9791667:167.96875|50,92,3.9947917:171.96875|53,86,3.9947917:175.96875|52,92,3.9947917:179.96875|40,97,2.9947917:183.96875|44,91,0.9947917:186.96875|45,99,4.984375:187.96875|57,117,0.328125:192.96875|59,113,0.328125:193.30208|60,108,0.328125:193.63542|62,117,0.30208334:193.96875|62,111,0.328125:194.30208|64,108,0.328125:194.63542|65,117,0.31770834:194.96875|65,110,0.328125:195.30208|67,110,0.328125:195.63542|65,85,0.24479167:195.96875|64,107,0.24479167:196.21875|65,98,7.3854165:196.46875|50,101,7.9947915:211.96875|45,99,3.9947917:219.96875|40,102,2.9947917:223.96875|44,102,0.9947917:226.96875|45,103,7.84375:227.96875|57,115,0.49479166:237.46875|56,119,0.9947917:237.96875|52,112,0.9947917:238.96875|48,116,1.9010416:239.96875|48,105,1.9479166:241.96875|52,108,0.49479166:245.46875|51,109,0.9947917:245.96875|47,109,0.9947917:246.96875|52,104,1.890625:247.96875|52,104,2.9479167:249.96875|52,103,0.9947917:252.96875|50,109,1.9270834:253.96875|52,113,0.20833333:255.96875|50,112,0.20833333:256.21875|52,124,7.0572915:256.46875|57,113,0.20833333:263.96875|55,112,0.20833333:264.21875|57,124,7.7083335:264.46875]</spSaveString>
+      </org.jjazz.phrase.api.Phrase>
+    </entry>
+    <entry>
+      <string>Steel G</string>
+      <org.jjazz.phrase.api.Phrase resolves-to="org.jjazz.phrase.api.Phrase$SerializationProxy">
+        <spVERSION>1</spVERSION>
+        <spSaveString>[0|57,98,0.9895833:48.005207|60,110,0.9895833:48.005207|64,113,0.9895833:48.005207|57,102,0.48958334:49.005207|60,108,0.48958334:49.005207|64,110,0.48958334:49.005207|57,88,0.48958334:49.505207|60,89,0.48958334:49.505207|64,88,0.48958334:49.505207|57,101,0.48958334:50.005207|60,106,0.48958334:50.005207|64,108,0.48958334:50.005207|57,83,0.48958334:50.505207|60,87,0.48958334:50.505207|64,85,0.48958334:50.505207|57,101,0.48958334:51.005207|60,103,0.48958334:51.005207|64,106,0.48958334:51.005207|57,88,0.48958334:51.505207|60,89,0.48958334:51.505207|64,86,0.48958334:51.505207|57,106,0.9895833:52.005207|60,108,0.9895833:52.005207|64,108,0.9895833:52.005207|57,103,0.48958334:53.005207|60,108,0.48958334:53.005207|64,108,0.48958334:53.005207|57,85,0.48958334:53.505207|60,88,0.48958334:53.505207|64,84,0.48958334:53.505207|55,106,0.48958334:54.005207|59,110,0.48958334:54.005207|62,106,0.48958334:54.005207|55,87,0.48958334:54.505207|59,84,0.48958334:54.505207|62,85,0.48958334:54.505207|55,103,0.48958334:55.005207|59,110,0.48958334:55.005207|62,106,0.48958334:55.005207|55,89,0.48958334:55.505207|59,89,0.48958334:55.505207|62,91,0.48958334:55.505207|57,99,0.9895833:56.005207|60,103,0.9895833:56.005207|64,110,0.9895833:56.005207|57,101,0.48958334:57.005207|60,103,0.48958334:57.005207|64,106,0.48958334:57.005207|57,85,0.48958334:57.505207|60,82,0.48958334:57.505207|64,83,0.48958334:57.505207|57,101,0.48958334:58.005207|60,103,0.48958334:58.005207|64,103,0.48958334:58.005207|57,83,0.48958334:58.505207|60,88,0.48958334:58.505207|64,84,0.48958334:58.505207|57,97,0.48958334:59.005207|60,102,0.48958334:59.005207|64,110,0.48958334:59.005207|57,83,0.48958334:59.505207|60,87,0.48958334:59.505207|64,83,0.48958334:59.505207|57,99,0.9895833:60.005207|60,101,0.9895833:60.005207|64,107,0.9895833:60.005207|57,97,0.48958334:61.005207|60,104,0.48958334:61.005207|64,107,0.48958334:61.005207|57,81,0.48958334:61.505207|60,85,0.48958334:61.505207|64,94,0.48958334:61.505207|57,101,0.48958334:62.005207|60,103,0.48958334:62.005207|64,111,0.48958334:62.005207|57,78,0.48958334:62.505207|60,86,0.48958334:62.505207|64,97,0.48958334:62.505207|57,99,0.48958334:63.005207|60,96,0.48958334:63.005207|64,104,0.48958334:63.005207|57,86,0.48958334:63.505207|60,91,0.48958334:63.505207|64,101,0.48958334:63.505207|57,98,0.9895833:64.00521|62,110,0.9895833:64.00521|65,113,0.9895833:64.00521|57,102,0.48958334:65.00521|62,108,0.48958334:65.00521|65,110,0.48958334:65.00521|57,88,0.48958334:65.50521|62,89,0.48958334:65.50521|65,88,0.48958334:65.50521|57,101,0.48958334:66.00521|62,106,0.48958334:66.00521|65,108,0.48958334:66.00521|57,83,0.48958334:66.50521|62,87,0.48958334:66.50521|65,85,0.48958334:66.50521|57,101,0.48958334:67.00521|62,103,0.48958334:67.00521|65,106,0.48958334:67.00521|57,88,0.48958334:67.50521|62,89,0.48958334:67.50521|65,86,0.48958334:67.50521|57,106,0.9895833:68.00521|62,108,0.9895833:68.00521|65,108,0.9895833:68.00521|57,103,0.48958334:69.00521|62,108,0.48958334:69.00521|65,108,0.48958334:69.00521|57,85,0.48958334:69.50521|62,88,0.48958334:69.50521|65,84,0.48958334:69.50521|57,106,0.48958334:70.00521|62,110,0.48958334:70.00521|65,106,0.48958334:70.00521|57,87,0.48958334:70.50521|62,84,0.48958334:70.50521|65,85,0.48958334:70.50521|57,103,0.48958334:71.00521|62,110,0.48958334:71.00521|65,106,0.48958334:71.00521|57,89,0.48958334:71.50521|62,89,0.48958334:71.50521|65,91,0.48958334:71.50521|57,99,0.9895833:72.00521|59,103,0.9895833:72.00521|64,110,0.9895833:72.00521|57,101,0.48958334:73.00521|59,103,0.48958334:73.00521|64,106,0.48958334:73.00521|57,85,0.48958334:73.50521|59,82,0.48958334:73.50521|64,83,0.48958334:73.50521|56,101,0.48958334:74.00521|59,103,0.48958334:74.00521|64,103,0.48958334:74.00521|56,83,0.48958334:74.50521|59,88,0.48958334:74.50521|64,84,0.48958334:74.50521|56,97,0.48958334:75.00521|59,102,0.48958334:75.00521|64,110,0.48958334:75.00521|56,83,0.48958334:75.50521|59,87,0.48958334:75.50521|64,83,0.48958334:75.50521|56,99,0.9895833:76.00521|59,101,0.9895833:76.00521|64,107,0.9895833:76.00521|56,97,0.48958334:77.00521|59,104,0.48958334:77.00521|64,107,0.48958334:77.00521|56,81,0.48958334:77.50521|59,85,0.48958334:77.50521|64,94,0.48958334:77.50521|56,101,0.48958334:78.00521|59,103,0.48958334:78.00521|64,111,0.48958334:78.00521|56,78,0.48958334:78.50521|59,86,0.48958334:78.50521|64,97,0.48958334:78.50521|56,99,0.48958334:79.00521|59,96,0.48958334:79.00521|64,104,0.48958334:79.00521|56,86,0.48958334:79.50521|59,91,0.48958334:79.50521|64,101,0.48958334:79.50521|57,98,0.9895833:80.00521|62,110,0.9895833:80.00521|64,113,0.9895833:80.00521|57,102,0.48958334:81.00521|62,108,0.48958334:81.00521|64,110,0.48958334:81.00521|57,88,0.48958334:81.50521|62,89,0.48958334:81.50521|64,88,0.48958334:81.50521|57,101,0.48958334:82.00521|60,106,0.48958334:82.00521|64,108,0.48958334:82.00521|57,83,0.48958334:82.50521|60,87,0.48958334:82.50521|64,85,0.48958334:82.50521|57,101,0.48958334:83.00521|60,103,0.48958334:83.00521|64,106,0.48958334:83.00521|57,88,0.48958334:83.50521|60,89,0.48958334:83.50521|64,86,0.48958334:83.50521|57,106,0.9895833:84.00521|59,108,0.9895833:84.00521|64,108,0.9895833:84.00521|57,103,0.48958334:85.00521|59,108,0.48958334:85.00521|64,108,0.48958334:85.00521|57,85,0.48958334:85.50521|59,88,0.48958334:85.50521|64,84,0.48958334:85.50521|57,106,0.48958334:86.00521|60,110,0.48958334:86.00521|64,106,0.48958334:86.00521|57,87,0.48958334:86.50521|60,84,0.48958334:86.50521|64,85,0.48958334:86.50521|57,103,0.48958334:87.00521|60,110,0.48958334:87.00521|64,106,0.48958334:87.00521|57,89,0.48958334:87.50521|60,89,0.48958334:87.50521|64,91,0.48958334:87.50521|57,98,0.48958334:88.00521|60,110,0.48958334:88.00521|65,113,0.48958334:88.00521|57,102,0.48958334:89.00521|60,108,0.48958334:89.00521|65,110,0.48958334:89.00521|57,88,0.48958334:89.50521|60,89,0.48958334:89.50521|65,88,0.48958334:89.50521|57,101,0.48958334:90.00521|60,106,0.48958334:90.00521|65,108,0.48958334:90.00521|57,83,0.48958334:90.50521|60,87,0.48958334:90.50521|65,85,0.48958334:90.50521|57,101,0.48958334:91.00521|60,103,0.48958334:91.00521|65,106,0.48958334:91.00521|57,88,0.48958334:91.50521|60,89,0.48958334:91.50521|65,86,0.48958334:91.50521|57,106,0.9895833:92.00521|60,108,0.9895833:92.00521|65,108,0.9895833:92.00521|57,103,0.48958334:93.00521|60,108,0.48958334:93.00521|65,108,0.48958334:93.00521|57,85,0.48958334:93.50521|60,88,0.48958334:93.50521|65,84,0.48958334:93.50521|57,106,0.48958334:94.00521|60,110,0.48958334:94.00521|65,106,0.48958334:94.00521|57,87,0.48958334:94.50521|60,84,0.48958334:94.50521|65,85,0.48958334:94.50521|57,103,0.48958334:95.00521|60,110,0.48958334:95.00521|65,106,0.48958334:95.00521|57,89,0.48958334:95.50521|60,89,0.48958334:95.50521|65,91,0.48958334:95.50521|55,99,0.9895833:96.00521|59,103,0.9895833:96.00521|64,110,0.9895833:96.00521|55,101,0.48958334:97.00521|59,103,0.48958334:97.00521|64,106,0.48958334:97.00521|55,85,0.48958334:97.50521|59,82,0.48958334:97.50521|64,83,0.48958334:97.50521|55,101,0.48958334:98.00521|59,103,0.48958334:98.00521|64,105,0.48958334:98.00521|55,83,0.48958334:98.50521|59,88,0.48958334:98.50521|64,84,0.48958334:98.50521|55,97,0.48958334:99.00521|59,102,0.48958334:99.00521|64,110,0.48958334:99.00521|55,83,0.48958334:99.50521|59,87,0.48958334:99.50521|64,83,0.48958334:99.50521|55,99,0.9895833:100.00521|59,101,0.9895833:100.00521|64,107,0.9895833:100.00521|55,97,0.48958334:101.00521|59,104,0.48958334:101.00521|64,107,0.48958334:101.00521|55,81,0.48958334:101.50521|59,85,0.48958334:101.50521|64,94,0.48958334:101.50521|55,101,0.48958334:102.00521|59,103,0.48958334:102.00521|64,111,0.48958334:102.00521|55,78,0.48958334:102.50521|59,86,0.48958334:102.50521|64,97,0.48958334:102.50521|55,99,0.48958334:103.00521|59,96,0.48958334:103.00521|64,104,0.48958334:103.00521|55,86,0.48958334:103.50521|59,91,0.48958334:103.50521|64,101,0.48958334:103.50521|53,98,0.9895833:104.00521|57,110,0.9895833:104.00521|62,113,0.9895833:104.00521|53,102,0.48958334:105.00521|57,108,0.48958334:105.00521|62,110,0.48958334:105.00521|53,88,0.48958334:105.50521|57,89,0.48958334:105.50521|62,88,0.48958334:105.50521|53,101,0.48958334:106.00521|57,106,0.48958334:106.00521|62,108,0.48958334:106.00521|53,83,0.48958334:106.50521|57,87,0.48958334:106.50521|62,85,0.48958334:106.50521|53,101,0.48958334:107.00521|57,103,0.48958334:107.00521|62,106,0.48958334:107.00521|53,88,0.48958334:107.50521|57,89,0.48958334:107.50521|62,86,0.48958334:107.50521|53,106,0.9895833:108.00521|57,108,0.9895833:108.00521|62,108,0.9895833:108.00521|53,103,0.48958334:109.00521|57,108,0.48958334:109.00521|62,108,0.48958334:109.00521|53,85,0.48958334:109.50521|57,88,0.48958334:109.50521|62,84,0.48958334:109.50521|53,106,0.48958334:110.00521|57,110,0.48958334:110.00521|62,109,0.48958334:110.00521|53,87,0.48958334:110.50521|57,84,0.48958334:110.50521|62,85,0.48958334:110.50521|53,103,0.48958334:111.00521|57,110,0.48958334:111.00521|62,106,0.48958334:111.00521|53,89,0.48958334:111.50521|57,89,0.48958334:111.50521|62,91,0.48958334:111.50521|57,99,0.9895833:112.00521|60,103,0.9895833:112.00521|64,110,0.9895833:112.00521|57,101,0.48958334:113.00521|60,103,0.48958334:113.00521|64,106,0.48958334:113.00521|57,85,0.48958334:113.50521|60,82,0.48958334:113.50521|64,83,0.48958334:113.50521|57,101,0.48958334:114.00521|60,103,0.48958334:114.00521|64,103,0.48958334:114.00521|57,83,0.48958334:114.50521|60,88,0.48958334:114.50521|64,84,0.48958334:114.50521|57,97,0.48958334:115.00521|60,102,0.48958334:115.00521|64,110,0.48958334:115.00521|57,83,0.48958334:115.50521|60,87,0.48958334:115.50521|64,83,0.48958334:115.50521|57,99,0.9895833:116.00521|59,101,0.9895833:116.00521|64,107,0.9895833:116.00521|57,97,0.48958334:117.00521|59,104,0.48958334:117.00521|64,107,0.48958334:117.00521|57,81,0.48958334:117.50521|59,85,0.48958334:117.50521|64,94,0.48958334:117.50521|56,101,0.48958334:118.00521|59,103,0.48958334:118.00521|64,111,0.48958334:118.00521|56,78,0.48958334:118.50521|59,86,0.48958334:118.50521|64,97,0.48958334:118.50521|56,99,0.48958334:119.00521|59,96,0.48958334:119.00521|64,104,0.48958334:119.00521|56,86,0.48958334:119.50521|59,91,0.48958334:119.50521|64,101,0.48958334:119.50521|57,98,0.9895833:120.00521|62,110,0.9895833:120.00521|64,113,0.9895833:120.00521|57,102,0.48958334:121.00521|62,108,0.48958334:121.00521|64,110,0.48958334:121.00521|57,88,0.48958334:121.50521|62,89,0.48958334:121.50521|64,88,0.48958334:121.50521|57,101,0.48958334:122.00521|60,106,0.48958334:122.00521|64,108,0.48958334:122.00521|57,83,0.48958334:122.50521|60,87,0.48958334:122.50521|64,85,0.48958334:122.50521|57,101,0.48958334:123.00521|60,103,0.48958334:123.00521|64,106,0.48958334:123.00521|57,88,0.48958334:123.50521|60,89,0.48958334:123.50521|64,86,0.48958334:123.50521|57,106,0.9895833:124.00521|59,108,0.9895833:124.00521|64,108,0.9895833:124.00521|57,103,0.48958334:125.00521|59,108,0.48958334:125.00521|64,108,0.48958334:125.00521|57,85,0.48958334:125.50521|59,88,0.48958334:125.50521|64,84,0.48958334:125.50521|57,106,0.48958334:126.00521|60,110,0.48958334:126.00521|64,106,0.48958334:126.00521|57,87,0.48958334:126.50521|60,84,0.48958334:126.50521|64,85,0.48958334:126.50521|57,103,0.48958334:127.00521|60,110,0.48958334:127.00521|64,106,0.48958334:127.00521|57,89,0.48958334:127.50521|60,89,0.48958334:127.50521|64,91,0.48958334:127.50521|57,98,0.48958334:128.0052|59,110,0.48958334:128.0052|64,113,0.48958334:128.0052|57,102,0.48958334:129.0052|59,108,0.48958334:129.0052|64,110,0.48958334:129.0052|57,88,0.48958334:129.5052|59,89,0.48958334:129.5052|64,88,0.48958334:129.5052|56,101,0.48958334:130.0052|59,106,0.48958334:130.0052|64,108,0.48958334:130.0052|56,83,0.48958334:130.5052|59,87,0.48958334:130.5052|64,85,0.48958334:130.5052|56,101,0.48958334:131.0052|59,103,0.48958334:131.0052|64,106,0.48958334:131.0052|56,88,0.48958334:131.5052|59,89,0.48958334:131.5052|64,86,0.48958334:131.5052|55,106,0.9895833:132.0052|60,108,0.9895833:132.0052|64,108,0.9895833:132.0052|55,103,0.48958334:133.0052|60,108,0.48958334:133.0052|64,108,0.48958334:133.0052|55,85,0.48958334:133.5052|60,88,0.48958334:133.5052|64,84,0.48958334:133.5052|55,106,0.48958334:134.0052|60,110,0.48958334:134.0052|64,109,0.48958334:134.0052|55,87,0.48958334:134.5052|60,84,0.48958334:134.5052|64,85,0.48958334:134.5052|55,103,0.48958334:135.0052|60,110,0.48958334:135.0052|64,106,0.48958334:135.0052|55,89,0.48958334:135.5052|60,89,0.48958334:135.5052|64,91,0.48958334:135.5052|54,99,0.9895833:136.0052|59,103,0.9895833:136.0052|64,110,0.9895833:136.0052|54,101,0.48958334:137.0052|59,103,0.48958334:137.0052|64,106,0.48958334:137.0052|54,85,0.48958334:137.5052|59,82,0.48958334:137.5052|64,83,0.48958334:137.5052|54,101,0.48958334:138.0052|59,103,0.48958334:138.0052|63,105,0.48958334:138.0052|54,83,0.48958334:138.5052|59,88,0.48958334:138.5052|63,84,0.48958334:138.5052|54,97,0.48958334:139.0052|59,102,0.48958334:139.0052|63,110,0.48958334:139.0052|54,83,0.48958334:139.5052|59,87,0.48958334:139.5052|63,83,0.48958334:139.5052|55,99,0.9895833:140.0052|59,101,0.9895833:140.0052|64,107,0.9895833:140.0052|55,97,0.48958334:141.0052|59,104,0.48958334:141.0052|64,107,0.48958334:141.0052|55,81,0.48958334:141.5052|59,85,0.48958334:141.5052|64,94,0.48958334:141.5052|55,101,0.48958334:142.0052|59,103,0.48958334:142.0052|64,111,0.48958334:142.0052|55,78,0.48958334:142.5052|59,86,0.48958334:142.5052|64,97,0.48958334:142.5052|55,99,0.48958334:143.0052|59,96,0.48958334:143.0052|64,104,0.48958334:143.0052|55,86,0.48958334:143.5052|59,91,0.48958334:143.5052|64,101,0.48958334:143.5052|55,98,0.9895833:144.0052|59,110,0.9895833:144.0052|64,113,0.9895833:144.0052|55,102,0.48958334:145.0052|59,108,0.48958334:145.0052|64,110,0.48958334:145.0052|55,88,0.48958334:145.5052|59,89,0.48958334:145.5052|64,88,0.48958334:145.5052|54,101,0.48958334:146.0052|57,106,0.48958334:146.0052|62,108,0.48958334:146.0052|54,83,0.48958334:146.5052|57,87,0.48958334:146.5052|62,85,0.48958334:146.5052|54,101,0.48958334:147.0052|57,103,0.48958334:147.0052|62,106,0.48958334:147.0052|54,88,0.48958334:147.5052|57,89,0.48958334:147.5052|62,86,0.48958334:147.5052|56,114,0.18229167:148.0052|59,112,0.171875:148.0052|64,117,0.16666667:148.0052|54,117,0.16666667:148.2552|57,112,0.16666667:148.2552|62,108,0.18229167:148.2552|56,123,3.4947917:148.5052|59,118,3.4895833:148.5052|64,123,3.5:148.5052|57,98,0.9895833:156.0052|60,110,0.9895833:156.0052|64,113,0.9895833:156.0052|57,102,0.48958334:157.0052|60,108,0.48958334:157.0052|64,110,0.48958334:157.0052|57,88,0.48958334:157.5052|60,89,0.48958334:157.5052|64,88,0.48958334:157.5052|57,101,0.48958334:158.0052|60,106,0.48958334:158.0052|64,108,0.48958334:158.0052|57,83,0.48958334:158.5052|60,87,0.48958334:158.5052|64,85,0.48958334:158.5052|57,101,0.48958334:159.0052|60,103,0.48958334:159.0052|64,106,0.48958334:159.0052|57,88,0.48958334:159.5052|60,89,0.48958334:159.5052|64,86,0.48958334:159.5052|57,106,0.9895833:160.0052|60,108,0.9895833:160.0052|64,108,0.9895833:160.0052|57,103,0.48958334:161.0052|60,108,0.48958334:161.0052|64,108,0.48958334:161.0052|57,85,0.48958334:161.5052|60,88,0.48958334:161.5052|64,84,0.48958334:161.5052|55,106,0.48958334:162.0052|59,110,0.48958334:162.0052|62,106,0.48958334:162.0052|55,87,0.48958334:162.5052|59,84,0.48958334:162.5052|62,85,0.48958334:162.5052|55,103,0.48958334:163.0052|59,110,0.48958334:163.0052|62,106,0.48958334:163.0052|55,89,0.48958334:163.5052|59,89,0.48958334:163.5052|62,91,0.48958334:163.5052|57,99,0.9895833:164.0052|60,103,0.9895833:164.0052|64,110,0.9895833:164.0052|57,101,0.48958334:165.0052|60,103,0.48958334:165.0052|64,106,0.48958334:165.0052|57,85,0.48958334:165.5052|60,82,0.48958334:165.5052|64,83,0.48958334:165.5052|57,101,0.48958334:166.0052|60,103,0.48958334:166.0052|64,103,0.48958334:166.0052|57,83,0.48958334:166.5052|60,88,0.48958334:166.5052|64,84,0.48958334:166.5052|57,97,0.48958334:167.0052|60,102,0.48958334:167.0052|64,110,0.48958334:167.0052|57,83,0.48958334:167.5052|60,87,0.48958334:167.5052|64,83,0.48958334:167.5052|57,99,0.9895833:168.0052|60,101,0.9895833:168.0052|64,107,0.9895833:168.0052|57,97,0.48958334:169.0052|60,104,0.48958334:169.0052|64,107,0.48958334:169.0052|57,81,0.48958334:169.5052|60,85,0.48958334:169.5052|64,94,0.48958334:169.5052|57,101,0.48958334:170.0052|60,103,0.48958334:170.0052|64,111,0.48958334:170.0052|57,78,0.48958334:170.5052|60,86,0.48958334:170.5052|64,97,0.48958334:170.5052|57,99,0.48958334:171.0052|60,96,0.48958334:171.0052|64,104,0.48958334:171.0052|57,86,0.48958334:171.5052|60,91,0.48958334:171.5052|64,101,0.48958334:171.5052|57,98,0.9895833:172.0052|62,110,0.9895833:172.0052|65,113,0.9895833:172.0052|57,102,0.48958334:173.0052|62,108,0.48958334:173.0052|65,110,0.48958334:173.0052|57,88,0.48958334:173.5052|62,89,0.48958334:173.5052|65,88,0.48958334:173.5052|57,101,0.48958334:174.0052|62,106,0.48958334:174.0052|65,108,0.48958334:174.0052|57,83,0.48958334:174.5052|62,87,0.48958334:174.5052|65,85,0.48958334:174.5052|57,101,0.48958334:175.0052|62,103,0.48958334:175.0052|65,106,0.48958334:175.0052|57,88,0.48958334:175.5052|62,89,0.48958334:175.5052|65,86,0.48958334:175.5052|57,106,0.9895833:176.0052|62,108,0.9895833:176.0052|65,108,0.9895833:176.0052|57,103,0.48958334:177.0052|62,108,0.48958334:177.0052|65,108,0.48958334:177.0052|57,85,0.48958334:177.5052|62,88,0.48958334:177.5052|65,84,0.48958334:177.5052|57,106,0.48958334:178.0052|62,110,0.48958334:178.0052|65,106,0.48958334:178.0052|57,87,0.48958334:178.5052|62,84,0.48958334:178.5052|65,85,0.48958334:178.5052|57,103,0.48958334:179.0052|62,110,0.48958334:179.0052|65,106,0.48958334:179.0052|57,89,0.48958334:179.5052|62,89,0.48958334:179.5052|65,91,0.48958334:179.5052|57,99,0.9895833:180.0052|59,103,0.9895833:180.0052|64,110,0.9895833:180.0052|57,101,0.48958334:181.0052|59,103,0.48958334:181.0052|64,106,0.48958334:181.0052|57,85,0.48958334:181.5052|59,82,0.48958334:181.5052|64,83,0.48958334:181.5052|56,101,0.48958334:182.0052|59,103,0.48958334:182.0052|64,103,0.48958334:182.0052|56,83,0.48958334:182.5052|59,88,0.48958334:182.5052|64,84,0.48958334:182.5052|56,97,0.48958334:183.0052|59,102,0.48958334:183.0052|64,110,0.48958334:183.0052|56,83,0.48958334:183.5052|59,87,0.48958334:183.5052|64,83,0.48958334:183.5052|56,99,0.9895833:184.0052|59,101,0.9895833:184.0052|64,107,0.9895833:184.0052|56,97,0.48958334:185.0052|59,104,0.48958334:185.0052|64,107,0.48958334:185.0052|56,81,0.48958334:185.5052|59,85,0.48958334:185.5052|64,94,0.48958334:185.5052|56,101,0.48958334:186.0052|59,103,0.48958334:186.0052|64,111,0.48958334:186.0052|56,78,0.48958334:186.5052|59,86,0.48958334:186.5052|64,97,0.48958334:186.5052|56,99,0.48958334:187.0052|59,96,0.48958334:187.0052|64,104,0.48958334:187.0052|56,86,0.48958334:187.5052|59,91,0.48958334:187.5052|64,101,0.48958334:187.5052|57,98,0.9895833:188.0052|62,110,0.9895833:188.0052|64,113,0.9895833:188.0052|57,102,0.48958334:189.0052|62,108,0.48958334:189.0052|64,110,0.48958334:189.0052|57,88,0.48958334:189.5052|62,89,0.48958334:189.5052|64,88,0.48958334:189.5052|57,101,0.48958334:190.0052|60,106,0.48958334:190.0052|64,108,0.48958334:190.0052|57,83,0.48958334:190.5052|60,87,0.48958334:190.5052|64,85,0.48958334:190.5052|57,101,0.48958334:191.0052|60,103,0.48958334:191.0052|64,106,0.48958334:191.0052|57,88,0.48958334:191.5052|60,89,0.48958334:191.5052|64,86,0.48958334:191.5052|57,106,0.9895833:192.0052|59,108,0.9895833:192.0052|64,108,0.9895833:192.0052|57,103,0.48958334:193.0052|59,108,0.48958334:193.0052|64,108,0.48958334:193.0052|57,85,0.48958334:193.5052|59,88,0.48958334:193.5052|64,84,0.48958334:193.5052|57,106,0.48958334:194.0052|60,110,0.48958334:194.0052|64,106,0.48958334:194.0052|57,87,0.48958334:194.5052|60,84,0.48958334:194.5052|64,85,0.48958334:194.5052|57,103,0.48958334:195.0052|60,110,0.48958334:195.0052|64,106,0.48958334:195.0052|57,89,0.48958334:195.5052|60,89,0.48958334:195.5052|64,91,0.48958334:195.5052|57,98,0.48958334:196.0052|60,110,0.48958334:196.0052|65,113,0.48958334:196.0052|57,102,0.48958334:197.0052|60,108,0.48958334:197.0052|65,110,0.48958334:197.0052|57,88,0.48958334:197.5052|60,89,0.48958334:197.5052|65,88,0.48958334:197.5052|57,101,0.48958334:198.0052|60,106,0.48958334:198.0052|65,108,0.48958334:198.0052|57,83,0.48958334:198.5052|60,87,0.48958334:198.5052|65,85,0.48958334:198.5052|57,101,0.48958334:199.0052|60,103,0.48958334:199.0052|65,106,0.48958334:199.0052|57,88,0.48958334:199.5052|60,89,0.48958334:199.5052|65,86,0.48958334:199.5052|57,106,0.9895833:200.0052|60,108,0.9895833:200.0052|65,108,0.9895833:200.0052|57,103,0.48958334:201.0052|60,108,0.48958334:201.0052|65,108,0.48958334:201.0052|57,85,0.48958334:201.5052|60,88,0.48958334:201.5052|65,84,0.48958334:201.5052|57,106,0.48958334:202.0052|60,110,0.48958334:202.0052|65,106,0.48958334:202.0052|57,87,0.48958334:202.5052|60,84,0.48958334:202.5052|65,85,0.48958334:202.5052|57,103,0.48958334:203.0052|60,110,0.48958334:203.0052|65,106,0.48958334:203.0052|57,89,0.48958334:203.5052|60,89,0.48958334:203.5052|65,91,0.48958334:203.5052|55,99,0.9895833:204.0052|59,103,0.9895833:204.0052|64,110,0.9895833:204.0052|55,101,0.48958334:205.0052|59,103,0.48958334:205.0052|64,106,0.48958334:205.0052|55,85,0.48958334:205.5052|59,82,0.48958334:205.5052|64,83,0.48958334:205.5052|55,101,0.48958334:206.0052|59,103,0.48958334:206.0052|64,105,0.48958334:206.0052|55,83,0.48958334:206.5052|59,88,0.48958334:206.5052|64,84,0.48958334:206.5052|55,97,0.48958334:207.0052|59,102,0.48958334:207.0052|64,110,0.48958334:207.0052|55,83,0.48958334:207.5052|59,87,0.48958334:207.5052|64,83,0.48958334:207.5052|55,99,0.9895833:208.0052|59,101,0.9895833:208.0052|64,107,0.9895833:208.0052|55,97,0.48958334:209.0052|59,104,0.48958334:209.0052|64,107,0.48958334:209.0052|55,81,0.48958334:209.5052|59,85,0.48958334:209.5052|64,94,0.48958334:209.5052|55,101,0.48958334:210.0052|59,103,0.48958334:210.0052|64,111,0.48958334:210.0052|55,78,0.48958334:210.5052|59,86,0.48958334:210.5052|64,97,0.48958334:210.5052|55,99,0.48958334:211.0052|59,96,0.48958334:211.0052|64,104,0.48958334:211.0052|55,86,0.48958334:211.5052|59,91,0.48958334:211.5052|64,101,0.48958334:211.5052|53,98,0.9895833:212.0052|57,110,0.9895833:212.0052|62,113,0.9895833:212.0052|53,102,0.48958334:213.0052|57,108,0.48958334:213.0052|62,110,0.48958334:213.0052|53,88,0.48958334:213.5052|57,89,0.48958334:213.5052|62,88,0.48958334:213.5052|53,101,0.48958334:214.0052|57,106,0.48958334:214.0052|62,108,0.48958334:214.0052|53,83,0.48958334:214.5052|57,87,0.48958334:214.5052|62,85,0.48958334:214.5052|53,101,0.48958334:215.0052|57,103,0.48958334:215.0052|62,106,0.48958334:215.0052|53,88,0.48958334:215.5052|57,89,0.48958334:215.5052|62,86,0.48958334:215.5052|53,106,0.9895833:216.0052|57,108,0.9895833:216.0052|62,108,0.9895833:216.0052|53,103,0.48958334:217.0052|57,108,0.48958334:217.0052|62,108,0.48958334:217.0052|53,85,0.48958334:217.5052|57,88,0.48958334:217.5052|62,84,0.48958334:217.5052|53,106,0.48958334:218.0052|57,110,0.48958334:218.0052|62,109,0.48958334:218.0052|53,87,0.48958334:218.5052|57,84,0.48958334:218.5052|62,85,0.48958334:218.5052|53,103,0.48958334:219.0052|57,110,0.48958334:219.0052|62,106,0.48958334:219.0052|53,89,0.48958334:219.5052|57,89,0.48958334:219.5052|62,91,0.48958334:219.5052|57,99,0.9895833:220.0052|60,103,0.9895833:220.0052|64,110,0.9895833:220.0052|57,101,0.48958334:221.0052|60,103,0.48958334:221.0052|64,106,0.48958334:221.0052|57,85,0.48958334:221.5052|60,82,0.48958334:221.5052|64,83,0.48958334:221.5052|57,101,0.48958334:222.0052|60,103,0.48958334:222.0052|64,103,0.48958334:222.0052|57,83,0.48958334:222.5052|60,88,0.48958334:222.5052|64,84,0.48958334:222.5052|57,97,0.48958334:223.0052|60,102,0.48958334:223.0052|64,110,0.48958334:223.0052|57,83,0.48958334:223.5052|60,87,0.48958334:223.5052|64,83,0.48958334:223.5052|57,99,0.9895833:224.0052|59,101,0.9895833:224.0052|64,107,0.9895833:224.0052|57,97,0.48958334:225.0052|59,104,0.48958334:225.0052|64,107,0.48958334:225.0052|57,81,0.48958334:225.5052|59,85,0.48958334:225.5052|64,94,0.48958334:225.5052|56,101,0.48958334:226.0052|59,103,0.48958334:226.0052|64,111,0.48958334:226.0052|56,78,0.48958334:226.5052|59,86,0.48958334:226.5052|64,97,0.48958334:226.5052|56,99,0.48958334:227.0052|59,96,0.48958334:227.0052|64,104,0.48958334:227.0052|56,86,0.48958334:227.5052|59,91,0.48958334:227.5052|64,101,0.48958334:227.5052|57,98,0.9895833:228.0052|62,110,0.9895833:228.0052|64,113,0.9895833:228.0052|57,102,0.48958334:229.0052|62,108,0.48958334:229.0052|64,110,0.48958334:229.0052|57,88,0.48958334:229.5052|62,89,0.48958334:229.5052|64,88,0.48958334:229.5052|57,101,0.48958334:230.0052|60,106,0.48958334:230.0052|64,108,0.48958334:230.0052|57,83,0.48958334:230.5052|60,87,0.48958334:230.5052|64,85,0.48958334:230.5052|57,101,0.48958334:231.0052|60,103,0.48958334:231.0052|64,106,0.48958334:231.0052|57,88,0.48958334:231.5052|60,89,0.48958334:231.5052|64,86,0.48958334:231.5052|57,106,0.9895833:232.0052|59,108,0.9895833:232.0052|64,108,0.9895833:232.0052|57,103,0.48958334:233.0052|59,108,0.48958334:233.0052|64,108,0.48958334:233.0052|57,85,0.48958334:233.5052|59,88,0.48958334:233.5052|64,84,0.48958334:233.5052|57,106,0.48958334:234.0052|60,110,0.48958334:234.0052|64,106,0.48958334:234.0052|57,87,0.48958334:234.5052|60,84,0.48958334:234.5052|64,85,0.48958334:234.5052|57,103,0.48958334:235.0052|60,110,0.48958334:235.0052|64,106,0.48958334:235.0052|57,89,0.48958334:235.5052|60,89,0.48958334:235.5052|64,91,0.48958334:235.5052|57,98,0.48958334:236.0052|59,110,0.48958334:236.0052|64,113,0.48958334:236.0052|57,102,0.48958334:237.0052|59,108,0.48958334:237.0052|64,110,0.48958334:237.0052|57,88,0.48958334:237.5052|59,89,0.48958334:237.5052|64,88,0.48958334:237.5052|56,101,0.48958334:238.0052|59,106,0.48958334:238.0052|64,108,0.48958334:238.0052|56,83,0.48958334:238.5052|59,87,0.48958334:238.5052|64,85,0.48958334:238.5052|56,101,0.48958334:239.0052|59,103,0.48958334:239.0052|64,106,0.48958334:239.0052|56,88,0.48958334:239.5052|59,89,0.48958334:239.5052|64,86,0.48958334:239.5052|55,106,0.9895833:240.0052|60,108,0.9895833:240.0052|64,108,0.9895833:240.0052|55,103,0.48958334:241.0052|60,108,0.48958334:241.0052|64,108,0.48958334:241.0052|55,85,0.48958334:241.5052|60,88,0.48958334:241.5052|64,84,0.48958334:241.5052|55,106,0.48958334:242.0052|60,110,0.48958334:242.0052|64,109,0.48958334:242.0052|55,87,0.48958334:242.5052|60,84,0.48958334:242.5052|64,85,0.48958334:242.5052|55,103,0.48958334:243.0052|60,110,0.48958334:243.0052|64,106,0.48958334:243.0052|55,89,0.48958334:243.5052|60,89,0.48958334:243.5052|64,91,0.48958334:243.5052|54,99,0.9895833:244.0052|59,103,0.9895833:244.0052|64,110,0.9895833:244.0052|54,101,0.48958334:245.0052|59,103,0.48958334:245.0052|64,106,0.48958334:245.0052|54,85,0.48958334:245.5052|59,82,0.48958334:245.5052|64,83,0.48958334:245.5052|54,101,0.48958334:246.0052|59,103,0.48958334:246.0052|63,105,0.48958334:246.0052|54,83,0.48958334:246.5052|59,88,0.48958334:246.5052|63,84,0.48958334:246.5052|54,97,0.48958334:247.0052|59,102,0.48958334:247.0052|63,110,0.48958334:247.0052|54,83,0.48958334:247.5052|59,87,0.48958334:247.5052|63,83,0.48958334:247.5052|55,99,0.9895833:248.0052|59,101,0.9895833:248.0052|64,107,0.9895833:248.0052|55,97,0.48958334:249.0052|59,104,0.48958334:249.0052|64,107,0.48958334:249.0052|55,81,0.48958334:249.5052|59,85,0.48958334:249.5052|64,94,0.48958334:249.5052|55,101,0.48958334:250.0052|59,103,0.48958334:250.0052|64,111,0.48958334:250.0052|55,78,0.48958334:250.5052|59,86,0.48958334:250.5052|64,97,0.48958334:250.5052|55,99,0.48958334:251.0052|59,96,0.48958334:251.0052|64,104,0.48958334:251.0052|55,86,0.48958334:251.5052|59,91,0.48958334:251.5052|64,101,0.48958334:251.5052|55,98,0.9895833:252.0052|59,110,0.9895833:252.0052|64,113,0.9895833:252.0052|55,102,0.48958334:253.0052|59,108,0.48958334:253.0052|64,110,0.48958334:253.0052|55,88,0.48958334:253.5052|59,89,0.48958334:253.5052|64,88,0.48958334:253.5052|54,101,0.48958334:254.0052|57,106,0.48958334:254.0052|62,108,0.48958334:254.0052|54,83,0.48958334:254.5052|57,87,0.48958334:254.5052|62,85,0.48958334:254.5052|54,101,0.48958334:255.0052|57,103,0.48958334:255.0052|62,106,0.48958334:255.0052|54,88,0.48958334:255.5052|57,89,0.48958334:255.5052|62,86,0.48958334:255.5052|56,114,0.18229167:256.00522|59,112,0.171875:256.00522|64,117,0.16666667:256.00522|54,117,0.16666667:256.25522|57,112,0.16666667:256.25522|62,108,0.18229167:256.25522|56,123,3.4947917:256.50522|59,118,3.4895833:256.50522|64,123,3.5:256.50522|60,114,0.18229167:264.00522|64,112,0.171875:264.00522|69,117,0.16666667:264.00522|59,117,0.16666667:264.25522|62,112,0.18229167:264.25522|67,108,0.16666667:264.25522|60,123,7.65625:264.50522|64,118,7.65625:264.50522|69,123,7.65625:264.50522]</spSaveString>
+      </org.jjazz.phrase.api.Phrase>
+    </entry>
+    <entry>
+      <string>Strings1</string>
+      <org.jjazz.phrase.api.Phrase resolves-to="org.jjazz.phrase.api.Phrase$SerializationProxy">
+        <spVERSION>1</spVERSION>
+        <spSaveString>[0|45,76,7.8927083:0.029166667|57,75,7.8927083:0.029166667|60,77,7.8875:0.029166667|64,81,7.866667:0.029166667|72,87,7.9947915:19.9375|71,83,3.9947917:27.9375|69,86,1.9947916:31.9375|67,93,1.9947916:33.9375|65,93,1.9947916:35.9375|64,86,1.9947916:37.9375|62,91,1.9947916:39.9375|60,88,1.9947916:41.9375|59,88,1.9947916:43.9375|60,82,1.96875:45.9375|69,76,5.9947915:47.9375|72,78,5.9947915:47.9375|81,78,15.994792:47.9375|67,75,1.9947916:53.9375|71,81,1.9947916:53.9375|69,80,7.9947915:55.9375|72,85,7.9947915:55.9375|69,79,7.9947915:63.9375|74,80,7.9947915:63.9375|81,82,9.994792:63.9375|69,72,1.9947916:71.9375|74,71,9.994792:71.9375|68,65,5.9947915:73.9375|80,79,5.9947915:73.9375|69,73,4.9947915:79.9375|81,80,3.9791667:79.9375|72,74,1.9947916:81.9375|71,82,0.7447917:83.9375|57,117,0.33333334:84.9375|69,117,0.33333334:84.9375|59,113,0.328125:85.270836|71,113,0.328125:85.270836|60,108,0.328125:85.604164|72,108,0.328125:85.604164|62,117,0.29166666:85.9375|74,117,0.29166666:85.9375|62,111,0.328125:86.270836|74,111,0.328125:86.270836|64,108,0.328125:86.604164|76,108,0.328125:86.604164|65,117,0.29166666:86.9375|77,117,0.29166666:86.9375|65,110,0.328125:87.270836|77,110,0.328125:87.270836|67,110,0.328125:87.604164|79,110,0.328125:87.604164|72,88,0.24479167:87.9375|77,88,0.24479167:87.9375|81,100,0.24479167:87.9375|71,83,0.24479167:88.1875|76,99,0.24479167:88.1875|79,111,0.24479167:88.1875|72,86,7.3854165:88.4375|77,91,7.3854165:88.4375|81,103,7.3854165:88.4375|62,90,1.9947916:103.9375|65,98,0.9947917:105.9375|69,107,0.9947917:106.9375|65,97,3.9947917:107.9375|74,94,3.9947917:107.9375|69,87,5.9895835:111.9375|76,94,15.682292:111.9375|68,86,1.9322916:117.9375|69,86,7.6979165:119.9375|69,103,1.9947916:127.958336|45,112,0.49479166:129.4375|57,112,0.49479166:129.4375|44,117,0.9947917:129.9375|56,117,0.9947917:129.9375|68,106,1.9947916:129.95833|40,107,0.9947917:130.9375|52,107,0.9947917:130.9375|36,105,1.96875:131.9375|48,105,1.96875:131.9375|64,111,1.9427084:131.95833|36,102,1.6145834:133.9375|48,102,1.6145834:133.9375|64,98,0.9270833:133.95833|64,107,0.9583333:134.9375|76,107,0.9583333:134.9375|66,121,0.38020834:135.90105|78,121,0.38020834:135.90105|67,107,0.34375:136.28645|79,107,0.34375:136.28645|64,107,0.24479167:136.4375|69,107,2.296875:136.63542|81,107,2.296875:136.63542|66,107,0.24479167:136.6875|64,104,0.9947917:136.9375|66,113,0.9947917:137.9375|64,114,0.49479166:138.9375|67,102,0.49479166:138.9375|79,102,0.49479166:138.9375|63,101,0.49479166:139.4375|66,98,0.49479166:139.4375|78,98,0.49479166:139.4375|64,106,0.24479167:139.9375|67,108,0.24479167:139.9375|79,108,0.24479167:139.9375|66,102,0.24479167:140.1875|69,107,0.24479167:140.1875|81,107,0.24479167:140.1875|67,106,4.3802085:140.4375|71,107,4.40625:140.4375|83,107,4.40625:140.4375|67,106,0.47395834:144.9375|71,98,0.49479166:144.9375|83,98,0.49479166:144.9375|67,102,0.49479166:145.4375|72,98,0.49479166:145.4375|84,98,0.49479166:145.4375|66,111,0.7291667:145.9375|74,98,0.7447917:145.9375|86,98,0.7447917:145.9375|67,111,0.24479167:146.6875|76,107,0.24479167:146.6875|88,107,0.24479167:146.6875|66,111,0.46875:146.9375|74,107,0.49479166:146.9375|86,107,0.49479166:146.9375|66,116,0.45833334:147.4375|72,96,0.49479166:147.4375|84,96,0.49479166:147.4375|68,116,0.19791667:147.9375|71,101,0.19791667:147.9375|83,101,0.19791667:147.9375|66,114,0.19270833:148.1875|69,100,0.19791667:148.1875|81,100,0.19791667:148.1875|68,114,7.0572915:148.4375|71,95,7.0572915:148.4375|83,95,7.0572915:148.4375|69,76,5.9947915:155.9375|72,78,5.9947915:155.9375|81,78,15.994792:155.9375|67,75,1.9947916:161.9375|71,81,1.9947916:161.9375|69,80,7.9947915:163.9375|72,85,7.9947915:163.9375|69,79,7.9947915:171.9375|74,80,7.9947915:171.9375|81,82,9.994792:171.9375|69,72,1.9947916:179.9375|74,71,9.994792:179.9375|68,65,5.9947915:181.9375|80,79,5.9947915:181.9375|69,73,4.9947915:187.9375|81,80,3.9791667:187.9375|72,74,1.9947916:189.9375|71,82,0.7447917:191.9375|57,117,0.33333334:192.9375|69,117,0.33333334:192.9375|59,113,0.328125:193.27083|71,113,0.328125:193.27083|60,108,0.328125:193.60417|72,108,0.328125:193.60417|62,117,0.29166666:193.9375|74,117,0.29166666:193.9375|62,111,0.328125:194.27083|74,111,0.328125:194.27083|64,108,0.328125:194.60417|76,108,0.328125:194.60417|65,117,0.29166666:194.9375|77,117,0.29166666:194.9375|65,110,0.328125:195.27083|77,110,0.328125:195.27083|67,111,0.328125:195.60417|79,114,0.328125:195.60417|72,88,0.24479167:195.9375|77,88,0.24479167:195.9375|81,100,0.24479167:195.9375|71,83,0.24479167:196.1875|76,99,0.24479167:196.1875|79,111,0.24479167:196.1875|72,86,7.3854165:196.4375|77,91,7.3854165:196.4375|81,103,7.3854165:196.4375|62,90,1.9947916:211.9375|65,98,0.9947917:213.9375|69,107,0.9947917:214.9375|65,97,3.9947917:215.9375|74,94,3.9947917:215.9375|69,87,5.9895835:219.9375|76,94,15.682292:219.9375|68,86,1.9322916:225.9375|69,86,7.6979165:227.9375|69,103,1.9947916:235.95833|45,112,0.49479166:237.4375|57,112,0.49479166:237.4375|44,117,0.9947917:237.9375|56,117,0.9947917:237.9375|68,106,1.9947916:237.95833|40,107,0.9947917:238.9375|52,107,0.9947917:238.9375|36,105,1.96875:239.9375|48,105,1.96875:239.9375|64,111,1.9427084:239.95833|36,102,1.6145834:241.9375|48,102,1.6145834:241.9375|64,98,0.9270833:241.95833|64,107,0.9583333:242.9375|76,107,0.9583333:242.9375|66,121,0.38020834:243.90105|78,121,0.38020834:243.90105|67,107,0.34375:244.28645|79,107,0.34375:244.28645|64,107,0.24479167:244.4375|69,107,2.296875:244.63542|81,107,2.296875:244.63542|66,107,0.24479167:244.6875|64,104,0.9947917:244.9375|66,113,0.9947917:245.9375|64,114,0.49479166:246.9375|67,102,0.49479166:246.9375|79,102,0.49479166:246.9375|63,101,0.49479166:247.4375|66,98,0.49479166:247.4375|78,98,0.49479166:247.4375|64,106,0.24479167:247.9375|67,108,0.24479167:247.9375|79,108,0.24479167:247.9375|66,102,0.24479167:248.1875|69,107,0.24479167:248.1875|81,107,0.24479167:248.1875|67,106,4.3802085:248.4375|71,107,4.40625:248.4375|83,107,4.40625:248.4375|67,106,0.47395834:252.9375|71,98,0.49479166:252.9375|83,98,0.49479166:252.9375|67,102,0.49479166:253.4375|72,98,0.49479166:253.4375|84,98,0.49479166:253.4375|66,111,0.7291667:253.9375|74,98,0.7447917:253.9375|86,98,0.7447917:253.9375|67,111,0.24479167:254.6875|76,107,0.24479167:254.6875|88,107,0.24479167:254.6875|66,111,0.46875:254.9375|74,107,0.49479166:254.9375|86,107,0.49479166:254.9375|66,116,0.45833334:255.4375|72,96,0.49479166:255.4375|84,96,0.49479166:255.4375|68,116,0.19791667:255.9375|71,101,0.19791667:255.9375|83,101,0.19791667:255.9375|66,114,0.19270833:256.1875|69,100,0.19791667:256.1875|81,100,0.19791667:256.1875|68,114,7.0572915:256.4375|71,95,7.0572915:256.4375|83,95,7.0572915:256.4375|72,116,0.19791667:263.9375|76,101,0.19791667:263.9375|88,101,0.19791667:263.9375|71,114,0.19270833:264.1875|74,100,0.19791667:264.1875|86,100,0.19791667:264.1875|72,114,7.7083335:264.4375|76,95,7.7083335:264.4375|88,95,7.7083335:264.4375]</spSaveString>
+      </org.jjazz.phrase.api.Phrase>
+    </entry>
+    <entry>
+      <string>Strings2</string>
+      <org.jjazz.phrase.api.Phrase resolves-to="org.jjazz.phrase.api.Phrase$SerializationProxy">
+        <spVERSION>1</spVERSION>
+        <spSaveString>[0|57,72,7.9979167:0.0|60,72,7.9979167:0.0|64,72,7.9979167:0.0|57,72,5.9979167:8.0|60,72,5.9979167:8.0|64,72,5.9979167:8.0|55,72,1.9979167:14.0|57,72,1.9979167:14.0|59,72,1.9979167:14.0|62,72,1.9979167:14.0|57,72,7.9979167:16.0|60,72,7.9979167:16.0|64,72,7.9979167:16.0|57,72,7.9979167:24.0|62,72,7.9979167:24.0|65,72,7.9979167:24.0|56,72,3.9979167:32.0|59,72,3.9979167:32.0|64,72,3.9979167:32.0|52,72,3.9979167:36.0|56,72,3.9979167:36.0|59,72,3.9979167:36.0|52,72,7.9979167:40.0|57,72,7.9979167:40.0|62,72,1.9979167:40.0|60,72,1.9979167:42.0|59,72,1.9979167:44.0|60,72,1.9979167:46.0|57,72,5.9979167:48.0|60,72,5.9979167:48.0|64,72,5.9979167:48.0|59,72,1.9979167:54.0|62,72,1.9979167:54.0|67,72,1.9979167:54.0|57,72,7.9979167:56.0|60,72,7.9979167:56.0|64,72,7.9979167:56.0|57,72,7.9979167:64.0|62,72,7.9979167:64.0|65,72,7.9979167:64.0|57,72,1.9979167:72.0|59,72,7.9979167:72.0|64,72,7.9979167:72.0|56,72,5.9979167:74.0|52,72,7.9979167:80.0|57,72,7.9979167:80.0|62,72,1.9979167:80.0|60,72,1.9979167:82.0|59,72,1.9979167:84.0|60,72,1.9979167:86.0|55,82,0.49791667:88.0|57,82,0.49791667:88.0|59,82,0.49791667:88.0|60,82,0.49791667:88.0|64,82,0.49791667:88.0|65,82,0.49791667:88.0|57,82,7.4979167:88.5|60,82,7.4979167:88.5|65,82,7.4979167:88.5|55,82,7.9979167:96.0|59,82,7.9979167:96.0|64,82,7.9979167:96.0|53,82,7.9979167:104.0|57,82,7.9979167:104.0|62,82,7.9979167:104.0|57,82,3.9979167:112.0|60,82,3.9979167:112.0|64,82,3.9979167:112.0|52,82,3.9979167:116.0|57,82,1.9979167:116.0|59,82,3.9979167:116.0|62,82,3.9979167:116.0|56,82,1.9979167:118.0|57,82,7.9979167:120.0|62,82,1.9979167:120.0|64,82,7.9979167:120.0|60,82,1.9979167:122.0|59,82,1.9979167:124.0|60,82,1.9979167:126.0|57,84,1.9979167:128.0|59,84,3.9979167:128.0|64,84,7.9979167:128.0|56,84,1.9979167:130.0|55,84,3.9979167:132.0|60,84,3.9979167:132.0|54,84,3.9979167:136.0|59,84,3.9979167:136.0|64,84,1.9979167:136.0|63,84,1.9979167:138.0|55,84,5.9979167:140.0|59,84,5.9979167:140.0|64,84,5.9979167:140.0|54,84,1.9979167:146.0|57,84,1.9979167:146.0|62,84,1.9979167:146.0|54,84,0.49791667:148.0|56,84,0.49791667:148.0|57,84,0.49791667:148.0|59,84,0.49791667:148.0|62,84,0.49791667:148.0|64,84,0.49791667:148.0|56,84,6.4979167:148.5|59,84,6.4979167:148.5|64,84,6.4979167:148.5|57,72,5.9979167:156.0|60,72,5.9979167:156.0|64,72,5.9979167:156.0|59,72,1.9979167:162.0|62,72,1.9979167:162.0|67,72,1.9979167:162.0|57,72,7.9979167:164.0|60,72,7.9979167:164.0|64,72,7.9979167:164.0|57,72,7.9979167:172.0|62,72,7.9979167:172.0|65,72,7.9979167:172.0|57,72,1.9979167:180.0|59,72,7.9979167:180.0|64,72,7.9979167:180.0|56,72,5.9979167:182.0|52,72,7.9979167:188.0|57,72,7.9979167:188.0|62,72,1.9979167:188.0|60,72,1.9979167:190.0|59,72,1.9979167:192.0|60,72,1.9979167:194.0|55,82,0.49791667:196.0|57,82,0.49791667:196.0|59,82,0.49791667:196.0|60,82,0.49791667:196.0|64,82,0.49791667:196.0|65,82,0.49791667:196.0|57,82,7.4979167:196.5|60,82,7.4979167:196.5|65,82,7.4979167:196.5|55,82,7.9979167:204.0|59,82,7.9979167:204.0|64,82,7.9979167:204.0|53,82,7.9979167:212.0|57,82,7.9979167:212.0|62,82,7.9979167:212.0|57,82,3.9979167:220.0|60,82,3.9979167:220.0|64,82,3.9979167:220.0|52,82,3.9979167:224.0|57,82,1.9979167:224.0|59,82,3.9979167:224.0|62,82,3.9979167:224.0|56,82,1.9979167:226.0|57,82,7.9979167:228.0|62,82,1.9979167:228.0|64,82,7.9979167:228.0|60,82,1.9979167:230.0|59,82,1.9979167:232.0|60,82,1.9979167:234.0|57,84,1.9979167:236.0|59,84,3.9979167:236.0|64,84,7.9979167:236.0|56,84,1.9979167:238.0|55,84,3.9979167:240.0|60,84,3.9979167:240.0|54,84,3.9979167:244.0|59,84,3.9979167:244.0|64,84,1.9979167:244.0|63,84,1.9979167:246.0|55,84,5.9979167:248.0|59,84,5.9979167:248.0|64,84,5.9979167:248.0|54,84,1.9979167:254.0|57,84,1.9979167:254.0|62,84,1.9979167:254.0|54,84,0.49791667:256.0|56,84,0.49791667:256.0|57,84,0.49791667:256.0|59,84,0.49791667:256.0|62,84,0.49791667:256.0|64,84,0.49791667:256.0|56,84,6.4979167:256.5|59,84,6.4979167:256.5|64,84,6.4979167:256.5|55,84,0.49791667:264.0|57,84,0.49791667:264.0|59,84,0.49791667:264.0|60,84,0.49791667:264.0|62,84,0.49791667:264.0|64,84,0.49791667:264.0|57,84,7.4979167:264.5|60,84,7.4979167:264.5|64,84,7.4979167:264.5]</spSaveString>
+      </org.jjazz.phrase.api.Phrase>
+    </entry>
+    <entry>
+      <string>Oboe</string>
+      <org.jjazz.phrase.api.Phrase resolves-to="org.jjazz.phrase.api.Phrase$SerializationProxy">
+        <spVERSION>1</spVERSION>
+        <spSaveString>[0|64,95,0.104166664:7.9947915|62,76,0.15625:8.104167|64,93,4.4427085:8.265625|64,76,0.5260417:12.953125|65,102,0.46354166:13.484375|67,113,0.796875:13.953125|69,76,0.265625:14.755208|67,89,0.453125:15.026042|65,76,0.5416667:15.484375|64,104,0.15104167:16.03125|62,89,0.140625:16.1875|64,94,4.2864585:16.333334|64,68,0.265625:20.994791|65,80,0.29166666:21.265625|67,93,0.34895834:21.5625|69,93,1.0364584:21.916666|71,72,0.9479167:22.958334|69,93,0.16666667:23.911459|67,89,0.46354166:24.083334|65,89,0.41666666:24.552084|65,89,0.41145834:25.020834|64,107,0.43229166:25.4375|64,98,0.34375:25.9375|62,89,0.31770834:26.286459|60,89,0.35416666:26.609375|62,72,1.6197916:26.96875|64,106,0.38020834:28.59375|60,97,0.45833334:28.979166|59,106,0.484375:29.442709|60,93,0.796875:29.932291|62,97,0.5520833:30.744791|59,97,0.36458334:31.302084|57,97,0.40104166:31.671875|59,101,0.171875:32.078125|57,80,0.15625:32.260418|59,97,3.6510417:32.421875|59,78,0.41666666:37.015625|60,86,0.453125:37.494793|62,72,1.0104166:37.963543|60,82,0.46875:38.979168|59,99,0.44791666:39.453125|59,78,1.0052084:39.953125|57,70,6.03125:40.963543|62,84,2.0:79.99479|60,90,2.0260417:82.0|59,74,1.9583334:84.03125|60,67,1.7916666:85.99479|65,84,0.24479167:89.99479|64,90,0.24479167:90.24479|65,83,5.484375:90.49479|64,85,0.24479167:97.99479|62,80,0.24479167:98.24479|64,93,5.390625:98.49479|69,84,5.9947915:111.99479|68,84,1.9947916:117.99479|71,88,0.9947917:119.99479|69,88,5.7447915:120.99479|57,94,0.9947917:126.99479|59,120,0.21875:127.99479|60,82,0.21875:128.21875|62,78,2.5260417:128.4427|60,107,0.48958334:130.97395|59,111,0.5:131.46875|60,116,0.21354167:131.97395|62,94,0.234375:132.1927|64,107,1.34375:132.4323|62,75,0.140625:133.78125|64,80,4.0104165:133.92708|63,71,1.9166666:138.0|64,82,1.9635416:140.0052|67,80,2.0208333:141.97395|67,75,1.953125:144.01562|72,93,0.32291666:147.47917|71,103,0.16666667:147.96355|69,101,0.1875:148.1927|71,95,5.2447915:148.4323|62,84,2.0:187.9948|60,90,2.0260417:190.0|59,74,1.9583334:192.03125|60,67,1.7916666:193.9948|65,84,0.24479167:197.9948|64,90,0.24479167:198.2448|65,83,5.484375:198.4948|64,85,0.24479167:205.9948|62,80,0.24479167:206.2448|64,93,5.390625:206.4948|69,84,5.9947915:219.9948|68,84,1.9947916:225.9948|71,88,0.9947917:227.9948|69,88,5.7447915:228.9948|57,94,0.9947917:234.9948|59,120,0.21875:235.9948|60,82,0.21875:236.21875|62,78,2.5260417:236.4427|60,107,0.48958334:238.97395|59,111,0.5:239.46875|60,116,0.21354167:239.97395|62,94,0.234375:240.1927|64,107,1.34375:240.4323|62,75,0.140625:241.78125|64,80,4.0104165:241.92708|63,71,1.9166666:246.0|64,82,1.9635416:248.0052|67,80,2.0208333:249.97395|67,75,1.953125:252.01562|72,93,0.32291666:255.47917|71,103,0.16666667:255.96355|69,101,0.1875:256.19272|71,95,5.2447915:256.43228|76,103,0.16666667:263.99478|74,101,0.1875:264.22397|76,95,7.6875:264.46353]</spSaveString>
+      </org.jjazz.phrase.api.Phrase>
+    </entry>
+    <entry>
+      <string>Contra B</string>
+      <org.jjazz.phrase.api.Phrase resolves-to="org.jjazz.phrase.api.Phrase$SerializationProxy">
+        <spVERSION>1</spVERSION>
+        <spSaveString>[0|45,92,7.9395833:0.013541667|45,88,5.9947915:7.9739585|43,88,1.9947916:13.973958|45,84,7.9947915:15.973958|38,91,7.9947915:23.973959|40,95,3.9947917:31.973959|44,86,3.9739583:35.973957|45,82,7.984375:39.973957]</spSaveString>
+      </org.jjazz.phrase.api.Phrase>
+    </entry>
+    <entry>
+      <string>Lead G</string>
+      <org.jjazz.phrase.api.Phrase resolves-to="org.jjazz.phrase.api.Phrase$SerializationProxy">
+        <spVERSION>1</spVERSION>
+        <spSaveString>[0|64,113,0.15104167:48.020832|62,105,0.16145833:48.166668|64,115,1.4583334:48.302082|65,96,0.13020833:49.78125|64,80,0.109375:49.875|62,92,0.140625:49.984375|64,105,0.734375:50.098957|62,88,0.234375:50.828125|64,66,1.4114584:51.036457|64,121,0.4375:52.53125|64,121,0.44791666:53.036457|65,121,0.515625:53.489582|67,121,0.953125:53.994793|67,116,0.39583334:55.010418|69,121,0.35416666:55.411457|65,121,0.34895834:55.75|64,103,0.13541667:56.09375|62,107,0.13020833:56.229168|64,107,1.328125:56.338543|65,99,0.119791664:57.677082|64,82,0.15625:57.755207|62,78,0.119791664:57.875|65,76,0.125:58.854168|64,66,0.125:58.942707|62,61,0.104166664:59.072918|64,64,0.25520834:59.1875|64,112,0.359375:60.515625|64,121,0.359375:61.020832|65,121,0.34895834:61.364582|67,121,0.34895834:61.723957|69,107,0.4375:62.057293|69,107,0.43229166:62.546875|69,103,0.5260417:63.041668|71,90,0.4375:63.541668|71,69,0.234375:64.479164|67,93,0.26041666:64.71354|65,90,0.1875:65.041664|65,78,0.22916667:65.30729|64,82,0.14583333:65.50521|64,78,0.16666667:65.708336|62,90,0.16145833:65.890625|62,94,0.15104167:66.13021|60,78,0.16145833:66.265625|64,86,0.13541667:66.984375|62,86,0.083333336:67.0625|60,73,0.104166664:67.145836|62,78,0.35416666:67.234375|64,64,0.119791664:67.78125|62,70,0.083333336:67.86979|60,71,0.109375:67.94271|62,69,0.859375:68.041664|64,108,0.27604166:68.6875|64,107,0.30208334:69.02604|60,103,0.38541666:69.333336|59,106,0.34895834:69.68229|60,91,0.32291666:70.015625|60,99,0.328125:70.40104|62,90,0.35416666:70.72396|59,104,0.30208334:71.03125|59,76,0.36979166:71.375|57,78,0.32291666:71.71354|59,86,0.104166664:72.05729|57,73,0.15104167:72.166664|59,86,1.515625:72.291664|60,73,0.15104167:73.81771|59,64,0.114583336:73.927086|57,64,0.13020833:74.046875|59,67,0.7395833:74.15104|57,74,0.21354167:74.875|59,103,0.03125:76.552086|59,107,0.5052083:77.02604|60,107,0.515625:77.52604|62,112,1.046875:78.03125|60,99,0.5625:79.03125|59,107,0.41145834:79.55729|59,107,1.5572916:80.03646|57,71,0.40625:81.56771|57,65,2.1458333:82.041664|69,114,0.23958333:88.00521|67,112,0.28645834:88.229164|69,109,2.265625:88.484375|69,119,0.5677083:92.99479|71,113,0.5625:93.515625|72,125,0.78125:94.03125|74,114,0.29166666:94.796875|72,118,0.5885417:95.0625|71,97,0.36458334:95.604164|67,116,0.19791667:96.09375|65,103,0.21875:96.291664|67,107,1.9114584:96.5|71,100,1.1822916:100.6875|69,90,0.5625:101.947914|67,90,0.5416667:102.447914|65,94,0.5677083:102.958336|67,99,0.4375:103.479164|69,110,1.3125:103.99479|67,86,0.25520834:105.25521|65,107,0.27083334:105.5|64,107,0.328125:105.739586|65,103,1.2708334:106.020836|64,112,0.3125:107.24479|62,103,0.28125:107.49479|60,99,0.27604166:107.760414|62,116,0.734375:108.010414|60,94,0.30208334:108.72396|62,103,1.6145834:108.979164|60,94,0.48958334:110.578125|62,90,0.34375:111.041664|64,90,0.32291666:111.34896|65,103,0.35416666:111.671875|64,99,0.28645834:111.97396|62,82,0.28125:112.239586|60,90,0.30729166:112.489586|62,76,0.3125:112.75521|64,78,1.390625:113.02604|57,103,0.5208333:115.546875|59,121,0.484375:116.015625|60,103,0.28645834:116.47396|62,86,2.28125:116.75521|60,107,0.5572917:118.99479|59,86,0.44270834:119.515625|59,107,1.5677084:120.00521|57,82,0.41145834:121.53125|57,78,2.5364583:122.010414|64,103,0.0625:129.4948|65,84,0.104166664:129.5677|64,76,0.114583336:129.63542|62,72,0.119791664:129.76562|64,88,1.5572916:129.8698|64,125,0.14583333:133.41667|65,80,0.13541667:133.54688|64,64,0.109375:133.66145|62,64,0.098958336:133.80208|64,44,1.2083334:133.90625|63,107,0.13020833:137.4948|64,89,0.114583336:137.60417|63,93,0.15104167:137.67708|61,81,0.13020833:137.77083|63,73,1.3645834:137.89583|67,113,0.104166664:141.39583|69,96,0.15104167:141.4948|67,92,0.13020833:141.59895|66,73,0.15104167:141.71875|67,72,1.125:141.84895|47,116,0.46354166:145.01042|48,111,0.49479166:145.47917|50,116,0.734375:145.97917|52,114,0.24479167:146.71875|50,122,0.484375:146.9948|48,123,0.41145834:147.48438|47,106,0.19270833:148.0|45,105,0.19791667:148.23438|47,116,1.5520834:148.47395|40,109,0.24479167:149.98958|38,121,0.27083334:150.28125|40,107,0.8072917:150.5573|40,103,0.25:151.42188|38,103,0.25520834:151.6823|40,123,0.203125:151.90625|41,109,0.21354167:152.10417|43,101,0.19270833:152.3177|45,105,0.171875:152.51042|47,92,0.171875:152.6823|48,88,0.203125:152.85938|50,101,0.17708333:153.0625|52,78,0.140625:153.22917|53,88,0.171875:153.38542|55,88,0.15104167:153.55208|57,101,0.171875:153.72395|59,80,0.16145833:153.90105|60,92,0.171875:154.07812|62,109,0.19791667:154.23438|64,92,0.18229167:154.40625|65,101,0.13541667:154.5625|64,80,0.125:154.67708|62,84,0.119791664:154.78645|64,88,0.9739583:154.91667|64,113,0.15104167:156.04688|62,109,0.16145833:156.1927|64,123,1.4583334:156.32812|65,96,0.13020833:157.8073|64,80,0.109375:157.90105|62,92,0.140625:158.01042|64,105,0.734375:158.125|62,88,0.234375:158.85417|64,66,1.4114584:159.0625|64,121,0.4375:160.5573|64,121,0.44791666:161.0625|65,121,0.515625:161.51562|67,121,0.953125:162.02083|67,116,0.39583334:163.03645|69,121,0.35416666:163.4375|65,121,0.34895834:163.77605|64,103,0.13541667:164.1198|62,107,0.13020833:164.2552|64,107,1.328125:164.36458|65,99,0.119791664:165.70312|64,82,0.15625:165.78125|62,78,0.119791664:165.90105|65,76,0.125:166.8802|64,66,0.125:166.96875|62,61,0.104166664:167.09895|64,64,0.25520834:167.21355|64,112,0.359375:168.54167|64,121,0.359375:169.04688|65,121,0.34895834:169.39062|67,121,0.34895834:169.75|69,107,0.4375:170.08333|69,107,0.43229166:170.57292|69,103,0.5260417:171.0677|71,90,0.4375:171.5677|71,114,0.22395833:172.5573|67,103,0.28645834:172.77605|65,107,0.203125:173.02083|65,94,0.265625:173.28125|64,103,0.171875:173.52605|64,94,0.24479167:173.7552|62,103,0.15625:173.97917|62,86,0.16666667:174.21875|60,86,0.21875:174.39062|62,90,0.5989583:174.59895|64,65,0.15104167:175.21355|62,69,0.119791664:175.3125|60,76,0.13541667:175.41667|62,70,0.96875:175.54167|64,78,0.125:176.54688|62,78,0.119791664:176.61458|60,86,0.13020833:176.72917|62,71,0.6458333:176.84895|64,94,0.36458334:177.48958|64,116,0.32291666:177.95833|60,107,0.35416666:178.29688|59,107,0.39583334:178.63542|60,112,0.30208334:179.0052|60,99,0.39583334:179.35938|62,107,0.31770834:179.7552|59,121,0.13020833:180.17708|57,86,0.15104167:180.3177|59,90,1.3333334:180.45312|59,94,0.119791664:181.8802|57,90,0.16666667:182.01042|59,90,1.71875:182.15105|59,116,0.45833334:184.52083|59,112,0.5104167:185.03125|60,116,0.5052083:185.53125|62,103,0.890625:186.01562|60,107,0.5364583:187.04167|59,94,0.453125:187.53125|59,112,1.4895834:188.05208|57,103,0.45833334:189.53125|57,99,1.875:190.07292|69,113,0.30208334:196.01562|67,125,0.28125:196.28645|69,101,0.8541667:196.52605|71,84,0.15625:197.39583|69,101,0.109375:197.4948|67,88,0.13541667:197.59375|69,74,0.38541666:197.70312|71,88,0.171875:198.10938|69,76,0.083333336:198.21355|67,84,0.140625:198.28125|69,74,1.8177084:198.40105|69,105,0.375:200.53125|69,120,0.34895834:200.96355|69,114,0.3125:201.34375|71,116,0.39583334:201.66145|72,113,0.34375:202.0625|74,105,0.234375:202.4323|72,101,0.171875:202.6927|74,114,0.24479167:202.9323|72,119,0.16666667:203.17708|74,92,0.171875:203.47917|72,101,0.25:203.625|71,97,0.140625:203.8177|67,110,0.125:204.15625|65,84,0.104166664:204.28125|67,88,1.0052084:204.41667|69,88,0.14583333:205.57292|67,71,0.140625:205.66667|65,59,0.104166664:205.79688|67,71,0.90625:205.89062|69,84,0.13541667:206.82292|67,68,0.14583333:206.91667|65,55,0.114583336:207.0573|67,63,1.1302084:207.17188|71,100,0.38020834:208.5052|71,109,0.5572917:208.98438|69,104,0.44270834:209.53645|69,113,0.27604166:210.05208|67,118,0.19791667:210.29167|67,100,0.22916667:210.54688|65,109,0.19270833:210.76042|65,96,0.29166666:211.01562|67,109,0.22916667:211.26042|67,83,0.265625:211.53125|69,87,0.28125:211.76562|71,127,0.21875:212.05208|69,99,0.18229167:212.2552|71,116,0.18229167:212.4375|69,112,0.20833333:212.6198|67,86,0.19791667:212.8073|69,86,0.203125:212.96875|67,74,0.1875:213.15625|69,99,0.13541667:213.33855|69,94,0.19791667:213.5573|67,86,0.19270833:213.73438|65,76,0.171875:213.91667|64,78,0.25520834:214.07292|67,90,0.26041666:214.32812|65,94,0.203125:214.59375|67,90,0.19270833:214.77605|65,76,0.234375:214.95833|64,78,0.20833333:215.17188|65,64,0.234375:215.35938|64,57,0.24479167:215.57292|65,70,0.203125:215.76562|65,121,0.28125:216.07292|64,86,0.22916667:216.29167|62,82,0.17708333:216.5052|60,103,0.1875:216.6823|64,73,0.13541667:217.76042|62,74,0.119791664:217.84895|60,94,0.098958336:217.94792|62,78,0.18229167:218.03125|64,116,0.28125:218.97395|62,103,0.26041666:219.23438|60,103,0.28125:219.47917|62,78,0.27083334:219.75|64,114,0.20833333:220.01562|65,107,0.1875:220.21875|64,107,0.17708333:220.38542|65,116,0.140625:220.55208|67,107,0.19791667:220.70312|65,99,0.203125:220.84895|64,86,0.203125:221.01042|62,94,0.171875:221.17708|60,90,0.1875:221.33855|62,78,0.21875:221.4948|64,99,0.75:221.71355|57,116,0.7552083:222.5625|57,108,0.375:223.34895|57,97,0.328125:223.7448|59,121,0.20833333:224.20833|60,103,0.203125:224.40105|62,107,1.046875:224.60938|60,103,0.26041666:225.6302|62,76,1.1666666:225.88542|60,116,0.5677083:227.01562|59,107,0.36458334:227.54167|59,110,1.4895834:228.02083|57,102,0.42708334:229.47395|57,94,2.6354167:229.95312|64,103,0.0625:237.4948|65,84,0.104166664:237.5677|64,76,0.114583336:237.63542|62,72,0.119791664:237.76562|64,88,1.5572916:237.8698|64,125,0.14583333:241.41667|65,80,0.13541667:241.54688|64,64,0.109375:241.66145|62,64,0.098958336:241.80208|64,44,1.2083334:241.90625|63,107,0.13020833:245.4948|64,89,0.114583336:245.60417|63,93,0.15104167:245.67708|61,81,0.13020833:245.77083|63,73,1.3645834:245.89583|67,113,0.104166664:249.39583|69,96,0.15104167:249.4948|67,92,0.13020833:249.59895|66,73,0.15104167:249.71875|67,72,1.125:249.84895|47,116,0.46354166:253.01042|48,111,0.49479166:253.47917|50,116,0.734375:253.97917|52,114,0.24479167:254.71875|50,122,0.484375:254.9948|48,123,0.41145834:255.48438|47,106,0.19270833:256.0|45,105,0.19791667:256.23438|47,116,1.5520834:256.47397|40,109,0.24479167:257.9896|38,121,0.27083334:258.28125|40,107,0.8072917:258.55728|40,103,0.25:259.42188|38,103,0.25520834:259.68228|40,123,0.203125:259.90625|41,109,0.21354167:260.10416|43,101,0.19270833:260.31772|45,105,0.171875:260.5104|47,92,0.171875:260.68228|48,88,0.203125:260.85938|50,101,0.17708333:261.0625|52,78,0.140625:261.22916|53,88,0.171875:261.3854|55,88,0.15104167:261.5521|57,101,0.171875:261.72397|59,80,0.16145833:261.90103|60,92,0.171875:262.07812|62,109,0.19791667:262.23438|64,92,0.18229167:262.40625|65,101,0.13541667:262.5625|64,80,0.125:262.6771|62,84,0.119791664:262.78647|64,88,0.9739583:262.91666|64,101,0.20833333:264.0|62,116,0.19791667:264.24478|64,113,1.28125:264.4896|62,103,0.20833333:265.72397|60,103,0.20833333:265.94272|59,112,0.171875:266.10938|60,103,0.13020833:266.29166|62,82,0.17708333:266.4479|60,78,0.22395833:266.58334|59,103,0.140625:266.7396|57,86,0.13020833:266.89062|59,103,0.13541667:267.0|60,99,0.18229167:267.14062|59,103,0.21875:267.28647|57,90,0.125:267.42188|55,86,0.13020833:267.5625|59,90,0.18229167:267.6771|57,90,0.109375:267.8021|55,90,0.125:267.92188|53,86,0.171875:268.05728|52,107,0.171875:268.20834|53,74,0.16145833:268.34897|55,78,0.15625:268.4896|57,86,0.18229167:268.6354|55,74,0.18229167:268.77084|53,86,0.16145833:268.91147|52,90,0.15104167:269.04166|53,76,0.140625:269.18228|55,73,0.171875:269.3125|53,67,0.22395833:269.45312|52,90,0.16145833:269.61978|50,76,0.15625:269.78647|53,76,0.21875:269.9271|52,82,0.26041666:270.10416|50,67,0.17708333:270.29688|48,82,0.18229167:270.4896|47,103,0.21354167:270.67188|45,78,0.23958333:270.8646|47,69,0.22916667:271.09897|48,78,0.234375:271.34375|50,71,0.30729166:271.59375|52,74,4.953125:271.91147|45,46,4.5416665:272.29688|76,51,3.1927083:273.60416|81,40,3.140625:273.68228]</spSaveString>
+      </org.jjazz.phrase.api.Phrase>
+    </entry>
+    <entry>
+      <string>Drums</string>
+      <org.jjazz.phrase.api.Phrase resolves-to="org.jjazz.phrase.api.Phrase$SerializationProxy">
+        <spVERSION>1</spVERSION>
+        <spSaveString>[drums_0|44,54,0.052083332:0.984375|44,52,0.052083332:2.984375|44,55,0.052083332:4.984375|44,47,0.052083332:6.984375|44,55,0.052083332:8.984375|44,49,0.052083332:10.984375|44,50,0.052083332:12.984375|44,48,0.052083332:14.984375|44,53,0.052083332:16.984375|44,49,0.052083332:18.984375|44,48,0.052083332:20.984375|44,44,0.052083332:22.984375|44,43,0.052083332:24.984375|44,47,0.052083332:26.984375|44,49,0.052083332:28.984375|44,50,0.052083332:30.984375|44,52,0.052083332:32.984375|44,47,0.052083332:34.984375|44,48,0.052083332:36.984375|44,53,0.052083332:38.984375|44,47,0.052083332:40.984375|44,52,0.052083332:42.984375|44,50,0.052083332:44.984375|44,50,0.052083332:46.984375|44,50,0.052083332:48.984375|69,20,0.052083332:49.489582|82,22,0.052083332:49.744793|44,55,0.052083332:50.984375|82,30,0.052083332:51.5|69,18,0.052083332:51.734375|44,47,0.052083332:52.984375|69,30,0.052083332:53.479168|44,53,0.052083332:54.984375|82,22,0.052083332:55.75|44,59,0.052083332:56.984375|69,25,0.052083332:57.463543|82,22,0.052083332:57.734375|44,60,0.052083332:58.984375|82,28,0.052083332:59.489582|69,18,0.052083332:59.739582|44,51,0.052083332:60.984375|69,25,0.052083332:61.473957|82,22,0.052083332:61.729168|44,52,0.052083332:62.984375|82,26,0.052083332:63.494793|82,22,0.052083332:63.75|44,54,0.052083332:64.984375|69,19,0.052083332:65.47396|82,20,0.052083332:65.75|44,55,0.052083332:66.984375|69,20,0.052083332:67.479164|69,18,0.052083332:67.739586|44,54,0.052083332:68.984375|69,18,0.052083332:69.72396|44,60,0.052083332:70.984375|82,20,0.052083332:71.75|44,47,0.052083332:72.984375|69,20,0.052083332:73.46875|82,24,0.052083332:73.74479|44,56,0.052083332:74.984375|82,23,0.052083332:75.484375|69,18,0.052083332:75.729164|44,57,0.052083332:76.984375|69,26,0.052083332:77.46354|69,19,0.052083332:77.739586|44,62,0.052083332:78.984375|82,22,0.052083332:79.75|44,54,0.052083332:80.984375|69,19,0.052083332:81.72396|44,55,0.052083332:82.984375|69,18,0.052083332:83.479164|82,24,0.052083332:83.75|44,53,0.052083332:83.984375|44,50,0.052083332:84.984375|82,25,0.052083332:85.489586|69,18,0.052083332:85.739586|44,53,0.052083332:85.984375|48,73,0.052083332:86.921875|44,52,0.052083332:86.984375|48,90,0.052083332:86.99479|45,89,0.052083332:87.322914|41,87,0.052083332:87.640625|49,68,2.9895833:87.979164|35,105,0.052083332:87.984375|42,65,0.052083332:87.984375|42,45,0.052083332:88.484375|38,81,0.052083332:88.984375|42,65,0.052083332:88.984375|35,94,0.052083332:89.484375|42,50,0.052083332:89.484375|82,42,0.052083332:89.489586|69,25,0.052083332:89.71875|35,105,0.052083332:89.984375|42,64,0.052083332:89.984375|42,46,0.052083332:90.484375|38,81,0.052083332:90.984375|42,67,0.052083332:90.984375|69,32,0.052083332:91.479164|42,49,0.052083332:91.484375|82,23,0.052083332:91.74479|35,105,0.052083332:91.984375|42,67,0.052083332:91.984375|42,45,0.052083332:92.484375|38,81,0.052083332:92.984375|42,67,0.052083332:92.984375|35,94,0.052083332:93.484375|42,53,0.052083332:93.484375|69,36,0.052083332:93.484375|82,34,0.052083332:93.739586|35,105,0.052083332:93.984375|42,66,0.052083332:93.984375|42,48,0.052083332:94.484375|38,81,0.052083332:94.984375|42,66,0.052083332:94.984375|82,41,0.052083332:95.47396|42,54,0.052083332:95.484375|82,31,0.052083332:95.729164|35,86,0.052083332:95.734375|35,105,0.052083332:95.984375|42,66,0.052083332:95.984375|35,94,0.052083332:96.484375|42,52,0.052083332:96.484375|38,81,0.052083332:96.984375|42,67,0.052083332:96.984375|69,42,0.052083332:97.47396|42,53,0.052083332:97.484375|35,86,0.052083332:97.734375|69,34,0.052083332:97.734375|35,105,0.052083332:97.984375|42,67,0.052083332:97.984375|35,94,0.052083332:98.484375|42,53,0.052083332:98.484375|38,81,0.052083332:98.984375|42,67,0.052083332:98.984375|82,31,0.052083332:99.47396|42,54,0.052083332:99.484375|35,86,0.052083332:99.734375|69,18,0.052083332:99.734375|35,105,0.052083332:99.984375|42,66,0.052083332:99.984375|42,53,0.052083332:100.484375|38,81,0.052083332:100.984375|42,66,0.052083332:100.984375|69,36,0.052083332:101.46354|42,54,0.052083332:101.484375|35,86,0.052083332:101.734375|82,26,0.052083332:101.739586|35,105,0.052083332:101.984375|42,67,0.052083332:101.984375|35,94,0.052083332:102.484375|42,54,0.052083332:102.484375|38,81,0.052083332:102.984375|42,65,0.052083332:102.984375|35,86,0.052083332:103.234375|42,54,0.052083332:103.484375|35,86,0.052083332:103.734375|82,42,0.052083332:103.734375|35,105,0.052083332:103.984375|42,66,0.052083332:103.984375|42,53,0.052083332:104.484375|38,81,0.052083332:104.984375|42,66,0.052083332:104.984375|82,34,0.052083332:105.479164|42,54,0.052083332:105.484375|35,86,0.052083332:105.734375|69,24,0.052083332:105.734375|35,105,0.052083332:105.984375|42,67,0.052083332:105.984375|35,94,0.052083332:106.484375|42,54,0.052083332:106.484375|38,81,0.052083332:106.984375|42,65,0.052083332:106.984375|35,86,0.052083332:107.234375|42,53,0.052083332:107.484375|69,36,0.052083332:107.484375|82,32,0.052083332:107.72396|35,86,0.052083332:107.734375|35,105,0.052083332:107.984375|42,67,0.052083332:107.984375|42,53,0.052083332:108.484375|38,81,0.052083332:108.984375|42,66,0.052083332:108.984375|42,53,0.052083332:109.484375|69,29,0.052083332:109.729164|35,86,0.052083332:109.734375|35,105,0.052083332:109.984375|42,66,0.052083332:109.984375|35,94,0.052083332:110.484375|42,54,0.052083332:110.484375|38,81,0.052083332:110.984375|46,60,0.052083332:110.984375|41,80,0.052083332:111.479164|42,54,0.052083332:111.484375|35,86,0.052083332:111.734375|41,70,0.052083332:111.734375|82,41,0.052083332:111.739586|35,105,0.052083332:111.984375|42,67,0.052083332:111.984375|42,52,0.052083332:112.484375|38,81,0.052083332:112.984375|42,66,0.052083332:112.984375|69,24,0.052083332:113.46354|42,53,0.052083332:113.484375|82,22,0.052083332:113.729164|35,86,0.052083332:113.734375|35,105,0.052083332:113.984375|42,66,0.052083332:113.984375|35,94,0.052083332:114.484375|42,54,0.052083332:114.484375|38,81,0.052083332:114.984375|42,65,0.052083332:114.984375|35,86,0.052083332:115.234375|42,54,0.052083332:115.484375|82,35,0.052083332:115.49479|35,86,0.052083332:115.734375|69,25,0.052083332:115.734375|35,105,0.052083332:115.984375|42,66,0.052083332:115.984375|42,51,0.052083332:116.484375|38,81,0.052083332:116.984375|42,66,0.052083332:116.984375|42,54,0.052083332:117.484375|82,38,0.052083332:117.484375|69,29,0.052083332:117.72396|35,86,0.052083332:117.734375|35,105,0.052083332:117.984375|42,67,0.052083332:117.984375|35,94,0.052083332:118.484375|42,53,0.052083332:118.484375|38,81,0.052083332:118.984375|42,66,0.052083332:118.984375|42,54,0.052083332:119.484375|69,40,0.052083332:119.489586|35,86,0.052083332:119.734375|82,30,0.052083332:119.734375|35,105,0.052083332:119.984375|42,66,0.052083332:119.984375|42,52,0.052083332:120.484375|38,81,0.052083332:120.984375|42,66,0.052083332:120.984375|69,40,0.052083332:121.479164|42,53,0.052083332:121.484375|35,86,0.052083332:121.734375|69,31,0.052083332:121.734375|35,105,0.052083332:121.984375|42,66,0.052083332:121.984375|42,48,0.052083332:122.484375|38,81,0.052083332:122.984375|42,67,0.052083332:122.984375|42,54,0.052083332:123.484375|82,38,0.052083332:123.729164|35,86,0.052083332:123.734375|35,105,0.052083332:123.984375|42,67,0.052083332:123.984375|35,94,0.052083332:124.484375|42,54,0.052083332:124.484375|38,81,0.052083332:124.984375|42,65,0.052083332:124.984375|69,35,0.052083332:125.479164|46,59,0.052083332:125.484375|35,86,0.052083332:125.734375|82,24,0.052083332:125.75|35,105,0.052083332:125.984375|38,84,0.052083332:125.984375|42,66,0.052083332:125.984375|38,80,0.052083332:126.234375|35,94,0.052083332:126.484375|42,54,0.052083332:126.484375|48,89,0.052083332:126.489586|48,86,0.052083332:126.734375|45,90,0.052083332:126.97396|42,66,0.052083332:126.984375|45,87,0.052083332:127.22396|41,88,0.052083332:127.479164|42,54,0.052083332:127.484375|41,83,0.052083332:127.734375|69,25,0.052083332:127.739586|49,61,2.9895833:127.979164|35,105,0.052083332:127.984375|42,64,0.052083332:127.984375|51,26,0.052083332:128.47395|42,51,0.052083332:128.48438|53,61,0.052083332:128.97395|38,81,0.052083332:128.98438|42,67,0.052083332:128.98438|82,42,0.052083332:129.47917|42,54,0.052083332:129.48438|51,18,0.052083332:129.48438|69,25,0.052083332:129.71355|35,86,0.052083332:129.73438|35,105,0.052083332:129.98438|42,66,0.052083332:129.98438|51,46,0.052083332:129.9948|42,50,0.052083332:130.48438|51,20,0.052083332:130.4948|38,81,0.052083332:130.98438|42,66,0.052083332:130.98438|51,59,0.052083332:130.98958|69,32,0.052083332:131.47395|42,50,0.052083332:131.48438|51,25,0.052083332:131.48958|82,23,0.052083332:131.7448|35,105,0.052083332:131.98438|42,67,0.052083332:131.98438|51,59,0.052083332:131.98438|42,53,0.052083332:132.48438|51,24,0.052083332:132.4948|38,81,0.052083332:132.98438|42,67,0.052083332:132.98438|53,68,0.052083332:132.98958|69,36,0.052083332:133.47917|42,54,0.052083332:133.48438|51,26,0.052083332:133.48438|35,86,0.052083332:133.73438|82,34,0.052083332:133.73438|35,105,0.052083332:133.98438|42,66,0.052083332:133.98438|51,57,0.052083332:133.98958|38,70,0.052083332:134.23438|38,76,0.052083332:134.48438|42,53,0.052083332:134.48438|53,51,0.052083332:134.4948|48,81,0.052083332:134.73958|42,65,0.052083332:134.98438|48,89,0.052083332:134.98438|51,46,0.052083332:134.9948|45,79,0.052083332:135.23438|35,94,0.052083332:135.48438|42,54,0.052083332:135.48438|45,89,0.052083332:135.48958|82,41,0.052083332:135.48958|51,59,0.052083332:135.4948|41,82,0.052083332:135.72395|82,31,0.052083332:135.72395|35,105,0.052083332:135.98438|42,66,0.052083332:135.98438|49,62,2.9895833:135.98958|42,54,0.052083332:136.48438|51,50,0.052083332:136.4948|51,59,0.052083332:136.97917|38,81,0.052083332:136.98438|42,65,0.052083332:136.98438|42,54,0.052083332:137.48438|51,49,0.052083332:137.48438|69,42,0.052083332:137.48438|69,34,0.052083332:137.72917|35,86,0.052083332:137.73438|35,105,0.052083332:137.98438|42,67,0.052083332:137.98438|51,59,0.052083332:137.98958|35,94,0.052083332:138.48438|42,54,0.052083332:138.48438|51,52,0.052083332:138.48438|38,81,0.052083332:138.98438|42,65,0.052083332:138.98438|53,68,0.052083332:138.98438|82,31,0.052083332:139.47917|38,79,0.052083332:139.48438|42,54,0.052083332:139.48438|51,38,0.052083332:139.4948|69,18,0.052083332:139.71355|38,75,0.052083332:139.73438|35,105,0.052083332:139.98438|42,67,0.052083332:139.98438|49,62,2.9895833:139.98958|42,54,0.052083332:140.48438|51,49,0.052083332:140.48958|38,81,0.052083332:140.98438|42,65,0.052083332:140.98438|53,70,0.052083332:140.98438|69,36,0.052083332:141.46355|42,54,0.052083332:141.48438|51,46,0.052083332:141.4948|35,86,0.052083332:141.73438|82,26,0.052083332:141.75|35,105,0.052083332:141.98438|42,65,0.052083332:141.98438|51,59,0.052083332:141.9948|35,94,0.052083332:142.48438|42,54,0.052083332:142.48438|51,36,0.052083332:142.48438|53,73,0.052083332:142.97395|38,81,0.052083332:142.98438|42,66,0.052083332:142.98438|42,53,0.052083332:143.48438|51,45,0.052083332:143.48438|82,42,0.052083332:143.72395|35,86,0.052083332:143.73438|57,57,2.9895833:143.97917|35,105,0.052083332:143.98438|42,65,0.052083332:143.98438|51,38,0.052083332:144.47917|42,52,0.052083332:144.48438|38,81,0.052083332:144.98438|42,65,0.052083332:144.98438|51,59,0.052083332:144.9948|82,34,0.052083332:145.47395|42,54,0.052083332:145.48438|51,57,0.052083332:145.48438|69,24,0.052083332:145.72395|53,71,0.052083332:145.97395|35,105,0.052083332:145.98438|42,65,0.052083332:145.98438|51,45,0.052083332:146.47917|42,54,0.052083332:146.48438|38,81,0.052083332:146.98438|42,65,0.052083332:146.98438|53,73,0.052083332:146.9948|46,58,0.052083332:147.48438|51,59,0.052083332:147.48958|69,36,0.052083332:147.48958|82,32,0.052083332:147.73438|35,105,0.052083332:147.98438|38,78,0.052083332:147.98438|42,67,0.052083332:147.98438|57,52,0.4375:147.98438|49,66,2.9895833:148.22917|35,86,0.052083332:148.23438|38,75,0.052083332:148.23438|42,53,0.052083332:148.23438|35,94,0.052083332:148.48438|38,78,0.052083332:148.48438|42,54,0.052083332:148.48438|57,57,2.9895833:148.48438|44,54,0.052083332:148.98438|44,54,0.052083332:149.98438|44,53,0.052083332:150.98438|44,56,0.052083332:151.98438|44,52,0.052083332:152.98438|44,43,0.052083332:153.98438|48,65,0.052083332:154.41667|48,87,0.052083332:154.5|44,42,0.052083332:154.98438|45,88,0.052083332:154.98438|45,82,0.052083332:155.22917|41,85,0.052083332:155.48958|35,105,0.052083332:155.98438|42,66,0.052083332:155.98438|51,54,0.052083332:155.98438|42,50,0.052083332:156.48438|38,81,0.052083332:156.98438|42,66,0.052083332:156.98438|42,54,0.052083332:157.48438|82,38,0.052083332:157.4948|69,29,0.052083332:157.71355|35,86,0.052083332:157.73438|35,105,0.052083332:157.98438|42,67,0.052083332:157.98438|35,94,0.052083332:158.48438|42,54,0.052083332:158.48438|38,81,0.052083332:158.98438|42,66,0.052083332:158.98438|69,40,0.052083332:159.46355|42,54,0.052083332:159.48438|53,36,0.052083332:159.4948|35,86,0.052083332:159.73438|82,30,0.052083332:159.73958|53,58,0.052083332:159.97917|35,105,0.052083332:159.98438|42,67,0.052083332:159.98438|42,52,0.052083332:160.48438|38,81,0.052083332:160.98438|42,66,0.052083332:160.98438|69,40,0.052083332:161.46875|42,54,0.052083332:161.48438|69,31,0.052083332:161.72395|35,105,0.052083332:161.98438|42,65,0.052083332:161.98438|42,53,0.052083332:162.48438|38,81,0.052083332:162.98438|42,66,0.052083332:162.98438|42,54,0.052083332:163.48438|35,86,0.052083332:163.73438|82,38,0.052083332:163.73958|53,55,0.052083332:163.97395|35,105,0.052083332:163.98438|42,67,0.052083332:163.98438|42,52,0.052083332:164.48438|38,81,0.052083332:164.98438|42,66,0.052083332:164.98438|42,54,0.052083332:165.48438|69,35,0.052083332:165.48958|35,86,0.052083332:165.73438|82,24,0.052083332:165.73958|35,105,0.052083332:165.98438|42,67,0.052083332:165.98438|35,94,0.052083332:166.48438|42,54,0.052083332:166.48438|38,81,0.052083332:166.98438|42,65,0.052083332:166.98438|35,86,0.052083332:167.23438|42,53,0.052083332:167.48438|69,25,0.052083332:167.72917|35,86,0.052083332:167.73438|35,105,0.052083332:167.98438|42,67,0.052083332:167.98438|51,59,0.052083332:167.98438|42,52,0.052083332:168.48438|38,81,0.052083332:168.98438|42,66,0.052083332:168.98438|42,54,0.052083332:169.48438|82,42,0.052083332:169.5|69,25,0.052083332:169.72917|35,86,0.052083332:169.73438|35,105,0.052083332:169.98438|42,66,0.052083332:169.98438|35,94,0.052083332:170.48438|42,54,0.052083332:170.48438|38,81,0.052083332:170.98438|42,66,0.052083332:170.98438|51,11,0.052083332:171.47917|42,54,0.052083332:171.48438|69,32,0.052083332:171.48958|35,86,0.052083332:171.73438|82,23,0.052083332:171.7448|51,54,0.052083332:171.97395|35,105,0.052083332:171.98438|42,65,0.052083332:171.98438|42,53,0.052083332:172.48438|38,81,0.052083332:172.98438|42,66,0.052083332:172.98438|69,36,0.052083332:173.46355|42,54,0.052083332:173.48438|82,34,0.052083332:173.72395|35,86,0.052083332:173.73438|35,105,0.052083332:173.98438|42,67,0.052083332:173.98438|35,94,0.052083332:174.48438|42,54,0.052083332:174.48438|38,81,0.052083332:174.98438|42,66,0.052083332:174.98438|35,86,0.052083332:175.23438|42,54,0.052083332:175.48438|82,41,0.052083332:175.4948|35,86,0.052083332:175.73438|82,31,0.052083332:175.73438|51,36,0.052083332:175.97917|35,105,0.052083332:175.98438|42,65,0.052083332:175.98438|42,48,0.052083332:176.48438|38,81,0.052083332:176.98438|42,66,0.052083332:176.98438|53,46,0.052083332:176.9948|69,42,0.052083332:177.46355|42,54,0.052083332:177.48438|69,34,0.052083332:177.72395|35,86,0.052083332:177.73438|35,105,0.052083332:177.98438|42,66,0.052083332:177.98438|35,94,0.052083332:178.48438|42,54,0.052083332:178.48438|38,81,0.052083332:178.98438|42,66,0.052083332:178.98438|35,86,0.052083332:179.23438|82,31,0.052083332:179.47395|42,53,0.052083332:179.48438|69,18,0.052083332:179.72395|35,86,0.052083332:179.73438|35,105,0.052083332:179.98438|42,67,0.052083332:179.98438|53,55,0.052083332:179.9948|42,53,0.052083332:180.48438|38,81,0.052083332:180.98438|42,66,0.052083332:180.98438|69,36,0.052083332:181.46355|42,54,0.052083332:181.48438|82,26,0.052083332:181.72917|35,86,0.052083332:181.73438|35,105,0.052083332:181.98438|42,67,0.052083332:181.98438|35,94,0.052083332:182.48438|42,54,0.052083332:182.48438|38,81,0.052083332:182.98438|42,65,0.052083332:182.98438|35,86,0.052083332:183.23438|53,29,0.052083332:183.47917|42,54,0.052083332:183.48438|35,86,0.052083332:183.73438|82,42,0.052083332:183.75|53,43,0.052083332:183.97395|35,105,0.052083332:183.98438|42,66,0.052083332:183.98438|35,94,0.052083332:184.48438|42,54,0.052083332:184.48438|38,81,0.052083332:184.98438|42,65,0.052083332:184.98438|42,54,0.052083332:185.48438|82,34,0.052083332:185.5|69,24,0.052083332:185.72395|35,86,0.052083332:185.73438|35,105,0.052083332:185.98438|42,67,0.052083332:185.98438|51,49,0.052083332:185.98438|35,94,0.052083332:186.48438|42,54,0.052083332:186.48438|38,81,0.052083332:186.98438|42,66,0.052083332:186.98438|35,86,0.052083332:187.23438|69,36,0.052083332:187.46355|42,54,0.052083332:187.48438|35,86,0.052083332:187.73438|82,32,0.052083332:187.73958|53,44,0.052083332:187.97917|35,105,0.052083332:187.98438|42,66,0.052083332:187.98438|42,53,0.052083332:188.48438|38,81,0.052083332:188.98438|42,66,0.052083332:188.98438|42,54,0.052083332:189.48438|35,86,0.052083332:189.73438|69,29,0.052083332:189.73958|35,105,0.052083332:189.98438|42,66,0.052083332:189.98438|35,94,0.052083332:190.48438|42,54,0.052083332:190.48438|38,81,0.052083332:190.98438|42,66,0.052083332:190.98438|42,54,0.052083332:191.48438|35,86,0.052083332:191.73438|82,41,0.052083332:191.7448|35,105,0.052083332:191.98438|42,67,0.052083332:191.98438|51,59,0.052083332:191.98438|42,53,0.052083332:192.48438|38,81,0.052083332:192.98438|42,66,0.052083332:192.98438|51,46,0.052083332:192.98958|42,54,0.052083332:193.48438|69,24,0.052083332:193.48958|82,22,0.052083332:193.72917|35,86,0.052083332:193.73438|35,105,0.052083332:193.98438|42,66,0.052083332:193.98438|51,54,0.052083332:193.98438|42,53,0.052083332:194.48438|53,27,0.052083332:194.48958|38,57,0.052083332:194.91667|53,51,0.052083332:194.97395|35,105,0.052083332:194.98438|38,81,0.052083332:194.98438|42,66,0.052083332:194.98438|45,91,0.052083332:195.3125|53,30,0.052083332:195.47395|44,65,0.052083332:195.48438|82,35,0.052083332:195.4948|41,87,0.052083332:195.65625|69,25,0.052083332:195.72917|35,105,0.052083332:195.98438|42,66,0.052083332:195.98438|49,65,2.9895833:195.98438|42,48,0.052083332:196.48438|38,81,0.052083332:196.98438|42,66,0.052083332:196.98438|42,52,0.052083332:197.48438|82,38,0.052083332:197.4948|35,86,0.052083332:197.73438|69,29,0.052083332:197.73958|35,105,0.052083332:197.98438|42,67,0.052083332:197.98438|35,94,0.052083332:198.48438|42,52,0.052083332:198.48438|38,81,0.052083332:198.98438|42,66,0.052083332:198.98438|51,49,0.052083332:199.47917|69,40,0.052083332:199.47917|42,53,0.052083332:199.48438|35,86,0.052083332:199.73438|82,30,0.052083332:199.75|53,72,0.052083332:199.97395|35,105,0.052083332:199.98438|42,66,0.052083332:199.98438|42,52,0.052083332:200.48438|38,81,0.052083332:200.98438|42,66,0.052083332:200.98438|35,94,0.052083332:201.48438|42,51,0.052083332:201.48438|69,40,0.052083332:201.48438|69,31,0.052083332:201.71355|35,105,0.052083332:201.98438|42,66,0.052083332:201.98438|42,50,0.052083332:202.48438|38,81,0.052083332:202.98438|42,65,0.052083332:202.98438|46,54,0.052083332:203.48438|82,38,0.052083332:203.72917|35,86,0.052083332:203.73438|35,105,0.052083332:203.98438|42,67,0.052083332:203.98438|51,59,0.052083332:203.9948|42,50,0.052083332:204.48438|38,81,0.052083332:204.98438|42,66,0.052083332:204.98438|69,35,0.052083332:205.46355|42,52,0.052083332:205.48438|35,86,0.052083332:205.73438|82,24,0.052083332:205.75|35,105,0.052083332:205.98438|42,67,0.052083332:205.98438|35,94,0.052083332:206.48438|42,50,0.052083332:206.48438|38,81,0.052083332:206.98438|42,66,0.052083332:206.98438|35,86,0.052083332:207.23438|42,53,0.052083332:207.48438|35,86,0.052083332:207.73438|69,25,0.052083332:207.73958|53,53,0.052083332:207.97395|35,105,0.052083332:207.98438|42,65,0.052083332:207.98438|42,50,0.052083332:208.48438|38,81,0.052083332:208.98438|42,67,0.052083332:208.98438|82,42,0.052083332:209.47917|35,94,0.052083332:209.48438|42,49,0.052083332:209.48438|69,25,0.052083332:209.73438|38,57,0.052083332:209.91667|38,81,0.052083332:209.98438|42,66,0.052083332:209.98438|45,78,0.052083332:210.22395|35,94,0.052083332:210.48438|42,54,0.052083332:210.48438|45,91,0.052083332:210.48438|45,86,0.052083332:210.72917|38,57,0.052083332:210.91667|38,81,0.052083332:210.98438|46,60,0.052083332:210.98438|41,72,0.052083332:211.23438|41,86,0.052083332:211.47917|69,32,0.052083332:211.47917|35,94,0.052083332:211.48438|42,49,0.052083332:211.48438|53,42,0.052083332:211.48438|41,81,0.052083332:211.73438|82,23,0.052083332:211.73958|35,105,0.052083332:211.98438|42,66,0.052083332:211.98438|51,59,0.052083332:211.9948|42,48,0.052083332:212.48438|38,81,0.052083332:212.98438|42,66,0.052083332:212.98438|42,49,0.052083332:213.48438|69,36,0.052083332:213.48958|35,86,0.052083332:213.73438|82,34,0.052083332:213.75|35,105,0.052083332:213.98438|42,67,0.052083332:213.98438|35,94,0.052083332:214.48438|42,47,0.052083332:214.48438|38,81,0.052083332:214.98438|42,66,0.052083332:214.98438|35,86,0.052083332:215.23438|42,49,0.052083332:215.48438|82,41,0.052083332:215.48958|82,31,0.052083332:215.72917|35,86,0.052083332:215.73438|51,57,0.052083332:215.97917|35,105,0.052083332:215.98438|42,66,0.052083332:215.98438|42,49,0.052083332:216.48438|38,81,0.052083332:216.98438|42,66,0.052083332:216.98438|42,51,0.052083332:217.48438|69,42,0.052083332:217.48438|35,86,0.052083332:217.73438|69,34,0.052083332:217.73958|35,105,0.052083332:217.98438|42,67,0.052083332:217.98438|35,94,0.052083332:218.48438|42,49,0.052083332:218.48438|38,81,0.052083332:218.98438|42,66,0.052083332:218.98438|35,86,0.052083332:219.23438|42,47,0.052083332:219.48438|51,38,0.052083332:219.48438|82,31,0.052083332:219.4948|69,18,0.052083332:219.71355|35,86,0.052083332:219.73438|35,105,0.052083332:219.98438|42,67,0.052083332:219.98438|53,65,0.052083332:219.98958|42,47,0.052083332:220.48438|38,81,0.052083332:220.98438|42,67,0.052083332:220.98438|69,36,0.052083332:221.46355|35,94,0.052083332:221.48438|42,49,0.052083332:221.48438|82,26,0.052083332:221.73958|35,105,0.052083332:221.98438|42,67,0.052083332:221.98438|35,94,0.052083332:222.48438|42,48,0.052083332:222.48438|38,81,0.052083332:222.98438|42,66,0.052083332:222.98438|35,86,0.052083332:223.23438|42,49,0.052083332:223.48438|51,21,0.052083332:223.48958|35,86,0.052083332:223.73438|82,42,0.052083332:223.73438|51,59,0.052083332:223.97395|35,105,0.052083332:223.98438|42,54,0.052083332:223.98438|35,94,0.052083332:224.48438|42,47,0.052083332:224.48438|38,81,0.052083332:224.98438|42,65,0.052083332:224.98438|42,48,0.052083332:225.48438|82,34,0.052083332:225.48438|69,24,0.052083332:225.71875|35,86,0.052083332:225.73438|35,105,0.052083332:225.98438|42,66,0.052083332:225.98438|53,33,0.052083332:225.98438|35,94,0.052083332:226.48438|42,49,0.052083332:226.48438|38,81,0.052083332:226.98438|42,66,0.052083332:226.98438|51,40,0.052083332:227.47395|69,36,0.052083332:227.47395|35,94,0.052083332:227.48438|42,53,0.052083332:227.48438|82,32,0.052083332:227.75|51,60,0.052083332:227.97395|35,105,0.052083332:227.98438|42,67,0.052083332:227.98438|42,47,0.052083332:228.48438|38,81,0.052083332:228.98438|42,67,0.052083332:228.98438|42,47,0.052083332:229.48438|69,29,0.052083332:229.71875|35,86,0.052083332:229.73438|35,105,0.052083332:229.98438|42,67,0.052083332:229.98438|35,94,0.052083332:230.48438|42,48,0.052083332:230.48438|38,81,0.052083332:230.98438|42,66,0.052083332:230.98438|53,70,0.052083332:230.98438|35,86,0.052083332:231.23438|46,52,0.052083332:231.48438|35,86,0.052083332:231.73438|82,41,0.052083332:231.73438|35,105,0.052083332:231.98438|42,67,0.052083332:231.98438|51,59,0.052083332:231.9948|35,94,0.052083332:232.48438|42,47,0.052083332:232.48438|38,81,0.052083332:232.98438|42,66,0.052083332:232.98438|35,86,0.052083332:233.23438|42,53,0.052083332:233.48438|69,24,0.052083332:233.48438|82,22,0.052083332:233.72917|35,86,0.052083332:233.73438|35,105,0.052083332:233.98438|42,67,0.052083332:233.98438|35,94,0.052083332:234.48438|42,54,0.052083332:234.48438|38,57,0.052083332:234.91667|38,81,0.052083332:234.98438|46,55,0.052083332:234.98438|45,78,0.052083332:235.22917|82,35,0.052083332:235.47395|41,89,0.052083332:235.47917|35,94,0.052083332:235.48438|46,52,0.052083332:235.48438|41,85,0.052083332:235.72917|69,25,0.052083332:235.72917|49,62,2.9895833:235.97917|35,105,0.052083332:235.98438|42,65,0.052083332:235.98438|51,36,0.052083332:236.47917|42,48,0.052083332:236.48438|53,70,0.052083332:236.97917|38,81,0.052083332:236.98438|42,66,0.052083332:236.98438|51,31,0.052083332:237.47395|82,38,0.052083332:237.47395|42,53,0.052083332:237.48438|69,29,0.052083332:237.72917|35,86,0.052083332:237.73438|35,105,0.052083332:237.98438|42,65,0.052083332:237.98438|51,60,0.052083332:237.98958|35,94,0.052083332:238.48438|42,52,0.052083332:238.48438|51,50,0.052083332:238.48438|38,81,0.052083332:238.98438|42,65,0.052083332:238.98438|53,76,0.052083332:238.9948|35,86,0.052083332:239.23438|42,52,0.052083332:239.48438|51,59,0.052083332:239.48438|69,40,0.052083332:239.48958|35,86,0.052083332:239.73438|82,30,0.052083332:239.7448|57,54,2.9895833:239.97917|35,105,0.052083332:239.98438|42,67,0.052083332:239.98438|51,57,0.052083332:240.47395|42,49,0.052083332:240.48438|53,71,0.052083332:240.97917|38,81,0.052083332:240.98438|42,66,0.052083332:240.98438|53,37,0.052083332:241.47917|42,53,0.052083332:241.48438|69,40,0.052083332:241.48958|35,86,0.052083332:241.73438|69,31,0.052083332:241.73958|53,43,0.052083332:241.7448|53,75,0.052083332:241.97917|35,105,0.052083332:241.98438|42,66,0.052083332:241.98438|35,94,0.052083332:242.48438|42,54,0.052083332:242.48438|51,46,0.052083332:242.48438|38,81,0.052083332:242.98438|42,65,0.052083332:242.98438|51,60,0.052083332:242.9948|35,86,0.052083332:243.23438|41,85,0.052083332:243.47917|46,60,0.052083332:243.48438|51,50,0.052083332:243.48958|82,38,0.052083332:243.72917|35,86,0.052083332:243.73438|41,82,0.052083332:243.73958|49,70,2.9895833:243.97917|35,105,0.052083332:243.98438|42,66,0.052083332:243.98438|42,53,0.052083332:244.48438|51,59,0.052083332:244.4948|53,69,0.052083332:244.97917|38,81,0.052083332:244.98438|42,66,0.052083332:244.98438|42,54,0.052083332:245.48438|69,35,0.052083332:245.48438|51,57,0.052083332:245.48958|35,86,0.052083332:245.73438|82,24,0.052083332:245.7448|35,105,0.052083332:245.98438|42,65,0.052083332:245.98438|53,67,0.052083332:245.98958|35,94,0.052083332:246.48438|42,53,0.052083332:246.48438|51,46,0.052083332:246.48958|38,81,0.052083332:246.98438|42,66,0.052083332:246.98438|51,59,0.052083332:246.98438|35,86,0.052083332:247.23438|51,59,0.052083332:247.47917|42,53,0.052083332:247.48438|45,86,0.052083332:247.48958|69,25,0.052083332:247.71355|41,84,0.052083332:247.72395|35,86,0.052083332:247.73438|35,105,0.052083332:247.98438|42,65,0.052083332:247.98438|49,67,2.9895833:247.98958|51,57,0.052083332:248.47395|35,94,0.052083332:248.48438|42,51,0.052083332:248.48438|53,73,0.052083332:248.97917|38,81,0.052083332:248.98438|42,65,0.052083332:248.98438|51,59,0.052083332:249.47917|42,54,0.052083332:249.48438|82,42,0.052083332:249.4948|69,25,0.052083332:249.71355|35,86,0.052083332:249.73438|35,105,0.052083332:249.98438|42,66,0.052083332:249.98438|53,73,0.052083332:249.98958|45,47,0.052083332:250.17188|45,60,0.052083332:250.25|45,70,0.052083332:250.47395|51,36,0.052083332:250.47917|35,94,0.052083332:250.48438|42,54,0.052083332:250.48438|45,65,0.052083332:250.73438|51,50,0.052083332:250.73958|38,81,0.052083332:250.98438|42,65,0.052083332:250.98438|45,87,0.052083332:250.98438|51,59,0.052083332:250.98438|41,69,0.052083332:251.22917|35,86,0.052083332:251.23438|51,59,0.052083332:251.47395|42,53,0.052083332:251.48438|69,32,0.052083332:251.48438|41,87,0.052083332:251.48958|35,86,0.052083332:251.73438|82,23,0.052083332:251.73438|41,85,0.052083332:251.73958|35,105,0.052083332:251.98438|42,65,0.052083332:251.98438|49,66,2.9895833:251.98958|51,59,0.052083332:251.9948|51,45,0.052083332:252.47917|35,94,0.052083332:252.48438|42,51,0.052083332:252.48438|51,60,0.052083332:252.97917|38,81,0.052083332:252.98438|42,65,0.052083332:252.98438|51,59,0.052083332:253.47395|69,36,0.052083332:253.47917|42,54,0.052083332:253.48438|35,86,0.052083332:253.73438|82,34,0.052083332:253.73438|35,105,0.052083332:253.98438|42,65,0.052083332:253.98438|57,59,1.9375:253.98438|35,94,0.052083332:254.48438|42,54,0.052083332:254.48438|51,59,0.052083332:254.48438|38,81,0.052083332:254.98438|42,67,0.052083332:254.98438|51,60,0.052083332:254.98438|53,67,0.052083332:255.47917|35,94,0.052083332:255.48438|46,61,0.052083332:255.48438|82,41,0.052083332:255.48438|82,31,0.052083332:255.73438|35,105,0.052083332:255.98438|38,78,0.052083332:255.98438|57,54,0.4375:255.98438|49,63,2.9895833:256.22916|35,86,0.052083332:256.23438|38,75,0.052083332:256.23438|35,94,0.052083332:256.48438|38,78,0.052083332:256.48438|57,49,2.9895833:256.48438|35,105,0.052083332:263.98438|38,78,0.052083332:263.98438|57,51,0.43229166:263.98438|35,86,0.052083332:264.23438|38,75,0.052083332:264.23438|49,65,2.9895833:264.2396|57,57,2.9895833:264.47916|35,94,0.052083332:264.48438|38,78,0.052083332:264.48438]</spSaveString>
+      </org.jjazz.phrase.api.Phrase>
+    </entry>
+  </spMapUserPhrases>
+  <spClientPropertiesV3>
+    <properties>
+      <entry>
+        <string>PropClEditorZoomFactorY</string>
+        <string>50</string>
+      </entry>
+      <entry>
+        <string>PropCompactViewModeVisibleRps_LingusFunk.S066.yjz-ID</string>
+        <string>rpVariationID,rpIntensityID,RpFillID</string>
+      </entry>
+      <entry>
+        <string>PropViewMode</string>
+        <string>COMPACT</string>
+      </entry>
+      <entry>
+        <string>PropSsEditorZoomFactorX</string>
+        <string>14</string>
+      </entry>
+      <entry>
+        <string>PropCompactViewModeVisibleRps_Acousticjazz-Drums-02.S837.sty-ID</string>
+        <string>rpSysMarkerID</string>
+      </entry>
+    </properties>
+    <owner class="Song" reference="../.."/>
+  </spClientPropertiesV3>
+</Song>

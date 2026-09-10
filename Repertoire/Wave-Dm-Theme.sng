@@ -1,0 +1,1885 @@
+<Song resolves-to="org.jjazz.song.api.Song$SerializationProxy">
+  <spVERSION>3</spVERSION>
+  <spName>Wave-Dm-Theme</spName>
+  <spComments>Edit me...</spComments>
+  <spTempo>120</spTempo>
+  <spTags/>
+  <spChordLeadSheet class="org.jjazz.chordleadsheet.ChordLeadSheetImpl" resolves-to="org.jjazz.chordleadsheet.ChordLeadSheetImpl$SerializationProxy">
+    <spVERSION>1</spVERSION>
+    <spItems>
+      <org.jjazz.chordleadsheet.item.CLI__SectionImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_SectionImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spName>Intro</spName>
+        <spTs>FOUR_FOUR</spTs>
+        <spBarIndex>0</spBarIndex>
+        <spClientProperties>
+          <properties>
+            <entry>
+              <string>PropSectionQuantization</string>
+              <string>ONE_QUARTER_BEAT</string>
+            </entry>
+          </properties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_SectionImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__SectionImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
+          <spVERSION>2</spVERSION>
+          <spName>Dm7</spName>
+          <spOriginalName>Dm7</spOriginalName>
+          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
+            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+              <int>2</int>
+              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+              <null/>
+            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[0:0]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
+          <spVERSION>2</spVERSION>
+          <spName>G7</spName>
+          <spOriginalName>G7</spOriginalName>
+          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
+            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+              <int>2</int>
+              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+              <null/>
+            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[0:2]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord reference="../../org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl/spChord"/>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[1:0]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord reference="../../org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl[2]/spChord"/>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[1:2]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord reference="../../org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl/spChord"/>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[2:0]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord reference="../../org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl[2]/spChord"/>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[2:2]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord reference="../../org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl/spChord"/>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[3:0]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord reference="../../org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl[2]/spChord"/>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[3:2]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord reference="../../org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl/spChord"/>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[4:0]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord reference="../../org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl[2]/spChord"/>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[4:2]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord reference="../../org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl/spChord"/>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[5:0]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord reference="../../org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl[2]/spChord"/>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[5:2]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord reference="../../org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl/spChord"/>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[6:0]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord reference="../../org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl[2]/spChord"/>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[6:2]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord reference="../../org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl/spChord"/>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[7:0]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord reference="../../org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl[2]/spChord"/>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[7:2]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      <org.jjazz.chordleadsheet.item.CLI__SectionImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_SectionImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spName>A</spName>
+        <spTs>FOUR_FOUR</spTs>
+        <spBarIndex>8</spBarIndex>
+        <spClientProperties>
+          <properties>
+            <entry>
+              <string>PropSectionQuantization</string>
+              <string>ONE_QUARTER_BEAT</string>
+            </entry>
+          </properties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_SectionImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__SectionImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
+          <spVERSION>2</spVERSION>
+          <spName>DM7</spName>
+          <spOriginalName>DM7</spOriginalName>
+          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
+            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+              <int>2</int>
+              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+              <null/>
+            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[8:0]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
+          <spVERSION>2</spVERSION>
+          <spName>Edim7</spName>
+          <spOriginalName>Edim7</spOriginalName>
+          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
+            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+              <int>2</int>
+              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+              <null/>
+            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[9:0]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
+          <spVERSION>2</spVERSION>
+          <spName>Am7</spName>
+          <spOriginalName>Am7</spOriginalName>
+          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
+            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+              <int>2</int>
+              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+              <null/>
+            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[10:0]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
+          <spVERSION>2</spVERSION>
+          <spName>D9</spName>
+          <spOriginalName>D79</spOriginalName>
+          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
+            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+              <int>2</int>
+              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+              <null/>
+            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[11:0]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
+          <spVERSION>2</spVERSION>
+          <spName>D7b9</spName>
+          <spOriginalName>D7b9</spOriginalName>
+          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
+            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+              <int>2</int>
+              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+              <null/>
+            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[11:2]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
+          <spVERSION>2</spVERSION>
+          <spName>GM7</spName>
+          <spOriginalName>GM7</spOriginalName>
+          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
+            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+              <int>2</int>
+              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+              <null/>
+            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[12:0]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
+          <spVERSION>2</spVERSION>
+          <spName>Gm7</spName>
+          <spOriginalName>Gm7</spOriginalName>
+          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
+            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+              <int>2</int>
+              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+              <null/>
+            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[13:0]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
+          <spVERSION>2</spVERSION>
+          <spName>F#13</spName>
+          <spOriginalName>F#13</spOriginalName>
+          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
+            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+              <int>2</int>
+              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+              <null/>
+            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[14:0]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
+          <spVERSION>2</spVERSION>
+          <spName>B7</spName>
+          <spOriginalName>B7</spOriginalName>
+          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
+            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+              <int>2</int>
+              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+              <null/>
+            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[15:0]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
+          <spVERSION>2</spVERSION>
+          <spName>E9</spName>
+          <spOriginalName>E79</spOriginalName>
+          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
+            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+              <int>2</int>
+              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+              <null/>
+            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[16:0]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
+          <spVERSION>2</spVERSION>
+          <spName>Bb7</spName>
+          <spOriginalName>Bb7</spOriginalName>
+          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
+            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+              <int>2</int>
+              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+              <null/>
+            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[17:0]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
+          <spVERSION>2</spVERSION>
+          <spName>A7</spName>
+          <spOriginalName>A7</spOriginalName>
+          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
+            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+              <int>2</int>
+              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+              <null/>
+            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[17:2]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord reference="../../org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl/spChord"/>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[18:0]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord reference="../../org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl[2]/spChord"/>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[18:2]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
+          <spVERSION>2</spVERSION>
+          <spName>Dm7</spName>
+          <spOriginalName>Dm7</spOriginalName>
+          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
+            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+              <int>2</int>
+              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+              <null/>
+            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[19:0]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
+          <spVERSION>2</spVERSION>
+          <spName>G7</spName>
+          <spOriginalName>G7</spOriginalName>
+          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
+            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+              <int>2</int>
+              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+              <null/>
+            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[19:2]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      <org.jjazz.chordleadsheet.item.CLI__SectionImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_SectionImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spName>B</spName>
+        <spTs>FOUR_FOUR</spTs>
+        <spBarIndex>20</spBarIndex>
+        <spClientProperties>
+          <properties>
+            <entry>
+              <string>PropSectionQuantization</string>
+              <string>ONE_QUARTER_BEAT</string>
+            </entry>
+          </properties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_SectionImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__SectionImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
+          <spVERSION>2</spVERSION>
+          <spName>Gm7</spName>
+          <spOriginalName>Gm7</spOriginalName>
+          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
+            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+              <int>2</int>
+              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+              <null/>
+            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[20:0]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
+          <spVERSION>2</spVERSION>
+          <spName>C7</spName>
+          <spOriginalName>C7</spOriginalName>
+          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
+            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+              <int>2</int>
+              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+              <null/>
+            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[21:0]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
+          <spVERSION>2</spVERSION>
+          <spName>FM7</spName>
+          <spOriginalName>FM7</spOriginalName>
+          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
+            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+              <int>2</int>
+              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+              <null/>
+            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[22:0]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
+          <spVERSION>2</spVERSION>
+          <spName>Fm7</spName>
+          <spOriginalName>Fm7</spOriginalName>
+          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
+            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+              <int>2</int>
+              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+              <null/>
+            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[24:0]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
+          <spVERSION>2</spVERSION>
+          <spName>Bb7</spName>
+          <spOriginalName>Bb7</spOriginalName>
+          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
+            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+              <int>2</int>
+              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+              <null/>
+            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[25:0]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
+          <spVERSION>2</spVERSION>
+          <spName>EbM7</spName>
+          <spOriginalName>EbM7</spOriginalName>
+          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
+            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+              <int>2</int>
+              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+              <null/>
+            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[26:0]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
+          <spVERSION>2</spVERSION>
+          <spName>A7#5</spName>
+          <spOriginalName>A7#5</spOriginalName>
+          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
+            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+              <int>2</int>
+              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+              <null/>
+            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[27:0]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      <org.jjazz.chordleadsheet.item.CLI__SectionImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_SectionImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spName>Out</spName>
+        <spTs>FOUR_FOUR</spTs>
+        <spBarIndex>28</spBarIndex>
+        <spClientProperties>
+          <properties>
+            <entry>
+              <string>PropSectionQuantization</string>
+              <string>ONE_QUARTER_BEAT</string>
+            </entry>
+          </properties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_SectionImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__SectionImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord reference="../../org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl/spChord"/>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[28:0]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord reference="../../org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl[2]/spChord"/>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[28:2]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord reference="../../org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl/spChord"/>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[29:0]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord reference="../../org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl[2]/spChord"/>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[29:2]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord reference="../../org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl/spChord"/>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[30:0]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord reference="../../org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl[2]/spChord"/>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[30:2]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord reference="../../org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl/spChord"/>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[31:0]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord reference="../../org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl[2]/spChord"/>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[31:2]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord reference="../../org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl/spChord"/>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[32:0]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord reference="../../org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl[2]/spChord"/>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[32:2]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord reference="../../org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl/spChord"/>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[33:0]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord reference="../../org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl[2]/spChord"/>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[33:2]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord reference="../../org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl/spChord"/>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[34:0]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord reference="../../org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl[2]/spChord"/>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[34:2]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord reference="../../org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl/spChord"/>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[35:0]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord reference="../../org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl[2]/spChord"/>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[35:2]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord reference="../../org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl/spChord"/>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[36:0]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord reference="../../org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl[2]/spChord"/>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[36:2]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      <org.jjazz.chordleadsheet.item.CLI__SectionImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_SectionImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spName>End</spName>
+        <spTs>FOUR_FOUR</spTs>
+        <spBarIndex>37</spBarIndex>
+        <spClientProperties>
+          <properties>
+            <entry>
+              <string>PropSectionQuantization</string>
+              <string>ONE_QUARTER_BEAT</string>
+            </entry>
+          </properties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_SectionImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__SectionImpl>
+      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
+          <spVERSION>2</spVERSION>
+          <spName>Dm7</spName>
+          <spOriginalName>Dm7</spOriginalName>
+          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
+            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+              <int>2</int>
+              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+              <null/>
+            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
+          <spVERSION>1</spVERSION>
+          <spPos>[37:0]</spPos>
+        </spPos>
+        <spClientProperties>
+          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+    </spItems>
+    <spSize>40</spSize>
+  </spChordLeadSheet>
+  <spSongStructure class="org.jjazz.songstructure.SongStructureImpl" resolves-to="org.jjazz.songstructure.SongStructureImpl$SerializationProxy">
+    <spVERSION>1</spVERSION>
+    <spSpts>
+      <org.jjazz.songstructure.SongPartImpl resolves-to="org.jjazz.songstructure.SongPartImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spRhythmId>CoolBossa.S460.sty-ID</spRhythmId>
+        <spRhythmName>CoolBossa.S460.sty</spRhythmName>
+        <spRhythmTs>FOUR_FOUR</spRhythmTs>
+        <spStartBarIndex>0</spStartBarIndex>
+        <spName>Intro</spName>
+        <spNbBars>8</spNbBars>
+        <spParentSection class="org.jjazz.chordleadsheet.item.CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/org.jjazz.chordleadsheet.item.CLI__SectionImpl"/>
+        <spMapRpIdValue>
+          <VERSION>1</VERSION>
+          <keys>
+            <string>rpVariationID</string>
+            <string>rpIntensityID</string>
+            <string>RpFillID</string>
+            <string>RpSysMuteID</string>
+            <string>rpSysMarkerID</string>
+            <string>rpTempoID</string>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>RP_SYS_CustomPhraseId</string>
+          </keys>
+          <values>
+            <string>Main A-1</string>
+            <string>0</string>
+            <string></string>
+            <string>[Bass,Chord1]</string>
+            <string>theme</string>
+            <string>100</string>
+            <string>[DrumsMixIdhidden#BASS=-64,CRASH=-34,PERCUSSION=-36,TOM=-64,SNARE=-50]</string>
+            <string></string>
+          </values>
+        </spMapRpIdValue>
+        <spMapRpIdDisplayName>
+          <VERSION>1</VERSION>
+          <keys>
+            <string>rpVariationID</string>
+            <string>rpIntensityID</string>
+            <string>RpFillID</string>
+            <string>RpSysMuteID</string>
+            <string>rpSysMarkerID</string>
+            <string>rpTempoID</string>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>RP_SYS_CustomPhraseId</string>
+          </keys>
+          <values>
+            <string>Variation</string>
+            <string>Intensity</string>
+            <string>Fill</string>
+            <string>Mute</string>
+            <string>Marker</string>
+            <string>Tempo %</string>
+            <string>Drums transform</string>
+            <string>Custom phrase</string>
+          </values>
+        </spMapRpIdDisplayName>
+        <spMapRpIdPercentageValue>
+          <VERSION>1</VERSION>
+          <keys>
+            <string>rpVariationID</string>
+            <string>rpIntensityID</string>
+            <string>RpFillID</string>
+            <string>RpSysMuteID</string>
+            <string>rpSysMarkerID</string>
+            <string>rpTempoID</string>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>RP_SYS_CustomPhraseId</string>
+          </keys>
+          <values>
+            <double>0.21428571428571427</double>
+            <double>0.5</double>
+            <double>0.0</double>
+            <double>9.0E-4</double>
+            <double>0.0</double>
+            <double>0.3333333333333333</double>
+            <double>-1.0</double>
+            <double>-1.0</double>
+          </values>
+        </spMapRpIdPercentageValue>
+        <spClientProperties>
+          <owner class="org.jjazz.songstructure.SongPartImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.songstructure.SongPartImpl>
+      <org.jjazz.songstructure.SongPartImpl resolves-to="org.jjazz.songstructure.SongPartImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spRhythmId>CoolBossa.S460.sty-ID</spRhythmId>
+        <spRhythmName>CoolBossa.S460.sty</spRhythmName>
+        <spRhythmTs>FOUR_FOUR</spRhythmTs>
+        <spStartBarIndex>8</spStartBarIndex>
+        <spName>Chorus 1</spName>
+        <spNbBars>12</spNbBars>
+        <spParentSection class="org.jjazz.chordleadsheet.item.CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/org.jjazz.chordleadsheet.item.CLI__SectionImpl[2]"/>
+        <spMapRpIdValue>
+          <VERSION>1</VERSION>
+          <keys>
+            <string>rpVariationID</string>
+            <string>rpIntensityID</string>
+            <string>RpFillID</string>
+            <string>RpSysMuteID</string>
+            <string>rpSysMarkerID</string>
+            <string>rpTempoID</string>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>RP_SYS_CustomPhraseId</string>
+          </keys>
+          <values>
+            <string>Main A-1</string>
+            <string>0</string>
+            <string></string>
+            <string>[Bass,Chord1]</string>
+            <string>theme</string>
+            <string>100</string>
+            <string>[DrumsMixIdhidden#BASS=-64,CRASH=-34,PERCUSSION=-36,TOM=-64,SNARE=-50]</string>
+            <string></string>
+          </values>
+        </spMapRpIdValue>
+        <spMapRpIdDisplayName>
+          <VERSION>1</VERSION>
+          <keys>
+            <string>rpVariationID</string>
+            <string>rpIntensityID</string>
+            <string>RpFillID</string>
+            <string>RpSysMuteID</string>
+            <string>rpSysMarkerID</string>
+            <string>rpTempoID</string>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>RP_SYS_CustomPhraseId</string>
+          </keys>
+          <values>
+            <string>Variation</string>
+            <string>Intensity</string>
+            <string>Fill</string>
+            <string>Mute</string>
+            <string>Marker</string>
+            <string>Tempo %</string>
+            <string>Drums transform</string>
+            <string>Custom phrase</string>
+          </values>
+        </spMapRpIdDisplayName>
+        <spMapRpIdPercentageValue>
+          <VERSION>1</VERSION>
+          <keys>
+            <string>rpVariationID</string>
+            <string>rpIntensityID</string>
+            <string>RpFillID</string>
+            <string>RpSysMuteID</string>
+            <string>rpSysMarkerID</string>
+            <string>rpTempoID</string>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>RP_SYS_CustomPhraseId</string>
+          </keys>
+          <values>
+            <double>0.21428571428571427</double>
+            <double>0.5</double>
+            <double>0.0</double>
+            <double>9.0E-4</double>
+            <double>0.0</double>
+            <double>0.3333333333333333</double>
+            <double>-1.0</double>
+            <double>-1.0</double>
+          </values>
+        </spMapRpIdPercentageValue>
+        <spClientProperties>
+          <owner class="org.jjazz.songstructure.SongPartImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.songstructure.SongPartImpl>
+      <org.jjazz.songstructure.SongPartImpl resolves-to="org.jjazz.songstructure.SongPartImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spRhythmId>CoolBossa.S460.sty-ID</spRhythmId>
+        <spRhythmName>CoolBossa.S460.sty</spRhythmName>
+        <spRhythmTs>FOUR_FOUR</spRhythmTs>
+        <spStartBarIndex>20</spStartBarIndex>
+        <spName>Chorus 1</spName>
+        <spNbBars>12</spNbBars>
+        <spParentSection class="org.jjazz.chordleadsheet.item.CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/org.jjazz.chordleadsheet.item.CLI__SectionImpl[2]"/>
+        <spMapRpIdValue>
+          <VERSION>1</VERSION>
+          <keys>
+            <string>rpVariationID</string>
+            <string>rpIntensityID</string>
+            <string>RpFillID</string>
+            <string>RpSysMuteID</string>
+            <string>rpSysMarkerID</string>
+            <string>rpTempoID</string>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>RP_SYS_CustomPhraseId</string>
+          </keys>
+          <values>
+            <string>Main A-1</string>
+            <string>0</string>
+            <string></string>
+            <string>[Bass,Chord1]</string>
+            <string>theme</string>
+            <string>100</string>
+            <string>[DrumsMixIdhidden#BASS=-64,CRASH=-34,PERCUSSION=-36,TOM=-64,SNARE=-50]</string>
+            <string></string>
+          </values>
+        </spMapRpIdValue>
+        <spMapRpIdDisplayName>
+          <VERSION>1</VERSION>
+          <keys>
+            <string>rpVariationID</string>
+            <string>rpIntensityID</string>
+            <string>RpFillID</string>
+            <string>RpSysMuteID</string>
+            <string>rpSysMarkerID</string>
+            <string>rpTempoID</string>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>RP_SYS_CustomPhraseId</string>
+          </keys>
+          <values>
+            <string>Variation</string>
+            <string>Intensity</string>
+            <string>Fill</string>
+            <string>Mute</string>
+            <string>Marker</string>
+            <string>Tempo %</string>
+            <string>Drums transform</string>
+            <string>Custom phrase</string>
+          </values>
+        </spMapRpIdDisplayName>
+        <spMapRpIdPercentageValue>
+          <VERSION>1</VERSION>
+          <keys>
+            <string>rpVariationID</string>
+            <string>rpIntensityID</string>
+            <string>RpFillID</string>
+            <string>RpSysMuteID</string>
+            <string>rpSysMarkerID</string>
+            <string>rpTempoID</string>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>RP_SYS_CustomPhraseId</string>
+          </keys>
+          <values>
+            <double>0.21428571428571427</double>
+            <double>0.5</double>
+            <double>0.0</double>
+            <double>9.0E-4</double>
+            <double>0.0</double>
+            <double>0.3333333333333333</double>
+            <double>-1.0</double>
+            <double>-1.0</double>
+          </values>
+        </spMapRpIdPercentageValue>
+        <spClientProperties>
+          <owner class="org.jjazz.songstructure.SongPartImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.songstructure.SongPartImpl>
+      <org.jjazz.songstructure.SongPartImpl resolves-to="org.jjazz.songstructure.SongPartImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spRhythmId>CoolBossa.S460.sty-ID</spRhythmId>
+        <spRhythmName>CoolBossa.S460.sty</spRhythmName>
+        <spRhythmTs>FOUR_FOUR</spRhythmTs>
+        <spStartBarIndex>32</spStartBarIndex>
+        <spName>Chorus 1</spName>
+        <spNbBars>8</spNbBars>
+        <spParentSection class="org.jjazz.chordleadsheet.item.CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/org.jjazz.chordleadsheet.item.CLI__SectionImpl[3]"/>
+        <spMapRpIdValue>
+          <VERSION>1</VERSION>
+          <keys>
+            <string>rpVariationID</string>
+            <string>rpIntensityID</string>
+            <string>RpFillID</string>
+            <string>RpSysMuteID</string>
+            <string>rpSysMarkerID</string>
+            <string>rpTempoID</string>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>RP_SYS_CustomPhraseId</string>
+          </keys>
+          <values>
+            <string>Main A-1</string>
+            <string>0</string>
+            <string></string>
+            <string>[Bass,Chord1]</string>
+            <string>theme</string>
+            <string>100</string>
+            <string>[DrumsMixIdhidden#BASS=-64,CRASH=-34,PERCUSSION=-36,TOM=-64,SNARE=-50]</string>
+            <string></string>
+          </values>
+        </spMapRpIdValue>
+        <spMapRpIdDisplayName>
+          <VERSION>1</VERSION>
+          <keys>
+            <string>rpVariationID</string>
+            <string>rpIntensityID</string>
+            <string>RpFillID</string>
+            <string>RpSysMuteID</string>
+            <string>rpSysMarkerID</string>
+            <string>rpTempoID</string>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>RP_SYS_CustomPhraseId</string>
+          </keys>
+          <values>
+            <string>Variation</string>
+            <string>Intensity</string>
+            <string>Fill</string>
+            <string>Mute</string>
+            <string>Marker</string>
+            <string>Tempo %</string>
+            <string>Drums transform</string>
+            <string>Custom phrase</string>
+          </values>
+        </spMapRpIdDisplayName>
+        <spMapRpIdPercentageValue>
+          <VERSION>1</VERSION>
+          <keys>
+            <string>rpVariationID</string>
+            <string>rpIntensityID</string>
+            <string>RpFillID</string>
+            <string>RpSysMuteID</string>
+            <string>rpSysMarkerID</string>
+            <string>rpTempoID</string>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>RP_SYS_CustomPhraseId</string>
+          </keys>
+          <values>
+            <double>0.21428571428571427</double>
+            <double>0.5</double>
+            <double>0.0</double>
+            <double>9.0E-4</double>
+            <double>0.0</double>
+            <double>0.3333333333333333</double>
+            <double>-1.0</double>
+            <double>-1.0</double>
+          </values>
+        </spMapRpIdPercentageValue>
+        <spClientProperties>
+          <owner class="org.jjazz.songstructure.SongPartImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.songstructure.SongPartImpl>
+      <org.jjazz.songstructure.SongPartImpl resolves-to="org.jjazz.songstructure.SongPartImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spRhythmId>CoolBossa.S460.sty-ID</spRhythmId>
+        <spRhythmName>CoolBossa.S460.sty</spRhythmName>
+        <spRhythmTs>FOUR_FOUR</spRhythmTs>
+        <spStartBarIndex>40</spStartBarIndex>
+        <spName>Chorus 1</spName>
+        <spNbBars>12</spNbBars>
+        <spParentSection class="org.jjazz.chordleadsheet.item.CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/org.jjazz.chordleadsheet.item.CLI__SectionImpl[2]"/>
+        <spMapRpIdValue>
+          <VERSION>1</VERSION>
+          <keys>
+            <string>rpVariationID</string>
+            <string>rpIntensityID</string>
+            <string>RpFillID</string>
+            <string>RpSysMuteID</string>
+            <string>rpSysMarkerID</string>
+            <string>rpTempoID</string>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>RP_SYS_CustomPhraseId</string>
+          </keys>
+          <values>
+            <string>Main A-1</string>
+            <string>0</string>
+            <string></string>
+            <string>[Bass,Chord1]</string>
+            <string>theme</string>
+            <string>100</string>
+            <string>[DrumsMixIdhidden#BASS=-64,CRASH=-34,PERCUSSION=-36,TOM=-64,SNARE=-50]</string>
+            <string></string>
+          </values>
+        </spMapRpIdValue>
+        <spMapRpIdDisplayName>
+          <VERSION>1</VERSION>
+          <keys>
+            <string>rpVariationID</string>
+            <string>rpIntensityID</string>
+            <string>RpFillID</string>
+            <string>RpSysMuteID</string>
+            <string>rpSysMarkerID</string>
+            <string>rpTempoID</string>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>RP_SYS_CustomPhraseId</string>
+          </keys>
+          <values>
+            <string>Variation</string>
+            <string>Intensity</string>
+            <string>Fill</string>
+            <string>Mute</string>
+            <string>Marker</string>
+            <string>Tempo %</string>
+            <string>Drums transform</string>
+            <string>Custom phrase</string>
+          </values>
+        </spMapRpIdDisplayName>
+        <spMapRpIdPercentageValue>
+          <VERSION>1</VERSION>
+          <keys>
+            <string>rpVariationID</string>
+            <string>rpIntensityID</string>
+            <string>RpFillID</string>
+            <string>RpSysMuteID</string>
+            <string>rpSysMarkerID</string>
+            <string>rpTempoID</string>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>RP_SYS_CustomPhraseId</string>
+          </keys>
+          <values>
+            <double>0.21428571428571427</double>
+            <double>0.5</double>
+            <double>0.0</double>
+            <double>9.0E-4</double>
+            <double>0.0</double>
+            <double>0.3333333333333333</double>
+            <double>-1.0</double>
+            <double>-1.0</double>
+          </values>
+        </spMapRpIdPercentageValue>
+        <spClientProperties>
+          <owner class="org.jjazz.songstructure.SongPartImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.songstructure.SongPartImpl>
+      <org.jjazz.songstructure.SongPartImpl resolves-to="org.jjazz.songstructure.SongPartImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spRhythmId>CoolBossa.S460.sty-ID</spRhythmId>
+        <spRhythmName>CoolBossa.S460.sty</spRhythmName>
+        <spRhythmTs>FOUR_FOUR</spRhythmTs>
+        <spStartBarIndex>52</spStartBarIndex>
+        <spName>Chorus 2</spName>
+        <spNbBars>12</spNbBars>
+        <spParentSection class="org.jjazz.chordleadsheet.item.CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/org.jjazz.chordleadsheet.item.CLI__SectionImpl[2]"/>
+        <spMapRpIdValue>
+          <VERSION>1</VERSION>
+          <keys>
+            <string>rpVariationID</string>
+            <string>rpIntensityID</string>
+            <string>RpFillID</string>
+            <string>RpSysMuteID</string>
+            <string>rpSysMarkerID</string>
+            <string>rpTempoID</string>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>RP_SYS_CustomPhraseId</string>
+          </keys>
+          <values>
+            <string>Main A-1</string>
+            <string>0</string>
+            <string></string>
+            <string>[Bass]</string>
+            <string>theme</string>
+            <string>100</string>
+            <string>[DrumsMixIdhidden#BASS=-64,CRASH=-34,PERCUSSION=-36,TOM=-64,SNARE=-50]</string>
+            <string></string>
+          </values>
+        </spMapRpIdValue>
+        <spMapRpIdDisplayName>
+          <VERSION>1</VERSION>
+          <keys>
+            <string>rpVariationID</string>
+            <string>rpIntensityID</string>
+            <string>RpFillID</string>
+            <string>RpSysMuteID</string>
+            <string>rpSysMarkerID</string>
+            <string>rpTempoID</string>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>RP_SYS_CustomPhraseId</string>
+          </keys>
+          <values>
+            <string>Variation</string>
+            <string>Intensity</string>
+            <string>Fill</string>
+            <string>Mute</string>
+            <string>Marker</string>
+            <string>Tempo %</string>
+            <string>Drums transform</string>
+            <string>Custom phrase</string>
+          </values>
+        </spMapRpIdDisplayName>
+        <spMapRpIdPercentageValue>
+          <VERSION>1</VERSION>
+          <keys>
+            <string>rpVariationID</string>
+            <string>rpIntensityID</string>
+            <string>RpFillID</string>
+            <string>RpSysMuteID</string>
+            <string>rpSysMarkerID</string>
+            <string>rpTempoID</string>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>RP_SYS_CustomPhraseId</string>
+          </keys>
+          <values>
+            <double>0.21428571428571427</double>
+            <double>0.5</double>
+            <double>0.0</double>
+            <double>1.0E-4</double>
+            <double>0.0</double>
+            <double>0.3333333333333333</double>
+            <double>-1.0</double>
+            <double>-1.0</double>
+          </values>
+        </spMapRpIdPercentageValue>
+        <spClientProperties>
+          <owner class="org.jjazz.songstructure.SongPartImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.songstructure.SongPartImpl>
+      <org.jjazz.songstructure.SongPartImpl resolves-to="org.jjazz.songstructure.SongPartImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spRhythmId>CoolBossa.S460.sty-ID</spRhythmId>
+        <spRhythmName>CoolBossa.S460.sty</spRhythmName>
+        <spRhythmTs>FOUR_FOUR</spRhythmTs>
+        <spStartBarIndex>64</spStartBarIndex>
+        <spName>Chorus 2</spName>
+        <spNbBars>8</spNbBars>
+        <spParentSection class="org.jjazz.chordleadsheet.item.CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/org.jjazz.chordleadsheet.item.CLI__SectionImpl[3]"/>
+        <spMapRpIdValue>
+          <VERSION>1</VERSION>
+          <keys>
+            <string>rpVariationID</string>
+            <string>rpIntensityID</string>
+            <string>RpFillID</string>
+            <string>RpSysMuteID</string>
+            <string>rpSysMarkerID</string>
+            <string>rpTempoID</string>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>RP_SYS_CustomPhraseId</string>
+          </keys>
+          <values>
+            <string>Main A-1</string>
+            <string>0</string>
+            <string></string>
+            <string>[Bass,Chord1]</string>
+            <string>theme</string>
+            <string>100</string>
+            <string>[DrumsMixIdhidden#BASS=-64,CRASH=-34,PERCUSSION=-36,TOM=-64,SNARE=-50]</string>
+            <string></string>
+          </values>
+        </spMapRpIdValue>
+        <spMapRpIdDisplayName>
+          <VERSION>1</VERSION>
+          <keys>
+            <string>rpVariationID</string>
+            <string>rpIntensityID</string>
+            <string>RpFillID</string>
+            <string>RpSysMuteID</string>
+            <string>rpSysMarkerID</string>
+            <string>rpTempoID</string>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>RP_SYS_CustomPhraseId</string>
+          </keys>
+          <values>
+            <string>Variation</string>
+            <string>Intensity</string>
+            <string>Fill</string>
+            <string>Mute</string>
+            <string>Marker</string>
+            <string>Tempo %</string>
+            <string>Drums transform</string>
+            <string>Custom phrase</string>
+          </values>
+        </spMapRpIdDisplayName>
+        <spMapRpIdPercentageValue>
+          <VERSION>1</VERSION>
+          <keys>
+            <string>rpVariationID</string>
+            <string>rpIntensityID</string>
+            <string>RpFillID</string>
+            <string>RpSysMuteID</string>
+            <string>rpSysMarkerID</string>
+            <string>rpTempoID</string>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>RP_SYS_CustomPhraseId</string>
+          </keys>
+          <values>
+            <double>0.21428571428571427</double>
+            <double>0.5</double>
+            <double>0.0</double>
+            <double>9.0E-4</double>
+            <double>0.0</double>
+            <double>0.3333333333333333</double>
+            <double>-1.0</double>
+            <double>-1.0</double>
+          </values>
+        </spMapRpIdPercentageValue>
+        <spClientProperties>
+          <owner class="org.jjazz.songstructure.SongPartImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.songstructure.SongPartImpl>
+      <org.jjazz.songstructure.SongPartImpl resolves-to="org.jjazz.songstructure.SongPartImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spRhythmId>CoolBossa.S460.sty-ID</spRhythmId>
+        <spRhythmName>CoolBossa.S460.sty</spRhythmName>
+        <spRhythmTs>FOUR_FOUR</spRhythmTs>
+        <spStartBarIndex>72</spStartBarIndex>
+        <spName>Chorus 2</spName>
+        <spNbBars>12</spNbBars>
+        <spParentSection class="org.jjazz.chordleadsheet.item.CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/org.jjazz.chordleadsheet.item.CLI__SectionImpl[2]"/>
+        <spMapRpIdValue>
+          <VERSION>1</VERSION>
+          <keys>
+            <string>rpVariationID</string>
+            <string>rpIntensityID</string>
+            <string>RpFillID</string>
+            <string>RpSysMuteID</string>
+            <string>rpSysMarkerID</string>
+            <string>rpTempoID</string>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>RP_SYS_CustomPhraseId</string>
+          </keys>
+          <values>
+            <string>Main A-1</string>
+            <string>0</string>
+            <string></string>
+            <string>[Bass,Chord1]</string>
+            <string>theme</string>
+            <string>100</string>
+            <string>[DrumsMixIdhidden#BASS=-64,CRASH=-34,PERCUSSION=-36,TOM=-64,SNARE=-50]</string>
+            <string></string>
+          </values>
+        </spMapRpIdValue>
+        <spMapRpIdDisplayName>
+          <VERSION>1</VERSION>
+          <keys>
+            <string>rpVariationID</string>
+            <string>rpIntensityID</string>
+            <string>RpFillID</string>
+            <string>RpSysMuteID</string>
+            <string>rpSysMarkerID</string>
+            <string>rpTempoID</string>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>RP_SYS_CustomPhraseId</string>
+          </keys>
+          <values>
+            <string>Variation</string>
+            <string>Intensity</string>
+            <string>Fill</string>
+            <string>Mute</string>
+            <string>Marker</string>
+            <string>Tempo %</string>
+            <string>Drums transform</string>
+            <string>Custom phrase</string>
+          </values>
+        </spMapRpIdDisplayName>
+        <spMapRpIdPercentageValue>
+          <VERSION>1</VERSION>
+          <keys>
+            <string>rpVariationID</string>
+            <string>rpIntensityID</string>
+            <string>RpFillID</string>
+            <string>RpSysMuteID</string>
+            <string>rpSysMarkerID</string>
+            <string>rpTempoID</string>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>RP_SYS_CustomPhraseId</string>
+          </keys>
+          <values>
+            <double>0.21428571428571427</double>
+            <double>0.5</double>
+            <double>0.0</double>
+            <double>9.0E-4</double>
+            <double>0.0</double>
+            <double>0.3333333333333333</double>
+            <double>-1.0</double>
+            <double>-1.0</double>
+          </values>
+        </spMapRpIdPercentageValue>
+        <spClientProperties>
+          <owner class="org.jjazz.songstructure.SongPartImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.songstructure.SongPartImpl>
+      <org.jjazz.songstructure.SongPartImpl resolves-to="org.jjazz.songstructure.SongPartImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spRhythmId>CoolBossa.S460.sty-ID</spRhythmId>
+        <spRhythmName>CoolBossa.S460.sty</spRhythmName>
+        <spRhythmTs>FOUR_FOUR</spRhythmTs>
+        <spStartBarIndex>84</spStartBarIndex>
+        <spName>Out</spName>
+        <spNbBars>9</spNbBars>
+        <spParentSection class="org.jjazz.chordleadsheet.item.CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/org.jjazz.chordleadsheet.item.CLI__SectionImpl[4]"/>
+        <spMapRpIdValue>
+          <VERSION>1</VERSION>
+          <keys>
+            <string>rpVariationID</string>
+            <string>rpIntensityID</string>
+            <string>RpFillID</string>
+            <string>RpSysMuteID</string>
+            <string>rpSysMarkerID</string>
+            <string>rpTempoID</string>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>RP_SYS_CustomPhraseId</string>
+          </keys>
+          <values>
+            <string>Main A-1</string>
+            <string>0</string>
+            <string></string>
+            <string>[Bass,Chord1]</string>
+            <string>theme</string>
+            <string>100</string>
+            <string>[DrumsMixIdhidden#BASS=-64,CRASH=-34,PERCUSSION=-36,TOM=-64,SNARE=-50]</string>
+            <string></string>
+          </values>
+        </spMapRpIdValue>
+        <spMapRpIdDisplayName>
+          <VERSION>1</VERSION>
+          <keys>
+            <string>rpVariationID</string>
+            <string>rpIntensityID</string>
+            <string>RpFillID</string>
+            <string>RpSysMuteID</string>
+            <string>rpSysMarkerID</string>
+            <string>rpTempoID</string>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>RP_SYS_CustomPhraseId</string>
+          </keys>
+          <values>
+            <string>Variation</string>
+            <string>Intensity</string>
+            <string>Fill</string>
+            <string>Mute</string>
+            <string>Marker</string>
+            <string>Tempo %</string>
+            <string>Drums transform</string>
+            <string>Custom phrase</string>
+          </values>
+        </spMapRpIdDisplayName>
+        <spMapRpIdPercentageValue>
+          <VERSION>1</VERSION>
+          <keys>
+            <string>rpVariationID</string>
+            <string>rpIntensityID</string>
+            <string>RpFillID</string>
+            <string>RpSysMuteID</string>
+            <string>rpSysMarkerID</string>
+            <string>rpTempoID</string>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>RP_SYS_CustomPhraseId</string>
+          </keys>
+          <values>
+            <double>0.21428571428571427</double>
+            <double>0.5</double>
+            <double>0.0</double>
+            <double>9.0E-4</double>
+            <double>0.0</double>
+            <double>0.3333333333333333</double>
+            <double>-1.0</double>
+            <double>-1.0</double>
+          </values>
+        </spMapRpIdPercentageValue>
+        <spClientProperties>
+          <owner class="org.jjazz.songstructure.SongPartImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.songstructure.SongPartImpl>
+      <org.jjazz.songstructure.SongPartImpl resolves-to="org.jjazz.songstructure.SongPartImpl$SerializationProxy">
+        <spVERSION>2</spVERSION>
+        <spRhythmId>CoolBossa.S460.sty-ID</spRhythmId>
+        <spRhythmName>CoolBossa.S460.sty</spRhythmName>
+        <spRhythmTs>FOUR_FOUR</spRhythmTs>
+        <spStartBarIndex>93</spStartBarIndex>
+        <spName>End</spName>
+        <spNbBars>3</spNbBars>
+        <spParentSection class="org.jjazz.chordleadsheet.item.CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/org.jjazz.chordleadsheet.item.CLI__SectionImpl[5]"/>
+        <spMapRpIdValue>
+          <VERSION>1</VERSION>
+          <keys>
+            <string>rpVariationID</string>
+            <string>rpIntensityID</string>
+            <string>RpFillID</string>
+            <string>RpSysMuteID</string>
+            <string>rpSysMarkerID</string>
+            <string>rpTempoID</string>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>RP_SYS_CustomPhraseId</string>
+          </keys>
+          <values>
+            <string>Ending A-1</string>
+            <string>0</string>
+            <string></string>
+            <string>[Bass,Chord1]</string>
+            <string>theme</string>
+            <string>100</string>
+            <string>[DrumsMixIdhidden#BASS=-64,CRASH=-34,PERCUSSION=-36,TOM=-64,SNARE=-50]</string>
+            <string></string>
+          </values>
+        </spMapRpIdValue>
+        <spMapRpIdDisplayName>
+          <VERSION>1</VERSION>
+          <keys>
+            <string>rpVariationID</string>
+            <string>rpIntensityID</string>
+            <string>RpFillID</string>
+            <string>RpSysMuteID</string>
+            <string>rpSysMarkerID</string>
+            <string>rpTempoID</string>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>RP_SYS_CustomPhraseId</string>
+          </keys>
+          <values>
+            <string>Variation</string>
+            <string>Intensity</string>
+            <string>Fill</string>
+            <string>Mute</string>
+            <string>Marker</string>
+            <string>Tempo %</string>
+            <string>Drums transform</string>
+            <string>Custom phrase</string>
+          </values>
+        </spMapRpIdDisplayName>
+        <spMapRpIdPercentageValue>
+          <VERSION>1</VERSION>
+          <keys>
+            <string>rpVariationID</string>
+            <string>rpIntensityID</string>
+            <string>RpFillID</string>
+            <string>RpSysMuteID</string>
+            <string>rpSysMarkerID</string>
+            <string>rpTempoID</string>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>RP_SYS_CustomPhraseId</string>
+          </keys>
+          <values>
+            <double>0.8571428571428571</double>
+            <double>0.5</double>
+            <double>0.0</double>
+            <double>9.0E-4</double>
+            <double>0.0</double>
+            <double>0.3333333333333333</double>
+            <double>-1.0</double>
+            <double>-1.0</double>
+          </values>
+        </spMapRpIdPercentageValue>
+        <spClientProperties>
+          <owner class="org.jjazz.songstructure.SongPartImpl" reference="../.."/>
+        </spClientProperties>
+      </org.jjazz.songstructure.SongPartImpl>
+    </spSpts>
+    <spParentCls class="org.jjazz.chordleadsheet.ChordLeadSheetImpl" reference="../../spChordLeadSheet"/>
+    <spKeepUpdated>true</spKeepUpdated>
+  </spSongStructure>
+  <spMapUserPhrases>
+    <entry>
+      <string>User2</string>
+      <org.jjazz.phrase.api.Phrase resolves-to="org.jjazz.phrase.api.Phrase$SerializationProxy">
+        <spVERSION>1</spVERSION>
+        <spSaveString>[1|50,62,1.9895834:0.0|57,62,0.9895833:0.0|60,62,0.9895833:0.0|65,62,0.9895833:0.0|57,62,0.9895833:1.0|60,62,0.9895833:1.0|65,62,0.9895833:1.0|50,62,0.9895833:2.0|59,62,0.48958334:2.0|62,62,0.48958334:2.0|67,62,0.48958334:2.0|59,62,0.9895833:2.5|62,62,0.9895833:2.5|67,62,0.9895833:2.5|50,62,0.9895833:3.0|57,62,0.9895833:3.5|60,62,0.9895833:3.5|65,62,0.9895833:3.5|50,62,0.9895833:4.0|57,62,0.9895833:4.5|60,62,0.9895833:4.5|65,62,0.9895833:4.5|50,62,0.9895833:5.0|59,62,0.48958334:5.5|62,62,0.48958334:5.5|67,62,0.48958334:5.5|50,62,1.9895834:6.0|59,62,0.9895833:6.0|62,62,0.9895833:6.0|67,62,0.9895833:6.0|59,62,0.9895833:7.0|62,62,0.9895833:7.0|67,62,0.9895833:7.0|50,64,1.9895834:8.0|57,64,0.9895833:8.0|60,64,0.9895833:8.0|65,64,0.9895833:8.0|57,64,0.9895833:9.0|60,64,0.9895833:9.0|65,64,0.9895833:9.0|50,64,0.9895833:10.0|59,64,0.48958334:10.0|62,64,0.48958334:10.0|67,64,0.48958334:10.0|59,64,0.9895833:10.5|62,64,0.9895833:10.5|67,64,0.9895833:10.5|50,64,0.9895833:11.0|57,64,0.9895833:11.5|60,64,0.9895833:11.5|65,64,0.9895833:11.5|50,64,0.9895833:12.0|57,64,0.9895833:12.5|60,64,0.9895833:12.5|65,64,0.9895833:12.5|50,64,0.9895833:13.0|59,64,0.48958334:13.5|62,64,0.48958334:13.5|67,64,0.48958334:13.5|50,64,1.9895834:14.0|59,64,0.9895833:14.0|62,64,0.9895833:14.0|67,64,0.9895833:14.0|59,64,0.9895833:15.0|62,64,0.9895833:15.0|67,64,0.9895833:15.0|50,64,1.9895834:16.0|57,64,0.9895833:16.0|60,64,0.9895833:16.0|65,64,0.9895833:16.0|57,64,0.9895833:17.0|60,64,0.9895833:17.0|65,64,0.9895833:17.0|50,64,0.9895833:18.0|59,64,0.48958334:18.0|62,64,0.48958334:18.0|67,64,0.48958334:18.0|59,64,0.9895833:18.5|62,64,0.9895833:18.5|67,64,0.9895833:18.5|50,64,0.9895833:19.0|57,64,0.9895833:19.5|60,64,0.9895833:19.5|65,64,0.9895833:19.5|50,64,0.9895833:20.0|57,64,0.9895833:20.5|60,64,0.9895833:20.5|65,64,0.9895833:20.5|50,64,0.9895833:21.0|59,64,0.48958334:21.5|62,64,0.48958334:21.5|67,64,0.48958334:21.5|50,64,1.9895834:22.0|59,64,0.9895833:22.0|62,64,0.9895833:22.0|67,64,0.9895833:22.0|59,64,0.9895833:23.0|62,64,0.9895833:23.0|67,64,0.9895833:23.0|50,64,1.9895834:24.0|57,64,0.9895833:24.0|60,64,0.9895833:24.0|65,64,0.9895833:24.0|57,64,0.9895833:25.0|60,64,0.9895833:25.0|65,64,0.9895833:25.0|50,64,0.9895833:26.0|59,64,0.48958334:26.0|62,64,0.48958334:26.0|67,64,0.48958334:26.0|59,64,0.9895833:26.5|62,64,0.9895833:26.5|67,64,0.9895833:26.5|50,64,0.9895833:27.0|57,64,0.9895833:27.5|60,64,0.9895833:27.5|65,64,0.9895833:27.5|50,64,0.9895833:28.0|57,64,0.9895833:28.5|60,64,0.9895833:28.5|65,64,0.9895833:28.5|50,64,0.9895833:29.0|59,64,0.48958334:29.5|62,64,0.48958334:29.5|67,64,0.48958334:29.5|50,64,1.9895834:32.0|54,64,0.9895833:32.0|61,64,0.9895833:32.0|64,64,0.9895833:32.0|54,64,0.9895833:33.0|61,64,0.9895833:33.0|64,64,0.9895833:33.0|50,64,0.9895833:34.0|54,64,0.48958334:34.0|61,64,0.48958334:34.0|64,64,0.48958334:34.0|54,64,0.9895833:34.5|61,64,0.9895833:34.5|64,64,0.9895833:34.5|45,64,0.9895833:35.0|54,64,0.48958334:35.5|61,64,0.48958334:35.5|64,64,0.48958334:35.5|46,64,0.9895833:36.0|55,64,0.48958334:36.0|61,64,0.48958334:36.0|64,64,0.48958334:36.0|55,64,0.9895833:36.5|61,64,0.9895833:36.5|64,64,0.9895833:36.5|46,64,0.9895833:37.0|55,64,0.48958334:37.5|61,64,0.48958334:37.5|64,64,0.48958334:37.5|46,64,1.9895834:38.0|55,64,0.48958334:38.0|61,64,0.48958334:38.0|64,64,0.48958334:38.0|55,64,1.4895834:38.5|61,64,1.4895834:38.5|64,64,1.4895834:38.5|45,64,1.9895834:40.0|55,64,0.9895833:40.0|60,64,0.9895833:40.0|64,64,0.9895833:40.0|55,64,0.9895833:41.0|60,64,0.9895833:41.0|64,64,0.9895833:41.0|45,64,0.9895833:42.0|55,64,0.48958334:42.0|60,64,0.48958334:42.0|64,64,0.48958334:42.0|55,64,0.9895833:42.5|60,64,0.9895833:42.5|64,64,0.9895833:42.5|45,64,0.9895833:43.0|55,64,0.48958334:43.5|60,64,0.48958334:43.5|64,64,0.48958334:43.5|50,64,0.9895833:44.0|54,64,0.48958334:44.0|60,64,0.48958334:44.0|63,64,0.48958334:44.0|54,64,0.9895833:44.5|60,64,0.9895833:44.5|63,64,0.9895833:44.5|50,64,0.9895833:45.0|54,64,0.48958334:45.5|60,64,0.48958334:45.5|63,64,0.48958334:45.5|50,64,1.9895834:46.0|54,64,0.48958334:46.0|60,64,0.48958334:46.0|63,64,0.48958334:46.0|54,64,1.4895834:46.5|60,64,1.4895834:46.5|63,64,1.4895834:46.5|43,64,1.9895834:48.0|54,64,0.9895833:48.0|59,64,0.9895833:48.0|62,64,0.9895833:48.0|54,64,0.9895833:49.0|59,64,0.9895833:49.0|62,64,0.9895833:49.0|43,64,0.9895833:50.0|54,64,0.48958334:50.0|59,64,0.48958334:50.0|62,64,0.48958334:50.0|54,64,0.9895833:50.5|59,64,0.9895833:50.5|62,64,0.9895833:50.5|43,64,0.9895833:51.0|54,64,0.48958334:51.5|59,64,0.48958334:51.5|62,64,0.48958334:51.5|43,64,0.9895833:52.0|52,64,0.48958334:52.0|58,64,0.48958334:52.0|62,64,0.48958334:52.0|52,64,0.9895833:52.5|58,64,0.9895833:52.5|62,64,0.9895833:52.5|43,64,0.9895833:53.0|52,64,0.9895833:53.5|58,64,0.9895833:53.5|62,64,0.9895833:53.5|43,64,1.9895834:54.0|52,64,0.9895833:54.5|58,64,0.9895833:54.5|62,64,0.9895833:54.5|52,64,0.48958334:55.5|58,64,0.48958334:55.5|62,64,0.48958334:55.5|42,64,1.9895834:56.0|52,64,0.9895833:56.0|58,64,0.9895833:56.0|63,64,0.9895833:56.0|52,64,0.9895833:57.0|58,64,0.9895833:57.0|63,64,0.9895833:57.0|42,64,0.9895833:58.0|52,64,0.48958334:58.0|58,64,0.48958334:58.0|62,64,0.48958334:58.0|52,64,0.9895833:58.5|58,64,0.9895833:58.5|62,64,0.9895833:58.5|42,64,0.9895833:59.0|52,64,0.48958334:59.5|58,64,0.48958334:59.5|62,64,0.48958334:59.5|47,64,0.9895833:60.0|51,64,0.48958334:60.0|57,64,0.48958334:60.0|61,64,0.48958334:60.0|51,64,0.9895833:60.5|57,64,0.9895833:60.5|61,64,0.9895833:60.5|47,64,0.9895833:61.0|51,64,0.48958334:61.5|57,64,0.48958334:61.5|61,64,0.48958334:61.5|47,64,0.9895833:62.0|51,64,0.48958334:62.0|57,64,0.48958334:62.0|60,64,0.48958334:62.0|51,64,0.9895833:62.5|57,64,0.9895833:62.5|60,64,0.9895833:62.5|47,64,0.9947917:62.994793|51,64,0.49479166:63.494793|57,64,0.49479166:63.494793|60,64,0.49479166:63.494793|52,64,0.9947917:63.994793|56,64,0.49479166:63.994793|62,64,0.49479166:63.994793|66,64,0.49479166:63.994793|56,64,0.9895833:64.5|62,64,0.9895833:64.5|66,64,0.9895833:64.5|52,64,0.9895833:65.0|56,64,0.48958334:65.5|62,64,0.48958334:65.5|66,64,0.48958334:65.5|40,64,0.9895833:66.0|56,64,0.48958334:66.0|62,64,0.48958334:66.0|66,64,0.48958334:66.0|56,64,0.9895833:66.5|62,64,0.9895833:66.5|66,64,0.9895833:66.5|52,64,0.9895833:67.0|56,64,0.48958334:67.5|62,64,0.48958334:67.5|66,64,0.48958334:67.5|46,64,1.9895834:68.0|56,64,0.9895833:68.0|62,64,0.9895833:68.0|67,64,0.9895833:68.0|56,64,0.9895833:69.0|62,64,0.9895833:69.0|67,64,0.9895833:69.0|45,64,1.9895834:70.0|55,64,0.48958334:70.0|61,64,0.48958334:70.0|65,64,0.48958334:70.0|55,64,1.4895834:70.5|61,64,1.4895834:70.5|65,64,1.4895834:70.5|50,64,1.9895834:72.0|57,64,0.9895833:72.0|60,64,0.9895833:72.0|65,64,0.9895833:72.0|57,64,0.9895833:73.0|60,64,0.9895833:73.0|65,64,0.9895833:73.0|50,64,0.9895833:74.0|59,64,0.48958334:74.0|62,64,0.48958334:74.0|67,64,0.48958334:74.0|59,64,0.9895833:74.5|62,64,0.9895833:74.5|67,64,0.9895833:74.5|50,64,0.9895833:75.0|57,64,0.9895833:75.5|60,64,0.9895833:75.5|65,64,0.9895833:75.5|50,64,0.9895833:76.0|57,64,0.9895833:76.5|60,64,0.9895833:76.5|65,64,0.9895833:76.5|50,64,0.9895833:77.0|59,64,0.48958334:77.5|62,64,0.48958334:77.5|67,64,0.48958334:77.5|50,64,1.9895834:78.0|59,64,0.9895833:78.0|62,64,0.9895833:78.0|67,64,0.9895833:78.0|59,64,0.9895833:79.0|62,64,0.9895833:79.0|67,64,0.9895833:79.0|50,64,1.9895834:80.0|54,64,0.9895833:80.0|61,64,0.9895833:80.0|64,64,0.9895833:80.0|54,64,0.9895833:81.0|61,64,0.9895833:81.0|64,64,0.9895833:81.0|50,64,0.9895833:82.0|54,64,0.48958334:82.0|61,64,0.48958334:82.0|64,64,0.48958334:82.0|54,64,0.9895833:82.5|61,64,0.9895833:82.5|64,64,0.9895833:82.5|45,64,0.9895833:83.0|54,64,0.48958334:83.5|61,64,0.48958334:83.5|64,64,0.48958334:83.5|46,64,0.9895833:84.0|55,64,0.48958334:84.0|61,64,0.48958334:84.0|64,64,0.48958334:84.0|55,64,0.9895833:84.5|61,64,0.9895833:84.5|64,64,0.9895833:84.5|46,64,0.9895833:85.0|55,64,0.48958334:85.5|61,64,0.48958334:85.5|64,64,0.48958334:85.5|46,64,1.9895834:86.0|55,64,0.48958334:86.0|61,64,0.48958334:86.0|64,64,0.48958334:86.0|55,64,1.4895834:86.5|61,64,1.4895834:86.5|64,64,1.4895834:86.5|45,64,1.9895834:88.0|55,64,0.9895833:88.0|60,64,0.9895833:88.0|64,64,0.9895833:88.0|55,64,0.9895833:89.0|60,64,0.9895833:89.0|64,64,0.9895833:89.0|45,64,0.9895833:90.0|55,64,0.48958334:90.0|60,64,0.48958334:90.0|64,64,0.48958334:90.0|55,64,0.9895833:90.5|60,64,0.9895833:90.5|64,64,0.9895833:90.5|45,64,0.9895833:91.0|55,64,0.48958334:91.5|60,64,0.48958334:91.5|64,64,0.48958334:91.5|50,64,0.9895833:92.0|54,64,0.48958334:92.0|60,64,0.48958334:92.0|63,64,0.48958334:92.0|54,64,0.9895833:92.5|60,64,0.9895833:92.5|63,64,0.9895833:92.5|50,64,0.9895833:93.0|54,64,0.48958334:93.5|60,64,0.48958334:93.5|63,64,0.48958334:93.5|50,64,1.9895834:94.0|54,64,0.48958334:94.0|60,64,0.48958334:94.0|63,64,0.48958334:94.0|54,64,1.4895834:94.5|60,64,1.4895834:94.5|63,64,1.4895834:94.5|43,64,1.9895834:96.0|54,64,0.9895833:96.0|59,64,0.9895833:96.0|62,64,0.9895833:96.0|54,64,0.9895833:97.0|59,64,0.9895833:97.0|62,64,0.9895833:97.0|43,64,0.9895833:98.0|54,64,0.48958334:98.0|59,64,0.48958334:98.0|62,64,0.48958334:98.0|54,64,0.9895833:98.5|59,64,0.9895833:98.5|62,64,0.9895833:98.5|43,64,0.9895833:99.0|54,64,0.48958334:99.5|59,64,0.48958334:99.5|62,64,0.48958334:99.5|43,64,0.9895833:100.0|52,64,0.48958334:100.0|58,64,0.48958334:100.0|62,64,0.48958334:100.0|52,64,0.9895833:100.5|58,64,0.9895833:100.5|62,64,0.9895833:100.5|43,64,0.9895833:101.0|52,64,0.9895833:101.5|58,64,0.9895833:101.5|62,64,0.9895833:101.5|43,64,1.9895834:102.0|52,64,0.9895833:102.5|58,64,0.9895833:102.5|62,64,0.9895833:102.5|52,64,0.48958334:103.5|58,64,0.48958334:103.5|62,64,0.48958334:103.5|42,64,1.9895834:104.0|52,64,0.9895833:104.0|58,64,0.9895833:104.0|63,64,0.9895833:104.0|52,64,0.9895833:105.0|58,64,0.9895833:105.0|63,64,0.9895833:105.0|42,64,0.9895833:106.0|52,64,0.48958334:106.0|58,64,0.48958334:106.0|62,64,0.48958334:106.0|52,64,0.9895833:106.5|58,64,0.9895833:106.5|62,64,0.9895833:106.5|42,64,0.9895833:107.0|52,64,0.48958334:107.5|58,64,0.48958334:107.5|62,64,0.48958334:107.5|47,64,0.9895833:108.0|51,64,0.48958334:108.0|57,64,0.48958334:108.0|61,64,0.48958334:108.0|51,64,0.9895833:108.5|57,64,0.9895833:108.5|61,64,0.9895833:108.5|47,64,0.9895833:109.0|51,64,0.48958334:109.5|57,64,0.48958334:109.5|61,64,0.48958334:109.5|47,64,0.9895833:110.0|51,64,0.48958334:110.0|57,64,0.48958334:110.0|60,64,0.48958334:110.0|51,64,0.9895833:110.5|57,64,0.9895833:110.5|60,64,0.9895833:110.5|47,64,0.9895833:111.0|51,64,0.48958334:111.5|57,64,0.48958334:111.5|60,64,0.48958334:111.5|52,64,0.9895833:112.0|56,64,0.48958334:112.0|62,64,0.48958334:112.0|66,64,0.48958334:112.0|56,64,0.9895833:112.5|62,64,0.9895833:112.5|66,64,0.9895833:112.5|52,64,0.9895833:113.0|56,64,0.48958334:113.5|62,64,0.48958334:113.5|66,64,0.48958334:113.5|40,64,0.9895833:114.0|56,64,0.48958334:114.0|62,64,0.48958334:114.0|66,64,0.48958334:114.0|56,64,0.9895833:114.5|62,64,0.9895833:114.5|66,64,0.9895833:114.5|52,64,0.9895833:115.0|56,64,0.48958334:115.5|62,64,0.48958334:115.5|66,64,0.48958334:115.5|46,64,1.9895834:116.0|56,64,0.9895833:116.0|62,64,0.9895833:116.0|67,64,0.9895833:116.0|56,64,0.9895833:117.0|62,64,0.9895833:117.0|67,64,0.9895833:117.0|45,64,1.9895834:118.0|55,64,0.48958334:118.0|61,64,0.48958334:118.0|65,64,0.48958334:118.0|55,64,1.4895834:118.5|61,64,1.4895834:118.5|65,64,1.4895834:118.5|50,64,1.9895834:120.0|57,64,0.9895833:120.0|60,64,0.9895833:120.0|65,64,0.9895833:120.0|57,64,0.9895833:121.0|60,64,0.9895833:121.0|65,64,0.9895833:121.0|50,64,0.9895833:122.0|59,64,0.48958334:122.0|62,64,0.48958334:122.0|67,64,0.48958334:122.0|59,64,0.9895833:122.5|62,64,0.9895833:122.5|67,64,0.9895833:122.5|50,64,0.9895833:123.0|57,64,0.9895833:123.5|60,64,0.9895833:123.5|65,64,0.9895833:123.5|50,64,0.9895833:124.0|57,64,0.9895833:124.5|60,64,0.9895833:124.5|65,64,0.9895833:124.5|50,64,0.9895833:125.0|59,64,0.48958334:125.5|62,64,0.48958334:125.5|67,64,0.48958334:125.5|50,64,1.9895834:126.0|59,64,0.9895833:126.0|62,64,0.9895833:126.0|67,64,0.9895833:126.0|59,64,0.9947917:126.99479|62,64,0.9947917:126.99479|67,64,0.9947917:126.99479|43,64,1.9947916:127.99479|53,64,0.9947917:127.99479|58,64,0.9947917:127.99479|62,64,0.9947917:127.99479|53,64,0.9947917:128.9948|58,64,0.9947917:128.9948|62,64,0.9947917:128.9948|43,64,0.9895833:130.0|53,64,0.48958334:130.0|58,64,0.48958334:130.0|62,64,0.48958334:130.0|53,64,1.4895834:130.5|58,64,1.4895834:130.5|62,64,1.4895834:130.5|43,64,0.9895833:131.0|46,64,1.9895834:132.0|52,64,0.9895833:132.0|55,64,0.9895833:132.0|60,64,0.9895833:132.0|52,64,0.9895833:133.0|55,64,0.9895833:133.0|60,64,0.9895833:133.0|46,64,0.9895833:134.0|52,64,0.48958334:134.0|55,64,0.48958334:134.0|60,64,0.48958334:134.0|52,64,1.4895834:134.5|60,64,1.4895834:134.5|46,64,0.9895833:135.0|45,64,1.9895834:136.0|55,64,0.9895833:136.0|60,64,0.9895833:136.0|64,64,0.9895833:136.0|55,64,0.9895833:137.0|60,64,0.9895833:137.0|64,64,0.9895833:137.0|45,64,0.9895833:138.0|55,64,0.48958334:138.0|60,64,0.48958334:138.0|64,64,0.48958334:138.0|55,64,0.9895833:138.5|60,64,0.9895833:138.5|64,64,0.9895833:138.5|45,64,0.9895833:139.0|55,64,0.48958334:139.5|60,64,0.48958334:139.5|64,64,0.48958334:139.5|45,64,0.9895833:140.0|55,64,0.48958334:140.0|60,64,0.48958334:140.0|64,64,0.48958334:140.0|55,64,0.9895833:140.5|60,64,0.9895833:140.5|64,64,0.9895833:140.5|45,64,0.9895833:141.0|55,64,0.48958334:141.5|60,64,0.48958334:141.5|64,64,0.48958334:141.5|45,64,0.9895833:142.0|55,64,0.48958334:142.0|60,64,0.48958334:142.0|64,64,0.48958334:142.0|55,64,0.9895833:142.5|60,64,0.9895833:142.5|64,64,0.9895833:142.5|45,64,0.9895833:143.0|55,64,0.48958334:143.5|60,64,0.48958334:143.5|64,64,0.48958334:143.5|46,64,1.9895834:144.0|51,64,0.9895833:144.0|56,64,0.9895833:144.0|60,64,0.9895833:144.0|51,64,0.9895833:145.0|56,64,0.9895833:145.0|60,64,0.9895833:145.0|46,64,0.9895833:146.0|51,64,0.48958334:146.0|56,64,0.48958334:146.0|60,64,0.48958334:146.0|51,64,1.4895834:146.5|56,64,1.4895834:146.5|60,64,1.4895834:146.5|46,64,0.9895833:147.0|44,64,1.9895834:148.0|53,64,0.9895833:148.0|58,64,0.9895833:148.0|62,64,0.9895833:148.0|53,64,0.9895833:149.0|58,64,0.9895833:149.0|62,64,0.9895833:149.0|44,64,0.9895833:150.0|53,64,0.48958334:150.0|58,64,0.48958334:150.0|62,64,0.48958334:150.0|53,64,1.4895834:150.5|58,64,1.4895834:150.5|62,64,1.4895834:150.5|44,64,0.9895833:151.0|43,64,1.9895834:152.0|53,64,0.9895833:152.0|58,64,0.9895833:152.0|62,64,0.9895833:152.0|53,64,0.9895833:153.0|58,64,0.9895833:153.0|62,64,0.9895833:153.0|43,64,0.9895833:154.0|53,64,0.48958334:154.0|58,64,0.48958334:154.0|62,64,0.48958334:154.0|53,64,1.4895834:154.5|58,64,1.4895834:154.5|62,64,1.4895834:154.5|43,64,0.9895833:155.0|45,64,1.9895834:156.0|55,64,0.9895833:156.0|61,64,0.9895833:156.0|65,64,0.9895833:156.0|55,64,0.9895833:157.0|61,64,0.9895833:157.0|65,64,0.9895833:157.0|45,64,1.9895834:158.0|55,64,0.48958334:158.0|61,64,0.48958334:158.0|65,64,0.48958334:158.0|55,64,0.9895833:158.5|61,64,0.9895833:158.5|65,64,0.9895833:158.5|50,64,1.9895834:160.0|54,64,0.9895833:160.0|61,64,0.9895833:160.0|64,64,0.9895833:160.0|54,64,0.9895833:161.0|61,64,0.9895833:161.0|64,64,0.9895833:161.0|50,64,0.9895833:162.0|54,64,0.48958334:162.0|61,64,0.48958334:162.0|64,64,0.48958334:162.0|54,64,0.9895833:162.5|61,64,0.9895833:162.5|64,64,0.9895833:162.5|45,64,0.9895833:163.0|54,64,0.48958334:163.5|61,64,0.48958334:163.5|64,64,0.48958334:163.5|46,64,0.9895833:164.0|55,64,0.48958334:164.0|61,64,0.48958334:164.0|64,64,0.48958334:164.0|55,64,0.9895833:164.5|61,64,0.9895833:164.5|64,64,0.9895833:164.5|46,64,0.9895833:165.0|55,64,0.48958334:165.5|61,64,0.48958334:165.5|64,64,0.48958334:165.5|46,64,1.9895834:166.0|55,64,0.48958334:166.0|61,64,0.48958334:166.0|64,64,0.48958334:166.0|55,64,1.4895834:166.5|61,64,1.4895834:166.5|64,64,1.4895834:166.5|45,64,1.9895834:168.0|55,64,0.9895833:168.0|60,64,0.9895833:168.0|64,64,0.9895833:168.0|55,64,0.9895833:169.0|60,64,0.9895833:169.0|64,64,0.9895833:169.0|45,64,0.9895833:170.0|55,64,0.48958334:170.0|60,64,0.48958334:170.0|64,64,0.48958334:170.0|55,64,0.9895833:170.5|60,64,0.9895833:170.5|64,64,0.9895833:170.5|45,64,0.9895833:171.0|55,64,0.48958334:171.5|60,64,0.48958334:171.5|64,64,0.48958334:171.5|50,64,0.9895833:172.0|54,64,0.48958334:172.0|60,64,0.48958334:172.0|63,64,0.48958334:172.0|54,64,0.9895833:172.5|60,64,0.9895833:172.5|63,64,0.9895833:172.5|50,64,0.9895833:173.0|54,64,0.48958334:173.5|60,64,0.48958334:173.5|63,64,0.48958334:173.5|50,64,1.9895834:174.0|54,64,0.48958334:174.0|60,64,0.48958334:174.0|63,64,0.48958334:174.0|54,64,1.4895834:174.5|60,64,1.4895834:174.5|63,64,1.4895834:174.5|43,64,1.9895834:176.0|54,64,0.9895833:176.0|59,64,0.9895833:176.0|62,64,0.9895833:176.0|54,64,0.9895833:177.0|59,64,0.9895833:177.0|62,64,0.9895833:177.0|43,64,0.9895833:178.0|54,64,0.48958334:178.0|59,64,0.48958334:178.0|62,64,0.48958334:178.0|54,64,0.9895833:178.5|59,64,0.9895833:178.5|62,64,0.9895833:178.5|43,64,0.9895833:179.0|54,64,0.48958334:179.5|59,64,0.48958334:179.5|62,64,0.48958334:179.5|43,64,0.9895833:180.0|52,64,0.48958334:180.0|58,64,0.48958334:180.0|62,64,0.48958334:180.0|52,64,0.9895833:180.5|58,64,0.9895833:180.5|62,64,0.9895833:180.5|43,64,0.9895833:181.0|52,64,0.9895833:181.5|58,64,0.9895833:181.5|62,64,0.9895833:181.5|43,64,1.9895834:182.0|52,64,0.9895833:182.5|58,64,0.9895833:182.5|62,64,0.9895833:182.5|52,64,0.48958334:183.5|58,64,0.48958334:183.5|62,64,0.48958334:183.5|42,64,1.9895834:184.0|52,64,0.9895833:184.0|58,64,0.9895833:184.0|63,64,0.9895833:184.0|52,64,0.9895833:185.0|58,64,0.9895833:185.0|63,64,0.9895833:185.0|42,64,0.9895833:186.0|52,64,0.48958334:186.0|58,64,0.48958334:186.0|62,64,0.48958334:186.0|52,64,0.9895833:186.5|58,64,0.9895833:186.5|62,64,0.9895833:186.5|42,64,0.9895833:187.0|52,64,0.48958334:187.5|58,64,0.48958334:187.5|62,64,0.48958334:187.5|47,64,0.9895833:188.0|51,64,0.48958334:188.0|57,64,0.48958334:188.0|61,64,0.48958334:188.0|51,64,0.9895833:188.5|57,64,0.9895833:188.5|61,64,0.9895833:188.5|47,64,0.9895833:189.0|51,64,0.48958334:189.5|57,64,0.48958334:189.5|61,64,0.48958334:189.5|47,64,0.9895833:190.0|51,64,0.48958334:190.0|57,64,0.48958334:190.0|60,64,0.48958334:190.0|51,64,0.9895833:190.5|57,64,0.9895833:190.5|60,64,0.9895833:190.5|47,64,0.9895833:191.0|51,64,0.48958334:191.5|57,64,0.48958334:191.5|60,64,0.48958334:191.5|52,64,0.9895833:192.0|56,64,0.48958334:192.0|62,64,0.48958334:192.0|66,64,0.48958334:192.0|56,64,0.9895833:192.5|62,64,0.9895833:192.5|66,64,0.9895833:192.5|52,64,0.9895833:193.0|56,64,0.48958334:193.5|62,64,0.48958334:193.5|66,64,0.48958334:193.5|40,64,0.9895833:194.0|56,64,0.48958334:194.0|62,64,0.48958334:194.0|66,64,0.48958334:194.0|56,64,0.9895833:194.5|62,64,0.9895833:194.5|66,64,0.9895833:194.5|52,64,0.9895833:195.0|56,64,0.48958334:195.5|62,64,0.48958334:195.5|66,64,0.48958334:195.5|46,64,1.9895834:196.0|56,64,0.9895833:196.0|62,64,0.9895833:196.0|67,64,0.9895833:196.0|56,64,0.9895833:197.0|62,64,0.9895833:197.0|67,64,0.9895833:197.0|45,64,1.9895834:198.0|55,64,0.48958334:198.0|61,64,0.48958334:198.0|65,64,0.48958334:198.0|55,64,1.4895834:198.5|61,64,1.4895834:198.5|65,64,1.4895834:198.5|50,64,1.9895834:200.0|57,64,0.9895833:200.0|60,64,0.9895833:200.0|65,64,0.9895833:200.0|57,64,0.9895833:201.0|60,64,0.9895833:201.0|65,64,0.9895833:201.0|50,64,0.9895833:202.0|59,64,0.48958334:202.0|62,64,0.48958334:202.0|67,64,0.48958334:202.0|59,64,0.9895833:202.5|62,64,0.9895833:202.5|67,64,0.9895833:202.5|50,64,0.9895833:203.0|57,64,0.9895833:203.5|60,64,0.9895833:203.5|65,64,0.9895833:203.5|50,64,0.9895833:204.0|57,64,0.9895833:204.5|60,64,0.9895833:204.5|65,64,0.9895833:204.5|50,64,0.9895833:205.0|59,64,0.48958334:205.5|62,64,0.48958334:205.5|67,64,0.48958334:205.5|50,64,1.9895834:206.0|59,64,0.9895833:206.0|62,64,0.9895833:206.0|67,64,0.9895833:206.0|59,64,0.9895833:207.0|62,64,0.9895833:207.0|67,64,0.9895833:207.0|50,64,1.9895834:208.0|54,64,0.9895833:208.0|61,64,0.9895833:208.0|64,64,0.9895833:208.0|54,64,0.9895833:209.0|61,64,0.9895833:209.0|64,64,0.9895833:209.0|50,64,0.9895833:210.0|54,64,0.48958334:210.0|61,64,0.48958334:210.0|64,64,0.48958334:210.0|54,64,0.9895833:210.5|61,64,0.9895833:210.5|64,64,0.9895833:210.5|45,64,0.9895833:211.0|54,64,0.48958334:211.5|61,64,0.48958334:211.5|64,64,0.48958334:211.5|46,64,0.9895833:212.0|55,64,0.48958334:212.0|61,64,0.48958334:212.0|64,64,0.48958334:212.0|55,64,0.9895833:212.5|61,64,0.9895833:212.5|64,64,0.9895833:212.5|46,64,0.9895833:213.0|55,64,0.48958334:213.5|61,64,0.48958334:213.5|64,64,0.48958334:213.5|46,64,1.9895834:214.0|55,64,0.48958334:214.0|61,64,0.48958334:214.0|64,64,0.48958334:214.0|55,64,1.4895834:214.5|61,64,1.4895834:214.5|64,64,1.4895834:214.5|45,64,1.9895834:216.0|55,64,0.9895833:216.0|60,64,0.9895833:216.0|64,64,0.9895833:216.0|55,64,0.9895833:217.0|60,64,0.9895833:217.0|64,64,0.9895833:217.0|45,64,0.9895833:218.0|55,64,0.48958334:218.0|60,64,0.48958334:218.0|64,64,0.48958334:218.0|55,64,0.9895833:218.5|60,64,0.9895833:218.5|64,64,0.9895833:218.5|45,64,0.9895833:219.0|55,64,0.48958334:219.5|60,64,0.48958334:219.5|64,64,0.48958334:219.5|50,64,0.9895833:220.0|54,64,0.48958334:220.0|60,64,0.48958334:220.0|63,64,0.48958334:220.0|54,64,0.9895833:220.5|60,64,0.9895833:220.5|63,64,0.9895833:220.5|50,64,0.9895833:221.0|54,64,0.48958334:221.5|60,64,0.48958334:221.5|63,64,0.48958334:221.5|50,64,1.9895834:222.0|54,64,0.48958334:222.0|60,64,0.48958334:222.0|63,64,0.48958334:222.0|54,64,1.4895834:222.5|60,64,1.4895834:222.5|63,64,1.4895834:222.5|43,64,1.9895834:224.0|54,64,0.9895833:224.0|59,64,0.9895833:224.0|62,64,0.9895833:224.0|54,64,0.9895833:225.0|59,64,0.9895833:225.0|62,64,0.9895833:225.0|43,64,0.9895833:226.0|54,64,0.48958334:226.0|59,64,0.48958334:226.0|62,64,0.48958334:226.0|54,64,0.9895833:226.5|59,64,0.9895833:226.5|62,64,0.9895833:226.5|43,64,0.9895833:227.0|54,64,0.48958334:227.5|59,64,0.48958334:227.5|62,64,0.48958334:227.5|43,64,0.9895833:228.0|52,64,0.48958334:228.0|58,64,0.48958334:228.0|62,64,0.48958334:228.0|52,64,0.9895833:228.5|58,64,0.9895833:228.5|62,64,0.9895833:228.5|43,64,0.9895833:229.0|52,64,0.9895833:229.5|58,64,0.9895833:229.5|62,64,0.9895833:229.5|43,64,1.9895834:230.0|52,64,0.9895833:230.5|58,64,0.9895833:230.5|62,64,0.9895833:230.5|52,64,0.48958334:231.5|58,64,0.48958334:231.5|62,64,0.48958334:231.5|42,64,1.9895834:232.0|52,64,0.9895833:232.0|58,64,0.9895833:232.0|63,64,0.9895833:232.0|52,64,0.9895833:233.0|58,64,0.9895833:233.0|63,64,0.9895833:233.0|42,64,0.9895833:234.0|52,64,0.48958334:234.0|58,64,0.48958334:234.0|62,64,0.48958334:234.0|52,64,0.9895833:234.5|58,64,0.9895833:234.5|62,64,0.9895833:234.5|42,64,0.9895833:235.0|52,64,0.48958334:235.5|58,64,0.48958334:235.5|62,64,0.48958334:235.5|47,64,0.9895833:236.0|51,64,0.48958334:236.0|57,64,0.48958334:236.0|61,64,0.48958334:236.0|51,64,0.9895833:236.5|57,64,0.9895833:236.5|61,64,0.9895833:236.5|47,64,0.9895833:237.0|51,64,0.48958334:237.5|57,64,0.48958334:237.5|61,64,0.48958334:237.5|47,64,0.9895833:238.0|51,64,0.48958334:238.0|57,64,0.48958334:238.0|60,64,0.48958334:238.0|51,64,0.9895833:238.5|57,64,0.9895833:238.5|60,64,0.9895833:238.5|47,64,0.9895833:239.0|51,64,0.48958334:239.5|57,64,0.48958334:239.5|60,64,0.48958334:239.5|52,64,0.9895833:240.0|56,64,0.48958334:240.0|62,64,0.48958334:240.0|66,64,0.48958334:240.0|56,64,0.9895833:240.5|62,64,0.9895833:240.5|66,64,0.9895833:240.5|52,64,0.9895833:241.0|56,64,0.48958334:241.5|62,64,0.48958334:241.5|66,64,0.48958334:241.5|40,64,0.9895833:242.0|56,64,0.48958334:242.0|62,64,0.48958334:242.0|66,64,0.48958334:242.0|56,64,0.9895833:242.5|62,64,0.9895833:242.5|66,64,0.9895833:242.5|52,64,0.9895833:243.0|56,64,0.48958334:243.5|62,64,0.48958334:243.5|66,64,0.48958334:243.5|46,64,1.9895834:244.0|56,64,0.9895833:244.0|62,64,0.9895833:244.0|67,64,0.9895833:244.0|56,64,0.9895833:245.0|62,64,0.9895833:245.0|67,64,0.9895833:245.0|45,64,1.9895834:246.0|55,64,0.48958334:246.0|61,64,0.48958334:246.0|65,64,0.48958334:246.0|55,64,1.4895834:246.5|61,64,1.4895834:246.5|65,64,1.4895834:246.5|50,64,1.9895834:248.0|57,64,0.9895833:248.0|60,64,0.9895833:248.0|65,64,0.9895833:248.0|57,64,0.9895833:249.0|60,64,0.9895833:249.0|65,64,0.9895833:249.0|50,64,0.9895833:250.0|59,64,0.48958334:250.0|62,64,0.48958334:250.0|67,64,0.48958334:250.0|59,64,0.9895833:250.5|62,64,0.9895833:250.5|67,64,0.9895833:250.5|50,64,0.9895833:251.0|57,64,0.9895833:251.5|60,64,0.9895833:251.5|65,64,0.9895833:251.5|50,64,0.9895833:252.0|57,64,0.9895833:252.5|60,64,0.9895833:252.5|65,64,0.9895833:252.5|50,64,0.9895833:253.0|59,64,0.48958334:253.5|62,64,0.48958334:253.5|67,64,0.48958334:253.5|50,64,1.9895834:254.0|59,64,0.9895833:254.0|62,64,0.9895833:254.0|67,64,0.9895833:254.0|59,64,0.9947917:254.9948|62,64,0.9947917:254.9948|67,64,0.9947917:254.9948|43,64,1.9947916:255.9948|53,64,0.9947917:255.9948|58,64,0.9947917:255.9948|62,64,0.9947917:255.9948|53,64,0.9947917:256.99478|58,64,0.9947917:256.99478|62,64,0.9947917:256.99478|43,64,0.9947917:257.99478|53,64,0.49479166:257.99478|58,64,0.49479166:257.99478|62,64,0.49479166:257.99478|53,64,1.4947916:258.49478|58,64,1.4947916:258.49478|62,64,1.4947916:258.49478|43,64,0.9947917:258.99478|46,64,1.9947916:259.99478|52,64,0.9947917:259.99478|55,64,0.9947917:259.99478|60,64,0.9947917:259.99478|52,64,0.9895833:261.0|55,64,0.9895833:261.0|60,64,0.9895833:261.0|46,64,0.9895833:262.0|52,64,0.48958334:262.0|55,64,0.48958334:262.0|60,64,0.48958334:262.0|52,64,1.4895834:262.5|60,64,1.4895834:262.5|46,64,0.9895833:263.0|45,64,1.9895834:264.0|55,64,0.9895833:264.0|60,64,0.9895833:264.0|64,64,0.9895833:264.0|55,64,0.9895833:265.0|60,64,0.9895833:265.0|64,64,0.9895833:265.0|45,64,0.9895833:266.0|55,64,0.48958334:266.0|60,64,0.48958334:266.0|64,64,0.48958334:266.0|55,64,0.9895833:266.5|60,64,0.9895833:266.5|64,64,0.9895833:266.5|45,64,0.9895833:267.0|55,64,0.48958334:267.5|60,64,0.48958334:267.5|64,64,0.48958334:267.5|45,64,0.9895833:268.0|55,64,0.48958334:268.0|60,64,0.48958334:268.0|64,64,0.48958334:268.0|55,64,0.9895833:268.5|60,64,0.9895833:268.5|64,64,0.9895833:268.5|45,64,0.9895833:269.0|55,64,0.48958334:269.5|60,64,0.48958334:269.5|64,64,0.48958334:269.5|45,64,0.9895833:270.0|55,64,0.48958334:270.0|60,64,0.48958334:270.0|64,64,0.48958334:270.0|55,64,0.9895833:270.5|60,64,0.9895833:270.5|64,64,0.9895833:270.5|45,64,0.9895833:271.0|55,64,0.48958334:271.5|60,64,0.48958334:271.5|64,64,0.48958334:271.5|46,64,1.9895834:272.0|51,64,0.9895833:272.0|56,64,0.9895833:272.0|60,64,0.9895833:272.0|51,64,0.9895833:273.0|56,64,0.9895833:273.0|60,64,0.9895833:273.0|46,64,0.9895833:274.0|51,64,0.48958334:274.0|56,64,0.48958334:274.0|60,64,0.48958334:274.0|51,64,1.4895834:274.5|56,64,1.4895834:274.5|60,64,1.4895834:274.5|46,64,0.9895833:275.0|44,64,1.9895834:276.0|53,64,0.9895833:276.0|58,64,0.9895833:276.0|62,64,0.9895833:276.0|53,64,0.9895833:277.0|58,64,0.9895833:277.0|62,64,0.9895833:277.0|44,64,0.9895833:278.0|53,64,0.48958334:278.0|58,64,0.48958334:278.0|62,64,0.48958334:278.0|53,64,1.4895834:278.5|58,64,1.4895834:278.5|62,64,1.4895834:278.5|44,64,0.9895833:279.0|43,64,1.9895834:280.0|53,64,0.9895833:280.0|58,64,0.9895833:280.0|62,64,0.9895833:280.0|53,64,0.9895833:281.0|58,64,0.9895833:281.0|62,64,0.9895833:281.0|43,64,0.9895833:282.0|53,64,0.48958334:282.0|58,64,0.48958334:282.0|62,64,0.48958334:282.0|53,64,1.4895834:282.5|58,64,1.4895834:282.5|62,64,1.4895834:282.5|43,64,0.9895833:283.0|45,64,1.9895834:284.0|55,64,0.9895833:284.0|61,64,0.9895833:284.0|65,64,0.9895833:284.0|55,64,0.9895833:285.0|61,64,0.9895833:285.0|65,64,0.9895833:285.0|45,64,1.9895834:286.0|55,64,0.48958334:286.0|61,64,0.48958334:286.0|65,64,0.48958334:286.0|55,64,0.9895833:286.5|61,64,0.9895833:286.5|65,64,0.9895833:286.5|50,64,1.9895834:288.0|54,64,0.9895833:288.0|61,64,0.9895833:288.0|64,64,0.9895833:288.0|54,64,0.9895833:289.0|61,64,0.9895833:289.0|64,64,0.9895833:289.0|50,64,0.9895833:290.0|54,64,0.48958334:290.0|61,64,0.48958334:290.0|64,64,0.48958334:290.0|54,64,0.9895833:290.5|61,64,0.9895833:290.5|64,64,0.9895833:290.5|45,64,0.9895833:291.0|54,64,0.48958334:291.5|61,64,0.48958334:291.5|64,64,0.48958334:291.5|46,64,0.9895833:292.0|55,64,0.48958334:292.0|61,64,0.48958334:292.0|64,64,0.48958334:292.0|55,64,0.9895833:292.5|61,64,0.9895833:292.5|64,64,0.9895833:292.5|46,64,0.9895833:293.0|55,64,0.48958334:293.5|61,64,0.48958334:293.5|64,64,0.48958334:293.5|46,64,1.9895834:294.0|55,64,0.48958334:294.0|61,64,0.48958334:294.0|64,64,0.48958334:294.0|55,64,1.4895834:294.5|61,64,1.4895834:294.5|64,64,1.4895834:294.5|45,64,1.9895834:296.0|55,64,0.9895833:296.0|60,64,0.9895833:296.0|64,64,0.9895833:296.0|55,64,0.9895833:297.0|60,64,0.9895833:297.0|64,64,0.9895833:297.0|45,64,0.9895833:298.0|55,64,0.48958334:298.0|60,64,0.48958334:298.0|64,64,0.48958334:298.0|55,64,0.9895833:298.5|60,64,0.9895833:298.5|64,64,0.9895833:298.5|45,64,0.9895833:299.0|55,64,0.48958334:299.5|60,64,0.48958334:299.5|64,64,0.48958334:299.5|50,64,0.9895833:300.0|54,64,0.48958334:300.0|60,64,0.48958334:300.0|63,64,0.48958334:300.0|54,64,0.9895833:300.5|60,64,0.9895833:300.5|63,64,0.9895833:300.5|50,64,0.9895833:301.0|54,64,0.48958334:301.5|60,64,0.48958334:301.5|63,64,0.48958334:301.5|50,64,1.9895834:302.0|54,64,0.48958334:302.0|60,64,0.48958334:302.0|63,64,0.48958334:302.0|54,64,1.4895834:302.5|60,64,1.4895834:302.5|63,64,1.4895834:302.5|43,64,1.9895834:304.0|54,64,0.9895833:304.0|59,64,0.9895833:304.0|62,64,0.9895833:304.0|54,64,0.9895833:305.0|59,64,0.9895833:305.0|62,64,0.9895833:305.0|43,64,0.9895833:306.0|54,64,0.48958334:306.0|59,64,0.48958334:306.0|62,64,0.48958334:306.0|54,64,0.9895833:306.5|59,64,0.9895833:306.5|62,64,0.9895833:306.5|43,64,0.9895833:307.0|54,64,0.48958334:307.5|59,64,0.48958334:307.5|62,64,0.48958334:307.5|43,64,0.9895833:308.0|52,64,0.48958334:308.0|58,64,0.48958334:308.0|62,64,0.48958334:308.0|52,64,0.9895833:308.5|58,64,0.9895833:308.5|62,64,0.9895833:308.5|43,64,0.9895833:309.0|52,64,0.9895833:309.5|58,64,0.9895833:309.5|62,64,0.9895833:309.5|43,64,1.9895834:310.0|52,64,0.9895833:310.5|58,64,0.9895833:310.5|62,64,0.9895833:310.5|52,64,0.48958334:311.5|58,64,0.48958334:311.5|62,64,0.48958334:311.5|42,64,1.9895834:312.0|52,64,0.9895833:312.0|58,64,0.9895833:312.0|63,64,0.9895833:312.0|52,64,0.9895833:313.0|58,64,0.9895833:313.0|63,64,0.9895833:313.0|42,64,0.9895833:314.0|52,64,0.48958334:314.0|58,64,0.48958334:314.0|62,64,0.48958334:314.0|52,64,0.9895833:314.5|58,64,0.9895833:314.5|62,64,0.9895833:314.5|42,64,0.9895833:315.0|52,64,0.48958334:315.5|58,64,0.48958334:315.5|62,64,0.48958334:315.5|47,64,0.9895833:316.0|51,64,0.48958334:316.0|57,64,0.48958334:316.0|61,64,0.48958334:316.0|51,64,0.9895833:316.5|57,64,0.9895833:316.5|61,64,0.9895833:316.5|47,64,0.9895833:317.0|51,64,0.48958334:317.5|57,64,0.48958334:317.5|61,64,0.48958334:317.5|47,64,0.9895833:318.0|51,64,0.48958334:318.0|57,64,0.48958334:318.0|60,64,0.48958334:318.0|51,64,0.9895833:318.5|57,64,0.9895833:318.5|60,64,0.9895833:318.5|47,64,0.9895833:319.0|51,64,0.48958334:319.5|57,64,0.48958334:319.5|60,64,0.48958334:319.5|52,64,0.9895833:320.0|56,64,0.48958334:320.0|62,64,0.48958334:320.0|66,64,0.48958334:320.0|56,64,0.9895833:320.5|62,64,0.9895833:320.5|66,64,0.9895833:320.5|52,64,0.9895833:321.0|56,64,0.48958334:321.5|62,64,0.48958334:321.5|66,64,0.48958334:321.5|40,64,0.9895833:322.0|56,64,0.48958334:322.0|62,64,0.48958334:322.0|66,64,0.48958334:322.0|56,64,0.9895833:322.5|62,64,0.9895833:322.5|66,64,0.9895833:322.5|52,64,0.9895833:323.0|56,64,0.48958334:323.5|62,64,0.48958334:323.5|66,64,0.48958334:323.5|46,64,1.9895834:324.0|56,64,0.9895833:324.0|62,64,0.9895833:324.0|67,64,0.9895833:324.0|56,64,0.9895833:325.0|62,64,0.9895833:325.0|67,64,0.9895833:325.0|45,64,1.9895834:326.0|55,64,0.48958334:326.0|61,64,0.48958334:326.0|65,64,0.48958334:326.0|55,64,1.4895834:326.5|61,64,1.4895834:326.5|65,64,1.4895834:326.5|50,64,1.9895834:328.0|57,64,0.9895833:328.0|60,64,0.9895833:328.0|65,64,0.9895833:328.0|57,64,0.9895833:329.0|60,64,0.9895833:329.0|65,64,0.9895833:329.0|50,64,0.9895833:330.0|59,64,0.48958334:330.0|62,64,0.48958334:330.0|67,64,0.48958334:330.0|59,64,0.9895833:330.5|62,64,0.9895833:330.5|67,64,0.9895833:330.5|50,64,0.9895833:331.0|57,64,0.9895833:331.5|60,64,0.9895833:331.5|65,64,0.9895833:331.5|50,64,0.9895833:332.0|57,64,0.9895833:332.5|60,64,0.9895833:332.5|65,64,0.9895833:332.5|50,64,0.9895833:333.0|59,64,0.48958334:333.5|62,64,0.48958334:333.5|67,64,0.48958334:333.5|50,64,1.4895834:334.0|59,64,0.9895833:334.0|62,64,0.9895833:334.0|67,64,0.9895833:334.0|59,64,0.48958334:335.0|62,64,0.48958334:335.0|67,64,0.48958334:335.0|50,64,1.9895834:336.0|57,64,0.9895833:336.0|60,64,0.9895833:336.0|65,64,0.9895833:336.0|57,64,0.9895833:337.0|60,64,0.9895833:337.0|65,64,0.9895833:337.0|50,64,0.9895833:338.0|59,64,0.48958334:338.0|62,64,0.48958334:338.0|67,64,0.48958334:338.0|59,64,0.9895833:338.5|62,64,0.9895833:338.5|67,64,0.9895833:338.5|50,64,0.9895833:339.0|57,64,0.9895833:339.5|60,64,0.9895833:339.5|65,64,0.9895833:339.5|50,64,0.9895833:340.0|57,64,0.9895833:340.5|60,64,0.9895833:340.5|65,64,0.9895833:340.5|50,64,0.9895833:341.0|59,64,0.48958334:341.5|62,64,0.48958334:341.5|67,64,0.48958334:341.5|50,64,1.9895834:342.0|59,64,0.9895833:342.0|62,64,0.9895833:342.0|67,64,0.9895833:342.0|59,64,0.9895833:343.0|62,64,0.9895833:343.0|67,64,0.9895833:343.0|50,64,1.9895834:344.0|57,64,0.9895833:344.0|60,64,0.9895833:344.0|65,64,0.9895833:344.0|57,64,0.9895833:345.0|60,64,0.9895833:345.0|65,64,0.9895833:345.0|50,64,0.9895833:346.0|59,64,0.48958334:346.0|62,64,0.48958334:346.0|67,64,0.48958334:346.0|59,64,0.9895833:346.5|62,64,0.9895833:346.5|67,64,0.9895833:346.5|50,64,0.9895833:347.0|57,64,0.9895833:347.5|60,64,0.9895833:347.5|65,64,0.9895833:347.5|50,64,0.9895833:348.0|57,64,0.9895833:348.5|60,64,0.9895833:348.5|65,64,0.9895833:348.5|50,64,0.9895833:349.0|59,64,0.48958334:349.5|62,64,0.48958334:349.5|67,64,0.48958334:349.5|50,64,1.9895834:350.0|59,64,0.9895833:350.0|62,64,0.9895833:350.0|67,64,0.9895833:350.0|59,64,0.9895833:351.0|62,64,0.9895833:351.0|67,64,0.9895833:351.0|50,64,1.9895834:352.0|57,64,0.9895833:352.0|60,64,0.9895833:352.0|65,64,0.9895833:352.0|57,64,0.9895833:353.0|60,64,0.9895833:353.0|65,64,0.9895833:353.0|50,64,0.9895833:354.0|59,64,0.48958334:354.0|62,64,0.48958334:354.0|67,64,0.48958334:354.0|59,64,0.9895833:354.5|62,64,0.9895833:354.5|67,64,0.9895833:354.5|50,64,0.9895833:355.0|57,64,0.9895833:355.5|60,64,0.9895833:355.5|65,64,0.9895833:355.5|50,64,0.9895833:356.0|57,64,0.9895833:356.5|60,64,0.9895833:356.5|65,64,0.9895833:356.5|50,64,0.9895833:357.0|59,64,0.48958334:357.5|62,64,0.48958334:357.5|67,64,0.48958334:357.5|50,64,1.9895834:358.0|59,64,0.9895833:358.0|62,64,0.9895833:358.0|67,64,0.9895833:358.0|59,64,0.9895833:359.0|62,64,0.9895833:359.0|67,64,0.9895833:359.0|50,64,1.9895834:360.0|57,64,0.9895833:360.0|60,64,0.9895833:360.0|65,64,0.9895833:360.0|57,64,0.9895833:361.0|60,64,0.9895833:361.0|65,64,0.9895833:361.0|50,64,0.9895833:362.0|59,64,0.48958334:362.0|62,64,0.48958334:362.0|67,64,0.48958334:362.0|59,64,0.9895833:362.5|62,64,0.9895833:362.5|67,64,0.9895833:362.5|50,64,0.9895833:363.0|57,64,0.9895833:363.5|60,64,0.9895833:363.5|65,64,0.9895833:363.5|50,64,0.9895833:364.0|57,64,0.9895833:364.5|60,64,0.9895833:364.5|65,64,0.9895833:364.5|50,64,0.9895833:365.0|59,64,0.48958334:365.5|62,64,0.48958334:365.5|67,64,0.48958334:365.5|59,49,0.9895833:369.0|62,49,0.9895833:370.0|61,49,0.9895833:371.0|50,49,7.9895835:372.0|54,49,7.9895835:372.0|61,49,7.9895835:372.0|64,49,7.9895835:372.0]</spSaveString>
+      </org.jjazz.phrase.api.Phrase>
+    </entry>
+    <entry>
+      <string>User1</string>
+      <org.jjazz.phrase.api.Phrase resolves-to="org.jjazz.phrase.api.Phrase$SerializationProxy">
+        <spVERSION>1</spVERSION>
+        <spSaveString>[0|71,64,0.48958334:30.5|74,64,0.49479166:30.994791|73,64,0.48958334:31.5|69,64,3.4895833:32.0|66,64,0.48958334:35.5|67,64,0.48958334:36.0|70,64,0.48958334:36.5|73,64,0.48958334:37.0|76,64,0.48958334:37.5|79,64,0.48958334:38.0|78,64,0.9895833:38.5|81,64,4.4895835:39.5|81,64,0.48958334:45.0|81,64,0.9895833:45.5|83,64,0.9895833:46.5|81,64,0.9895833:47.5|79,64,0.9895833:48.5|79,64,0.48958334:49.5|78,64,0.9895833:50.0|79,64,1.9895834:51.0|78,64,0.48958334:53.0|79,64,0.9895833:53.5|81,64,0.9895833:54.5|78,64,4.4895835:55.5|78,64,0.48958334:60.5|81,64,0.48958334:61.0|80,64,0.48958334:61.5|79,64,0.48958334:62.0|78,64,0.9895833:62.5|78,64,0.9947917:63.494793|74,64,0.48958334:64.5|74,64,0.48958334:65.0|74,64,0.9895833:65.5|71,64,0.48958334:66.5|74,64,0.48958334:67.0|76,64,0.48958334:67.5|77,64,0.48958334:68.0|74,64,0.48958334:68.5|72,64,0.48958334:69.0|80,64,0.48958334:69.5|79,64,0.48958334:70.0|77,64,0.9895833:70.5|77,64,0.9895833:71.5|74,64,3.4895833:72.5|71,64,0.48958334:78.5|74,64,0.48958334:79.0|73,64,0.48958334:79.5|69,64,3.4895833:80.0|66,64,0.48958334:83.5|67,64,0.48958334:84.0|70,64,0.48958334:84.5|73,64,0.48958334:85.0|76,64,0.48958334:85.5|79,64,0.48958334:86.0|78,64,0.9895833:86.5|81,64,4.4895835:87.5|81,64,0.48958334:93.0|81,64,0.9895833:93.5|83,64,0.9895833:94.5|81,64,0.9895833:95.5|79,64,0.9895833:96.5|79,64,0.48958334:97.5|78,64,0.9895833:98.0|79,64,1.9895834:99.0|78,64,0.48958334:101.0|79,64,0.9895833:101.5|81,64,0.9895833:102.5|78,64,4.4895835:103.5|78,64,0.48958334:108.5|81,64,0.48958334:109.0|80,64,0.48958334:109.5|79,64,0.48958334:110.0|78,64,0.9895833:110.5|78,64,0.9895833:111.5|74,64,0.48958334:112.5|74,64,0.48958334:113.0|74,64,0.9895833:113.5|71,64,0.48958334:114.5|74,64,0.48958334:115.0|76,64,0.48958334:115.5|77,64,0.48958334:116.0|74,64,0.48958334:116.5|72,64,0.48958334:117.0|80,64,0.48958334:117.5|79,64,0.48958334:118.0|77,64,0.9895833:118.5|77,64,0.9895833:119.5|74,64,3.4895833:120.5|74,64,1.9947916:127.99479|72,64,0.65625:130.0|70,64,0.6614583:130.66145|69,64,0.6614583:131.32812|67,64,1.9895834:132.0|69,64,0.65625:134.0|70,64,0.6614583:134.66145|74,64,0.6614583:135.32812|72,64,1.4895834:136.0|72,64,4.4895835:137.5|72,64,2.4895833:144.0|70,64,0.48958334:146.5|68,64,0.48958334:147.0|67,64,0.48958334:147.5|65,64,1.9895834:148.0|67,64,0.65625:150.0|68,64,0.6614583:150.66145|72,64,0.6614583:151.32812|70,64,1.4895834:152.0|70,64,2.4895833:153.5|71,64,0.48958334:158.5|74,64,0.48958334:159.0|73,64,0.48958334:159.5|76,64,0.9895833:160.0|69,64,1.9895834:161.0|66,64,0.48958334:163.5|67,64,0.48958334:164.0|70,64,0.48958334:164.5|73,64,0.48958334:165.0|76,64,0.48958334:165.5|79,64,0.48958334:166.0|78,64,0.9895833:166.5|81,64,4.4895835:167.5|81,64,0.48958334:173.0|81,64,0.9895833:173.5|83,64,0.9895833:174.5|81,64,0.9895833:175.5|79,64,0.9895833:176.5|79,64,0.48958334:177.5|78,64,0.9895833:178.0|79,64,1.9895834:179.0|78,64,0.48958334:181.0|79,64,0.9895833:181.5|81,64,0.9895833:182.5|78,64,4.4895835:183.5|78,64,0.48958334:188.5|81,64,0.48958334:189.0|80,64,0.48958334:189.5|79,64,0.48958334:190.0|78,64,0.9895833:190.5|78,64,0.9895833:191.5|74,64,0.48958334:192.5|74,64,0.48958334:193.0|74,64,0.9895833:193.5|71,64,0.48958334:194.5|74,64,0.48958334:195.0|76,64,0.48958334:195.5|77,64,0.48958334:196.0|74,64,0.48958334:196.5|72,64,0.48958334:197.0|80,64,0.48958334:197.5|79,64,0.48958334:198.0|77,64,0.9895833:198.5|77,64,0.9895833:199.5|74,64,3.4895833:200.5|74,64,1.9947916:255.9948|72,64,0.6614583:257.99478|70,64,0.6614583:258.66147|69,64,0.6614583:259.32812|67,64,1.9947916:259.99478|69,64,0.65625:262.0|70,64,0.6614583:262.66147|74,64,0.6614583:263.32812|72,64,1.4895834:264.0|72,64,4.4895835:265.5|72,64,2.4895833:272.0|70,64,0.48958334:274.5|68,64,0.48958334:275.0|67,64,0.48958334:275.5|65,64,1.9895834:276.0|67,64,0.65625:278.0|68,64,0.6614583:278.66147|72,64,0.6614583:279.32812|70,64,1.4895834:280.0|70,64,2.4895833:281.5|71,64,0.48958334:286.5|74,64,0.48958334:287.0|73,64,0.48958334:287.5|76,64,0.9895833:288.0|69,64,1.9895834:289.0|66,64,0.48958334:291.5|67,64,0.48958334:292.0|70,64,0.48958334:292.5|73,64,0.48958334:293.0|76,64,0.48958334:293.5|79,64,0.48958334:294.0|78,64,0.9895833:294.5|81,64,4.4895835:295.5|81,64,0.48958334:301.0|81,64,0.9895833:301.5|83,64,0.9895833:302.5|81,64,0.9895833:303.5|79,64,0.9895833:304.5|79,64,0.48958334:305.5|78,64,0.9895833:306.0|79,64,1.9895834:307.0|78,64,0.48958334:309.0|79,64,0.9895833:309.5|81,64,0.9895833:310.5|78,64,4.4895835:311.5|78,64,0.48958334:316.5|81,64,0.48958334:317.0|80,64,0.48958334:317.5|79,64,0.48958334:318.0|78,64,0.9895833:318.5|78,64,0.9895833:319.5|74,64,0.48958334:320.5|74,64,0.48958334:321.0|74,64,0.9895833:321.5|71,64,0.48958334:322.5|74,64,0.48958334:323.0|76,64,0.48958334:323.5|77,64,0.48958334:324.0|74,64,0.48958334:324.5|72,64,0.48958334:325.0|80,64,0.48958334:325.5|79,64,0.48958334:326.0|77,64,0.9895833:326.5|77,64,0.9895833:327.5|74,64,3.4895833:328.5|71,49,0.9895833:369.0|74,49,0.9895833:370.0|73,49,0.9895833:371.0|69,49,7.9895835:372.0]</spSaveString>
+      </org.jjazz.phrase.api.Phrase>
+    </entry>
+    <entry>
+      <string>User3</string>
+      <org.jjazz.phrase.api.Phrase resolves-to="org.jjazz.phrase.api.Phrase$SerializationProxy">
+        <spVERSION>1</spVERSION>
+        <spSaveString>[4|38,65,1.4947916:0.015625|33,65,0.49479166:1.515625|31,65,1.4947916:2.015625|38,65,0.49479166:3.515625|38,65,1.4947916:4.015625|31,65,1.4947916:5.515625|38,65,0.9947917:7.015625|38,65,1.4947916:8.015625|33,65,0.49479166:9.515625|31,65,1.4947916:10.015625|38,65,0.49479166:11.515625|38,65,1.4947916:12.015625|31,65,1.4947916:13.515625|38,65,0.9947917:15.015625|38,65,1.4947916:16.015625|33,65,0.49479166:17.515625|31,65,1.4947916:18.015625|38,65,0.49479166:19.515625|38,65,1.4947916:20.015625|31,65,1.4947916:21.515625|38,65,0.9947917:23.015625|38,65,1.4947916:24.015625|33,65,0.49479166:25.515625|31,65,1.4947916:26.015625|38,65,0.49479166:27.515625|38,65,1.4947916:28.015625|31,65,0.49479166:29.515625|38,65,1.4947916:32.015625|33,65,0.9947917:33.515625|38,65,0.9947917:34.515625|33,65,0.49479166:35.515625|34,65,1.4947916:36.015625|41,65,0.49479166:37.515625|40,65,0.49479166:38.015625|28,65,1.4947916:38.515625|33,65,1.4947916:40.015625|43,65,0.9947917:41.515625|40,65,0.9947917:42.515625|33,65,0.49479166:43.515625|38,65,1.4947916:44.015625|33,65,0.49479166:45.515625|38,65,1.4947916:46.015625|33,65,0.49479166:47.515625|31,65,1.4947916:48.015625|38,65,0.49479166:49.515625|40,65,0.49479166:50.015625|43,65,0.9947917:50.515625|38,65,0.49479166:51.515625|31,65,1.4947916:52.015625|38,65,0.49479166:53.515625|46,65,0.49479166:54.015625|43,65,0.9947917:54.515625|31,65,0.49479166:55.515625|30,65,1.4947916:56.015625|40,65,0.9947917:57.515625|46,65,0.9947917:58.515625|34,65,0.49479166:59.515625|35,65,1.4947916:60.015625|42,65,0.49479166:61.515625|47,65,0.9947917:62.015625|42,65,0.49479166:63.015625|35,65,0.49479166:63.515625|28,65,1.4947916:64.015625|40,65,0.9947917:65.515625|28,65,0.9947917:66.515625|35,65,0.49479166:67.515625|34,65,0.9947917:68.015625|41,65,0.49479166:69.015625|40,65,0.49479166:69.515625|33,65,1.4947916:70.015625|33,65,0.49479166:71.515625|38,65,1.4947916:72.015625|33,65,0.49479166:73.515625|31,65,1.4947916:74.015625|38,65,0.49479166:75.515625|38,65,1.4947916:76.015625|31,65,1.4947916:77.515625|38,65,0.9947917:79.015625|38,65,1.4947916:80.015625|33,65,0.49479166:81.515625|40,65,0.49479166:82.015625|38,65,0.9947917:82.515625|45,65,0.49479166:83.515625|46,65,1.4947916:84.015625|41,65,0.49479166:85.515625|40,65,0.49479166:86.015625|28,65,1.4947916:86.515625|33,65,1.4947916:88.015625|43,65,0.49479166:89.515625|48,65,1.4947916:90.015625|45,65,0.49479166:91.515625|38,65,1.4947916:92.015625|33,65,0.9947917:93.515625|45,65,0.49479166:94.515625|38,65,0.9947917:95.015625|31,65,1.4947916:96.015625|43,65,0.9947917:97.515625|47,65,0.49479166:98.515625|45,65,0.49479166:99.015625|38,65,0.49479166:99.515625|31,65,1.4947916:100.015625|38,65,0.49479166:101.515625|40,65,0.49479166:102.015625|46,65,0.9947917:102.515625|43,65,0.49479166:103.515625|42,65,1.4947916:104.015625|30,65,0.9947917:105.515625|43,65,0.49479166:106.515625|42,65,0.9947917:107.015625|35,65,0.9947917:108.015625|42,65,0.49479166:109.015625|47,65,0.9947917:109.515625|42,65,0.9947917:110.515625|35,65,0.49479166:111.515625|40,65,0.49479166:112.015625|28,65,0.9947917:112.515625|28,65,0.49479166:113.515625|42,65,0.49479166:114.015625|40,65,0.9947917:114.515625|47,65,0.49479166:115.515625|46,65,0.49479166:116.015625|34,65,0.49479166:116.515625|44,65,0.49479166:117.015625|41,65,0.49479166:117.515625|40,65,0.9947917:118.015625|45,65,0.49479166:119.015625|33,65,0.49479166:119.515625|38,65,1.4947916:120.015625|33,65,0.49479166:121.515625|31,65,1.4947916:122.015625|38,65,0.49479166:123.515625|38,65,1.4947916:124.015625|31,65,1.4947916:125.515625|38,65,0.9947917:127.015625|31,65,1.4947916:128.01562|38,65,0.49479166:129.51562|43,65,1.4947916:130.01562|38,65,0.49479166:131.51562|34,65,1.4947916:132.01562|46,65,1.9947916:133.51562|34,65,0.49479166:135.51562|33,65,1.4947916:136.01562|40,65,0.9947917:137.51562|45,65,0.49479166:138.51562|33,65,0.49479166:139.01562|28,65,0.49479166:139.51562|33,65,1.4947916:140.01562|45,65,1.9947916:141.51562|33,65,0.49479166:143.51562|34,65,1.4947916:144.01562|44,65,0.9947917:145.51562|39,65,0.9947917:146.51562|34,65,0.49479166:147.51562|32,65,1.4947916:148.01562|41,65,0.49479166:149.51562|46,65,0.49479166:150.01562|38,65,0.9947917:150.51562|32,65,0.49479166:151.51562|31,65,1.4947916:152.01562|38,65,0.49479166:153.51562|41,65,0.49479166:154.01562|43,65,0.9947917:154.51562|43,65,0.49479166:155.51562|45,65,1.4947916:156.01562|40,65,0.49479166:157.51562|33,65,0.49479166:158.01562|33,65,1.4947916:158.51562|38,65,1.4947916:160.01562|33,65,0.49479166:161.51562|45,65,0.49479166:162.01562|38,65,0.9947917:162.51562|47,65,0.49479166:163.51562|46,65,1.4947916:164.01562|40,65,0.49479166:165.51562|37,65,0.49479166:166.01562|31,65,0.9947917:166.51562|31,65,0.49479166:167.51562|33,65,1.4947916:168.01562|28,65,0.49479166:169.51562|40,65,0.49479166:170.01562|45,65,0.9947917:170.51562|40,65,0.49479166:171.51562|38,65,1.4947916:172.01562|48,65,0.49479166:173.51562|45,65,0.49479166:174.01562|33,65,0.49479166:174.51562|38,65,0.9947917:175.01562|31,65,1.4947916:176.01562|42,65,0.49479166:177.51562|40,65,0.49479166:178.01562|38,65,0.49479166:178.51562|43,65,0.49479166:179.01562|38,65,0.49479166:179.51562|31,65,1.4947916:180.01562|43,65,0.9947917:181.51562|38,65,0.9947917:182.51562|31,65,0.49479166:183.51562|30,65,1.4947916:184.01562|42,65,0.49479166:185.51562|34,65,0.49479166:186.01562|46,65,0.9947917:186.51562|46,65,0.49479166:187.51562|47,65,1.4947916:188.01562|42,65,0.49479166:189.51562|35,65,1.4947916:190.01562|35,65,0.49479166:191.51562|28,65,1.4947916:192.01562|35,65,0.49479166:193.51562|40,65,0.49479166:194.01562|44,65,0.9947917:194.51562|35,65,0.49479166:195.51562|34,65,1.4947916:196.01562|41,65,0.49479166:197.51562|33,65,0.9947917:198.01562|45,65,0.49479166:199.01562|33,65,0.49479166:199.51562|38,65,1.4947916:200.01562|33,65,0.49479166:201.51562|31,65,1.4947916:202.01562|38,65,0.49479166:203.51562|38,65,1.4947916:204.01562|31,65,1.4947916:205.51562|38,65,0.9947917:207.01562|38,65,1.4947916:208.01562|42,65,0.49479166:209.51562|45,65,0.9947917:210.01562|38,65,0.49479166:211.01562|33,65,0.49479166:211.51562|34,65,1.4947916:212.01562|29,65,0.49479166:213.51562|28,65,1.4947916:214.01562|40,65,0.49479166:215.51562|33,65,1.4947916:216.01562|40,65,0.49479166:217.51562|36,65,0.49479166:218.01562|28,65,0.49479166:218.51562|33,65,0.9947917:219.01562|38,65,1.4947916:220.01562|33,65,0.9947917:221.51562|42,65,0.9947917:222.51562|30,65,0.49479166:223.51562|31,65,1.4947916:224.01562|43,65,0.49479166:225.51562|40,65,0.49479166:226.01562|38,65,0.9947917:226.51562|43,65,0.49479166:227.51562|43,65,1.4947916:228.01562|38,65,0.49479166:229.51562|38,65,1.4947916:230.01562|31,65,0.49479166:231.51562|30,65,0.9947917:232.01562|37,65,0.49479166:233.01562|42,65,0.9947917:233.51562|30,65,0.9947917:234.51562|30,65,0.49479166:235.51562|35,65,1.4947916:236.01562|30,65,0.49479166:237.51562|35,65,1.4947916:238.01562|42,65,0.49479166:239.51562|40,65,1.4947916:240.01562|35,65,0.49479166:241.51562|28,65,1.4947916:242.01562|28,65,0.49479166:243.51562|34,65,1.4947916:244.01562|34,65,0.49479166:245.51562|33,65,1.4947916:246.01562|45,65,0.49479166:247.51562|38,65,1.4947916:248.01562|33,65,0.49479166:249.51562|31,65,1.4947916:250.01562|38,65,0.49479166:251.51562|38,65,1.4947916:252.01562|31,65,1.4947916:253.51562|38,65,0.9947917:255.01562|43,65,0.9947917:256.01562|48,65,0.49479166:257.01562|46,65,0.49479166:257.51562|43,65,0.49479166:258.01562|38,65,0.9947917:258.51562|34,65,0.49479166:259.51562|34,65,1.4947916:260.01562|40,65,0.49479166:261.51562|40,65,0.9947917:262.01562|46,65,0.9947917:263.01562|45,65,1.4947916:264.01562|43,65,0.49479166:265.51562|40,65,0.49479166:266.01562|36,65,0.49479166:266.51562|33,65,0.49479166:267.01562|28,65,0.49479166:267.51562|33,65,1.4947916:268.01562|40,65,0.49479166:269.51562|40,65,1.4947916:270.01562|33,65,0.49479166:271.51562|34,65,1.4947916:272.01562|48,65,0.49479166:273.51562|46,65,0.49479166:274.01562|44,65,0.49479166:274.51562|41,65,0.49479166:275.01562|39,65,0.49479166:275.51562|32,65,1.4947916:276.01562|39,65,0.49479166:277.51562|39,65,1.4947916:278.01562|32,65,0.49479166:279.51562|31,65,1.4947916:280.01562|38,65,0.49479166:281.51562|46,65,0.49479166:282.01562|41,65,0.49479166:282.51562|43,65,0.49479166:283.01562|31,65,0.49479166:283.51562|33,65,1.4947916:284.01562|43,65,0.49479166:285.51562|45,65,0.49479166:286.01562|33,65,0.9947917:286.51562|33,65,0.49479166:287.51562|38,65,1.4947916:288.01562|28,65,0.49479166:289.51562|33,65,0.49479166:290.01562|35,65,0.49479166:290.51562|42,65,0.49479166:291.01562|33,65,0.49479166:291.51562|34,65,1.4947916:292.01562|40,65,0.49479166:293.51562|43,65,0.49479166:294.01562|42,65,0.49479166:294.51562|40,65,0.49479166:295.01562|34,65,0.49479166:295.51562|33,65,1.4947916:296.01562|31,65,0.49479166:297.51562|33,65,0.49479166:298.01562|40,65,0.49479166:298.51562|45,65,0.49479166:299.01562|43,65,0.49479166:299.51562|42,65,0.49479166:300.01562|38,65,0.9947917:300.51562|33,65,0.49479166:301.51562|38,65,1.4947916:302.01562|38,65,0.49479166:303.51562|31,65,1.4947916:304.01562|38,65,0.49479166:305.51562|40,65,0.49479166:306.01562|43,65,0.49479166:306.51562|45,65,0.49479166:307.01562|47,65,0.49479166:307.51562|46,65,0.49479166:308.01562|43,65,0.9947917:308.51562|38,65,0.49479166:309.51562|31,65,0.9947917:310.01562|38,65,0.49479166:311.01562|31,65,0.49479166:311.51562|30,65,0.9947917:312.01562|42,65,0.49479166:313.01562|30,65,0.49479166:313.51562|37,65,0.49479166:314.01562|50,65,0.9947917:314.51562|34,65,0.49479166:315.51562|35,65,1.4947916:316.01562|35,65,0.49479166:317.51562|47,65,1.4947916:318.01562|42,65,0.49479166:319.51562|40,65,1.4947916:320.01562|35,65,0.9947917:321.51562|40,65,0.9947917:322.51562|40,65,0.49479166:323.51562|46,65,0.49479166:324.01562|34,65,0.49479166:324.51562|32,65,0.49479166:325.01562|29,65,0.49479166:325.51562|28,65,0.49479166:326.01562|33,65,0.9947917:326.51562|33,65,0.49479166:327.51562|38,65,1.4947916:328.01562|33,65,0.49479166:329.51562|31,65,1.4947916:330.01562|38,65,0.49479166:331.51562|38,65,1.4947916:332.01562|31,65,1.4947916:333.51562|38,65,0.9947917:335.01562|38,65,1.4947916:336.01562|33,65,0.49479166:337.51562|31,65,1.4947916:338.01562|38,65,0.49479166:339.51562|38,65,1.4947916:340.01562|31,65,1.4947916:341.51562|38,65,0.9947917:343.01562|38,65,1.4947916:344.01562|33,65,0.49479166:345.51562|31,65,1.4947916:346.01562|38,65,0.49479166:347.51562|38,65,1.4947916:348.01562|31,65,1.4947916:349.51562|38,65,0.9947917:351.01562|38,65,1.4947916:352.01562|33,65,0.49479166:353.51562|31,65,1.4947916:354.01562|38,65,0.49479166:355.51562|38,65,1.4947916:356.01562|31,65,1.4947916:357.51562|38,65,0.9947917:359.01562|38,65,1.4947916:360.01562|33,65,0.49479166:361.51562|31,65,1.4947916:362.01562|38,65,0.49479166:363.51562|38,65,1.4947916:364.01562|31,65,0.49479166:365.51562|38,65,7.9947915:372.01562]</spSaveString>
+      </org.jjazz.phrase.api.Phrase>
+    </entry>
+  </spMapUserPhrases>
+  <spClientPropertiesV3>
+    <properties>
+      <entry>
+        <string>PropCompactViewModeVisibleRps_16BeatBallad2.S014.prs-ID</string>
+        <string>rpVariationID,rpIntensityID,RpFillID</string>
+      </entry>
+      <entry>
+        <string>SectionDisplayQuantization-Intro*4/4</string>
+        <string>ONE_QUARTER_BEAT</string>
+      </entry>
+      <entry>
+        <string>SectionDisplayQuantization-Out*4/4</string>
+        <string>ONE_QUARTER_BEAT</string>
+      </entry>
+      <entry>
+        <string>PropSsEditorZoomFactorX</string>
+        <string>10</string>
+      </entry>
+      <entry>
+        <string>PropCompactViewModeVisibleRps_FastJazz.S741.sst-ID</string>
+        <string>rpVariationID,rpIntensityID,RpFillID</string>
+      </entry>
+      <entry>
+        <string>SectionDisplayQuantization-B*4/4</string>
+        <string>ONE_QUARTER_BEAT</string>
+      </entry>
+      <entry>
+        <string>PropViewMode</string>
+        <string>COMPACT</string>
+      </entry>
+      <entry>
+        <string>SectionDisplayQuantization-A*4/4</string>
+        <string>ONE_QUARTER_BEAT</string>
+      </entry>
+      <entry>
+        <string>PropCompactViewModeVisibleRps_CoolBossa.S460.sty-ID</string>
+        <string>rpVariationID,rpIntensityID,RpFillID,RpSysMuteID,rpSysMarkerID,RP_SYS_DrumsTransformId</string>
+      </entry>
+      <entry>
+        <string>SectionDisplayQuantization-End*4/4</string>
+        <string>ONE_QUARTER_BEAT</string>
+      </entry>
+    </properties>
+    <owner class="Song" reference="../.."/>
+  </spClientPropertiesV3>
+</Song>

@@ -1,0 +1,1244 @@
+<Song resolves-to="SongSP" spName="ButNotForMe-A-Theme" spTempo="205">
+  <spVERSION>4</spVERSION>
+  <spComments>Edit me...</spComments>
+  <spTags/>
+  <spChordLeadSheet class="ChordLeadSheetImpl" resolves-to="ChordLeadSheetImplSP">
+    <spVERSION>2</spVERSION>
+    <spItems>
+      <CLI__SectionImpl resolves-to="CLI_SectionImplSP" spName="Intro" spTs="FOUR_FOUR" spBarIndex="0">
+        <spVERSION>3</spVERSION>
+        <spClientProperties>
+          <properties>
+            <entry>
+              <string>PropSectionQuantization</string>
+              <string>ONE_THIRD_BEAT</string>
+            </entry>
+          </properties>
+          <owner class="CLI_SectionImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__SectionImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="A" spOriginalName="A">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
+              <null/>
+            </ChordRenderingInfoSP>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[0:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__SectionImpl resolves-to="CLI_SectionImplSP" spName="A" spTs="FOUR_FOUR" spBarIndex="4">
+        <spVERSION>3</spVERSION>
+        <spClientProperties>
+          <properties>
+            <entry>
+              <string>PropSectionQuantization</string>
+              <string>ONE_THIRD_BEAT</string>
+            </entry>
+          </properties>
+          <owner class="CLI_SectionImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__SectionImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="B7" spOriginalName="B7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
+              <null/>
+            </ChordRenderingInfoSP>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[4:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="E7" spOriginalName="E7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
+              <null/>
+            </ChordRenderingInfoSP>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[5:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="AM7" spOriginalName="AM7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
+              <null/>
+            </ChordRenderingInfoSP>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[6:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="D7" spOriginalName="D7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
+              <null/>
+            </ChordRenderingInfoSP>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[6:2]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="Dbm7" spOriginalName="Dbm7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
+              <null/>
+            </ChordRenderingInfoSP>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[7:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="Gb7" spOriginalName="Gb7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
+              <null/>
+            </ChordRenderingInfoSP>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[7:2]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="B7" spOriginalName="B7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
+              <null/>
+            </ChordRenderingInfoSP>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[8:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="E7" spOriginalName="E7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
+              <null/>
+            </ChordRenderingInfoSP>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[9:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="AM7" spOriginalName="AM7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
+              <null/>
+            </ChordRenderingInfoSP>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[10:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="Em7" spOriginalName="Em7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
+              <null/>
+            </ChordRenderingInfoSP>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[11:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="A7" spOriginalName="A7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
+              <null/>
+            </ChordRenderingInfoSP>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[11:2]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__SectionImpl resolves-to="CLI_SectionImplSP" spName="B" spTs="FOUR_FOUR" spBarIndex="12">
+        <spVERSION>3</spVERSION>
+        <spClientProperties>
+          <properties>
+            <entry>
+              <string>PropSectionQuantization</string>
+              <string>ONE_QUARTER_BEAT</string>
+            </entry>
+          </properties>
+          <owner class="CLI_SectionImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__SectionImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="DM7" spOriginalName="DM7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
+              <null/>
+            </ChordRenderingInfoSP>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[12:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="G7" spOriginalName="G7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
+              <null/>
+            </ChordRenderingInfoSP>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[13:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="AM7" spOriginalName="AM7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
+              <null/>
+            </ChordRenderingInfoSP>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[14:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="Gbm7" spOriginalName="Gbm7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
+              <null/>
+            </ChordRenderingInfoSP>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[15:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="B7" spOriginalName="B7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
+              <null/>
+            </ChordRenderingInfoSP>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[16:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="Bm7" spOriginalName="Bm7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
+              <null/>
+            </ChordRenderingInfoSP>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[18:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="E7" spOriginalName="E7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
+              <null/>
+            </ChordRenderingInfoSP>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[19:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__SectionImpl resolves-to="CLI_SectionImplSP" spName="C" spTs="FOUR_FOUR" spBarIndex="20">
+        <spVERSION>3</spVERSION>
+        <spClientProperties>
+          <properties>
+            <entry>
+              <string>PropSectionQuantization</string>
+              <string>ONE_QUARTER_BEAT</string>
+            </entry>
+          </properties>
+          <owner class="CLI_SectionImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__SectionImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="DM7" spOriginalName="DM7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
+              <null/>
+            </ChordRenderingInfoSP>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[20:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="G7" spOriginalName="G7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
+              <null/>
+            </ChordRenderingInfoSP>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[21:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="AM7" spOriginalName="AM7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
+              <null/>
+            </ChordRenderingInfoSP>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[22:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="D7" spOriginalName="D7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
+              <null/>
+            </ChordRenderingInfoSP>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[22:2]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="Dbm7" spOriginalName="Dbm7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
+              <null/>
+            </ChordRenderingInfoSP>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[23:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="Gb7" spOriginalName="Gb7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
+              <null/>
+            </ChordRenderingInfoSP>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[23:2]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="Bm7" spOriginalName="Bm7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
+              <null/>
+            </ChordRenderingInfoSP>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[24:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="E7" spOriginalName="E7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
+              <null/>
+            </ChordRenderingInfoSP>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[25:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="A6" spOriginalName="A6">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
+              <null/>
+            </ChordRenderingInfoSP>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[26:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__SectionImpl resolves-to="CLI_SectionImplSP" spName="Ending" spTs="FOUR_FOUR" spBarIndex="28">
+        <spVERSION>3</spVERSION>
+        <spClientProperties>
+          <properties>
+            <entry>
+              <string>PropSectionQuantization</string>
+              <string>ONE_THIRD_BEAT</string>
+            </entry>
+          </properties>
+          <owner class="CLI_SectionImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__SectionImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="A" spOriginalName="A">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
+              <null/>
+            </ChordRenderingInfoSP>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[28:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+    </spItems>
+    <spSize>30</spSize>
+  </spChordLeadSheet>
+  <spSongStructure class="SongStructureImpl" resolves-to="SongStructureImplSP">
+    <spVERSION>2</spVERSION>
+    <spSpts>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="FastJazz.S741.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="0" spName="Chorus 1" spNbBars="4">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>FastJazz.S741.sst</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>[DrumsMixIdhidden#BASS=-37,CRASH=-34,PERCUSSION=-36,TOM=-36,SNARE=-41]</string>
+          </entry>
+          <entry>
+            <string>rpVariationID</string>
+            <string>Intro A-1</string>
+          </entry>
+          <entry>
+            <string>rpIntensityID</string>
+            <string>0</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_CustomPhraseId</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpSysMuteID</string>
+            <string>[Bass,Chord2,Chord1]</string>
+          </entry>
+          <entry>
+            <string>rpSysMarkerID</string>
+            <string>theme</string>
+          </entry>
+          <entry>
+            <string>RpFillID</string>
+            <string>always</string>
+          </entry>
+          <entry>
+            <string>rpTempoID</string>
+            <string>100</string>
+          </entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="FastJazz.S741.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="4" spName="Chorus 1" spNbBars="8">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>FastJazz.S741.sst</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[2]"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>[DrumsMixIdhidden#BASS=-37,CRASH=-34,PERCUSSION=-36,TOM=-36,SNARE=-41]</string>
+          </entry>
+          <entry>
+            <string>rpVariationID</string>
+            <string>Main A-1</string>
+          </entry>
+          <entry>
+            <string>rpIntensityID</string>
+            <string>0</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_CustomPhraseId</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpSysMuteID</string>
+            <string>[Bass,Chord2,Chord1]</string>
+          </entry>
+          <entry>
+            <string>rpSysMarkerID</string>
+            <string>theme</string>
+          </entry>
+          <entry>
+            <string>RpFillID</string>
+            <string>always</string>
+          </entry>
+          <entry>
+            <string>rpTempoID</string>
+            <string>100</string>
+          </entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="FastJazz.S741.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="12" spName="Chorus 1" spNbBars="8">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>FastJazz.S741.sst</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[3]"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>[DrumsMixIdhidden#BASS=-37,CRASH=-34,PERCUSSION=-36,TOM=-36,SNARE=-41]</string>
+          </entry>
+          <entry>
+            <string>rpVariationID</string>
+            <string>Main B-1</string>
+          </entry>
+          <entry>
+            <string>rpIntensityID</string>
+            <string>0</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_CustomPhraseId</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpSysMuteID</string>
+            <string>[Bass,Chord2,Chord1]</string>
+          </entry>
+          <entry>
+            <string>rpSysMarkerID</string>
+            <string>theme</string>
+          </entry>
+          <entry>
+            <string>RpFillID</string>
+            <string>always</string>
+          </entry>
+          <entry>
+            <string>rpTempoID</string>
+            <string>100</string>
+          </entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="FastJazz.S741.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="20" spName="Chorus 1" spNbBars="8">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>FastJazz.S741.sst</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[2]"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>[DrumsMixIdhidden#BASS=-37,CRASH=-34,PERCUSSION=-36,TOM=-36,SNARE=-41]</string>
+          </entry>
+          <entry>
+            <string>rpVariationID</string>
+            <string>Main C-1</string>
+          </entry>
+          <entry>
+            <string>rpIntensityID</string>
+            <string>0</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_CustomPhraseId</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpSysMuteID</string>
+            <string>[Bass,Chord2,Chord1]</string>
+          </entry>
+          <entry>
+            <string>rpSysMarkerID</string>
+            <string>theme</string>
+          </entry>
+          <entry>
+            <string>RpFillID</string>
+            <string>always</string>
+          </entry>
+          <entry>
+            <string>rpTempoID</string>
+            <string>100</string>
+          </entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="FastJazz.S741.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="28" spName="Chorus 1" spNbBars="8">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>FastJazz.S741.sst</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[4]"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>[DrumsMixIdhidden#BASS=-37,CRASH=-34,PERCUSSION=-36,TOM=-36,SNARE=-41]</string>
+          </entry>
+          <entry>
+            <string>rpVariationID</string>
+            <string>Main B-1</string>
+          </entry>
+          <entry>
+            <string>rpIntensityID</string>
+            <string>0</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_CustomPhraseId</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpSysMuteID</string>
+            <string>[Bass,Chord2,Chord1]</string>
+          </entry>
+          <entry>
+            <string>rpSysMarkerID</string>
+            <string>theme</string>
+          </entry>
+          <entry>
+            <string>RpFillID</string>
+            <string>break</string>
+          </entry>
+          <entry>
+            <string>rpTempoID</string>
+            <string>100</string>
+          </entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="FastJazz.S741.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="36" spName="Chorus 2" spNbBars="8">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>FastJazz.S741.sst</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[2]"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>[DrumsMixIdhidden#BASS=-37,CRASH=-34,PERCUSSION=-36,TOM=-36,SNARE=-41]</string>
+          </entry>
+          <entry>
+            <string>rpVariationID</string>
+            <string>Main C-1</string>
+          </entry>
+          <entry>
+            <string>rpIntensityID</string>
+            <string>0</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_CustomPhraseId</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpSysMuteID</string>
+            <string>[Bass,Chord2,Chord1]</string>
+          </entry>
+          <entry>
+            <string>rpSysMarkerID</string>
+            <string>theme</string>
+          </entry>
+          <entry>
+            <string>RpFillID</string>
+            <string>always</string>
+          </entry>
+          <entry>
+            <string>rpTempoID</string>
+            <string>100</string>
+          </entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="FastJazz.S741.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="44" spName="Chorus 2" spNbBars="8">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>FastJazz.S741.sst</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[3]"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>[DrumsMixIdhidden#BASS=-37,CRASH=-34,PERCUSSION=-36,TOM=-36,SNARE=-41]</string>
+          </entry>
+          <entry>
+            <string>rpVariationID</string>
+            <string>Main D-1</string>
+          </entry>
+          <entry>
+            <string>rpIntensityID</string>
+            <string>0</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_CustomPhraseId</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpSysMuteID</string>
+            <string>[Bass,Chord2,Chord1]</string>
+          </entry>
+          <entry>
+            <string>rpSysMarkerID</string>
+            <string>theme</string>
+          </entry>
+          <entry>
+            <string>RpFillID</string>
+            <string>always</string>
+          </entry>
+          <entry>
+            <string>rpTempoID</string>
+            <string>100</string>
+          </entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="FastJazz.S741.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="52" spName="Chorus 2" spNbBars="8">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>FastJazz.S741.sst</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[2]"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>[DrumsMixIdhidden#BASS=-37,CRASH=-34,PERCUSSION=-36,TOM=-36,SNARE=-41]</string>
+          </entry>
+          <entry>
+            <string>rpVariationID</string>
+            <string>Main C-1</string>
+          </entry>
+          <entry>
+            <string>rpIntensityID</string>
+            <string>0</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_CustomPhraseId</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpSysMuteID</string>
+            <string>[Bass,Chord2,Chord1]</string>
+          </entry>
+          <entry>
+            <string>rpSysMarkerID</string>
+            <string>theme</string>
+          </entry>
+          <entry>
+            <string>RpFillID</string>
+            <string>always</string>
+          </entry>
+          <entry>
+            <string>rpTempoID</string>
+            <string>100</string>
+          </entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="FastJazz.S741.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="60" spName="Chorus 2" spNbBars="8">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>FastJazz.S741.sst</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[4]"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>[DrumsMixIdhidden#BASS=-37,CRASH=-34,PERCUSSION=-36,TOM=-36,SNARE=-41]</string>
+          </entry>
+          <entry>
+            <string>rpVariationID</string>
+            <string>Main B-1</string>
+          </entry>
+          <entry>
+            <string>rpIntensityID</string>
+            <string>0</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_CustomPhraseId</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpSysMuteID</string>
+            <string>[Bass,Chord2,Chord1]</string>
+          </entry>
+          <entry>
+            <string>rpSysMarkerID</string>
+            <string>theme</string>
+          </entry>
+          <entry>
+            <string>RpFillID</string>
+            <string>break</string>
+          </entry>
+          <entry>
+            <string>rpTempoID</string>
+            <string>100</string>
+          </entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="FastJazz.S741.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="68" spName="Chorus 3" spNbBars="8">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>FastJazz.S741.sst</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[2]"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>[DrumsMixIdhidden#BASS=-37,CRASH=-34,PERCUSSION=-36,TOM=-36,SNARE=-41]</string>
+          </entry>
+          <entry>
+            <string>rpVariationID</string>
+            <string>Main A-1</string>
+          </entry>
+          <entry>
+            <string>rpIntensityID</string>
+            <string>0</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_CustomPhraseId</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpSysMuteID</string>
+            <string>[Bass,Chord2,Chord1]</string>
+          </entry>
+          <entry>
+            <string>rpSysMarkerID</string>
+            <string>theme</string>
+          </entry>
+          <entry>
+            <string>RpFillID</string>
+            <string>always</string>
+          </entry>
+          <entry>
+            <string>rpTempoID</string>
+            <string>100</string>
+          </entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="FastJazz.S741.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="76" spName="Chorus 3" spNbBars="8">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>FastJazz.S741.sst</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[3]"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>[DrumsMixIdhidden#BASS=-37,CRASH=-34,PERCUSSION=-36,TOM=-36,SNARE=-41]</string>
+          </entry>
+          <entry>
+            <string>rpVariationID</string>
+            <string>Main B-1</string>
+          </entry>
+          <entry>
+            <string>rpIntensityID</string>
+            <string>0</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_CustomPhraseId</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpSysMuteID</string>
+            <string>[Bass,Chord2,Chord1]</string>
+          </entry>
+          <entry>
+            <string>rpSysMarkerID</string>
+            <string>theme</string>
+          </entry>
+          <entry>
+            <string>RpFillID</string>
+            <string>always</string>
+          </entry>
+          <entry>
+            <string>rpTempoID</string>
+            <string>100</string>
+          </entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="FastJazz.S741.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="84" spName="Chorus 3" spNbBars="8">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>FastJazz.S741.sst</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[2]"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>[DrumsMixIdhidden#BASS=-37,CRASH=-34,PERCUSSION=-36,TOM=-36,SNARE=-41]</string>
+          </entry>
+          <entry>
+            <string>rpVariationID</string>
+            <string>Main C-1</string>
+          </entry>
+          <entry>
+            <string>rpIntensityID</string>
+            <string>0</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_CustomPhraseId</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpSysMuteID</string>
+            <string>[Bass,Chord2,Chord1]</string>
+          </entry>
+          <entry>
+            <string>rpSysMarkerID</string>
+            <string>theme</string>
+          </entry>
+          <entry>
+            <string>RpFillID</string>
+            <string>always</string>
+          </entry>
+          <entry>
+            <string>rpTempoID</string>
+            <string>100</string>
+          </entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="FastJazz.S741.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="92" spName="Chorus 3" spNbBars="8">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>FastJazz.S741.sst</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[4]"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>[DrumsMixIdhidden#BASS=-37,CRASH=-34,PERCUSSION=-36,TOM=-36,SNARE=-41]</string>
+          </entry>
+          <entry>
+            <string>rpVariationID</string>
+            <string>Main B-1</string>
+          </entry>
+          <entry>
+            <string>rpIntensityID</string>
+            <string>0</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_CustomPhraseId</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpSysMuteID</string>
+            <string>[Bass,Chord2,Chord1]</string>
+          </entry>
+          <entry>
+            <string>rpSysMarkerID</string>
+            <string>theme</string>
+          </entry>
+          <entry>
+            <string>RpFillID</string>
+            <string>break</string>
+          </entry>
+          <entry>
+            <string>rpTempoID</string>
+            <string>100</string>
+          </entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="FastJazz.S741.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="100" spName="Ending" spNbBars="2">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>FastJazz.S741.sst</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[5]"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>[DrumsMixIdhidden#BASS=-37,CRASH=-34,PERCUSSION=-36,TOM=-36,SNARE=-41]</string>
+          </entry>
+          <entry>
+            <string>rpVariationID</string>
+            <string>Main B-1</string>
+          </entry>
+          <entry>
+            <string>rpIntensityID</string>
+            <string>0</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_CustomPhraseId</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpSysMuteID</string>
+            <string>[Bass,Chord2,Chord1]</string>
+          </entry>
+          <entry>
+            <string>rpSysMarkerID</string>
+            <string>theme</string>
+          </entry>
+          <entry>
+            <string>RpFillID</string>
+            <string>break</string>
+          </entry>
+          <entry>
+            <string>rpTempoID</string>
+            <string>100</string>
+          </entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+    </spSpts>
+    <spParentCls class="ChordLeadSheetImpl" reference="../../spChordLeadSheet"/>
+    <spKeepUpdated>true</spKeepUpdated>
+  </spSongStructure>
+  <spMapUserPhrases>
+    <entry>
+      <string>Bass</string>
+      <Phrase resolves-to="PhraseSP" spVERSION="2">
+        <spSaveString>[0|47,76,2.1166666:16.0|54,61,2.0:18.0|47,70,2.0:20.0|40,82,2.0:22.0|45,82,2.0:24.0|38,82,2.0:26.0|49,85,1.6666666:28.0|37,55,0.15833333:29.666666|42,80,1.6166667:30.0|46,81,0.30833334:31.691668|47,78,1.9583334:32.0|42,82,1.7916666:34.0|35,60,0.09166667:35.7|47,80,1.6166667:36.0|39,81,0.30833334:37.691666|40,85,1.4166666:38.0|28,27,0.225:39.333332|40,82,0.18333334:39.666668|45,85,2.0:40.033333|40,85,1.55:42.05|41,80,0.36666667:43.625|40,70,2.0:44.0|45,82,2.0:46.0|38,76,2.1166666:48.0|45,61,2.0:50.0|47,70,2.0:52.0|40,85,1.6666666:54.0|28,55,0.15833333:55.666668|45,82,2.075:56.0|52,85,1.6666666:58.0|45,82,0.18333334:59.666668|42,82,2.075:60.0|49,85,1.6666666:62.0|42,82,0.18333334:63.666668|46,70,2.0:64.0|47,70,2.0:66.0|47,72,1.675:68.0|54,82,0.41666666:69.675|59,74,0.425:70.0|54,100,0.36666667:70.666664|47,89,0.9:71.0|47,82,2.0:72.0|41,70,2.0:74.0|40,82,2.0:76.0|42,76,1.7166667:78.0|48,78,0.33333334:79.666664|47,78,1.1666666:80.0|49,80,1.0916667:81.0|51,75,1.1666666:82.0|54,76,1.0:83.0|47,82,0.6166667:84.0|47,94,0.21666667:84.7|39,75,1.0:85.0|40,86,0.95:86.0|44,80,1.0:87.0|45,86,0.95:88.0|37,80,1.0:89.0|38,82,0.6166667:90.0|38,94,0.21666667:90.7|48,75,1.0:91.0|49,86,0.9583333:92.0|44,62,0.16666667:92.7|56,79,0.65833336:93.05|44,64,0.14166667:93.65833|42,82,0.6166667:94.0|42,94,0.21666667:94.7|46,75,1.0:95.0|47,85,1.0:96.0|54,84,1.0083333:97.0|51,79,1.0083333:98.00833|47,97,0.98333335:99.01667|47,93,1.0:100.0|47,100,1.0:101.0|40,91,1.125:102.0|44,88,0.90833336:103.0|45,85,0.76666665:104.0|40,64,0.15833333:104.691666|47,83,0.9916667:105.0|49,90,0.65:106.0|40,68,0.15:106.691666|52,92,0.6666667:107.0|40,61,0.083333336:107.691666|40,86,0.9583333:108.0|35,62,0.16666667:108.7|47,79,0.65833336:109.05|35,64,0.14166667:109.65833|45,81,1.1833333:110.0|52,80,1.0:111.0|38,78,1.9583334:112.0|45,82,1.7916666:114.0|26,60,0.09166667:115.7|43,82,2.075:116.0|50,85,1.6666666:118.0|43,82,0.18333334:119.666664|45,85,1.4166666:120.0|33,27,0.225:121.333336|45,82,0.18333334:121.666664|42,82,2.0:122.0|47,80,1.6166667:124.0|47,81,0.30833334:125.691666|48,70,2.0:126.0|47,82,2.075:128.0|54,85,1.6666666:130.0|47,82,0.18333334:131.66667|40,72,1.675:132.0|47,82,0.41666666:133.675|52,74,0.425:134.0|47,100,0.36666667:134.66667|40,89,0.9:135.0|45,82,2.0:136.0|38,70,2.0:138.0|45,85,1.4166666:140.0|33,27,0.225:141.33333|45,82,0.18333334:141.66667|42,70,2.0:142.0|47,85,0.76666665:144.0|42,64,0.15833333:144.69167|49,83,0.9916667:145.0|51,90,0.65:146.0|42,68,0.15:146.69167|54,92,0.6666667:147.0|42,61,0.083333336:147.69167|47,86,0.95:148.0|39,80,1.0:149.0|40,82,0.6166667:150.0|40,94,0.21666667:150.7|44,75,1.0:151.0|45,81,1.1833333:152.0|52,80,1.0:153.0|38,87,0.9:154.0|26,64,0.26666668:154.7|50,87,1.0:155.0|49,82,0.6166667:156.0|49,94,0.21666667:156.7|41,75,1.0:157.0|42,91,1.125:158.0|46,88,0.90833336:159.0|47,85,1.0:160.0|54,84,1.0083333:161.0|51,79,1.0083333:162.00833|47,97,0.98333335:163.01666|47,86,0.95:164.0|39,80,1.0:165.0|40,86,0.9583333:166.0|35,62,0.16666667:166.7|47,79,0.65833336:167.05|35,64,0.14166667:167.65834|45,85,1.0:168.0|52,84,1.0083333:169.0|49,79,1.0083333:170.00833|45,97,0.98333335:171.01666|52,78,1.125:172.0|47,77,1.0:173.0|45,98,0.7583333:174.0|33,91,0.25833333:174.7|45,100,0.9916667:175.0|38,94,0.775:176.0|33,45,0.25833333:176.69167|45,77,0.875:177.0|42,85,1.0:178.0|38,87,0.425:179.0|33,65,0.25833333:179.69167|47,98,0.7583333:180.0|35,91,0.25833333:180.7|47,100,0.9916667:181.0|52,78,1.125:182.0|47,77,1.0:183.0|45,85,1.0:184.0|52,84,1.0083333:185.0|49,79,1.0083333:186.00833|45,97,0.98333335:187.01666|42,85,1.0:188.0|49,84,1.0083333:189.0|45,79,1.0083333:190.00833|42,97,0.98333335:191.01666|46,93,1.0:192.0|46,100,1.0:193.0|47,81,1.1833333:194.0|54,80,1.0:195.0|47,78,1.1666666:196.0|49,80,1.0916667:197.0|50,75,1.1666666:198.0|54,76,1.0:199.0|47,86,0.95:200.0|40,80,1.0:201.0|41,87,0.53333336:202.0|41,80,0.29166666:202.71666|48,73,1.0:203.0|40,86,0.95:204.0|41,80,1.0:205.0|42,86,0.95:206.0|46,80,1.0:207.0|47,78,1.1666666:208.0|49,80,1.0916667:209.0|51,75,1.1666666:210.0|54,76,1.0:211.0|47,81,1.1833333:212.0|54,80,1.0:213.0|40,86,0.9583333:214.0|35,62,0.16666667:214.7|47,79,0.65833336:215.05|35,64,0.14166667:215.65834|45,98,1.0:216.0|39,105,1.0:217.0|38,98,1.0:218.0|50,105,1.0:219.0|49,82,0.6166667:220.0|49,94,0.21666667:220.7|41,75,1.0:221.0|42,98,1.0:222.0|48,105,1.0:223.0|47,78,1.1666666:224.0|49,80,1.0916667:225.0|51,75,1.1666666:226.0|54,76,1.0:227.0|47,98,0.7583333:228.0|35,91,0.25833333:228.7|47,100,0.9916667:229.0|40,98,1.0:230.0|46,105,1.0:231.0|45,94,0.775:232.0|40,45,0.25833333:232.69167|52,77,0.875:233.0|49,85,1.0:234.0|45,87,0.425:235.0|40,65,0.25833333:235.69167|40,93,1.0:236.0|40,100,1.0:237.0|45,87,0.53333336:238.0|45,80,0.29166666:238.71666|52,73,1.0:239.0|38,85,0.76666665:240.0|33,64,0.15833333:240.69167|40,83,0.9916667:241.0|42,90,0.65:242.0|33,68,0.15:242.69167|45,92,0.6666667:243.0|33,61,0.083333336:243.69167|43,85,1.0:244.0|50,84,1.0083333:245.0|47,79,1.0083333:246.00833|43,97,0.98333335:247.01666|45,86,0.9583333:248.0|40,62,0.16666667:248.7|52,79,0.65833336:249.05|40,64,0.14166667:249.65834|42,86,0.95:250.0|46,80,1.0:251.0|47,93,1.0:252.0|47,100,1.0:253.0|48,87,0.53333336:254.0|48,80,0.29166666:254.71666|54,73,1.0:255.0|47,78,1.1666666:256.0|49,80,1.0916667:257.0|50,75,1.1666666:258.0|54,76,1.0:259.0|40,85,0.76666665:260.0|35,64,0.15833333:260.69168|42,83,0.9916667:261.0|44,90,0.65:262.0|35,68,0.15:262.69168|47,92,0.6666667:263.0|35,61,0.083333336:263.69168|45,87,0.9:264.0|33,64,0.26666668:264.7|39,87,1.0:265.0|38,82,0.6166667:266.0|38,94,0.21666667:266.7|44,75,1.0:267.0|45,87,0.53333336:268.0|45,80,0.29166666:268.71667|52,73,1.0:269.0|42,87,0.53333336:270.0|42,80,0.29166666:270.71667|49,73,1.0:271.0|47,78,1.9583334:272.0|42,82,1.7916666:274.0|35,60,0.09166667:275.7|47,80,1.6166667:276.0|39,81,0.30833334:277.69168|40,73,1.7:278.0|47,68,0.3:279.7|45,80,1.6166667:280.0|37,81,0.30833334:281.69168|38,76,1.7166667:282.0|50,78,0.33333334:283.66666|49,70,2.0:284.0|42,73,1.7:286.0|49,68,0.3:287.7|47,89,2.0583334:288.0|42,82,1.7583333:290.05832|47,70,2.0:292.0|40,82,2.0:294.0|45,76,2.1166666:296.0|52,61,2.0:298.0|40,85,1.6666666:300.0|28,55,0.15833333:301.66666|45,85,1.4166666:302.0|33,27,0.225:303.33334|45,82,0.18333334:303.66666|38,78,1.9583334:304.0|45,82,1.7916666:306.0|26,60,0.09166667:307.7|47,85,1.6666666:308.0|35,55,0.15833333:309.66666|40,70,2.0:310.0|45,76,2.1166666:312.0|52,61,2.0:314.0|42,87,2.0416667:316.0|49,87,2.0:318.0|46,82,2.0:320.0|47,82,2.0:322.0|47,78,1.9583334:324.0|42,82,1.7916666:326.0|35,60,0.09166667:327.7|47,76,1.7166667:328.0|42,78,0.33333334:329.66666|41,82,2.0:330.0|40,80,1.6166667:332.0|41,81,0.30833334:333.69168|42,70,2.0:334.0|47,78,1.1666666:336.0|49,80,1.0916667:337.0|51,75,1.1666666:338.0|54,76,1.0:339.0|47,82,0.6166667:340.0|47,94,0.21666667:340.7|39,75,1.0:341.0|52,78,1.125:342.0|47,77,1.0:343.0|45,86,0.95:344.0|37,80,1.0:345.0|50,78,1.125:346.0|45,77,1.0:347.0|49,98,0.7583333:348.0|37,91,0.25833333:348.7|49,100,0.9916667:349.0|42,81,1.1833333:350.0|49,80,1.0:351.0|47,85,0.76666665:352.0|42,64,0.15833333:352.69168|49,83,0.9916667:353.0|51,90,0.65:354.0|42,68,0.15:354.69168|54,92,0.6666667:355.0|42,61,0.083333336:355.69168|47,87,0.9:356.0|35,64,0.26666668:356.7|41,87,1.0:357.0|40,86,0.95:358.0|44,80,1.0:359.0|45,85,0.76666665:360.0|40,64,0.15833333:360.69168|47,83,0.9916667:361.0|49,90,0.65:362.0|40,68,0.15:362.69168|52,92,0.6666667:363.0|40,61,0.083333336:363.69168|40,87,0.9:364.0|28,64,0.26666668:364.7|46,87,1.0:365.0|45,86,0.9583333:366.0|40,62,0.16666667:366.7|52,79,0.65833336:367.05|40,64,0.14166667:367.65833|38,89,2.0583334:368.0|45,82,1.7583333:370.05832|43,82,2.075:372.0|50,85,1.6666666:374.0|43,82,0.18333334:375.66666|45,82,2.0:376.0|42,85,1.4166666:378.0|30,27,0.225:379.33334|42,82,0.18333334:379.66666|47,82,2.0:380.0|48,82,2.0:382.0|47,82,2.075:384.0|54,85,1.6666666:386.0|47,82,0.18333334:387.66666|40,76,2.1166666:388.0|47,61,2.0:390.0|45,85,1.6666666:392.0|33,55,0.15833333:393.66666|38,82,2.0:394.0|45,70,2.0:396.0|42,82,2.0:398.0|45,88,1.0:400.0|49,90,1.1916667:401.0|50,90,1.1416667:402.0|51,97,0.81666666:403.0|52,88,0.51666665:404.0|45,95,2.3166666:405.66666]</spSaveString>
+      </Phrase>
+    </entry>
+    <entry>
+      <string>Guitar</string>
+      <Phrase resolves-to="PhraseSP" spVERSION="2">
+        <spSaveString>[0|63,60,0.26666668:16.991667|69,31,0.26666668:17.016666|63,66,0.26666668:19.0|69,52,0.3:19.0|62,60,0.26666668:20.991667|69,31,0.26666668:21.016666|62,60,0.26666668:22.991667|68,31,0.26666668:23.016666|61,60,0.26666668:24.991667|68,31,0.26666668:25.016666|61,60,0.26666668:26.991667|66,31,0.26666668:27.016666|64,60,0.26666668:28.991667|71,31,0.26666668:29.016666|64,60,0.26666668:30.991667|70,31,0.26666668:31.016666|63,60,0.26666668:32.991665|69,31,0.26666668:33.016666|63,66,0.26666668:35.0|69,52,0.3:35.0|62,60,0.26666668:36.991665|69,31,0.26666668:37.016666|62,60,0.26666668:38.991665|68,31,0.26666668:39.016666|61,60,0.26666668:40.991665|67,31,0.26666668:41.016666|61,66,0.26666668:43.0|67,52,0.3:43.0|62,60,0.26666668:44.991665|67,31,0.26666668:45.016666|61,60,0.26666668:46.991665|67,31,0.26666668:47.016666|61,60,0.26666668:48.991665|66,31,0.26666668:49.016666|61,66,0.26666668:51.0|66,52,0.3:51.0|62,60,0.26666668:52.991665|69,31,0.26666668:53.016666|62,60,0.26666668:54.991665|68,31,0.26666668:55.016666|61,60,0.26666668:56.991665|68,31,0.26666668:57.016666|61,66,0.26666668:59.0|68,52,0.3:59.0|64,60,0.26666668:60.991665|69,31,0.26666668:61.016666|64,66,0.26666668:63.0|69,52,0.3:63.0|61,60,0.26666668:64.99167|67,31,0.26666668:65.01667|62,60,0.26666668:66.99167|69,31,0.26666668:67.01667|62,60,0.26666668:68.99167|69,31,0.26666668:69.01667|62,66,0.26666668:71.0|69,52,0.3:71.0|63,60,0.26666668:72.99167|69,31,0.26666668:73.01667|63,60,0.26666668:74.99167|69,31,0.26666668:75.01667|62,60,0.26666668:76.99167|68,31,0.26666668:77.01667|64,60,0.26666668:78.99167|70,31,0.26666668:79.01667|63,42,0.94166666:80.01667|69,35,0.96666664:80.03333|63,54,0.175:81.01667|69,51,0.14166667:81.041664|63,40,0.9583333:82.025|69,33,0.98333335:82.041664|63,50,0.20833333:83.01667|69,50,0.175:83.041664|62,60,0.26666668:84.99167|69,31,0.26666668:85.01667|62,42,0.94166666:86.01667|68,35,0.96666664:86.03333|62,54,0.175:87.01667|68,51,0.14166667:87.041664|61,42,0.94166666:88.01667|68,35,0.96666664:88.03333|61,54,0.175:89.01667|68,51,0.14166667:89.041664|61,60,0.26666668:90.99167|66,31,0.26666668:91.01667|64,42,0.94166666:92.01667|71,35,0.96666664:92.03333|64,54,0.175:93.01667|71,51,0.14166667:93.041664|64,60,0.26666668:94.99167|70,31,0.26666668:95.01667|63,42,0.94166666:96.01667|69,35,0.96666664:96.03333|63,54,0.175:97.01667|69,51,0.14166667:97.041664|63,40,0.9583333:98.025|69,33,0.98333335:98.041664|63,50,0.20833333:99.01667|69,50,0.175:99.041664|62,60,0.26666668:100.99167|69,31,0.26666668:101.01667|62,42,0.94166666:102.01667|68,35,0.96666664:102.03333|62,54,0.175:103.01667|68,51,0.14166667:103.041664|61,60,0.26666668:104.99167|67,31,0.26666668:105.01667|61,66,0.26666668:107.0|67,52,0.3:107.0|62,60,0.26666668:108.99167|67,31,0.26666668:109.01667|61,60,0.26666668:110.99167|67,31,0.26666668:111.01667|61,60,0.26666668:112.99167|66,31,0.26666668:113.01667|61,66,0.26666668:115.0|66,52,0.3:115.0|65,60,0.26666668:116.99167|71,31,0.26666668:117.01667|65,66,0.26666668:119.0|71,52,0.3:119.0|61,60,0.26666668:120.99167|68,31,0.26666668:121.01667|64,60,0.26666668:122.99167|69,31,0.26666668:123.01667|63,60,0.26666668:124.99167|69,31,0.26666668:125.01667|63,60,0.26666668:126.99167|69,31,0.26666668:127.01667|62,60,0.26666668:128.99167|69,31,0.26666668:129.01666|62,66,0.26666668:131.0|69,52,0.3:131.0|62,60,0.26666668:132.99167|68,31,0.26666668:133.01666|62,66,0.26666668:135.0|68,52,0.3:135.0|61,60,0.26666668:136.99167|66,31,0.26666668:137.01666|61,60,0.26666668:138.99167|66,31,0.26666668:139.01666|61,60,0.26666668:140.99167|66,31,0.26666668:141.01666|64,60,0.26666668:142.99167|69,31,0.26666668:143.01666|63,60,0.26666668:144.99167|69,31,0.26666668:145.01666|63,66,0.26666668:147.0|69,52,0.3:147.0|62,42,0.94166666:148.01666|69,35,0.96666664:148.03334|62,54,0.175:149.01666|69,51,0.14166667:149.04167|62,60,0.26666668:150.99167|68,31,0.26666668:151.01666|61,60,0.26666668:152.99167|68,31,0.26666668:153.01666|61,60,0.26666668:154.99167|66,31,0.26666668:155.01666|64,60,0.26666668:156.99167|71,31,0.26666668:157.01666|64,42,0.94166666:158.01666|70,35,0.96666664:158.03334|64,54,0.175:159.01666|70,51,0.14166667:159.04167|63,60,0.26666668:160.99167|69,31,0.26666668:161.01666|63,66,0.26666668:163.0|69,52,0.3:163.0|62,60,0.26666668:164.99167|69,31,0.26666668:165.01666|62,42,0.94166666:166.01666|68,35,0.96666664:166.03334|62,54,0.175:167.01666|68,51,0.14166667:167.04167|61,60,0.26666668:168.99167|67,31,0.26666668:169.01666|61,66,0.26666668:171.0|67,52,0.3:171.0|62,60,0.26666668:172.99167|67,31,0.26666668:173.01666|61,42,0.94166666:174.01666|67,35,0.96666664:174.03334|61,54,0.175:175.01666|67,51,0.14166667:175.04167|61,60,0.26666668:176.99167|66,31,0.26666668:177.01666|61,66,0.26666668:179.0|66,52,0.3:179.0|62,42,0.94166666:180.01666|69,35,0.96666664:180.03334|62,54,0.175:181.01666|69,51,0.14166667:181.04167|62,42,0.94166666:182.01666|68,35,0.96666664:182.03334|62,54,0.175:183.01666|68,51,0.14166667:183.04167|61,42,0.94166666:184.01666|68,35,0.96666664:184.03334|61,54,0.175:185.01666|68,51,0.14166667:185.04167|61,40,0.9583333:186.025|68,33,0.98333335:186.04167|61,50,0.20833333:187.01666|68,50,0.175:187.04167|64,60,0.26666668:188.99167|69,31,0.26666668:189.01666|64,66,0.26666668:191.0|69,52,0.3:191.0|61,60,0.26666668:192.99167|67,31,0.26666668:193.01666|62,60,0.26666668:194.99167|69,31,0.26666668:195.01666|62,60,0.26666668:196.99167|69,31,0.26666668:197.01666|62,66,0.26666668:199.0|69,52,0.3:199.0|63,60,0.26666668:200.99167|69,31,0.26666668:201.01666|63,60,0.26666668:202.99167|69,31,0.26666668:203.01666|62,42,0.94166666:204.01666|68,35,0.96666664:204.03334|62,54,0.175:205.01666|68,51,0.14166667:205.04167|64,60,0.26666668:206.99167|70,31,0.26666668:207.01666|63,42,0.94166666:208.01666|69,35,0.96666664:208.03334|63,54,0.175:209.01666|69,51,0.14166667:209.04167|63,40,0.9583333:210.025|69,33,0.98333335:210.04167|63,50,0.20833333:211.01666|69,50,0.175:211.04167|62,60,0.26666668:212.99167|69,31,0.26666668:213.01666|62,60,0.26666668:214.99167|68,31,0.26666668:215.01666|61,60,0.26666668:216.99167|68,31,0.26666668:217.01666|61,42,0.94166666:218.01666|66,35,0.96666664:218.03334|61,54,0.175:219.01666|66,51,0.14166667:219.04167|64,60,0.26666668:220.99167|71,31,0.26666668:221.01666|64,42,0.94166666:222.01666|70,35,0.96666664:222.03334|64,54,0.175:223.01666|70,51,0.14166667:223.04167|63,60,0.26666668:224.99167|69,31,0.26666668:225.01666|63,66,0.26666668:227.0|69,52,0.3:227.0|62,60,0.26666668:228.99167|69,31,0.26666668:229.01666|62,42,0.94166666:230.01666|68,35,0.96666664:230.03334|62,54,0.175:231.01666|68,51,0.14166667:231.04167|61,60,0.26666668:232.99167|67,31,0.26666668:233.01666|61,66,0.26666668:235.0|67,52,0.3:235.0|62,60,0.26666668:236.99167|67,31,0.26666668:237.01666|61,60,0.26666668:238.99167|67,31,0.26666668:239.01666|61,60,0.26666668:240.99167|66,31,0.26666668:241.01666|61,66,0.26666668:243.0|66,52,0.3:243.0|65,60,0.26666668:244.99167|71,31,0.26666668:245.01666|65,66,0.26666668:247.0|71,52,0.3:247.0|61,60,0.26666668:248.99167|68,31,0.26666668:249.01666|64,60,0.26666668:250.99167|69,31,0.26666668:251.01666|63,42,0.94166666:252.01666|69,35,0.96666664:252.03334|63,54,0.175:253.01666|69,51,0.14166667:253.04167|63,42,0.94166666:254.01666|69,35,0.96666664:254.03334|63,54,0.175:255.01666|69,51,0.14166667:255.04167|62,60,0.26666668:256.99167|69,31,0.26666668:257.01666|62,66,0.26666668:259.0|69,52,0.3:259.0|62,60,0.26666668:260.99167|68,31,0.26666668:261.01666|62,66,0.26666668:263.0|68,52,0.3:263.0|61,42,0.94166666:264.01666|66,35,0.96666664:264.03333|61,54,0.175:265.01666|66,51,0.14166667:265.04166|61,60,0.26666668:266.99167|66,31,0.26666668:267.01666|61,42,0.94166666:268.01666|66,35,0.96666664:268.03333|61,54,0.175:269.01666|66,51,0.14166667:269.04166|64,42,0.94166666:270.01666|69,35,0.96666664:270.03333|64,54,0.175:271.01666|69,51,0.14166667:271.04166|63,60,0.26666668:272.99167|69,31,0.26666668:273.01666|63,66,0.26666668:275.0|69,52,0.3:275.0|62,60,0.26666668:276.99167|69,31,0.26666668:277.01666|62,60,0.26666668:278.99167|68,31,0.26666668:279.01666|61,60,0.26666668:280.99167|68,31,0.26666668:281.01666|61,60,0.26666668:282.99167|66,31,0.26666668:283.01666|64,60,0.26666668:284.99167|71,31,0.26666668:285.01666|64,60,0.26666668:286.99167|70,31,0.26666668:287.01666|63,60,0.26666668:288.99167|69,31,0.26666668:289.01666|63,66,0.26666668:291.0|69,52,0.3:291.0|62,60,0.26666668:292.99167|69,31,0.26666668:293.01666|62,60,0.26666668:294.99167|68,31,0.26666668:295.01666|61,60,0.26666668:296.99167|67,31,0.26666668:297.01666|61,66,0.26666668:299.0|67,52,0.3:299.0|62,60,0.26666668:300.99167|67,31,0.26666668:301.01666|61,60,0.26666668:302.99167|67,31,0.26666668:303.01666|61,60,0.26666668:304.99167|66,31,0.26666668:305.01666|61,66,0.26666668:307.0|66,52,0.3:307.0|62,60,0.26666668:308.99167|69,31,0.26666668:309.01666|62,60,0.26666668:310.99167|68,31,0.26666668:311.01666|61,60,0.26666668:312.99167|68,31,0.26666668:313.01666|61,66,0.26666668:315.0|68,52,0.3:315.0|64,60,0.26666668:316.99167|69,31,0.26666668:317.01666|64,66,0.26666668:319.0|69,52,0.3:319.0|61,60,0.26666668:320.99167|67,31,0.26666668:321.01666|62,60,0.26666668:322.99167|69,31,0.26666668:323.01666|62,60,0.26666668:324.99167|69,31,0.26666668:325.01666|62,66,0.26666668:327.0|69,52,0.3:327.0|63,60,0.26666668:328.99167|69,31,0.26666668:329.01666|63,60,0.26666668:330.99167|69,31,0.26666668:331.01666|62,60,0.26666668:332.99167|68,31,0.26666668:333.01666|64,60,0.26666668:334.99167|70,31,0.26666668:335.01666|63,42,0.94166666:336.01666|69,35,0.96666664:336.03333|63,54,0.175:337.01666|69,51,0.14166667:337.04166|63,40,0.9583333:338.025|69,33,0.98333335:338.04166|63,50,0.20833333:339.01666|69,50,0.175:339.04166|62,42,0.94166666:340.01666|69,35,0.96666664:340.03333|62,54,0.175:341.01666|69,51,0.14166667:341.04166|62,60,0.26666668:342.99167|68,31,0.26666668:343.01666|61,42,0.94166666:344.01666|68,35,0.96666664:344.03333|61,54,0.175:345.01666|68,51,0.14166667:345.04166|61,60,0.26666668:346.99167|66,31,0.26666668:347.01666|64,60,0.26666668:348.99167|71,31,0.26666668:349.01666|64,60,0.26666668:350.99167|70,31,0.26666668:351.01666|63,60,0.26666668:352.99167|69,31,0.26666668:353.01666|63,66,0.26666668:355.0|69,52,0.3:355.0|62,60,0.26666668:356.99167|69,31,0.26666668:357.01666|62,42,0.94166666:358.01666|68,35,0.96666664:358.03333|62,54,0.175:359.01666|68,51,0.14166667:359.04166|61,60,0.26666668:360.99167|67,31,0.26666668:361.01666|61,66,0.26666668:363.0|67,52,0.3:363.0|62,60,0.26666668:364.99167|67,31,0.26666668:365.01666|61,60,0.26666668:366.99167|67,31,0.26666668:367.01666|61,60,0.26666668:368.99167|66,31,0.26666668:369.01666|61,66,0.26666668:371.0|66,52,0.3:371.0|65,60,0.26666668:372.99167|71,31,0.26666668:373.01666|65,66,0.26666668:375.0|71,52,0.3:375.0|61,60,0.26666668:376.99167|68,31,0.26666668:377.01666|64,60,0.26666668:378.99167|69,31,0.26666668:379.01666|63,60,0.26666668:380.99167|69,31,0.26666668:381.01666|63,60,0.26666668:382.99167|69,31,0.26666668:383.01666|62,60,0.26666668:384.99167|69,31,0.26666668:385.01666|62,66,0.26666668:387.0|69,52,0.3:387.0|62,60,0.26666668:388.99167|68,31,0.26666668:389.01666|62,66,0.26666668:391.0|68,52,0.3:391.0|61,60,0.26666668:392.99167|66,31,0.26666668:393.01666|61,60,0.26666668:394.99167|66,31,0.26666668:395.01666|61,60,0.26666668:396.99167|66,31,0.26666668:397.01666|64,60,0.26666668:398.99167|69,31,0.26666668:399.01666|66,54,0.8:400.0|61,61,0.6166667:400.00833|61,51,0.1:401.01666|66,26,0.1:401.04166|61,54,0.33333334:402.00833|66,42,0.4:402.05|61,59,0.075:403.00833|66,46,0.108333334:403.05|61,52,0.125:404.00833|66,41,0.15833333:404.04166|61,32,0.33333334:405.00833|66,18,0.33333334:405.04166|61,60,1.825:405.7|66,41,1.825:405.71667]</spSaveString>
+      </Phrase>
+    </entry>
+    <entry>
+      <string>Piano</string>
+      <Phrase resolves-to="PhraseSP" spVERSION="2">
+        <spSaveString>[0|66,47,0.31666666:17.0|69,47,0.31666666:17.0|73,47,0.31666666:17.0|75,47,0.31666666:17.0|66,45,0.36666667:18.7|69,45,0.36666667:18.7|73,45,0.36666667:18.7|75,45,0.36666667:18.7|66,45,1.2916666:20.708334|69,45,1.2916666:20.708334|71,45,1.2916666:20.708334|74,45,1.2916666:20.708334|62,50,0.38333333:23.0|66,50,0.38333333:23.0|68,50,0.38333333:23.0|71,50,0.38333333:23.0|64,45,1.2916666:24.708334|68,45,1.2916666:24.708334|71,45,1.2916666:24.708334|73,45,1.2916666:24.708334|66,50,0.38333333:27.0|69,50,0.38333333:27.0|73,50,0.38333333:27.0|76,50,0.38333333:27.0|59,50,2.0:28.0|61,50,2.0:28.0|64,50,2.0:28.0|68,50,2.0:28.0|64,50,0.38333333:31.0|66,50,0.38333333:31.0|70,50,0.38333333:31.0|73,50,0.38333333:31.0|69,46,0.31666666:33.0|73,46,0.31666666:33.0|75,46,0.31666666:33.0|78,46,0.31666666:33.0|69,49,0.36666667:35.0|73,49,0.36666667:35.0|75,49,0.36666667:35.0|78,49,0.36666667:35.0|66,45,1.2916666:36.708332|69,45,1.2916666:36.708332|71,45,1.2916666:36.708332|74,45,1.2916666:36.708332|62,50,0.28333333:38.758335|66,50,0.28333333:38.758335|68,50,0.28333333:38.758335|71,50,0.28333333:38.758335|64,45,0.21666667:40.733334|67,45,0.21666667:40.733334|71,45,0.21666667:40.733334|73,45,0.21666667:40.733334|64,55,1.8666667:42.058334|67,55,1.8666667:42.058334|71,55,1.8666667:42.058334|73,55,1.8666667:42.058334|62,45,1.2916666:44.708332|64,45,1.2916666:44.708332|67,45,1.2916666:44.708332|71,45,1.2916666:44.708332|61,50,2.0:46.0|64,50,2.0:46.0|67,50,2.0:46.0|71,50,2.0:46.0|66,46,0.31666666:49.0|69,46,0.31666666:49.0|73,46,0.31666666:49.0|76,46,0.31666666:49.0|66,49,0.36666667:51.0|69,49,0.36666667:51.0|73,49,0.36666667:51.0|76,49,0.36666667:51.0|66,50,0.38333333:53.0|69,50,0.38333333:53.0|71,50,0.38333333:53.0|74,50,0.38333333:53.0|62,45,1.2916666:54.708332|66,45,1.2916666:54.708332|68,45,1.2916666:54.708332|71,45,1.2916666:54.708332|64,50,0.34166667:56.675|68,50,0.34166667:56.675|71,50,0.34166667:56.675|73,50,0.34166667:56.675|64,49,0.33333334:58.741665|68,49,0.33333334:58.741665|71,49,0.33333334:58.741665|73,49,0.33333334:58.741665|64,47,0.31666666:61.0|66,47,0.31666666:61.0|69,47,0.31666666:61.0|73,47,0.31666666:61.0|64,45,0.36666667:62.7|66,45,0.36666667:62.7|69,45,0.36666667:62.7|73,45,0.36666667:62.7|64,50,0.28333333:64.75833|67,50,0.28333333:64.75833|70,50,0.28333333:64.75833|73,50,0.28333333:64.75833|66,45,1.2916666:66.708336|69,45,1.2916666:66.708336|71,45,1.2916666:66.708336|74,45,1.2916666:66.708336|66,45,0.21666667:68.73333|69,45,0.21666667:68.73333|71,45,0.21666667:68.73333|74,45,0.21666667:68.73333|66,55,1.8666667:70.058334|69,55,1.8666667:70.058334|71,55,1.8666667:70.058334|74,55,1.8666667:70.058334|69,50,0.38333333:73.0|73,50,0.38333333:73.0|75,50,0.38333333:73.0|78,50,0.38333333:73.0|63,50,0.38333333:75.0|67,50,0.38333333:75.0|69,50,0.38333333:75.0|72,50,0.38333333:75.0|62,50,0.28333333:76.75833|66,50,0.28333333:76.75833|68,50,0.28333333:76.75833|71,50,0.28333333:76.75833|64,45,1.2916666:78.708336|66,45,1.2916666:78.708336|70,45,1.2916666:78.708336|73,45,1.2916666:78.708336|63,50,4.0:80.0|69,50,4.0:80.0|73,50,4.0:80.0|78,50,4.0:80.0|62,60,2.0:84.0|69,60,2.0:84.0|73,60,2.0:84.0|78,60,2.0:84.0|59,36,2.0:86.0|62,54,2.0:86.0|66,35,2.0:86.0|68,30,2.0:86.0|74,69,0.675:86.0|80,60,0.5833333:86.0|71,58,1.2666667:86.73333|78,60,1.2666667:86.73333|61,60,2.0:88.0|68,60,2.0:88.0|71,60,2.0:88.0|76,60,2.0:88.0|61,60,2.0:90.0|66,60,2.0:90.0|69,60,2.0:90.0|76,60,2.0:90.0|59,50,2.0:92.0|61,50,2.0:92.0|64,50,2.0:92.0|68,50,2.0:92.0|61,36,2.0:94.0|64,54,2.0:94.0|66,35,2.0:94.0|70,30,2.0:94.0|76,69,0.675:94.0|82,60,0.5833333:94.0|73,58,1.2666667:94.73333|78,60,1.2666667:94.73333|57,50,2.2833333:97.71667|61,50,2.2833333:97.71667|63,50,2.2833333:97.71667|66,50,2.2833333:97.71667|57,60,2.0:100.0|62,60,2.0:100.0|66,60,2.0:100.0|71,60,2.0:100.0|59,40,1.2666667:102.73333|62,57,1.2666667:102.73333|66,38,1.2666667:102.73333|68,50,1.2666667:102.73333|78,52,1.2666667:102.73333|90,55,1.2666667:102.73333|61,50,4.0:104.0|67,50,4.0:104.0|71,50,4.0:104.0|76,50,4.0:104.0|62,50,2.0:108.0|67,50,2.0:108.0|71,50,2.0:108.0|78,50,2.0:108.0|61,60,2.0:110.0|67,60,2.0:110.0|71,60,2.0:110.0|78,60,2.0:110.0|66,55,0.29166666:113.0|69,55,0.29166666:113.0|73,55,0.29166666:113.0|76,55,0.29166666:113.0|66,46,0.3:115.0|69,46,0.3:115.0|73,46,0.3:115.0|76,46,0.3:115.0|65,46,0.31666666:117.0|69,46,0.31666666:117.0|71,46,0.31666666:117.0|74,46,0.31666666:117.0|65,49,0.36666667:119.0|69,49,0.36666667:119.0|71,49,0.36666667:119.0|74,49,0.36666667:119.0|64,45,1.2916666:120.708336|68,45,1.2916666:120.708336|71,45,1.2916666:120.708336|73,45,1.2916666:120.708336|64,45,1.2916666:122.708336|66,45,1.2916666:122.708336|69,45,1.2916666:122.708336|73,45,1.2916666:122.708336|69,50,0.28333333:124.75833|73,50,0.28333333:124.75833|75,50,0.28333333:124.75833|78,50,0.28333333:124.75833|63,50,2.0:126.0|69,50,2.0:126.0|72,50,2.0:126.0|78,50,2.0:126.0|66,50,0.34166667:128.675|69,50,0.34166667:128.675|71,50,0.34166667:128.675|74,50,0.34166667:128.675|66,49,0.33333334:130.74167|69,49,0.33333334:130.74167|71,49,0.33333334:130.74167|74,49,0.33333334:130.74167|62,46,0.31666666:133.0|66,46,0.31666666:133.0|68,46,0.31666666:133.0|71,46,0.31666666:133.0|62,49,0.36666667:135.0|66,49,0.36666667:135.0|68,49,0.36666667:135.0|71,49,0.36666667:135.0|64,50,0.38333333:137.0|66,50,0.38333333:137.0|71,50,0.38333333:137.0|73,50,0.38333333:137.0|66,45,1.2916666:138.70833|69,45,1.2916666:138.70833|73,45,1.2916666:138.70833|76,45,1.2916666:138.70833|64,50,0.38333333:141.0|66,50,0.38333333:141.0|69,50,0.38333333:141.0|73,50,0.38333333:141.0|64,45,1.2916666:142.70833|66,45,1.2916666:142.70833|69,45,1.2916666:142.70833|73,45,1.2916666:142.70833|57,50,4.0:144.0|63,50,4.0:144.0|68,50,4.0:144.0|73,50,4.0:144.0|57,60,2.0:148.0|62,60,2.0:148.0|66,60,2.0:148.0|71,60,2.0:148.0|62,60,2.0:150.0|68,60,2.0:150.0|73,60,2.0:150.0|78,60,2.0:150.0|61,60,2.0:152.0|64,60,2.0:152.0|68,60,2.0:152.0|71,60,2.0:152.0|61,50,2.0:154.0|64,50,2.0:154.0|66,50,2.0:154.0|69,50,2.0:154.0|59,50,2.0:156.0|61,50,2.0:156.0|64,50,2.0:156.0|68,50,2.0:156.0|58,50,2.0:158.0|64,50,2.0:158.0|68,50,2.0:158.0|73,50,2.0:158.0|69,47,0.31666666:161.0|73,47,0.31666666:161.0|75,47,0.31666666:161.0|78,47,0.31666666:161.0|69,45,0.36666667:162.7|73,45,0.36666667:162.7|75,45,0.36666667:162.7|78,45,0.36666667:162.7|57,60,2.0:164.0|62,60,2.0:164.0|66,60,2.0:164.0|71,60,2.0:164.0|62,50,2.0:166.0|68,50,2.0:166.0|73,50,2.0:166.0|78,50,2.0:166.0|64,47,0.31666666:169.0|67,47,0.31666666:169.0|71,47,0.31666666:169.0|73,47,0.31666666:169.0|64,45,0.36666667:170.7|67,45,0.36666667:170.7|71,45,0.36666667:170.7|73,45,0.36666667:170.7|62,50,2.0:172.0|67,50,2.0:172.0|71,50,2.0:172.0|76,50,2.0:172.0|57,40,1.2666667:174.73334|61,57,1.2666667:174.73334|64,38,1.2666667:174.73334|67,50,1.2666667:174.73334|76,52,1.2666667:174.73334|88,55,1.2666667:174.73334|66,47,0.31666666:177.0|69,47,0.31666666:177.0|73,47,0.31666666:177.0|76,47,0.31666666:177.0|66,45,0.36666667:178.7|69,45,0.36666667:178.7|73,45,0.36666667:178.7|76,45,0.36666667:178.7|57,50,2.0:180.0|61,50,2.0:180.0|62,50,2.0:180.0|66,50,2.0:180.0|62,50,2.0:182.0|68,50,2.0:182.0|73,50,2.0:182.0|78,50,2.0:182.0|61,50,2.2833333:185.71666|68,50,2.2833333:185.71666|71,50,2.2833333:185.71666|76,50,2.2833333:185.71666|57,50,2.2833333:189.71666|64,50,2.2833333:189.71666|66,50,2.2833333:189.71666|73,50,2.2833333:189.71666|55,60,2.0:192.0|61,60,2.0:192.0|64,60,2.0:192.0|70,60,2.0:192.0|57,50,2.0:194.0|61,50,2.0:194.0|62,50,2.0:194.0|66,50,2.0:194.0|66,47,0.31666666:197.0|69,47,0.31666666:197.0|71,47,0.31666666:197.0|74,47,0.31666666:197.0|66,45,0.36666667:198.7|69,45,0.36666667:198.7|71,45,0.36666667:198.7|74,45,0.36666667:198.7|57,50,2.0:200.0|63,50,2.0:200.0|68,50,2.0:200.0|73,50,2.0:200.0|60,36,2.0:202.0|63,54,2.0:202.0|67,35,2.0:202.0|69,30,2.0:202.0|75,69,0.675:202.0|81,60,0.5833333:202.0|72,58,1.2666667:202.73334|79,60,1.2666667:202.73334|62,60,2.0:204.0|66,60,2.0:204.0|68,60,2.0:204.0|71,60,2.0:204.0|64,60,2.0:206.0|70,60,2.0:206.0|74,60,2.0:206.0|79,60,2.0:206.0|63,50,4.0:208.0|68,50,4.0:208.0|69,50,4.0:208.0|73,50,4.0:208.0|62,50,2.0:212.0|69,50,2.0:212.0|73,50,2.0:212.0|78,50,2.0:212.0|59,36,2.0:214.0|62,54,2.0:214.0|66,35,2.0:214.0|68,30,2.0:214.0|74,69,0.675:214.0|80,60,0.5833333:214.0|71,58,1.2666667:214.73334|78,60,1.2666667:214.73334|61,60,2.0:216.0|68,60,2.0:216.0|71,60,2.0:216.0|76,60,2.0:216.0|57,36,2.0:218.0|61,54,2.0:218.0|62,35,2.0:218.0|66,30,2.0:218.0|73,69,0.675:218.0|78,60,0.5833333:218.0|69,58,1.2666667:218.73334|76,60,1.2666667:218.73334|59,50,2.0:220.0|61,50,2.0:220.0|64,50,2.0:220.0|68,50,2.0:220.0|58,50,2.0:222.0|64,50,2.0:222.0|67,50,2.0:222.0|74,50,2.0:222.0|57,50,4.0:224.0|63,50,4.0:224.0|68,50,4.0:224.0|73,50,4.0:224.0|77,50,4.0:224.0|57,60,2.0:228.0|61,60,2.0:228.0|62,60,2.0:228.0|66,60,2.0:228.0|59,36,2.0:230.0|62,54,2.0:230.0|66,35,2.0:230.0|68,30,2.0:230.0|74,69,0.675:230.0|80,60,0.5833333:230.0|71,58,1.2666667:230.73334|78,60,1.2666667:230.73334|61,50,2.2833333:233.71666|67,50,2.2833333:233.71666|71,50,2.2833333:233.71666|76,50,2.2833333:233.71666|62,60,2.0:236.0|67,60,2.0:236.0|71,60,2.0:236.0|78,60,2.0:236.0|61,50,2.0:238.0|67,50,2.0:238.0|71,50,2.0:238.0|78,50,2.0:238.0|66,47,0.31666666:241.0|69,47,0.31666666:241.0|73,47,0.31666666:241.0|76,47,0.31666666:241.0|66,45,0.36666667:242.7|69,45,0.36666667:242.7|73,45,0.36666667:242.7|76,45,0.36666667:242.7|59,50,2.2833333:245.71666|62,50,2.2833333:245.71666|65,50,2.2833333:245.71666|69,50,2.2833333:245.71666|61,60,2.0:248.0|64,60,2.0:248.0|68,60,2.0:248.0|71,60,2.0:248.0|61,36,2.0:250.0|64,54,2.0:250.0|66,35,2.0:250.0|69,30,2.0:250.0|76,69,0.675:250.0|81,60,0.5833333:250.0|73,58,1.2666667:250.73334|78,60,1.2666667:250.73334|63,50,2.0:252.0|66,50,2.0:252.0|69,50,2.0:252.0|73,50,2.0:252.0|63,60,2.0:254.0|66,60,2.0:254.0|69,60,2.0:254.0|72,60,2.0:254.0|62,50,4.0:256.0|69,50,4.0:256.0|73,50,4.0:256.0|78,50,4.0:256.0|62,47,0.31666666:261.0|66,47,0.31666666:261.0|68,47,0.31666666:261.0|71,47,0.31666666:261.0|62,45,0.36666667:262.7|66,45,0.36666667:262.7|68,45,0.36666667:262.7|71,45,0.36666667:262.7|61,50,2.0:264.0|66,50,2.0:264.0|71,50,2.0:264.0|76,50,2.0:264.0|57,36,2.0:266.0|61,54,2.0:266.0|62,35,2.0:266.0|66,30,2.0:266.0|73,69,0.675:266.0|78,60,0.5833333:266.0|69,58,1.2666667:266.73334|76,60,1.2666667:266.73334|61,50,2.0:268.0|66,50,2.0:268.0|69,50,2.0:268.0|76,50,2.0:268.0|61,40,1.2666667:270.73334|64,57,1.2666667:270.73334|66,38,1.2666667:270.73334|69,50,1.2666667:270.73334|78,52,1.2666667:270.73334|90,55,1.2666667:270.73334|63,55,0.29166666:273.0|66,55,0.29166666:273.0|69,55,0.29166666:273.0|73,55,0.29166666:273.0|63,46,0.3:275.0|66,46,0.3:275.0|69,46,0.3:275.0|73,46,0.3:275.0|69,45,1.2916666:276.70834|71,45,1.2916666:276.70834|74,45,1.2916666:276.70834|78,45,1.2916666:276.70834|62,45,1.2916666:278.70834|66,45,1.2916666:278.70834|68,45,1.2916666:278.70834|71,45,1.2916666:278.70834|64,45,1.2916666:280.70834|68,45,1.2916666:280.70834|71,45,1.2916666:280.70834|73,45,1.2916666:280.70834|66,50,0.38333333:283.0|69,50,0.38333333:283.0|73,50,0.38333333:283.0|76,50,0.38333333:283.0|64,50,0.28333333:284.75833|68,50,0.28333333:284.75833|71,50,0.28333333:284.75833|73,50,0.28333333:284.75833|64,50,0.38333333:287.0|66,50,0.38333333:287.0|70,50,0.38333333:287.0|73,50,0.38333333:287.0|66,46,0.31666666:289.0|69,46,0.31666666:289.0|73,46,0.31666666:289.0|75,46,0.31666666:289.0|66,49,0.36666667:291.0|69,49,0.36666667:291.0|73,49,0.36666667:291.0|75,49,0.36666667:291.0|66,50,0.38333333:293.0|69,50,0.38333333:293.0|71,50,0.38333333:293.0|74,50,0.38333333:293.0|62,50,0.38333333:295.0|66,50,0.38333333:295.0|68,50,0.38333333:295.0|71,50,0.38333333:295.0|64,46,0.31666666:297.0|67,46,0.31666666:297.0|71,46,0.31666666:297.0|73,46,0.31666666:297.0|64,49,0.36666667:299.0|67,49,0.36666667:299.0|71,49,0.36666667:299.0|73,49,0.36666667:299.0|62,45,1.2916666:300.70834|64,45,1.2916666:300.70834|67,45,1.2916666:300.70834|71,45,1.2916666:300.70834|64,50,0.38333333:303.0|67,50,0.38333333:303.0|71,50,0.38333333:303.0|73,50,0.38333333:303.0|66,47,0.31666666:305.0|69,47,0.31666666:305.0|73,47,0.31666666:305.0|76,47,0.31666666:305.0|66,45,0.36666667:306.7|69,45,0.36666667:306.7|73,45,0.36666667:306.7|76,45,0.36666667:306.7|66,50,0.28333333:308.75833|69,50,0.28333333:308.75833|71,50,0.28333333:308.75833|74,50,0.28333333:308.75833|62,50,2.0:310.0|68,50,2.0:310.0|73,50,2.0:310.0|78,50,2.0:310.0|64,55,0.29166666:313.0|68,55,0.29166666:313.0|71,55,0.29166666:313.0|73,55,0.29166666:313.0|64,46,0.3:315.0|68,46,0.3:315.0|71,46,0.3:315.0|73,46,0.3:315.0|57,36,0.55:317.0|61,36,0.55:317.0|64,36,0.55:317.0|68,36,0.55:317.0|57,38,0.3:317.7|61,38,0.3:317.7|64,38,0.3:317.7|68,38,0.3:317.7|57,44,0.45833334:318.0|61,44,0.45833334:318.0|64,44,0.45833334:318.0|68,44,0.45833334:318.0|57,53,0.3:318.7|61,53,0.3:318.7|64,53,0.3:318.7|68,53,0.3:318.7|57,64,0.49166667:319.0|61,64,0.49166667:319.0|64,64,0.49166667:319.0|68,64,0.49166667:319.0|64,45,1.2916666:320.70834|67,45,1.2916666:320.70834|70,45,1.2916666:320.70834|73,45,1.2916666:320.70834|66,45,1.2916666:322.70834|69,45,1.2916666:322.70834|71,45,1.2916666:322.70834|74,45,1.2916666:322.70834|69,50,0.34166667:324.675|71,50,0.34166667:324.675|74,50,0.34166667:324.675|78,50,0.34166667:324.675|69,49,0.33333334:326.74167|71,49,0.33333334:326.74167|74,49,0.33333334:326.74167|78,49,0.33333334:326.74167|69,50,0.38333333:329.0|73,50,0.38333333:329.0|75,50,0.38333333:329.0|78,50,0.38333333:329.0|63,50,0.28333333:330.75833|67,50,0.28333333:330.75833|69,50,0.28333333:330.75833|72,50,0.28333333:330.75833|62,50,2.0:332.0|66,50,2.0:332.0|68,50,2.0:332.0|73,50,2.0:332.0|64,50,2.0:334.0|70,50,2.0:334.0|73,50,2.0:334.0|78,50,2.0:334.0|63,47,0.31666666:337.0|66,47,0.31666666:337.0|69,47,0.31666666:337.0|73,47,0.31666666:337.0|63,45,0.36666667:338.7|66,45,0.36666667:338.7|69,45,0.36666667:338.7|73,45,0.36666667:338.7|62,50,2.0:340.0|66,50,2.0:340.0|69,50,2.0:340.0|71,50,2.0:340.0|62,60,2.0:342.0|68,60,2.0:342.0|73,60,2.0:342.0|78,60,2.0:342.0|61,50,2.0:344.0|68,50,2.0:344.0|71,50,2.0:344.0|76,50,2.0:344.0|61,60,2.0:346.0|64,60,2.0:346.0|66,60,2.0:346.0|69,60,2.0:346.0|59,60,2.0:348.0|64,60,2.0:348.0|68,60,2.0:348.0|73,60,2.0:348.0|61,36,2.0:350.0|64,54,2.0:350.0|66,35,2.0:350.0|70,30,2.0:350.0|76,69,0.675:350.0|82,60,0.5833333:350.0|73,58,1.2666667:350.73334|78,60,1.2666667:350.73334|69,47,0.31666666:353.0|73,47,0.31666666:353.0|75,47,0.31666666:353.0|78,47,0.31666666:353.0|69,45,0.36666667:354.7|73,45,0.36666667:354.7|75,45,0.36666667:354.7|78,45,0.36666667:354.7|57,50,2.0:356.0|62,50,2.0:356.0|66,50,2.0:356.0|73,50,2.0:356.0|62,60,2.0:358.0|66,60,2.0:358.0|68,60,2.0:358.0|71,60,2.0:358.0|61,50,4.0:360.0|67,50,4.0:360.0|71,50,4.0:360.0|78,50,4.0:360.0|62,60,2.0:364.0|67,60,2.0:364.0|71,60,2.0:364.0|76,60,2.0:364.0|57,40,1.2666667:366.73334|61,57,1.2666667:366.73334|64,38,1.2666667:366.73334|67,50,1.2666667:366.73334|76,52,1.2666667:366.73334|88,55,1.2666667:366.73334|66,46,0.31666666:369.0|69,46,0.31666666:369.0|73,46,0.31666666:369.0|76,46,0.31666666:369.0|66,49,0.36666667:371.0|69,49,0.36666667:371.0|73,49,0.36666667:371.0|76,49,0.36666667:371.0|65,47,0.31666666:373.0|69,47,0.31666666:373.0|71,47,0.31666666:373.0|74,47,0.31666666:373.0|65,45,0.36666667:374.7|69,45,0.36666667:374.7|71,45,0.36666667:374.7|74,45,0.36666667:374.7|64,45,1.2916666:376.70834|68,45,1.2916666:376.70834|71,45,1.2916666:376.70834|73,45,1.2916666:376.70834|64,45,1.2916666:378.70834|66,45,1.2916666:378.70834|69,45,1.2916666:378.70834|73,45,1.2916666:378.70834|69,50,0.38333333:381.0|73,50,0.38333333:381.0|75,50,0.38333333:381.0|78,50,0.38333333:381.0|63,50,0.38333333:383.0|66,50,0.38333333:383.0|69,50,0.38333333:383.0|72,50,0.38333333:383.0|66,45,0.21666667:384.73334|69,45,0.21666667:384.73334|71,45,0.21666667:384.73334|74,45,0.21666667:384.73334|66,55,1.8666667:386.05832|69,55,1.8666667:386.05832|71,55,1.8666667:386.05832|74,55,1.8666667:386.05832|62,45,0.21666667:388.73334|66,45,0.21666667:388.73334|68,45,0.21666667:388.73334|71,45,0.21666667:388.73334|62,55,1.8666667:390.05832|66,55,1.8666667:390.05832|68,55,1.8666667:390.05832|71,55,1.8666667:390.05832|64,50,0.28333333:392.75833|66,50,0.28333333:392.75833|71,50,0.28333333:392.75833|73,50,0.28333333:392.75833|66,50,0.28333333:394.75833|69,50,0.28333333:394.75833|73,50,0.28333333:394.75833|76,50,0.28333333:394.75833|64,50,0.28333333:396.75833|66,50,0.28333333:396.75833|69,50,0.28333333:396.75833|73,50,0.28333333:396.75833|64,50,0.38333333:399.0|66,50,0.38333333:399.0|69,50,0.38333333:399.0|73,50,0.38333333:399.0|64,33,3.3666666:400.0|66,63,3.4166667:400.0|71,44,3.3666666:400.0|73,51,3.4416666:400.0|88,68,0.65833336:401.0|83,44,0.8:401.73334|88,62,0.33333334:402.73334|83,38,0.16666667:403.06668|64,40,0.25833333:404.0|66,53,0.24166666:404.0|71,43,0.24166666:404.0|73,56,0.35833332:404.0|83,53,0.24166666:404.0|88,72,0.24166666:404.0|64,30,2.2666667:405.73334|66,56,2.2666667:405.73334|71,38,2.2666667:405.73334|73,41,2.2666667:405.73334|83,52,2.2666667:405.73334|88,60,2.2666667:405.73334|95,62,2.2666667:405.73334]</spSaveString>
+      </Phrase>
+    </entry>
+    <entry>
+      <string>Vibe2</string>
+      <Phrase resolves-to="PhraseSP" spVERSION="2">
+        <spSaveString>[0|81,56,0.5:18.116667|83,70,0.46666667:18.733334|85,73,0.39166668:19.15|88,100,0.325:19.758333|85,76,0.75:20.066668|83,75,0.6166667:21.025|81,84,0.71666664:22.008333|83,83,0.65:23.033333|80,76,0.35833332:38.733334|74,69,0.6:39.15|80,69,0.325:39.758335|78,85,0.25833333:40.708332|79,76,0.44166666:41.016666|81,90,0.225:41.641666|81,104,0.65833336:51.741665|83,70,0.31666666:52.7|81,84,0.2:52.866665|78,84,0.55:53.008335|79,98,0.34166667:53.683334|80,77,0.5416667:54.083332|77,84,0.325:54.708332|76,69,0.41666666:55.141666|74,91,0.325:55.733334|73,89,0.5416667:56.016666|76,107,0.30833334:56.725|73,52,0.425:57.208332|76,88,0.275:57.758335|73,103,0.35:66.2|74,90,0.41666666:66.725|71,64,0.31666666:67.21667|73,95,0.35:67.725|74,108,0.48333332:68.058334|71,41,0.20833333:68.775|73,70,0.45:69.041664|74,102,0.25:69.725|72,85,0.25833333:85.7|71,60,0.38333333:86.208336|74,89,0.3:86.808334|78,69,0.375:87.25|81,91,0.25833333:87.8|80,92,0.375:88.175|77,81,0.39166668:88.725|76,77,0.31666666:89.1|74,95,0.23333333:89.7|73,118,0.45:116.083336|74,81,0.35:116.73333|76,92,0.45833334:117.01667|73,106,1.25:117.75|71,105,0.28333333:133.68333|73,86,0.375:134.11667|71,100,0.25:134.73334|69,73,0.40833333:135.13333|68,47,0.20833333:135.8|71,85,0.46666667:136.21666|66,76,0.39166668:137.24167|64,93,0.29166666:137.76666|76,98,0.325:276.7|73,45,0.33333334:277.275|74,75,0.28333333:277.725|76,78,0.34166667:278.20834|78,93,0.28333333:278.75|80,82,0.475:279.18332|81,100,0.25833333:279.74167|80,111,0.39166668:290.14166|81,100,0.25:290.73334|80,89,0.34166667:291.15833|77,101,0.31666666:291.65833|78,82,0.48333332:292.11667|73,44,0.21666667:292.76666|76,81,0.39166668:293.11667|71,54,0.3:293.7|74,76,0.44166666:294.13333|69,68,0.3:307.05832|73,55,0.325:307.35834|76,94,0.175:307.7|78,88,0.575:308.11667|73,52,0.25:308.76666|76,93,0.575:309.10834|73,30,0.23333333:309.81668|74,93,0.46666667:310.10834|73,93,0.24166666:310.75833|71,62,0.45833334:311.14166|69,85,0.375:311.73334|66,88,0.53333336:322.14166|68,87,0.49166667:322.825|69,102,0.43333334:323.50833|71,69,0.34166667:324.15833|66,53,0.275:324.725|69,59,0.5833333:325.15|73,119,0.49166667:342.18332|70,69,0.20833333:342.81668|71,45,0.21666667:343.18332|73,78,0.30833334:343.375|74,108,0.25833333:343.73334|71,56,0.43333334:344.15833|72,86,0.31666666:344.71667|73,64,0.45:345.15|76,101,0.275:345.70834|73,88,0.31666666:358.70834|76,97,0.36666667:359.175|74,102,0.25:359.70834|73,68,0.7083333:360.175|79,64,0.15833333:360.83334|76,82,0.41666666:361.14166|78,105,0.225:361.75833|73,112,0.39166668:374.06668|69,84,0.3:374.7|65,76,0.56666666:375.08334|62,58,0.36666667:376.15833|63,66,0.225:376.8|64,61,0.15:376.825|69,88,0.6:386.06668|73,61,0.34166667:386.75833|76,102,0.43333334:387.09167|74,72,0.25:387.775|73,87,0.6166667:388.05|68,60,0.28333333:388.74167|78,95,0.5:389.075|73,73,0.3:389.70834]</spSaveString>
+      </Phrase>
+    </entry>
+    <entry>
+      <string>Vibe1</string>
+      <Phrase resolves-to="PhraseSP" spVERSION="2">
+        <spSaveString>[0|66,105,0.64166665:150.08333|64,51,0.23333333:150.75|66,87,0.6166667:151.04167|64,59,0.20833333:151.73334|68,82,0.275:152.21666|69,91,0.34166667:152.71666|71,84,0.33333334:153.19167|68,103,0.30833334:153.725|64,65,0.39166668:154.19167|66,92,0.26666668:154.725|68,89,0.25833333:155.14166|69,80,0.25833333:155.675|73,72,0.30833334:156.09166|68,67,0.18333334:156.68333|71,70,0.49166667:157.04167|69,46,0.225:157.66667|70,55,0.34166667:158.075|79,105,0.3:158.69167|78,65,0.325:159.16667|76,93,0.28333333:159.7|78,67,0.375:160.20833|80,98,0.3:160.725|83,88,0.53333336:172.14166|85,87,0.49166667:172.825|86,102,0.43333334:173.50833|88,100,0.5833333:174.14166|86,97,0.48333332:174.825|85,77,0.49166667:175.475|83,77,0.76666665:182.0|88,70,0.18333334:182.68333|93,115,0.73333335:182.99167|90,101,0.30833334:184.2|84,100,0.35833332:184.83333|85,73,0.44166666:185.25833|88,79,0.23333333:185.83333|85,109,0.275:196.73334|88,100,0.35833332:197.18333|85,72,0.25833333:197.79167|86,99,0.575:198.14166|83,107,0.525:204.08333|80,79,0.275:204.75833|76,61,0.625:205.13333|75,53,0.425:206.175|76,99,0.26666668:206.73334|78,79,0.29166666:207.18333|80,91,0.31666666:207.71666|78,75,0.41666666:208.19167|80,94,0.30833334:208.79167|79,106,0.31666666:214.73334|80,71,0.21666667:215.10834|83,76,0.14166667:215.45833|86,95,0.175:215.71666|85,61,0.425:216.15|88,102,0.40833333:216.725|83,65,0.46666667:217.14166|80,52,0.25833333:217.76666|76,66,0.20833333:220.10834|78,82,0.24166666:220.39166|80,85,0.21666667:220.75833|82,94,0.29166666:221.04167|83,84,0.3:221.40834|85,84,0.175:221.7|87,86,0.30833334:222.21666|85,87,0.33333334:222.725|83,78,0.39166668:223.15|82,73,0.13333334:223.775|80,71,0.46666667:224.15834|81,100,0.31666666:224.79167|80,111,0.39166668:226.14166|81,100,0.25:226.73334|80,89,0.34166667:227.15834|77,101,0.31666666:227.65834|78,88,0.41666666:228.15834|66,65,0.23333333:228.80833|71,52,0.25:229.15|74,52,0.275:229.45833|78,101,0.225:229.73334|78,98,0.5833333:234.10834|76,45,0.24166666:234.75|78,79,0.59166664:235.06667|76,50,0.20833333:235.775|79,71,0.30833334:236.70833|76,81,0.84166664:237.1|78,73,0.65833336:238.03334|74,74,0.55:238.75833|77,81,0.35833332:246.83333|81,64,0.20833333:247.2|83,54,0.14166667:247.49167|88,76,0.20833333:247.71666|83,68,0.40833333:248.10834|81,83,0.325:248.675|80,70,0.59166664:249.125|81,84,0.325:249.725|85,111,0.475:262.11667|86,104,0.30833334:262.74167|85,82,0.44166666:263.175|83,92,0.375:263.68332|81,79,0.29166666:264.26666|83,93,0.3:264.81668|80,66,0.39166668:265.25|81,90,0.25833333:265.8]</spSaveString>
+      </Phrase>
+    </entry>
+    <entry>
+      <string>Lead</string>
+      <Phrase resolves-to="PhraseSP" spVERSION="2">
+        <spSaveString>[0|71,111,1.025:13.033334|73,90,1.025:14.058333|71,87,1.1583333:15.025|73,93,2.8583333:16.116667|71,95,1.3:18.866667|69,96,1.575:20.091667|71,102,0.68333334:21.583334|73,85,0.8666667:22.216667|71,77,0.775:23.008333|73,90,4.6666665:23.691668|71,105,1.3416667:28.8|73,94,1.4:30.083334|71,95,0.7083333:31.433332|73,96,2.7666667:32.108334|71,105,1.375:34.733334|69,90,1.5833334:36.05|71,91,0.69166666:37.516666|73,94,0.85:38.158333|71,82,0.84166664:38.958332|73,95,4.9666667:39.733334|73,104,0.925:45.066666|74,103,0.9916667:46.008335|76,106,1.0916667:46.991665|77,106,2.15:48.058334|78,99,1.6916667:50.125|81,88,1.9916667:51.775|71,71,0.65:53.633335|73,100,0.93333334:54.15|74,104,1.0:55.0|75,97,2.1833334:55.991665|76,99,1.6416667:58.083332|81,100,1.5666667:59.633335|69,83,1.0083333:61.083332|71,91,1.0916667:62.058334|73,97,0.7916667:63.075|73,95,2.1833334:64.066666|74,103,1.7833333:66.083336|81,97,1.6:67.75833|81,102,0.675:69.65|78,93,0.9166667:70.191666|74,95,1.125:71.03333|71,88,4.275:72.083336|71,105,1.1416667:76.808334|73,89,1.45:78.03333|71,92,0.5416667:79.45|73,92,2.725:80.075|71,100,1.2666667:82.708336|69,91,1.5666667:83.975|71,93,0.6333333:85.50833|73,99,0.9166667:86.166664|71,80,0.725:86.975|73,96,5.1583333:87.708336|71,94,1.2416667:92.8|73,92,1.4583334:94.025|78,101,0.71666664:95.425|73,84,2.75:96.058334|71,95,1.3083333:98.7|69,88,1.6:99.99167|71,84,0.625:101.525|73,87,0.80833334:102.13333|76,88,0.84166664:102.925|73,90,4.508333:103.7|73,95,1.3833333:108.76667|74,106,1.0:110.11667|76,106,1.0583333:111.1|77,112,2.0416667:112.083336|78,96,1.6833333:114.09167|81,97,1.925:115.71667|71,89,0.55:117.666664|73,82,0.75:118.183334|74,86,1.275:118.86667|75,93,1.95:120.15|76,92,1.6666666:122.066666|83,105,1.575:123.74167|81,99,0.6666667:125.65|78,85,0.65833336:126.23333|74,95,0.675:127.041664|73,87,4.15:127.833336|71,87,4.0416665:132.06667|69,99,3.95:136.05|73,91,0.55:270.16666|71,88,0.56666666:271.03333|73,93,2.8583333:272.11667|71,95,1.3:274.86667|69,96,1.575:276.09167|71,102,0.68333334:277.58334|73,85,0.8666667:278.21667|71,77,0.775:279.00833|73,90,4.6666665:279.69168|71,105,1.3416667:284.8|73,94,1.4:286.08334|71,95,0.7083333:287.43332|73,96,2.7666667:288.10834|71,105,1.375:290.73334|69,90,1.5833334:292.05|71,91,0.69166666:293.51666|73,94,0.85:294.15833|71,82,0.84166664:294.95834|73,95,4.9666667:295.73334|73,104,0.925:301.06668|74,103,0.9916667:302.00833|76,106,1.0916667:302.99167|77,106,2.15:304.05832|78,99,1.6916667:306.125|81,88,1.9916667:307.775|71,71,0.65:309.63333|73,100,0.93333334:310.15|74,104,1.0:311.0|75,97,2.1833334:311.99167|76,99,1.6416667:314.08334|81,100,1.5666667:315.63333|69,83,1.0083333:317.08334|71,91,1.0916667:318.05832|73,97,0.7916667:319.075|73,95,2.1833334:320.06668|74,103,1.7833333:322.08334|81,97,1.6:323.75833|81,102,0.675:325.65|78,93,0.9166667:326.19168|74,95,1.125:327.03333|71,88,4.275:328.08334|71,105,1.1416667:332.80832|73,89,1.45:334.03333|71,92,0.5416667:335.45|73,92,2.725:336.075|71,100,1.2666667:338.70834|69,91,1.5666667:339.975|71,93,0.6333333:341.50833|73,99,0.9166667:342.16666|71,80,0.725:342.975|73,96,5.1583333:343.70834|71,94,1.2416667:348.8|73,92,1.4583334:350.025|78,101,0.71666664:351.425|73,84,2.75:352.05832|71,95,1.3083333:354.7|69,88,1.6:355.99167|71,84,0.625:357.525|73,87,0.80833334:358.13333|76,88,0.84166664:358.925|73,90,4.508333:359.7|73,95,1.3833333:364.76666|74,106,1.0:366.11667|76,106,1.0583333:367.1|77,112,2.0416667:368.08334|78,96,1.6833333:370.09167|81,97,1.925:371.71667|71,89,0.55:373.66666|73,82,0.75:374.18332|74,86,1.275:374.86667|75,93,1.95:376.15|76,92,1.6666666:378.06668|83,105,1.575:379.74167|81,99,0.6666667:381.65|78,85,0.65833336:382.23334|74,95,0.675:383.04166|73,87,4.15:383.83334|71,87,4.0416665:388.06668|69,99,4.358333:392.05|73,80,8.225:399.78333|80,88,8.008333:400.0|75,95,0.475:400.76666|76,74,0.34166667:401.21667|83,93,0.5416667:402.11667]</spSaveString>
+      </Phrase>
+    </entry>
+    <entry>
+      <string>Strings</string>
+      <Phrase resolves-to="PhraseSP" spVERSION="2">
+        <spSaveString>[0|75,33,3.975:80.025|69,33,3.9666667:80.03333|74,33,1.975:84.025|69,33,1.9666667:84.03333|74,33,1.975:86.025|68,33,1.9666667:86.03333|73,33,1.975:88.025|68,33,1.9666667:88.03333|73,33,1.975:90.025|66,33,1.9666667:90.03333|76,33,1.975:92.025|71,33,1.9666667:92.03333|76,33,1.975:94.025|70,33,1.9666667:94.03333|75,33,3.975:96.025|69,33,3.9666667:96.03333|74,33,1.975:100.025|69,33,1.9666667:100.03333|74,33,1.975:102.025|68,33,1.9666667:102.03333|73,33,3.975:104.025|67,33,3.9666667:104.03333|74,33,1.975:108.025|67,33,1.9666667:108.03333|73,33,1.975:110.025|67,33,1.9666667:110.03333|75,33,3.975:144.025|69,33,3.9666667:144.03334|74,33,1.975:148.025|69,33,1.9666667:148.03334|74,33,1.975:150.025|68,33,1.9666667:150.03334|73,33,1.975:152.025|68,33,1.9666667:152.03334|73,33,1.975:154.025|66,33,1.9666667:154.03334|76,33,1.975:156.025|71,33,1.9666667:156.03334|76,33,1.975:158.025|70,33,1.9666667:158.03334|75,33,3.975:160.025|69,33,3.9666667:160.03334|74,33,1.975:164.025|69,33,1.9666667:164.03334|74,33,1.975:166.025|68,33,1.9666667:166.03334|73,33,3.975:168.025|67,33,3.9666667:168.03334|74,33,1.975:172.025|67,33,1.9666667:172.03334|73,33,1.975:174.025|67,33,1.9666667:174.03334|73,33,3.975:176.025|66,33,3.9666667:176.03334|74,33,1.975:180.025|69,33,1.9666667:180.03334|74,33,1.975:182.025|68,33,1.9666667:182.03334|73,33,3.975:184.025|68,33,3.9666667:184.03334|76,33,3.975:188.025|69,33,3.9666667:188.03334|73,33,1.975:192.025|67,33,1.9666667:192.03334|74,33,1.975:194.025|69,33,1.9666667:194.03334|74,33,3.975:196.025|69,33,3.9666667:196.03334|75,33,1.975:200.025|69,33,1.9666667:200.03334|75,33,1.975:202.025|69,33,1.9666667:202.03334|74,33,1.975:204.025|68,33,1.9666667:204.03334|76,33,1.975:206.025|70,33,1.9666667:206.03334|75,33,3.975:208.025|69,33,3.9666667:208.03334|74,33,1.975:212.025|69,33,1.9666667:212.03334|74,33,1.975:214.025|68,33,1.9666667:214.03334|73,33,1.975:216.025|68,33,1.9666667:216.03334|73,33,1.975:218.025|66,33,1.9666667:218.03334|76,33,1.975:220.025|71,33,1.9666667:220.03334|76,33,1.975:222.025|70,33,1.9666667:222.03334|75,33,3.975:224.025|69,33,3.9666667:224.03334|74,33,1.975:228.025|69,33,1.9666667:228.03334|74,33,1.975:230.025|68,33,1.9666667:230.03334|73,33,3.975:232.025|67,33,3.9666667:232.03334|74,33,1.975:236.025|67,33,1.9666667:236.03334|73,33,1.975:238.025|67,33,1.9666667:238.03334|73,33,3.975:240.025|66,33,3.9666667:240.03334|77,33,3.975:244.025|71,33,3.9666667:244.03334|73,33,1.975:248.025|68,33,1.9666667:248.03334|76,33,1.975:250.025|69,33,1.9666667:250.03334|75,33,1.975:252.025|69,33,1.9666667:252.03334|75,33,1.975:254.025|69,33,1.9666667:254.03334|74,33,3.975:256.025|69,33,3.9666667:256.03333|74,33,3.975:260.025|68,33,3.9666667:260.03333|73,33,1.975:264.025|66,33,1.9666667:264.03333|73,33,1.975:266.025|66,33,1.9666667:266.03333|73,33,1.975:268.025|66,33,1.9666667:268.03333|76,33,1.975:270.025|69,33,1.9666667:270.03333|75,33,3.975:336.025|69,33,3.9666667:336.03333|74,33,1.975:340.025|69,33,1.9666667:340.03333|74,33,1.975:342.025|68,33,1.9666667:342.03333|73,33,1.975:344.025|68,33,1.9666667:344.03333|73,33,1.975:346.025|66,33,1.9666667:346.03333|76,33,1.975:348.025|71,33,1.9666667:348.03333|76,33,1.975:350.025|70,33,1.9666667:350.03333|75,33,3.975:352.025|69,33,3.9666667:352.03333|74,33,1.975:356.025|69,33,1.9666667:356.03333|74,33,1.975:358.025|68,33,1.9666667:358.03333|73,33,3.975:360.025|67,33,3.9666667:360.03333|74,33,1.975:364.025|67,33,1.9666667:364.03333|73,33,1.975:366.025|67,33,1.9666667:366.03333|73,40,7.9666667:400.025|66,40,7.9666667:400.03333]</spSaveString>
+      </Phrase>
+    </entry>
+  </spMapUserPhrases>
+  <spClientPropertiesV3>
+    <properties>
+      <entry>
+        <string>PropClEditorZoomFactorY</string>
+        <string>50</string>
+      </entry>
+      <entry>
+        <string>PropSsEditorZoomFactorX</string>
+        <string>8</string>
+      </entry>
+      <entry>
+        <string>SectionDisplayQuantization-B*4/4</string>
+        <string>ONE_QUARTER_BEAT</string>
+      </entry>
+      <entry>
+        <string>PropCompactViewModeVisibleRps_FastJazz.S741.sst-ID</string>
+        <string>rpVariationID,RpFillID,RpSysMuteID</string>
+      </entry>
+      <entry>
+        <string>PropViewMode</string>
+        <string>COMPACT</string>
+      </entry>
+      <entry>
+        <string>SectionDisplayQuantization-C*4/4</string>
+        <string>ONE_QUARTER_BEAT</string>
+      </entry>
+      <entry>
+        <string>SectionDisplayQuantization-A*4/4</string>
+        <string>ONE_QUARTER_BEAT</string>
+      </entry>
+      <entry>
+        <string>SectionDisplayQuantization-A2*4/4</string>
+        <string>ONE_QUARTER_BEAT</string>
+      </entry>
+      <entry>
+        <string>PropCompactViewModeVisibleRps_16beat.S556.yjz-ID</string>
+        <string>rpVariationID,rpIntensityID,RpFillID</string>
+      </entry>
+    </properties>
+    <owner class="Song" reference="../.."/>
+  </spClientPropertiesV3>
+</Song>
