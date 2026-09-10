@@ -6,7 +6,10 @@ This repository serves as a personal archive and a resource for practicing impro
 
 ## 🎷 About This Repo
 
-This repository contains lead sheets and musical data created with JJazzLab. These files are intended to help with:- Learning new jazz standards.- Practicing improvisation over various chord progressions.- Analyzing harmonic movements in the jazz tradition.
+This repository contains lead sheets and musical data created with JJazzLab. These files are intended to help with:
+  - Learning new jazz standards.
+  - Practicing improvisation over various chord progressions.
+  - Analyzing harmonic movements in the jazz tradition.
 
 Note: Please note that the accuracy and musical quality of these files may vary.
 
