@@ -15,7 +15,7 @@ Note: Please note that the accuracy and musical quality of these files may vary.
 
 ## 🛠️ How to Use
 
-1. Clone this repository to your local machine.
+1. Clone this repository to your local machine or click CODE and then Download ZIP.
 2. Open the files using [JJazzLab](https://www.jjazzlab.org/en/) software.
 3. Adjust the instruments to taste and hardware.
 4. Happy practicing!
