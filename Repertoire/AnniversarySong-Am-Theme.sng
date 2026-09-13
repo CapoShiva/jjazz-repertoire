@@ -3,7 +3,7 @@
   <spComments>Edit me...</spComments>
   <spTags/>
   <spChordLeadSheet class="ChordLeadSheetImpl" resolves-to="ChordLeadSheetImplSP">
-    <spVERSION>2</spVERSION>
+    <spVERSION>3</spVERSION>
     <spItems>
       <CLI__SectionImpl resolves-to="CLI_SectionImplSP" spName="Intro" spTs="FOUR_FOUR" spBarIndex="0">
         <spVERSION>4</spVERSION>
@@ -336,9 +336,9 @@
   <spSongStructure class="SongStructureImpl" resolves-to="SongStructureImplSP">
     <spVERSION>3</spVERSION>
     <spSpts>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="Swing1 154.T215.sty-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="0" spName="Intro" spNbBars="4">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="Swing1.S737.bcs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="0" spName="Intro" spNbBars="4">
         <spVERSION>3</spVERSION>
-        <spRhythmName>Swing1 154.T215.sty</spRhythmName>
+        <spRhythmName>Swing1.S737.bcs</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -350,7 +350,7 @@
           </entry>
           <entry>
             <string>rpVariationID</string>
-            <string>Intro C-1</string>
+            <string>Intro B-1</string>
           </entry>
           <entry>
             <string>rpIntensityID</string>
@@ -362,7 +362,7 @@
           </entry>
           <entry>
             <string>RpSysMuteID</string>
-            <string>[Chord2,Phrase1,Chord1]</string>
+            <string>[Chord2,Phrase1]</string>
           </entry>
           <entry>
             <string>rpSysMarkerID</string>
@@ -382,9 +382,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="Swing1 154.T215.sty-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="4" spName="Chorus 1" spNbBars="16">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="Swing1.S737.bcs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="4" spName="Chorus 1" spNbBars="16">
         <spVERSION>3</spVERSION>
-        <spRhythmName>Swing1 154.T215.sty</spRhythmName>
+        <spRhythmName>Swing1.S737.bcs</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[2]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -428,9 +428,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="Swing1 154.T215.sty-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="20" spName="Chorus 1" spNbBars="16">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="Swing1.S737.bcs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="20" spName="Chorus 1" spNbBars="16">
         <spVERSION>3</spVERSION>
-        <spRhythmName>Swing1 154.T215.sty</spRhythmName>
+        <spRhythmName>Swing1.S737.bcs</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[2]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -474,9 +474,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="Swing1 154.T215.sty-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="36" spName="Chorus 1" spNbBars="16">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="Swing1.S737.bcs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="36" spName="Chorus 1" spNbBars="16">
         <spVERSION>3</spVERSION>
-        <spRhythmName>Swing1 154.T215.sty</spRhythmName>
+        <spRhythmName>Swing1.S737.bcs</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[3]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -520,9 +520,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="Swing1 154.T215.sty-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="52" spName="Chorus 1" spNbBars="16">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="Swing1.S737.bcs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="52" spName="Chorus 1" spNbBars="16">
         <spVERSION>3</spVERSION>
-        <spRhythmName>Swing1 154.T215.sty</spRhythmName>
+        <spRhythmName>Swing1.S737.bcs</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[3]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -566,9 +566,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="Swing1 154.T215.sty-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="68" spName="Chorus 2" spNbBars="16">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="Swing1.S737.bcs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="68" spName="Chorus 2" spNbBars="16">
         <spVERSION>3</spVERSION>
-        <spRhythmName>Swing1 154.T215.sty</spRhythmName>
+        <spRhythmName>Swing1.S737.bcs</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[2]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -592,7 +592,7 @@
           </entry>
           <entry>
             <string>RpSysMuteID</string>
-            <string>[Chord2,Phrase1,Chord1]</string>
+            <string>[Chord2,Chord1]</string>
           </entry>
           <entry>
             <string>rpSysMarkerID</string>
@@ -612,9 +612,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="Swing1 154.T215.sty-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="84" spName="Chorus 2" spNbBars="16">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="Swing1.S737.bcs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="84" spName="Chorus 2" spNbBars="16">
         <spVERSION>3</spVERSION>
-        <spRhythmName>Swing1 154.T215.sty</spRhythmName>
+        <spRhythmName>Swing1.S737.bcs</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[2]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -638,7 +638,7 @@
           </entry>
           <entry>
             <string>RpSysMuteID</string>
-            <string>[Chord2,Phrase1,Chord1]</string>
+            <string>[Chord2,Chord1]</string>
           </entry>
           <entry>
             <string>rpSysMarkerID</string>
@@ -658,9 +658,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="Swing1 154.T215.sty-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="100" spName="Chorus 2" spNbBars="16">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="Swing1.S737.bcs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="100" spName="Chorus 2" spNbBars="16">
         <spVERSION>3</spVERSION>
-        <spRhythmName>Swing1 154.T215.sty</spRhythmName>
+        <spRhythmName>Swing1.S737.bcs</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[3]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -684,7 +684,7 @@
           </entry>
           <entry>
             <string>RpSysMuteID</string>
-            <string>[Chord2,Phrase1,Chord1]</string>
+            <string>[Chord2,Chord1]</string>
           </entry>
           <entry>
             <string>rpSysMarkerID</string>
@@ -704,9 +704,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="Swing1 154.T215.sty-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="116" spName="Chorus 2" spNbBars="16">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="Swing1.S737.bcs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="116" spName="Chorus 2" spNbBars="16">
         <spVERSION>3</spVERSION>
-        <spRhythmName>Swing1 154.T215.sty</spRhythmName>
+        <spRhythmName>Swing1.S737.bcs</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[3]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -730,7 +730,7 @@
           </entry>
           <entry>
             <string>RpSysMuteID</string>
-            <string>[Chord2,Phrase1,Chord1]</string>
+            <string>[Chord2,Chord1]</string>
           </entry>
           <entry>
             <string>rpSysMarkerID</string>
@@ -750,9 +750,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="Swing1 154.T215.sty-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="132" spName="Chorus 3" spNbBars="16">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="Swing1.S737.bcs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="132" spName="Chorus 3" spNbBars="16">
         <spVERSION>3</spVERSION>
-        <spRhythmName>Swing1 154.T215.sty</spRhythmName>
+        <spRhythmName>Swing1.S737.bcs</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[2]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -776,7 +776,7 @@
           </entry>
           <entry>
             <string>RpSysMuteID</string>
-            <string>[Chord2,Phrase1,Chord1]</string>
+            <string>[Phrase1]</string>
           </entry>
           <entry>
             <string>rpSysMarkerID</string>
@@ -796,9 +796,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="Swing1 154.T215.sty-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="148" spName="Chorus 3" spNbBars="16">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="Swing1.S737.bcs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="148" spName="Chorus 3" spNbBars="16">
         <spVERSION>3</spVERSION>
-        <spRhythmName>Swing1 154.T215.sty</spRhythmName>
+        <spRhythmName>Swing1.S737.bcs</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[2]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -822,7 +822,7 @@
           </entry>
           <entry>
             <string>RpSysMuteID</string>
-            <string>[Chord2,Phrase1,Chord1]</string>
+            <string>[Phrase1]</string>
           </entry>
           <entry>
             <string>rpSysMarkerID</string>
@@ -842,9 +842,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="Swing1 154.T215.sty-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="164" spName="Chorus 3" spNbBars="16">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="Swing1.S737.bcs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="164" spName="Chorus 3" spNbBars="16">
         <spVERSION>3</spVERSION>
-        <spRhythmName>Swing1 154.T215.sty</spRhythmName>
+        <spRhythmName>Swing1.S737.bcs</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[3]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -868,7 +868,7 @@
           </entry>
           <entry>
             <string>RpSysMuteID</string>
-            <string>[Chord2,Phrase1,Chord1]</string>
+            <string>[Phrase1]</string>
           </entry>
           <entry>
             <string>rpSysMarkerID</string>
@@ -888,9 +888,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="Swing1 154.T215.sty-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="180" spName="Chorus 3" spNbBars="16">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="Swing1.S737.bcs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="180" spName="Chorus 3" spNbBars="16">
         <spVERSION>3</spVERSION>
-        <spRhythmName>Swing1 154.T215.sty</spRhythmName>
+        <spRhythmName>Swing1.S737.bcs</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[3]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -914,7 +914,7 @@
           </entry>
           <entry>
             <string>RpSysMuteID</string>
-            <string>[Chord2,Phrase1,Chord1]</string>
+            <string>[Phrase1]</string>
           </entry>
           <entry>
             <string>rpSysMarkerID</string>
@@ -934,9 +934,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="Swing1 154.T215.sty-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="196" spName="Last Chorus" spNbBars="16">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="Swing1.S737.bcs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="196" spName="Last Chorus" spNbBars="16">
         <spVERSION>3</spVERSION>
-        <spRhythmName>Swing1 154.T215.sty</spRhythmName>
+        <spRhythmName>Swing1.S737.bcs</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[2]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -980,9 +980,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="Swing1 154.T215.sty-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="212" spName="Last Chorus" spNbBars="16">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="Swing1.S737.bcs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="212" spName="Last Chorus" spNbBars="16">
         <spVERSION>3</spVERSION>
-        <spRhythmName>Swing1 154.T215.sty</spRhythmName>
+        <spRhythmName>Swing1.S737.bcs</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[2]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1026,9 +1026,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="Swing1 154.T215.sty-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="228" spName="Last Chorus" spNbBars="16">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="Swing1.S737.bcs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="228" spName="Last Chorus" spNbBars="16">
         <spVERSION>3</spVERSION>
-        <spRhythmName>Swing1 154.T215.sty</spRhythmName>
+        <spRhythmName>Swing1.S737.bcs</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[3]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1072,9 +1072,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="Swing1 154.T215.sty-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="244" spName="Last Chorus" spNbBars="16">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="Swing1.S737.bcs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="244" spName="Last Chorus" spNbBars="16">
         <spVERSION>3</spVERSION>
-        <spRhythmName>Swing1 154.T215.sty</spRhythmName>
+        <spRhythmName>Swing1.S737.bcs</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[3]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1141,6 +1141,10 @@
         <string>rpVariationID,rpIntensityID,RpFillID,RpSysMuteID,rpSysMarkerID</string>
       </entry>
       <entry>
+        <string>PropCompactViewModeVisibleRps_jjSwing-ID</string>
+        <string>rpVariationID,BassStyleId,DrumsStyleId,rpIntensityID,RpFillID,RpSysMuteID,rpSysMarkerID</string>
+      </entry>
+      <entry>
         <string>PropSsEditorZoomFactorY</string>
         <string>50</string>
       </entry>
@@ -1155,6 +1159,10 @@
       <entry>
         <string>SectionDisplayQuantization-A*4/4</string>
         <string>ONE_QUARTER_BEAT</string>
+      </entry>
+      <entry>
+        <string>PropCompactViewModeVisibleRps_Swing1.S737.bcs-ID</string>
+        <string>rpVariationID,rpIntensityID,RpFillID,RpSysMuteID</string>
       </entry>
     </properties>
     <owner class="Song" reference="../.."/>
