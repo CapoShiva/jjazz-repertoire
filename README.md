@@ -10,12 +10,18 @@ This repository contains lead sheets and musical data created with [JJazzLab](ht
   - Learning new jazz standards.
   - Practicing improvisation over various chord progressions.
   - Analyzing harmonic movements in the jazz tradition.
+  - Currently these songs are using styles from a hardware synth.
+
+## ⚙️ TODO
+
+  - Standardize the synth to FluidSynt
+  - Use default styles
 
 Note: Please note that the accuracy and musical quality of these files may vary.
 
 ## 🛠️ How to Use
 
-1. Clone this repository to your local machine or click CODE and then Download ZIP.
+1. Clone this repository to your local machine or click green **Code** button and then Download ZIP.
 2. Open the files using [JJazzLab](https://www.jjazzlab.org/en/) software.
 3. Adjust the instruments to taste and hardware.
 4. Happy practicing!
