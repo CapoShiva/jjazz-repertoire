@@ -1,19 +1,13 @@
-<Song resolves-to="SongSP" spName="DarkEyes-A-Theme" spTempo="114">
+<Song resolves-to="SongSP" spName="DarkEyes-A-Theme" spTempo="152">
   <spVERSION>4</spVERSION>
   <spComments>Edit me...</spComments>
   <spTags/>
   <spChordLeadSheet class="ChordLeadSheetImpl" resolves-to="ChordLeadSheetImplSP">
-    <spVERSION>2</spVERSION>
+    <spVERSION>3</spVERSION>
     <spItems>
       <CLI__SectionImpl resolves-to="CLI_SectionImplSP" spName="Intro" spTs="FOUR_FOUR" spBarIndex="0">
-        <spVERSION>3</spVERSION>
+        <spVERSION>4</spVERSION>
         <spClientProperties>
-          <properties>
-            <entry>
-              <string>PropSectionQuantization</string>
-              <string>ONE_QUARTER_BEAT</string>
-            </entry>
-          </properties>
           <owner class="CLI_SectionImpl" reference="../.."/>
         </spClientProperties>
       </CLI__SectionImpl>
@@ -35,14 +29,8 @@
         </spClientProperties>
       </CLI__ChordSymbolImpl>
       <CLI__SectionImpl resolves-to="CLI_SectionImplSP" spName="A" spTs="FOUR_FOUR" spBarIndex="4">
-        <spVERSION>3</spVERSION>
+        <spVERSION>4</spVERSION>
         <spClientProperties>
-          <properties>
-            <entry>
-              <string>PropSectionQuantization</string>
-              <string>ONE_QUARTER_BEAT</string>
-            </entry>
-          </properties>
           <owner class="CLI_SectionImpl" reference="../.."/>
         </spClientProperties>
       </CLI__SectionImpl>
@@ -186,11 +174,11 @@
     <spSize>20</spSize>
   </spChordLeadSheet>
   <spSongStructure class="SongStructureImpl" resolves-to="SongStructureImplSP">
-    <spVERSION>2</spVERSION>
+    <spVERSION>3</spVERSION>
     <spSpts>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="ZitherPolka.T589.prs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="0" spName="Intro" spNbBars="4">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="EasyAcJazz.T157.STY-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="0" spName="Intro" spNbBars="4">
         <spVERSION>3</spVERSION>
-        <spRhythmName>ZitherPolka.T589.prs</spRhythmName>
+        <spRhythmName>EasyAcJazz.T157.STY</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -202,7 +190,7 @@
           </entry>
           <entry>
             <string>rpVariationID</string>
-            <string>Intro A-1</string>
+            <string>Intro C-1</string>
           </entry>
           <entry>
             <string>rpIntensityID</string>
@@ -221,6 +209,10 @@
             <string>theme</string>
           </entry>
           <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
             <string>RpFillID</string>
             <string></string>
           </entry>
@@ -230,9 +222,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="ZitherPolka.T589.prs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="4" spName="A" spNbBars="16">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="EasyAcJazz.T157.STY-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="4" spName="Theme" spNbBars="16">
         <spVERSION>3</spVERSION>
-        <spRhythmName>ZitherPolka.T589.prs</spRhythmName>
+        <spRhythmName>EasyAcJazz.T157.STY</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[2]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -256,11 +248,15 @@
           </entry>
           <entry>
             <string>RpSysMuteID</string>
-            <string>[]</string>
+            <string>[Chord2]</string>
           </entry>
           <entry>
             <string>rpSysMarkerID</string>
             <string>theme</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
           </entry>
           <entry>
             <string>RpFillID</string>
@@ -272,9 +268,331 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="ZitherPolka.T589.prs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="20" spName="A" spNbBars="16">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="EasyAcJazz.T157.STY-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="20" spName="Theme" spNbBars="16">
         <spVERSION>3</spVERSION>
-        <spRhythmName>ZitherPolka.T589.prs</spRhythmName>
+        <spRhythmName>EasyAcJazz.T157.STY</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[2]"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>[DrumsMixIdhidden#]</string>
+          </entry>
+          <entry>
+            <string>rpVariationID</string>
+            <string>Main D-1</string>
+          </entry>
+          <entry>
+            <string>rpIntensityID</string>
+            <string>0</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_CustomPhraseId</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpSysMuteID</string>
+            <string>[Chord2]</string>
+          </entry>
+          <entry>
+            <string>rpSysMarkerID</string>
+            <string>theme</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpFillID</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>rpTempoID</string>
+            <string>100</string>
+          </entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="EasyAcJazz.T157.STY-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="36" spName="Solos" spNbBars="16">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>EasyAcJazz.T157.STY</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[2]"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>[DrumsMixIdhidden#]</string>
+          </entry>
+          <entry>
+            <string>rpVariationID</string>
+            <string>Main C-1</string>
+          </entry>
+          <entry>
+            <string>rpIntensityID</string>
+            <string>0</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_CustomPhraseId</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpSysMuteID</string>
+            <string>[Chord2]</string>
+          </entry>
+          <entry>
+            <string>rpSysMarkerID</string>
+            <string>solo</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpFillID</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>rpTempoID</string>
+            <string>100</string>
+          </entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="EasyAcJazz.T157.STY-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="52" spName="Solos" spNbBars="16">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>EasyAcJazz.T157.STY</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[2]"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>[DrumsMixIdhidden#]</string>
+          </entry>
+          <entry>
+            <string>rpVariationID</string>
+            <string>Main B-1</string>
+          </entry>
+          <entry>
+            <string>rpIntensityID</string>
+            <string>0</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_CustomPhraseId</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpSysMuteID</string>
+            <string>[Chord2]</string>
+          </entry>
+          <entry>
+            <string>rpSysMarkerID</string>
+            <string>solo</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpFillID</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>rpTempoID</string>
+            <string>100</string>
+          </entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="EasyAcJazz.T157.STY-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="68" spName="Solos" spNbBars="16">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>EasyAcJazz.T157.STY</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[2]"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>[DrumsMixIdhidden#]</string>
+          </entry>
+          <entry>
+            <string>rpVariationID</string>
+            <string>Main D-1</string>
+          </entry>
+          <entry>
+            <string>rpIntensityID</string>
+            <string>0</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_CustomPhraseId</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpSysMuteID</string>
+            <string>[Chord2]</string>
+          </entry>
+          <entry>
+            <string>rpSysMarkerID</string>
+            <string>solo</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpFillID</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>rpTempoID</string>
+            <string>100</string>
+          </entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="EasyAcJazz.T157.STY-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="84" spName="Solos" spNbBars="16">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>EasyAcJazz.T157.STY</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[2]"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>[DrumsMixIdhidden#]</string>
+          </entry>
+          <entry>
+            <string>rpVariationID</string>
+            <string>Main D-1</string>
+          </entry>
+          <entry>
+            <string>rpIntensityID</string>
+            <string>0</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_CustomPhraseId</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpSysMuteID</string>
+            <string>[Chord2]</string>
+          </entry>
+          <entry>
+            <string>rpSysMarkerID</string>
+            <string>solo</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpFillID</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>rpTempoID</string>
+            <string>100</string>
+          </entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="EasyAcJazz.T157.STY-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="100" spName="Solos" spNbBars="16">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>EasyAcJazz.T157.STY</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[2]"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>[DrumsMixIdhidden#]</string>
+          </entry>
+          <entry>
+            <string>rpVariationID</string>
+            <string>Main C-1</string>
+          </entry>
+          <entry>
+            <string>rpIntensityID</string>
+            <string>0</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_CustomPhraseId</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpSysMuteID</string>
+            <string>[Chord2]</string>
+          </entry>
+          <entry>
+            <string>rpSysMarkerID</string>
+            <string>solo</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpFillID</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>rpTempoID</string>
+            <string>100</string>
+          </entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="EasyAcJazz.T157.STY-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="116" spName="Solos" spNbBars="16">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>EasyAcJazz.T157.STY</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[2]"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>[DrumsMixIdhidden#]</string>
+          </entry>
+          <entry>
+            <string>rpVariationID</string>
+            <string>Main C-1</string>
+          </entry>
+          <entry>
+            <string>rpIntensityID</string>
+            <string>0</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_CustomPhraseId</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpSysMuteID</string>
+            <string>[Chord2]</string>
+          </entry>
+          <entry>
+            <string>rpSysMarkerID</string>
+            <string>solo</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpFillID</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>rpTempoID</string>
+            <string>100</string>
+          </entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="EasyAcJazz.T157.STY-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="132" spName="Theme" spNbBars="16">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>EasyAcJazz.T157.STY</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[2]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -298,11 +616,15 @@
           </entry>
           <entry>
             <string>RpSysMuteID</string>
-            <string>[]</string>
+            <string>[Chord2]</string>
           </entry>
           <entry>
             <string>rpSysMarkerID</string>
             <string>theme</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
           </entry>
           <entry>
             <string>RpFillID</string>
@@ -314,9 +636,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="ZitherPolka.T589.prs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="36" spName="A" spNbBars="16">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="EasyAcJazz.T157.STY-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="148" spName="Theme" spNbBars="16">
         <spVERSION>3</spVERSION>
-        <spRhythmName>ZitherPolka.T589.prs</spRhythmName>
+        <spRhythmName>EasyAcJazz.T157.STY</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[2]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -328,7 +650,7 @@
           </entry>
           <entry>
             <string>rpVariationID</string>
-            <string>Main A-1</string>
+            <string>Main C-1</string>
           </entry>
           <entry>
             <string>rpIntensityID</string>
@@ -340,53 +662,15 @@
           </entry>
           <entry>
             <string>RpSysMuteID</string>
-            <string>[]</string>
+            <string>[Chord2]</string>
           </entry>
           <entry>
             <string>rpSysMarkerID</string>
             <string>theme</string>
           </entry>
           <entry>
-            <string>RpFillID</string>
+            <string>RP_SYS_OverrideTracksID</string>
             <string></string>
-          </entry>
-          <entry>
-            <string>rpTempoID</string>
-            <string>100</string>
-          </entry>
-        </spHashMapRpIdValue>
-      </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="ZitherPolka.T589.prs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="52" spName="A" spNbBars="16">
-        <spVERSION>3</spVERSION>
-        <spRhythmName>ZitherPolka.T589.prs</spRhythmName>
-        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[2]"/>
-        <spClientProperties>
-          <owner class="SongPartImpl" reference="../.."/>
-        </spClientProperties>
-        <spHashMapRpIdValue>
-          <entry>
-            <string>RP_SYS_DrumsTransformId</string>
-            <string>[DrumsMixIdhidden#]</string>
-          </entry>
-          <entry>
-            <string>rpVariationID</string>
-            <string>Main A-1</string>
-          </entry>
-          <entry>
-            <string>rpIntensityID</string>
-            <string>0</string>
-          </entry>
-          <entry>
-            <string>RP_SYS_CustomPhraseId</string>
-            <string></string>
-          </entry>
-          <entry>
-            <string>RpSysMuteID</string>
-            <string>[]</string>
-          </entry>
-          <entry>
-            <string>rpSysMarkerID</string>
-            <string>theme</string>
           </entry>
           <entry>
             <string>RpFillID</string>
@@ -400,13 +684,13 @@
       </SongPartImpl>
     </spSpts>
     <spParentCls class="ChordLeadSheetImpl" reference="../../spChordLeadSheet"/>
-    <spKeepUpdated>true</spKeepUpdated>
+    <spKeepUpdated>false</spKeepUpdated>
   </spSongStructure>
   <spMapUserPhrases>
     <entry>
-      <string>User1</string>
+      <string>Lead</string>
       <Phrase resolves-to="PhraseSP" spVERSION="2">
-        <spSaveString>[0|70,80,0.25:13.5|69,80,0.25:13.75|68,80,1.0:14.0|69,80,1.0:15.0|70,80,1.0:16.0|61,80,1.0:17.0|69,80,1.5:18.0|70,80,0.25:21.5|69,80,0.25:21.75|68,80,1.0:22.0|69,80,1.0:23.0|70,80,1.0:24.0|62,80,1.0:25.0|69,80,1.5:26.0|70,80,0.25:29.5|69,80,0.25:29.75|68,80,1.0:30.0|69,80,1.0:31.0|68,80,1.0:32.0|74,80,1.0:32.0|67,80,0.5:33.5|73,80,0.5:33.5|76,80,0.5:37.5|77,80,1.0:38.0|73,80,1.0:39.0|76,80,0.5:40.0|74,80,0.5:40.5|77,80,1.0:46.0|79,80,1.0:47.0|77,80,0.33333334:48.0|79,80,0.328125:48.333332|77,80,0.33854166:48.661457|76,80,1.0:49.0|76,80,0.5:50.0|77,80,0.25:52.5|76,80,0.25:52.75|75,80,0.33333334:53.0|76,80,0.328125:53.333332|77,80,0.33854166:53.661457|73,80,0.5:55.5|76,80,1.5:56.0|74,80,0.33333334:57.5|76,80,0.328125:57.833332|74,80,0.33854166:58.161457|69,80,1.0:59.0|71,80,4.0:60.0|70,80,0.75:64.0|72,80,0.125:64.75|70,80,0.125:64.875|69,80,3.0:65.0|68,80,3.0:68.0|67,80,1.0:71.0|65,80,0.75:72.0|62,80,0.25:72.75|62,80,1.0:73.0]</spSaveString>
+        <spSaveString>[0|70,80,0.25:13.5|69,80,0.25:13.75|68,80,1.0:14.0|69,80,1.0:15.0|70,80,1.0:16.0|61,80,1.0:17.0|69,80,1.5:18.0|70,80,0.25:21.5|69,80,0.25:21.75|68,80,1.0:22.0|69,80,1.0:23.0|70,80,1.0:24.0|62,80,1.0:25.0|69,80,1.5:26.0|70,80,0.25:29.5|69,80,0.25:29.75|68,80,1.0:30.0|69,80,1.0:31.0|68,80,1.0:32.0|74,80,1.0:32.0|67,80,0.5:33.5|73,80,0.5:33.5|76,80,0.5:37.5|77,80,1.0:38.0|73,80,1.0:39.0|76,80,0.5:40.0|74,80,0.5:40.5|77,80,1.0:46.0|79,80,1.0:47.0|77,80,0.33333334:48.0|79,80,0.328125:48.333332|77,80,0.33854166:48.661457|76,80,1.0:49.0|76,80,0.5:50.0|77,80,0.25:52.5|76,80,0.25:52.75|75,80,0.33333334:53.0|76,80,0.328125:53.333332|77,80,0.33854166:53.661457|73,80,0.5:55.5|76,80,1.5:56.0|74,80,0.33333334:57.5|76,80,0.328125:57.833332|74,80,0.33854166:58.161457|69,80,1.0:59.0|71,80,4.0:60.0|70,80,0.75:64.0|72,80,0.125:64.75|70,80,0.125:64.875|69,80,3.0:65.0|68,80,3.0:68.0|67,80,1.0:71.0|65,80,0.75:72.0|62,80,0.25:72.75|62,80,1.0:73.0|70,80,0.25:77.66666|68,80,1.0:78.0|69,80,0.25:78.0|69,80,1.0:79.0|70,80,1.0:80.0|61,80,1.0:81.0|69,80,1.5:82.0|70,80,0.25:85.66666|68,80,1.0:86.0|69,80,0.25:86.0|69,80,1.0:87.0|70,80,1.0:88.0|62,80,1.0:89.0|69,80,1.5:90.0|70,80,0.25:93.66666|68,80,1.0:94.0|69,80,0.25:94.0|69,80,1.0:95.0|68,80,1.0:96.0|74,80,1.0:96.0|67,80,0.5:97.66666|73,80,0.5:97.66666|76,80,0.5:101.66666|77,80,1.0:102.0|73,80,1.0:103.0|76,80,0.5:104.0|74,80,0.5:104.66666|77,80,1.0:110.0|79,80,1.0:111.0|77,80,0.33333334:112.0|79,80,0.328125:112.33333|77,80,0.33854166:112.66666|76,80,1.0:113.0|76,80,0.5:114.0|77,80,0.25:116.66666|75,80,0.33333334:117.0|76,80,0.25:117.0|76,80,0.328125:117.33333|77,80,0.33854166:117.66666|73,80,0.5:119.66666|76,80,1.5:120.0|74,80,0.33333334:121.66666|76,80,0.328125:122.0|74,80,0.33854166:122.33333|69,80,1.0:123.0|71,80,4.0:124.0|70,80,0.75:128.0|69,80,3.0:129.0|70,80,0.125:129.0|72,80,0.125:129.0|68,80,3.0:132.0|67,80,1.0:135.0|65,80,0.75:136.0|62,80,1.0:137.0|70,79,0.25:525.34076|69,80,0.25:525.6664|68,78,1.0:525.99164|69,81,1.0:527.00165|70,79,1.0:528.00836|61,83,1.0:528.9899|69,81,1.5:529.99176|70,81,0.25:533.34|69,77,0.25:533.6351|68,78,1.0:533.9852|69,81,1.0:534.97754|70,79,1.0:536.00604|62,79,1.0:537.0012|69,83,1.5:538.0076|70,80,0.25:541.32355|69,81,0.25:541.66394|68,78,1.0:541.95715|69,79,1.0:542.98596|68,80,1.0:543.99524|74,80,1.0:543.9972|73,78,0.5:545.32806|67,81,0.5:545.33307|76,79,0.5:549.3341|77,79,1.0:549.9608|73,83,1.0:550.9968|76,80,0.5:552.00336|74,81,0.5:552.3474|77,81,1.0:557.9979|79,77,1.0:559.0043|77,84,0.33333334:559.9878|79,82,0.328125:560.34|77,78,0.33854166:560.64984|76,82,1.0:560.9935|76,82,0.5:562.0021|77,81,0.25:564.31757|76,80,0.25:564.67255|75,78,0.33333334:565.0089|76,83,0.328125:565.3432|77,79,0.33854166:565.65533|73,79,0.5:567.33307|76,84,1.5:567.99805|74,78,0.33333334:569.3204|76,80,0.328125:569.66113|74,76,0.33854166:570.00854|69,80,1.0:570.99664|71,78,4.0:571.99646|70,83,0.75:575.99133|72,79,0.125:576.6573|69,79,3.0:576.99854|70,81,0.125:577.00824|68,81,3.0:580.0025|67,82,1.0:582.97986|65,81,0.75:583.9989|62,80,0.25:584.6592|62,79,1.0:584.97406|70,80,0.25:589.66986|68,80,1.0:589.99286|69,81,0.25:589.99945|69,81,1.0:591.0053|70,80,1.0:591.9786|61,80,1.0:592.9895|69,80,1.5:593.98193|70,81,0.25:597.66156|69,77,0.25:597.9812|68,79,1.0:597.98376|69,83,1.0:598.9872|70,82,1.0:600.0037|62,79,1.0:601.0036|69,83,1.5:601.98785|70,81,0.25:605.64905|69,80,0.25:605.9824|68,82,1.0:606.00244|69,78,1.0:606.9783|74,79,1.0:608.00073|68,81,1.0:608.02234|73,81,0.5:609.6519|67,80,0.5:609.66223|76,82,0.5:613.67773|77,82,1.0:613.99677|73,80,1.0:615.00916|76,80,0.5:615.99524|74,82,0.5:616.6607|77,76,1.0:621.9906|79,81,1.0:623.0029|77,82,0.33333334:623.9882|79,81,0.328125:624.3416|77,80,0.33854166:624.6702|76,80,1.0:624.9699|76,79,0.5:625.98315|77,81,0.25:628.67706|76,78,0.25:628.9876|75,83,0.33333334:628.9983|76,82,0.328125:629.3274|77,81,0.33854166:629.6741|73,80,0.5:631.64844|76,85,1.5:632.00415|74,81,0.33333334:633.65765|76,80,0.328125:633.99194|74,78,0.33854166:634.30804|69,80,1.0:634.97577|71,77,4.0:635.98315|70,84,0.75:639.9932|72,83,0.125:640.9911|69,81,3.0:641.0073|70,80,0.125:641.0117|68,79,3.0:644.0209|67,81,1.0:646.9632|65,80,0.75:647.98035|62,81,0.004699707:648.99023|62,79,1.0:648.99493]</spSaveString>
       </Phrase>
     </entry>
   </spMapUserPhrases>
@@ -425,8 +709,24 @@
         <string>rpVariationID,rpIntensityID,RpFillID</string>
       </entry>
       <entry>
+        <string>PropCompactViewModeVisibleRps_jjSwing-ID</string>
+        <string>rpVariationID,BassStyleId,DrumsStyleId,RpFillID</string>
+      </entry>
+      <entry>
+        <string>PropCompactViewModeVisibleRps_EasyAcJazz.T157.STY-ID</string>
+        <string>rpVariationID,rpIntensityID,RpFillID</string>
+      </entry>
+      <entry>
+        <string>PropSsEditorZoomFactorY</string>
+        <string>50</string>
+      </entry>
+      <entry>
         <string>PropSsEditorZoomFactorX</string>
-        <string>22</string>
+        <string>8</string>
+      </entry>
+      <entry>
+        <string>PropViewMode</string>
+        <string>NORMAL</string>
       </entry>
     </properties>
     <owner class="Song" reference="../.."/>
