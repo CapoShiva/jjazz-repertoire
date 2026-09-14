@@ -1,2341 +1,1588 @@
-<Song resolves-to="org.jjazz.song.api.Song$SerializationProxy">
-  <spVERSION>3</spVERSION>
-  <spName>FlyMeToTheMoon-Abm</spName>
+<Song resolves-to="SongSP" spName="FlyMeToTheMoon-Fm-Theme" spTempo="120">
+  <spVERSION>4</spVERSION>
   <spComments></spComments>
-  <spTempo>120</spTempo>
   <spTags/>
-  <spChordLeadSheet class="org.jjazz.chordleadsheet.ChordLeadSheetImpl" resolves-to="org.jjazz.chordleadsheet.ChordLeadSheetImpl$SerializationProxy">
-    <spVERSION>1</spVERSION>
+  <spChordLeadSheet class="ChordLeadSheetImpl" resolves-to="ChordLeadSheetImplSP">
+    <spVERSION>3</spVERSION>
     <spItems>
-      <org.jjazz.chordleadsheet.item.CLI__SectionImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_SectionImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spName>Intro</spName>
-        <spTs>FOUR_FOUR</spTs>
-        <spBarIndex>0</spBarIndex>
+      <CLI__SectionImpl resolves-to="CLI_SectionImplSP" spName="Intro" spTs="FOUR_FOUR" spBarIndex="0">
+        <spVERSION>4</spVERSION>
         <spClientProperties>
-          <properties>
-            <entry>
-              <string>PropSectionQuantization</string>
-              <string>ONE_THIRD_BEAT</string>
-            </entry>
-          </properties>
-          <owner class="org.jjazz.chordleadsheet.item.CLI_SectionImpl" reference="../.."/>
+          <owner class="CLI_SectionImpl" reference="../.."/>
         </spClientProperties>
-      </org.jjazz.chordleadsheet.item.CLI__SectionImpl>
-      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
-          <spVERSION>2</spVERSION>
-          <spName>Fm</spName>
-          <spOriginalName>Fm</spOriginalName>
-          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
-            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
-              <int>2</int>
-              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+      </CLI__SectionImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="Fm" spOriginalName="Fm">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
               <null/>
-            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+            </ChordRenderingInfoSP>
           </spRenderingInfo>
         </spChord>
-        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
-          <spVERSION>1</spVERSION>
-          <spPos>[0:0]</spPos>
-        </spPos>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[0:0]"/>
         <spClientProperties>
-          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
         </spClientProperties>
-      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
-      <org.jjazz.chordleadsheet.item.CLI__SectionImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_SectionImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spName>A</spName>
-        <spTs>FOUR_FOUR</spTs>
-        <spBarIndex>4</spBarIndex>
+      </CLI__ChordSymbolImpl>
+      <CLI__SectionImpl resolves-to="CLI_SectionImplSP" spName="A" spTs="FOUR_FOUR" spBarIndex="4">
+        <spVERSION>4</spVERSION>
         <spClientProperties>
-          <properties>
-            <entry>
-              <string>PropSectionQuantization</string>
-              <string>ONE_QUARTER_BEAT</string>
-            </entry>
-          </properties>
-          <owner class="org.jjazz.chordleadsheet.item.CLI_SectionImpl" reference="../.."/>
+          <owner class="CLI_SectionImpl" reference="../.."/>
         </spClientProperties>
-      </org.jjazz.chordleadsheet.item.CLI__SectionImpl>
-      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
-          <spVERSION>2</spVERSION>
-          <spName>Fm7</spName>
-          <spOriginalName>Fm7</spOriginalName>
-          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
-            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
-              <int>2</int>
-              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+      </CLI__SectionImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="Fm7" spOriginalName="Fm7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
               <null/>
-            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+            </ChordRenderingInfoSP>
           </spRenderingInfo>
         </spChord>
-        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
-          <spVERSION>1</spVERSION>
-          <spPos>[4:0]</spPos>
-        </spPos>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[4:0]"/>
         <spClientProperties>
-          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
         </spClientProperties>
-      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
-      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
-          <spVERSION>2</spVERSION>
-          <spName>Bbm7</spName>
-          <spOriginalName>Bbm7</spOriginalName>
-          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
-            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
-              <int>2</int>
-              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="Bbm7" spOriginalName="Bbm7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
               <null/>
-            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+            </ChordRenderingInfoSP>
           </spRenderingInfo>
         </spChord>
-        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
-          <spVERSION>1</spVERSION>
-          <spPos>[5:0]</spPos>
-        </spPos>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[5:0]"/>
         <spClientProperties>
-          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
         </spClientProperties>
-      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
-      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
-          <spVERSION>2</spVERSION>
-          <spName>Eb7</spName>
-          <spOriginalName>Eb7</spOriginalName>
-          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
-            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
-              <int>2</int>
-              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="Eb7" spOriginalName="Eb7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
               <null/>
-            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+            </ChordRenderingInfoSP>
           </spRenderingInfo>
         </spChord>
-        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
-          <spVERSION>1</spVERSION>
-          <spPos>[6:0]</spPos>
-        </spPos>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[6:0]"/>
         <spClientProperties>
-          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
         </spClientProperties>
-      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
-      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
-          <spVERSION>2</spVERSION>
-          <spName>AbM7</spName>
-          <spOriginalName>AbM7</spOriginalName>
-          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
-            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
-              <int>2</int>
-              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="AbM7" spOriginalName="AbM7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
               <null/>
-            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+            </ChordRenderingInfoSP>
           </spRenderingInfo>
         </spChord>
-        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
-          <spVERSION>1</spVERSION>
-          <spPos>[7:0]</spPos>
-        </spPos>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[7:0]"/>
         <spClientProperties>
-          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
         </spClientProperties>
-      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
-      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
-          <spVERSION>2</spVERSION>
-          <spName>Ab7</spName>
-          <spOriginalName>Ab7</spOriginalName>
-          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
-            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
-              <int>2</int>
-              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="Ab7" spOriginalName="Ab7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
               <null/>
-            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+            </ChordRenderingInfoSP>
           </spRenderingInfo>
         </spChord>
-        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
-          <spVERSION>1</spVERSION>
-          <spPos>[7:2]</spPos>
-        </spPos>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[7:2]"/>
         <spClientProperties>
-          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
         </spClientProperties>
-      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
-      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
-          <spVERSION>2</spVERSION>
-          <spName>DbM7</spName>
-          <spOriginalName>DbM7</spOriginalName>
-          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
-            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
-              <int>2</int>
-              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="DbM7" spOriginalName="DbM7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
               <null/>
-            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+            </ChordRenderingInfoSP>
           </spRenderingInfo>
         </spChord>
-        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
-          <spVERSION>1</spVERSION>
-          <spPos>[8:0]</spPos>
-        </spPos>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[8:0]"/>
         <spClientProperties>
-          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
         </spClientProperties>
-      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
-      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
-          <spVERSION>2</spVERSION>
-          <spName>Gm7b5</spName>
-          <spOriginalName>Gm7b5</spOriginalName>
-          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
-            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
-              <int>2</int>
-              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="Gm7b5" spOriginalName="Gm7b5">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
               <null/>
-            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+            </ChordRenderingInfoSP>
           </spRenderingInfo>
         </spChord>
-        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
-          <spVERSION>1</spVERSION>
-          <spPos>[9:0]</spPos>
-        </spPos>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[9:0]"/>
         <spClientProperties>
-          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
         </spClientProperties>
-      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
-      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
-          <spVERSION>2</spVERSION>
-          <spName>C7</spName>
-          <spOriginalName>C7</spOriginalName>
-          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
-            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
-              <int>2</int>
-              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="C7" spOriginalName="C7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
               <null/>
-            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+            </ChordRenderingInfoSP>
           </spRenderingInfo>
         </spChord>
-        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
-          <spVERSION>1</spVERSION>
-          <spPos>[10:0]</spPos>
-        </spPos>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[10:0]"/>
         <spClientProperties>
-          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
         </spClientProperties>
-      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
-      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
-          <spVERSION>2</spVERSION>
-          <spName>Fm7</spName>
-          <spOriginalName>Fm7</spOriginalName>
-          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
-            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
-              <int>2</int>
-              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="Fm7" spOriginalName="Fm7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
               <null/>
-            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+            </ChordRenderingInfoSP>
           </spRenderingInfo>
         </spChord>
-        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
-          <spVERSION>1</spVERSION>
-          <spPos>[11:0]</spPos>
-        </spPos>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[11:0]"/>
         <spClientProperties>
-          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
         </spClientProperties>
-      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
-      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
-          <spVERSION>2</spVERSION>
-          <spName>F7</spName>
-          <spOriginalName>F7</spOriginalName>
-          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
-            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
-              <int>2</int>
-              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="F7" spOriginalName="F7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
               <null/>
-            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+            </ChordRenderingInfoSP>
           </spRenderingInfo>
         </spChord>
-        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
-          <spVERSION>1</spVERSION>
-          <spPos>[11:2]</spPos>
-        </spPos>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[11:2]"/>
         <spClientProperties>
-          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
         </spClientProperties>
-      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
-      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
-          <spVERSION>2</spVERSION>
-          <spName>Bbm7</spName>
-          <spOriginalName>Bbm7</spOriginalName>
-          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
-            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
-              <int>2</int>
-              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="Bbm7" spOriginalName="Bbm7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
               <null/>
-            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+            </ChordRenderingInfoSP>
           </spRenderingInfo>
         </spChord>
-        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
-          <spVERSION>1</spVERSION>
-          <spPos>[12:0]</spPos>
-        </spPos>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[12:0]"/>
         <spClientProperties>
-          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
         </spClientProperties>
-      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
-      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
-          <spVERSION>2</spVERSION>
-          <spName>Eb7</spName>
-          <spOriginalName>Eb7</spOriginalName>
-          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
-            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
-              <int>2</int>
-              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="Eb7" spOriginalName="Eb7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
               <null/>
-            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+            </ChordRenderingInfoSP>
           </spRenderingInfo>
         </spChord>
-        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
-          <spVERSION>1</spVERSION>
-          <spPos>[13:0]</spPos>
-        </spPos>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[13:0]"/>
         <spClientProperties>
-          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
         </spClientProperties>
-      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
-      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
-          <spVERSION>2</spVERSION>
-          <spName>AbM7</spName>
-          <spOriginalName>AbM7</spOriginalName>
-          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
-            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
-              <int>2</int>
-              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="AbM7" spOriginalName="AbM7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
               <null/>
-            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+            </ChordRenderingInfoSP>
           </spRenderingInfo>
         </spChord>
-        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
-          <spVERSION>1</spVERSION>
-          <spPos>[14:0]</spPos>
-        </spPos>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[14:0]"/>
         <spClientProperties>
-          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
         </spClientProperties>
-      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
-      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
-          <spVERSION>2</spVERSION>
-          <spName>Cm7</spName>
-          <spOriginalName>Cm7</spOriginalName>
-          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
-            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
-              <int>2</int>
-              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="Cm7" spOriginalName="Cm7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
               <null/>
-            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+            </ChordRenderingInfoSP>
           </spRenderingInfo>
         </spChord>
-        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
-          <spVERSION>1</spVERSION>
-          <spPos>[15:0]</spPos>
-        </spPos>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[15:0]"/>
         <spClientProperties>
-          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
         </spClientProperties>
-      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
-      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
-          <spVERSION>2</spVERSION>
-          <spName>F7</spName>
-          <spOriginalName>F7</spOriginalName>
-          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
-            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
-              <int>2</int>
-              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="F7" spOriginalName="F7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
               <null/>
-            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+            </ChordRenderingInfoSP>
           </spRenderingInfo>
         </spChord>
-        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
-          <spVERSION>1</spVERSION>
-          <spPos>[15:2]</spPos>
-        </spPos>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[15:2]"/>
         <spClientProperties>
-          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
         </spClientProperties>
-      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
-      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
-          <spVERSION>2</spVERSION>
-          <spName>Bbm7</spName>
-          <spOriginalName>Bbm7</spOriginalName>
-          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
-            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
-              <int>2</int>
-              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="Bbm7" spOriginalName="Bbm7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
               <null/>
-            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+            </ChordRenderingInfoSP>
           </spRenderingInfo>
         </spChord>
-        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
-          <spVERSION>1</spVERSION>
-          <spPos>[16:0]</spPos>
-        </spPos>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[16:0]"/>
         <spClientProperties>
-          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
         </spClientProperties>
-      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
-      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
-          <spVERSION>2</spVERSION>
-          <spName>Eb7</spName>
-          <spOriginalName>Eb7</spOriginalName>
-          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
-            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
-              <int>2</int>
-              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="Eb7" spOriginalName="Eb7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
               <null/>
-            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+            </ChordRenderingInfoSP>
           </spRenderingInfo>
         </spChord>
-        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
-          <spVERSION>1</spVERSION>
-          <spPos>[17:0]</spPos>
-        </spPos>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[17:0]"/>
         <spClientProperties>
-          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
         </spClientProperties>
-      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
-      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
-          <spVERSION>2</spVERSION>
-          <spName>AbM7</spName>
-          <spOriginalName>AbM7</spOriginalName>
-          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
-            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
-              <int>2</int>
-              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="AbM7" spOriginalName="AbM7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
               <null/>
-            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+            </ChordRenderingInfoSP>
           </spRenderingInfo>
         </spChord>
-        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
-          <spVERSION>1</spVERSION>
-          <spPos>[18:0]</spPos>
-        </spPos>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[18:0]"/>
         <spClientProperties>
-          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
         </spClientProperties>
-      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
-      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
-          <spVERSION>2</spVERSION>
-          <spName>Gm7b5</spName>
-          <spOriginalName>Gm7b5</spOriginalName>
-          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
-            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
-              <int>2</int>
-              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="Gm7b5" spOriginalName="Gm7b5">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
               <null/>
-            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+            </ChordRenderingInfoSP>
           </spRenderingInfo>
         </spChord>
-        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
-          <spVERSION>1</spVERSION>
-          <spPos>[19:0]</spPos>
-        </spPos>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[19:0]"/>
         <spClientProperties>
-          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
         </spClientProperties>
-      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
-      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
-          <spVERSION>2</spVERSION>
-          <spName>C7</spName>
-          <spOriginalName>C7</spOriginalName>
-          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
-            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
-              <int>2</int>
-              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="C7" spOriginalName="C7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
               <null/>
-            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+            </ChordRenderingInfoSP>
           </spRenderingInfo>
         </spChord>
-        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
-          <spVERSION>1</spVERSION>
-          <spPos>[19:2]</spPos>
-        </spPos>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[19:2]"/>
         <spClientProperties>
-          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
         </spClientProperties>
-      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
-      <org.jjazz.chordleadsheet.item.CLI__SectionImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_SectionImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spName>B</spName>
-        <spTs>FOUR_FOUR</spTs>
-        <spBarIndex>20</spBarIndex>
+      </CLI__ChordSymbolImpl>
+      <CLI__SectionImpl resolves-to="CLI_SectionImplSP" spName="B" spTs="FOUR_FOUR" spBarIndex="20">
+        <spVERSION>4</spVERSION>
         <spClientProperties>
-          <properties>
-            <entry>
-              <string>PropSectionQuantization</string>
-              <string>ONE_THIRD_BEAT</string>
-            </entry>
-          </properties>
-          <owner class="org.jjazz.chordleadsheet.item.CLI_SectionImpl" reference="../.."/>
+          <owner class="CLI_SectionImpl" reference="../.."/>
         </spClientProperties>
-      </org.jjazz.chordleadsheet.item.CLI__SectionImpl>
-      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
-          <spVERSION>2</spVERSION>
-          <spName>Fm7</spName>
-          <spOriginalName>Fm7</spOriginalName>
-          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
-            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
-              <int>2</int>
-              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+      </CLI__SectionImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="Fm7" spOriginalName="Fm7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
               <null/>
-            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+            </ChordRenderingInfoSP>
           </spRenderingInfo>
         </spChord>
-        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
-          <spVERSION>1</spVERSION>
-          <spPos>[20:0]</spPos>
-        </spPos>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[20:0]"/>
         <spClientProperties>
-          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
         </spClientProperties>
-      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
-      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
-          <spVERSION>2</spVERSION>
-          <spName>Bbm7</spName>
-          <spOriginalName>Bbm7</spOriginalName>
-          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
-            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
-              <int>2</int>
-              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="Bbm7" spOriginalName="Bbm7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
               <null/>
-            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+            </ChordRenderingInfoSP>
           </spRenderingInfo>
         </spChord>
-        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
-          <spVERSION>1</spVERSION>
-          <spPos>[21:0]</spPos>
-        </spPos>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[21:0]"/>
         <spClientProperties>
-          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
         </spClientProperties>
-      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
-      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
-          <spVERSION>2</spVERSION>
-          <spName>Eb7</spName>
-          <spOriginalName>Eb7</spOriginalName>
-          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
-            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
-              <int>2</int>
-              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="Eb7" spOriginalName="Eb7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
               <null/>
-            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+            </ChordRenderingInfoSP>
           </spRenderingInfo>
         </spChord>
-        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
-          <spVERSION>1</spVERSION>
-          <spPos>[22:0]</spPos>
-        </spPos>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[22:0]"/>
         <spClientProperties>
-          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
         </spClientProperties>
-      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
-      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
-          <spVERSION>2</spVERSION>
-          <spName>AbM7</spName>
-          <spOriginalName>AbM7</spOriginalName>
-          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
-            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
-              <int>2</int>
-              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="AbM7" spOriginalName="AbM7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
               <null/>
-            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+            </ChordRenderingInfoSP>
           </spRenderingInfo>
         </spChord>
-        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
-          <spVERSION>1</spVERSION>
-          <spPos>[23:0]</spPos>
-        </spPos>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[23:0]"/>
         <spClientProperties>
-          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
         </spClientProperties>
-      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
-      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
-          <spVERSION>2</spVERSION>
-          <spName>Ab7</spName>
-          <spOriginalName>Ab7</spOriginalName>
-          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
-            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
-              <int>2</int>
-              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="Ab7" spOriginalName="Ab7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
               <null/>
-            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+            </ChordRenderingInfoSP>
           </spRenderingInfo>
         </spChord>
-        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
-          <spVERSION>1</spVERSION>
-          <spPos>[23:2]</spPos>
-        </spPos>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[23:2]"/>
         <spClientProperties>
-          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
         </spClientProperties>
-      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
-      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
-          <spVERSION>2</spVERSION>
-          <spName>DbM7</spName>
-          <spOriginalName>DbM7</spOriginalName>
-          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
-            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
-              <int>2</int>
-              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="DbM7" spOriginalName="DbM7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
               <null/>
-            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+            </ChordRenderingInfoSP>
           </spRenderingInfo>
         </spChord>
-        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
-          <spVERSION>1</spVERSION>
-          <spPos>[24:0]</spPos>
-        </spPos>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[24:0]"/>
         <spClientProperties>
-          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
         </spClientProperties>
-      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
-      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
-          <spVERSION>2</spVERSION>
-          <spName>Gm7b5</spName>
-          <spOriginalName>Gm7b5</spOriginalName>
-          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
-            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
-              <int>2</int>
-              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="Gm7b5" spOriginalName="Gm7b5">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
               <null/>
-            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+            </ChordRenderingInfoSP>
           </spRenderingInfo>
         </spChord>
-        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
-          <spVERSION>1</spVERSION>
-          <spPos>[25:0]</spPos>
-        </spPos>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[25:0]"/>
         <spClientProperties>
-          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
         </spClientProperties>
-      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
-      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
-          <spVERSION>2</spVERSION>
-          <spName>C7b9</spName>
-          <spOriginalName>C7b9</spOriginalName>
-          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
-            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
-              <int>2</int>
-              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="C7b9" spOriginalName="C7b9">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
               <null/>
-            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+            </ChordRenderingInfoSP>
           </spRenderingInfo>
         </spChord>
-        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
-          <spVERSION>1</spVERSION>
-          <spPos>[26:0]</spPos>
-        </spPos>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[26:0]"/>
         <spClientProperties>
-          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
         </spClientProperties>
-      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
-      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
-          <spVERSION>2</spVERSION>
-          <spName>Fm7</spName>
-          <spOriginalName>Fm7</spOriginalName>
-          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
-            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
-              <int>2</int>
-              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="Fm7" spOriginalName="Fm7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
               <null/>
-            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+            </ChordRenderingInfoSP>
           </spRenderingInfo>
         </spChord>
-        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
-          <spVERSION>1</spVERSION>
-          <spPos>[27:0]</spPos>
-        </spPos>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[27:0]"/>
         <spClientProperties>
-          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
         </spClientProperties>
-      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
-      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
-          <spVERSION>2</spVERSION>
-          <spName>F7</spName>
-          <spOriginalName>F7</spOriginalName>
-          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
-            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
-              <int>2</int>
-              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="F7" spOriginalName="F7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
               <null/>
-            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+            </ChordRenderingInfoSP>
           </spRenderingInfo>
         </spChord>
-        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
-          <spVERSION>1</spVERSION>
-          <spPos>[27:2]</spPos>
-        </spPos>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[27:2]"/>
         <spClientProperties>
-          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
         </spClientProperties>
-      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
-      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
-          <spVERSION>2</spVERSION>
-          <spName>Bbm7</spName>
-          <spOriginalName>Bbm7</spOriginalName>
-          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
-            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
-              <int>2</int>
-              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="Bbm7" spOriginalName="Bbm7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
               <null/>
-            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+            </ChordRenderingInfoSP>
           </spRenderingInfo>
         </spChord>
-        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
-          <spVERSION>1</spVERSION>
-          <spPos>[28:0]</spPos>
-        </spPos>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[28:0]"/>
         <spClientProperties>
-          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
         </spClientProperties>
-      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
-      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
-          <spVERSION>2</spVERSION>
-          <spName>Eb7</spName>
-          <spOriginalName>Eb7</spOriginalName>
-          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
-            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
-              <int>2</int>
-              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="Eb7" spOriginalName="Eb7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
               <null/>
-            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+            </ChordRenderingInfoSP>
           </spRenderingInfo>
         </spChord>
-        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
-          <spVERSION>1</spVERSION>
-          <spPos>[29:0]</spPos>
-        </spPos>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[29:0]"/>
         <spClientProperties>
-          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
         </spClientProperties>
-      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
-      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
-          <spVERSION>2</spVERSION>
-          <spName>Cm7</spName>
-          <spOriginalName>Cm7</spOriginalName>
-          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
-            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
-              <int>2</int>
-              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="Cm7" spOriginalName="Cm7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
               <null/>
-            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+            </ChordRenderingInfoSP>
           </spRenderingInfo>
         </spChord>
-        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
-          <spVERSION>1</spVERSION>
-          <spPos>[30:0]</spPos>
-        </spPos>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[30:0]"/>
         <spClientProperties>
-          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
         </spClientProperties>
-      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
-      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
-          <spVERSION>2</spVERSION>
-          <spName>F7</spName>
-          <spOriginalName>F7</spOriginalName>
-          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
-            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
-              <int>2</int>
-              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="F7" spOriginalName="F7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
               <null/>
-            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+            </ChordRenderingInfoSP>
           </spRenderingInfo>
         </spChord>
-        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
-          <spVERSION>1</spVERSION>
-          <spPos>[31:0]</spPos>
-        </spPos>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[31:0]"/>
         <spClientProperties>
-          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
         </spClientProperties>
-      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
-      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
-          <spVERSION>2</spVERSION>
-          <spName>Bbm7</spName>
-          <spOriginalName>Bbm7</spOriginalName>
-          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
-            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
-              <int>2</int>
-              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="Bbm7" spOriginalName="Bbm7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
               <null/>
-            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+            </ChordRenderingInfoSP>
           </spRenderingInfo>
         </spChord>
-        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
-          <spVERSION>1</spVERSION>
-          <spPos>[32:0]</spPos>
-        </spPos>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[32:0]"/>
         <spClientProperties>
-          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
         </spClientProperties>
-      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
-      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
-          <spVERSION>2</spVERSION>
-          <spName>Eb7</spName>
-          <spOriginalName>Eb7</spOriginalName>
-          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
-            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
-              <int>2</int>
-              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="Eb7" spOriginalName="Eb7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
               <null/>
-            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+            </ChordRenderingInfoSP>
           </spRenderingInfo>
         </spChord>
-        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
-          <spVERSION>1</spVERSION>
-          <spPos>[33:0]</spPos>
-        </spPos>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[33:0]"/>
         <spClientProperties>
-          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
         </spClientProperties>
-      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
-      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
-          <spVERSION>2</spVERSION>
-          <spName>Ab6</spName>
-          <spOriginalName>Ab6</spOriginalName>
-          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
-            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
-              <int>2</int>
-              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="Ab6" spOriginalName="Ab6">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
               <null/>
-            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+            </ChordRenderingInfoSP>
           </spRenderingInfo>
         </spChord>
-        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
-          <spVERSION>1</spVERSION>
-          <spPos>[34:0]</spPos>
-        </spPos>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[34:0]"/>
         <spClientProperties>
-          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
         </spClientProperties>
-      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
-      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
-          <spVERSION>2</spVERSION>
-          <spName>Gm7b5</spName>
-          <spOriginalName>Gm7b5</spOriginalName>
-          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
-            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
-              <int>2</int>
-              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="Gm7b5" spOriginalName="Gm7b5">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
               <null/>
-            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+            </ChordRenderingInfoSP>
           </spRenderingInfo>
         </spChord>
-        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
-          <spVERSION>1</spVERSION>
-          <spPos>[35:0]</spPos>
-        </spPos>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[35:0]"/>
         <spClientProperties>
-          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
         </spClientProperties>
-      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
-      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
-          <spVERSION>2</spVERSION>
-          <spName>C7b9</spName>
-          <spOriginalName>C7b9</spOriginalName>
-          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
-            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
-              <int>2</int>
-              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="C7b9" spOriginalName="C7b9">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
               <null/>
-            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+            </ChordRenderingInfoSP>
           </spRenderingInfo>
         </spChord>
-        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
-          <spVERSION>1</spVERSION>
-          <spPos>[35:2]</spPos>
-        </spPos>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[35:2]"/>
         <spClientProperties>
-          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
         </spClientProperties>
-      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
-      <org.jjazz.chordleadsheet.item.CLI__SectionImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_SectionImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spName>Last B</spName>
-        <spTs>FOUR_FOUR</spTs>
-        <spBarIndex>36</spBarIndex>
+      </CLI__ChordSymbolImpl>
+      <CLI__SectionImpl resolves-to="CLI_SectionImplSP" spName="Last B" spTs="FOUR_FOUR" spBarIndex="36">
+        <spVERSION>4</spVERSION>
         <spClientProperties>
-          <properties>
-            <entry>
-              <string>PropSectionQuantization</string>
-              <string>ONE_THIRD_BEAT</string>
-            </entry>
-          </properties>
-          <owner class="org.jjazz.chordleadsheet.item.CLI_SectionImpl" reference="../.."/>
+          <owner class="CLI_SectionImpl" reference="../.."/>
         </spClientProperties>
-      </org.jjazz.chordleadsheet.item.CLI__SectionImpl>
-      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
-          <spVERSION>2</spVERSION>
-          <spName>Fm7</spName>
-          <spOriginalName>Fm7</spOriginalName>
-          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
-            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
-              <int>2</int>
-              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+      </CLI__SectionImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="Fm7" spOriginalName="Fm7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
               <null/>
-            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+            </ChordRenderingInfoSP>
           </spRenderingInfo>
         </spChord>
-        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
-          <spVERSION>1</spVERSION>
-          <spPos>[36:0]</spPos>
-        </spPos>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[36:0]"/>
         <spClientProperties>
-          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
         </spClientProperties>
-      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
-      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
-          <spVERSION>2</spVERSION>
-          <spName>Bbm7</spName>
-          <spOriginalName>Bbm7</spOriginalName>
-          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
-            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
-              <int>2</int>
-              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="Bbm7" spOriginalName="Bbm7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
               <null/>
-            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+            </ChordRenderingInfoSP>
           </spRenderingInfo>
         </spChord>
-        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
-          <spVERSION>1</spVERSION>
-          <spPos>[37:0]</spPos>
-        </spPos>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[37:0]"/>
         <spClientProperties>
-          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
         </spClientProperties>
-      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
-      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
-          <spVERSION>2</spVERSION>
-          <spName>Eb7</spName>
-          <spOriginalName>Eb7</spOriginalName>
-          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
-            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
-              <int>2</int>
-              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="Eb7" spOriginalName="Eb7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
               <null/>
-            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+            </ChordRenderingInfoSP>
           </spRenderingInfo>
         </spChord>
-        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
-          <spVERSION>1</spVERSION>
-          <spPos>[38:0]</spPos>
-        </spPos>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[38:0]"/>
         <spClientProperties>
-          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
         </spClientProperties>
-      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
-      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
-          <spVERSION>2</spVERSION>
-          <spName>AbM7</spName>
-          <spOriginalName>AbM7</spOriginalName>
-          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
-            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
-              <int>2</int>
-              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="AbM7" spOriginalName="AbM7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
               <null/>
-            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+            </ChordRenderingInfoSP>
           </spRenderingInfo>
         </spChord>
-        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
-          <spVERSION>1</spVERSION>
-          <spPos>[39:0]</spPos>
-        </spPos>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[39:0]"/>
         <spClientProperties>
-          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
         </spClientProperties>
-      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
-      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
-          <spVERSION>2</spVERSION>
-          <spName>Ab7</spName>
-          <spOriginalName>Ab7</spOriginalName>
-          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
-            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
-              <int>2</int>
-              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="Ab7" spOriginalName="Ab7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
               <null/>
-            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+            </ChordRenderingInfoSP>
           </spRenderingInfo>
         </spChord>
-        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
-          <spVERSION>1</spVERSION>
-          <spPos>[39:2]</spPos>
-        </spPos>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[39:2]"/>
         <spClientProperties>
-          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
         </spClientProperties>
-      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
-      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
-          <spVERSION>2</spVERSION>
-          <spName>DbM7</spName>
-          <spOriginalName>DbM7</spOriginalName>
-          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
-            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
-              <int>2</int>
-              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="DbM7" spOriginalName="DbM7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
               <null/>
-            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+            </ChordRenderingInfoSP>
           </spRenderingInfo>
         </spChord>
-        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
-          <spVERSION>1</spVERSION>
-          <spPos>[40:0]</spPos>
-        </spPos>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[40:0]"/>
         <spClientProperties>
-          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
         </spClientProperties>
-      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
-      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
-          <spVERSION>2</spVERSION>
-          <spName>Gm7b5</spName>
-          <spOriginalName>Gm7b5</spOriginalName>
-          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
-            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
-              <int>2</int>
-              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="Gm7b5" spOriginalName="Gm7b5">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
               <null/>
-            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+            </ChordRenderingInfoSP>
           </spRenderingInfo>
         </spChord>
-        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
-          <spVERSION>1</spVERSION>
-          <spPos>[41:0]</spPos>
-        </spPos>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[41:0]"/>
         <spClientProperties>
-          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
         </spClientProperties>
-      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
-      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
-          <spVERSION>2</spVERSION>
-          <spName>C7b9</spName>
-          <spOriginalName>C7b9</spOriginalName>
-          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
-            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
-              <int>2</int>
-              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="C7b9" spOriginalName="C7b9">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
               <null/>
-            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+            </ChordRenderingInfoSP>
           </spRenderingInfo>
         </spChord>
-        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
-          <spVERSION>1</spVERSION>
-          <spPos>[42:0]</spPos>
-        </spPos>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[42:0]"/>
         <spClientProperties>
-          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
         </spClientProperties>
-      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
-      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
-          <spVERSION>2</spVERSION>
-          <spName>Fm7</spName>
-          <spOriginalName>Fm7</spOriginalName>
-          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
-            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
-              <int>2</int>
-              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="Fm7" spOriginalName="Fm7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
               <null/>
-            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+            </ChordRenderingInfoSP>
           </spRenderingInfo>
         </spChord>
-        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
-          <spVERSION>1</spVERSION>
-          <spPos>[43:0]</spPos>
-        </spPos>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[43:0]"/>
         <spClientProperties>
-          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
         </spClientProperties>
-      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
-      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
-          <spVERSION>2</spVERSION>
-          <spName>F7</spName>
-          <spOriginalName>F7</spOriginalName>
-          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
-            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
-              <int>2</int>
-              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="F7" spOriginalName="F7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
               <null/>
-            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+            </ChordRenderingInfoSP>
           </spRenderingInfo>
         </spChord>
-        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
-          <spVERSION>1</spVERSION>
-          <spPos>[43:2]</spPos>
-        </spPos>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[43:2]"/>
         <spClientProperties>
-          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
         </spClientProperties>
-      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
-      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
-          <spVERSION>2</spVERSION>
-          <spName>Bbm7</spName>
-          <spOriginalName>Bbm7</spOriginalName>
-          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
-            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
-              <int>2</int>
-              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="Bbm7" spOriginalName="Bbm7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
               <null/>
-            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+            </ChordRenderingInfoSP>
           </spRenderingInfo>
         </spChord>
-        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
-          <spVERSION>1</spVERSION>
-          <spPos>[44:0]</spPos>
-        </spPos>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[44:0]"/>
         <spClientProperties>
-          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
         </spClientProperties>
-      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
-      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
-          <spVERSION>2</spVERSION>
-          <spName>Eb7</spName>
-          <spOriginalName>Eb7</spOriginalName>
-          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
-            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
-              <int>2</int>
-              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="Eb7" spOriginalName="Eb7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
               <null/>
-            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+            </ChordRenderingInfoSP>
           </spRenderingInfo>
         </spChord>
-        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
-          <spVERSION>1</spVERSION>
-          <spPos>[45:0]</spPos>
-        </spPos>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[45:0]"/>
         <spClientProperties>
-          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
         </spClientProperties>
-      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
-      <org.jjazz.chordleadsheet.item.CLI__SectionImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_SectionImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spName>Coda</spName>
-        <spTs>FOUR_FOUR</spTs>
-        <spBarIndex>46</spBarIndex>
+      </CLI__ChordSymbolImpl>
+      <CLI__SectionImpl resolves-to="CLI_SectionImplSP" spName="Coda" spTs="FOUR_FOUR" spBarIndex="46">
+        <spVERSION>4</spVERSION>
         <spClientProperties>
-          <properties>
-            <entry>
-              <string>PropSectionQuantization</string>
-              <string>ONE_THIRD_BEAT</string>
-            </entry>
-          </properties>
-          <owner class="org.jjazz.chordleadsheet.item.CLI_SectionImpl" reference="../.."/>
+          <owner class="CLI_SectionImpl" reference="../.."/>
         </spClientProperties>
-      </org.jjazz.chordleadsheet.item.CLI__SectionImpl>
-      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
-          <spVERSION>2</spVERSION>
-          <spName>Cm7</spName>
-          <spOriginalName>Cm7</spOriginalName>
-          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
-            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
-              <int>2</int>
-              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+      </CLI__SectionImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="Cm7" spOriginalName="Cm7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
               <null/>
-            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+            </ChordRenderingInfoSP>
           </spRenderingInfo>
         </spChord>
-        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
-          <spVERSION>1</spVERSION>
-          <spPos>[46:0]</spPos>
-        </spPos>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[46:0]"/>
         <spClientProperties>
-          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
         </spClientProperties>
-      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
-      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
-          <spVERSION>2</spVERSION>
-          <spName>F7</spName>
-          <spOriginalName>F7</spOriginalName>
-          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
-            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
-              <int>2</int>
-              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="F7" spOriginalName="F7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
               <null/>
-            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+            </ChordRenderingInfoSP>
           </spRenderingInfo>
         </spChord>
-        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
-          <spVERSION>1</spVERSION>
-          <spPos>[47:0]</spPos>
-        </spPos>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[47:0]"/>
         <spClientProperties>
-          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
         </spClientProperties>
-      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
-      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
-          <spVERSION>2</spVERSION>
-          <spName>Bbm7</spName>
-          <spOriginalName>Bbm7</spOriginalName>
-          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
-            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
-              <int>2</int>
-              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="Bbm7" spOriginalName="Bbm7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
               <null/>
-            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+            </ChordRenderingInfoSP>
           </spRenderingInfo>
         </spChord>
-        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
-          <spVERSION>1</spVERSION>
-          <spPos>[48:0]</spPos>
-        </spPos>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[48:0]"/>
         <spClientProperties>
-          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
         </spClientProperties>
-      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
-      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
-          <spVERSION>2</spVERSION>
-          <spName>Eb7</spName>
-          <spOriginalName>Eb7</spOriginalName>
-          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
-            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
-              <int>2</int>
-              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="Eb7" spOriginalName="Eb7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
               <null/>
-            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+            </ChordRenderingInfoSP>
           </spRenderingInfo>
         </spChord>
-        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
-          <spVERSION>1</spVERSION>
-          <spPos>[49:0]</spPos>
-        </spPos>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[49:0]"/>
         <spClientProperties>
-          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
         </spClientProperties>
-      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
-      <org.jjazz.chordleadsheet.item.CLI__SectionImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_SectionImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spName>Ending</spName>
-        <spTs>FOUR_FOUR</spTs>
-        <spBarIndex>50</spBarIndex>
+      </CLI__ChordSymbolImpl>
+      <CLI__SectionImpl resolves-to="CLI_SectionImplSP" spName="Ending" spTs="FOUR_FOUR" spBarIndex="50">
+        <spVERSION>4</spVERSION>
         <spClientProperties>
-          <properties>
-            <entry>
-              <string>PropSectionQuantization</string>
-              <string>ONE_THIRD_BEAT</string>
-            </entry>
-          </properties>
-          <owner class="org.jjazz.chordleadsheet.item.CLI_SectionImpl" reference="../.."/>
+          <owner class="CLI_SectionImpl" reference="../.."/>
         </spClientProperties>
-      </org.jjazz.chordleadsheet.item.CLI__SectionImpl>
-      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
-          <spVERSION>2</spVERSION>
-          <spName>Ab6</spName>
-          <spOriginalName>Ab6</spOriginalName>
-          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
-            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
-              <int>2</int>
-              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+      </CLI__SectionImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="Ab6" spOriginalName="Ab6">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
               <null/>
-            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+            </ChordRenderingInfoSP>
           </spRenderingInfo>
         </spChord>
-        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
-          <spVERSION>1</spVERSION>
-          <spPos>[50:0]</spPos>
-        </spPos>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[50:0]"/>
         <spClientProperties>
-          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
         </spClientProperties>
-      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
-      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
-          <spVERSION>2</spVERSION>
-          <spName>Gb</spName>
-          <spOriginalName>Gb</spOriginalName>
-          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
-            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
-              <int>2</int>
-              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="Gb" spOriginalName="Gb">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
               <null/>
-            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+            </ChordRenderingInfoSP>
           </spRenderingInfo>
         </spChord>
-        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
-          <spVERSION>1</spVERSION>
-          <spPos>[50:2]</spPos>
-        </spPos>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[50:2]"/>
         <spClientProperties>
-          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
         </spClientProperties>
-      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
-      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
-          <spVERSION>2</spVERSION>
-          <spName>G</spName>
-          <spOriginalName>G</spOriginalName>
-          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
-            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
-              <int>2</int>
-              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature"></enum-set>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="G" spOriginalName="G">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
               <null/>
-            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+            </ChordRenderingInfoSP>
           </spRenderingInfo>
         </spChord>
-        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
-          <spVERSION>1</spVERSION>
-          <spPos>[50:3]</spPos>
-        </spPos>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[50:3]"/>
         <spClientProperties>
-          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
         </spClientProperties>
-      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
-      <org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl resolves-to="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spChord resolves-to="org.jjazz.chordleadsheet.api.item.ExtChordSymbol$SerializationProxy">
-          <spVERSION>2</spVERSION>
-          <spName>Ab6</spName>
-          <spOriginalName>Ab6</spOriginalName>
-          <spRenderingInfo resolves-to="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$SerializationProxy" serialization="custom">
-            <org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
-              <int>2</int>
-              <enum-set enum-type="org.jjazz.chordleadsheet.api.item.ChordRenderingInfo$Feature">ACCENT,HOLD</enum-set>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="Ab6" spOriginalName="Ab6">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature">ACCENT,HOLD</enum-set>
               <null/>
-            </org.jjazz.chordleadsheet.api.item.ChordRenderingInfo_-SerializationProxy>
+            </ChordRenderingInfoSP>
           </spRenderingInfo>
         </spChord>
-        <spPos resolves-to="org.jjazz.chordleadsheet.api.item.Position$SerializationProxy">
-          <spVERSION>1</spVERSION>
-          <spPos>[51:0]</spPos>
-        </spPos>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[51:0]"/>
         <spClientProperties>
-          <owner class="org.jjazz.chordleadsheet.item.CLI_ChordSymbolImpl" reference="../.."/>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
         </spClientProperties>
-      </org.jjazz.chordleadsheet.item.CLI__ChordSymbolImpl>
+      </CLI__ChordSymbolImpl>
     </spItems>
     <spSize>52</spSize>
   </spChordLeadSheet>
-  <spSongStructure class="org.jjazz.songstructure.SongStructureImpl" resolves-to="org.jjazz.songstructure.SongStructureImpl$SerializationProxy">
-    <spVERSION>1</spVERSION>
+  <spSongStructure class="SongStructureImpl" resolves-to="SongStructureImplSP">
+    <spVERSION>3</spVERSION>
     <spSpts>
-      <org.jjazz.songstructure.SongPartImpl resolves-to="org.jjazz.songstructure.SongPartImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spRhythmId>MediumJazz.S737.sst-ID</spRhythmId>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="MediumJazz.S737.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="0" spName="Intro" spNbBars="4">
+        <spVERSION>3</spVERSION>
         <spRhythmName>MediumJazz.S737.sst</spRhythmName>
-        <spRhythmTs>FOUR_FOUR</spRhythmTs>
-        <spStartBarIndex>0</spStartBarIndex>
-        <spName>Intro</spName>
-        <spNbBars>4</spNbBars>
-        <spParentSection class="org.jjazz.chordleadsheet.item.CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/org.jjazz.chordleadsheet.item.CLI__SectionImpl"/>
-        <spMapRpIdValue>
-          <VERSION>1</VERSION>
-          <keys>
-            <string>rpVariationID</string>
-            <string>rpIntensityID</string>
-            <string>RpFillID</string>
-            <string>RpSysMuteID</string>
-            <string>rpSysMarkerID</string>
-            <string>rpTempoID</string>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry>
             <string>RP_SYS_DrumsTransformId</string>
-            <string>RP_SYS_CustomPhraseId</string>
-          </keys>
-          <values>
+            <string>[DrumsMixIdhidden#BASS=-37,CRASH=-34,PERCUSSION=-36,TOM=-36,SNARE=-41]</string>
+          </entry>
+          <entry>
+            <string>rpVariationID</string>
             <string>Intro B-1</string>
+          </entry>
+          <entry>
+            <string>rpIntensityID</string>
             <string>0</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_CustomPhraseId</string>
             <string></string>
+          </entry>
+          <entry>
+            <string>RpSysMuteID</string>
             <string>[Phrase1]</string>
+          </entry>
+          <entry>
+            <string>rpSysMarkerID</string>
             <string>theme</string>
-            <string>100</string>
-            <string>[DrumsMixIdhidden#BASS=-37,CRASH=-34,PERCUSSION=-36,TOM=-36,SNARE=-41]</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
             <string></string>
-          </values>
-        </spMapRpIdValue>
-        <spMapRpIdDisplayName>
-          <VERSION>1</VERSION>
-          <keys>
-            <string>rpVariationID</string>
-            <string>rpIntensityID</string>
+          </entry>
+          <entry>
             <string>RpFillID</string>
-            <string>RpSysMuteID</string>
-            <string>rpSysMarkerID</string>
+            <string></string>
+          </entry>
+          <entry>
             <string>rpTempoID</string>
-            <string>RP_SYS_DrumsTransformId</string>
-            <string>RP_SYS_CustomPhraseId</string>
-          </keys>
-          <values>
-            <string>Variation</string>
-            <string>Intensity</string>
-            <string>Fill</string>
-            <string>Mute</string>
-            <string>Marker</string>
-            <string>Tempo %</string>
-            <string>Drums transform</string>
-            <string>Custom phrase</string>
-          </values>
-        </spMapRpIdDisplayName>
-        <spMapRpIdPercentageValue>
-          <VERSION>1</VERSION>
-          <keys>
-            <string>rpVariationID</string>
-            <string>rpIntensityID</string>
-            <string>RpFillID</string>
-            <string>RpSysMuteID</string>
-            <string>rpSysMarkerID</string>
-            <string>rpTempoID</string>
-            <string>RP_SYS_DrumsTransformId</string>
-            <string>RP_SYS_CustomPhraseId</string>
-          </keys>
-          <values>
-            <double>0.07142857142857142</double>
-            <double>0.5</double>
-            <double>0.0</double>
-            <double>4.0E-4</double>
-            <double>0.0</double>
-            <double>0.3333333333333333</double>
-            <double>-1.0</double>
-            <double>-1.0</double>
-          </values>
-        </spMapRpIdPercentageValue>
-        <spClientProperties>
-          <owner class="org.jjazz.songstructure.SongPartImpl" reference="../.."/>
-        </spClientProperties>
-      </org.jjazz.songstructure.SongPartImpl>
-      <org.jjazz.songstructure.SongPartImpl resolves-to="org.jjazz.songstructure.SongPartImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spRhythmId>MediumJazz.S737.sst-ID</spRhythmId>
+            <string>100</string>
+          </entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="MediumJazz.S737.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="4" spName="Chorus 1" spNbBars="16">
+        <spVERSION>3</spVERSION>
         <spRhythmName>MediumJazz.S737.sst</spRhythmName>
-        <spRhythmTs>FOUR_FOUR</spRhythmTs>
-        <spStartBarIndex>4</spStartBarIndex>
-        <spName>Chorus 1</spName>
-        <spNbBars>16</spNbBars>
-        <spParentSection class="org.jjazz.chordleadsheet.item.CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/org.jjazz.chordleadsheet.item.CLI__SectionImpl[2]"/>
-        <spMapRpIdValue>
-          <VERSION>1</VERSION>
-          <keys>
-            <string>rpVariationID</string>
-            <string>rpIntensityID</string>
-            <string>RpFillID</string>
-            <string>RpSysMuteID</string>
-            <string>rpSysMarkerID</string>
-            <string>rpTempoID</string>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[2]"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry>
             <string>RP_SYS_DrumsTransformId</string>
-            <string>RP_SYS_CustomPhraseId</string>
-          </keys>
-          <values>
+            <string>[DrumsMixIdhidden#BASS=-37,CRASH=-34,PERCUSSION=-36,TOM=-36,SNARE=-41]</string>
+          </entry>
+          <entry>
+            <string>rpVariationID</string>
             <string>Main A-1</string>
+          </entry>
+          <entry>
+            <string>rpIntensityID</string>
             <string>0</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_CustomPhraseId</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpSysMuteID</string>
+            <string>[]</string>
+          </entry>
+          <entry>
+            <string>rpSysMarkerID</string>
+            <string>theme</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpFillID</string>
             <string>always</string>
-            <string>[]</string>
-            <string>theme</string>
+          </entry>
+          <entry>
+            <string>rpTempoID</string>
             <string>100</string>
-            <string>[DrumsMixIdhidden#BASS=-37,CRASH=-34,PERCUSSION=-36,TOM=-36,SNARE=-41]</string>
-            <string></string>
-          </values>
-        </spMapRpIdValue>
-        <spMapRpIdDisplayName>
-          <VERSION>1</VERSION>
-          <keys>
-            <string>rpVariationID</string>
-            <string>rpIntensityID</string>
-            <string>RpFillID</string>
-            <string>RpSysMuteID</string>
-            <string>rpSysMarkerID</string>
-            <string>rpTempoID</string>
-            <string>RP_SYS_DrumsTransformId</string>
-            <string>RP_SYS_CustomPhraseId</string>
-          </keys>
-          <values>
-            <string>Variation</string>
-            <string>Intensity</string>
-            <string>Fill</string>
-            <string>Mute</string>
-            <string>Marker</string>
-            <string>Tempo %</string>
-            <string>Drums transform</string>
-            <string>Custom phrase</string>
-          </values>
-        </spMapRpIdDisplayName>
-        <spMapRpIdPercentageValue>
-          <VERSION>1</VERSION>
-          <keys>
-            <string>rpVariationID</string>
-            <string>rpIntensityID</string>
-            <string>RpFillID</string>
-            <string>RpSysMuteID</string>
-            <string>rpSysMarkerID</string>
-            <string>rpTempoID</string>
-            <string>RP_SYS_DrumsTransformId</string>
-            <string>RP_SYS_CustomPhraseId</string>
-          </keys>
-          <values>
-            <double>0.21428571428571427</double>
-            <double>0.5</double>
-            <double>0.25</double>
-            <double>0.0</double>
-            <double>0.0</double>
-            <double>0.3333333333333333</double>
-            <double>-1.0</double>
-            <double>-1.0</double>
-          </values>
-        </spMapRpIdPercentageValue>
-        <spClientProperties>
-          <owner class="org.jjazz.songstructure.SongPartImpl" reference="../.."/>
-        </spClientProperties>
-      </org.jjazz.songstructure.SongPartImpl>
-      <org.jjazz.songstructure.SongPartImpl resolves-to="org.jjazz.songstructure.SongPartImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spRhythmId>MediumJazz.S737.sst-ID</spRhythmId>
+          </entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="MediumJazz.S737.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="20" spName="Chorus 1" spNbBars="16">
+        <spVERSION>3</spVERSION>
         <spRhythmName>MediumJazz.S737.sst</spRhythmName>
-        <spRhythmTs>FOUR_FOUR</spRhythmTs>
-        <spStartBarIndex>20</spStartBarIndex>
-        <spName>Chorus 1</spName>
-        <spNbBars>16</spNbBars>
-        <spParentSection class="org.jjazz.chordleadsheet.item.CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/org.jjazz.chordleadsheet.item.CLI__SectionImpl[3]"/>
-        <spMapRpIdValue>
-          <VERSION>1</VERSION>
-          <keys>
-            <string>rpVariationID</string>
-            <string>rpIntensityID</string>
-            <string>RpFillID</string>
-            <string>RpSysMuteID</string>
-            <string>rpSysMarkerID</string>
-            <string>rpTempoID</string>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[3]"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry>
             <string>RP_SYS_DrumsTransformId</string>
-            <string>RP_SYS_CustomPhraseId</string>
-          </keys>
-          <values>
+            <string>[DrumsMixIdhidden#BASS=-37,CRASH=-34,PERCUSSION=-36,TOM=-36,SNARE=-41]</string>
+          </entry>
+          <entry>
+            <string>rpVariationID</string>
             <string>Main C-1</string>
+          </entry>
+          <entry>
+            <string>rpIntensityID</string>
             <string>0</string>
-            <string>break</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_CustomPhraseId</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpSysMuteID</string>
             <string>[]</string>
+          </entry>
+          <entry>
+            <string>rpSysMarkerID</string>
             <string>theme</string>
-            <string>100</string>
-            <string>[DrumsMixIdhidden#BASS=-37,CRASH=-34,PERCUSSION=-36,TOM=-36,SNARE=-41]</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
             <string></string>
-          </values>
-        </spMapRpIdValue>
-        <spMapRpIdDisplayName>
-          <VERSION>1</VERSION>
-          <keys>
-            <string>rpVariationID</string>
-            <string>rpIntensityID</string>
+          </entry>
+          <entry>
             <string>RpFillID</string>
-            <string>RpSysMuteID</string>
-            <string>rpSysMarkerID</string>
+            <string>break</string>
+          </entry>
+          <entry>
             <string>rpTempoID</string>
-            <string>RP_SYS_DrumsTransformId</string>
-            <string>RP_SYS_CustomPhraseId</string>
-          </keys>
-          <values>
-            <string>Variation</string>
-            <string>Intensity</string>
-            <string>Fill</string>
-            <string>Mute</string>
-            <string>Marker</string>
-            <string>Tempo %</string>
-            <string>Drums transform</string>
-            <string>Custom phrase</string>
-          </values>
-        </spMapRpIdDisplayName>
-        <spMapRpIdPercentageValue>
-          <VERSION>1</VERSION>
-          <keys>
-            <string>rpVariationID</string>
-            <string>rpIntensityID</string>
-            <string>RpFillID</string>
-            <string>RpSysMuteID</string>
-            <string>rpSysMarkerID</string>
-            <string>rpTempoID</string>
-            <string>RP_SYS_DrumsTransformId</string>
-            <string>RP_SYS_CustomPhraseId</string>
-          </keys>
-          <values>
-            <double>0.35714285714285715</double>
-            <double>0.5</double>
-            <double>1.0</double>
-            <double>0.0</double>
-            <double>0.0</double>
-            <double>0.3333333333333333</double>
-            <double>-1.0</double>
-            <double>-1.0</double>
-          </values>
-        </spMapRpIdPercentageValue>
-        <spClientProperties>
-          <owner class="org.jjazz.songstructure.SongPartImpl" reference="../.."/>
-        </spClientProperties>
-      </org.jjazz.songstructure.SongPartImpl>
-      <org.jjazz.songstructure.SongPartImpl resolves-to="org.jjazz.songstructure.SongPartImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spRhythmId>MediumJazz.S737.sst-ID</spRhythmId>
+            <string>100</string>
+          </entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="MediumJazz.S737.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="36" spName="Chorus 2" spNbBars="16">
+        <spVERSION>3</spVERSION>
         <spRhythmName>MediumJazz.S737.sst</spRhythmName>
-        <spRhythmTs>FOUR_FOUR</spRhythmTs>
-        <spStartBarIndex>36</spStartBarIndex>
-        <spName>Chorus 2</spName>
-        <spNbBars>16</spNbBars>
-        <spParentSection class="org.jjazz.chordleadsheet.item.CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/org.jjazz.chordleadsheet.item.CLI__SectionImpl[2]"/>
-        <spMapRpIdValue>
-          <VERSION>1</VERSION>
-          <keys>
-            <string>rpVariationID</string>
-            <string>rpIntensityID</string>
-            <string>RpFillID</string>
-            <string>RpSysMuteID</string>
-            <string>rpSysMarkerID</string>
-            <string>rpTempoID</string>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[2]"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry>
             <string>RP_SYS_DrumsTransformId</string>
-            <string>RP_SYS_CustomPhraseId</string>
-          </keys>
-          <values>
+            <string>[DrumsMixIdhidden#BASS=-37,CRASH=-34,PERCUSSION=-36,TOM=-36,SNARE=-41]</string>
+          </entry>
+          <entry>
+            <string>rpVariationID</string>
             <string>Main B-1</string>
+          </entry>
+          <entry>
+            <string>rpIntensityID</string>
             <string>1</string>
-            <string>random</string>
-            <string>[]</string>
-            <string>solo</string>
-            <string>100</string>
-            <string>[DrumsMixIdhidden#BASS=-37,CRASH=-34,PERCUSSION=-36,TOM=-36,SNARE=-41]</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_CustomPhraseId</string>
             <string></string>
-          </values>
-        </spMapRpIdValue>
-        <spMapRpIdDisplayName>
-          <VERSION>1</VERSION>
-          <keys>
-            <string>rpVariationID</string>
-            <string>rpIntensityID</string>
-            <string>RpFillID</string>
+          </entry>
+          <entry>
             <string>RpSysMuteID</string>
+            <string>[]</string>
+          </entry>
+          <entry>
             <string>rpSysMarkerID</string>
-            <string>rpTempoID</string>
-            <string>RP_SYS_DrumsTransformId</string>
-            <string>RP_SYS_CustomPhraseId</string>
-          </keys>
-          <values>
-            <string>Variation</string>
-            <string>Intensity</string>
-            <string>Fill</string>
-            <string>Mute</string>
-            <string>Marker</string>
-            <string>Tempo %</string>
-            <string>Drums transform</string>
-            <string>Custom phrase</string>
-          </values>
-        </spMapRpIdDisplayName>
-        <spMapRpIdPercentageValue>
-          <VERSION>1</VERSION>
-          <keys>
-            <string>rpVariationID</string>
-            <string>rpIntensityID</string>
+            <string>solo</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
             <string>RpFillID</string>
-            <string>RpSysMuteID</string>
-            <string>rpSysMarkerID</string>
+            <string>random</string>
+          </entry>
+          <entry>
             <string>rpTempoID</string>
-            <string>RP_SYS_DrumsTransformId</string>
-            <string>RP_SYS_CustomPhraseId</string>
-          </keys>
-          <values>
-            <double>0.2857142857142857</double>
-            <double>0.55</double>
-            <double>0.5</double>
-            <double>0.0</double>
-            <double>0.14285714285714285</double>
-            <double>0.3333333333333333</double>
-            <double>-1.0</double>
-            <double>-1.0</double>
-          </values>
-        </spMapRpIdPercentageValue>
-        <spClientProperties>
-          <owner class="org.jjazz.songstructure.SongPartImpl" reference="../.."/>
-        </spClientProperties>
-      </org.jjazz.songstructure.SongPartImpl>
-      <org.jjazz.songstructure.SongPartImpl resolves-to="org.jjazz.songstructure.SongPartImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spRhythmId>MediumJazz.S737.sst-ID</spRhythmId>
+            <string>100</string>
+          </entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="MediumJazz.S737.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="52" spName="Chorus 2" spNbBars="16">
+        <spVERSION>3</spVERSION>
         <spRhythmName>MediumJazz.S737.sst</spRhythmName>
-        <spRhythmTs>FOUR_FOUR</spRhythmTs>
-        <spStartBarIndex>52</spStartBarIndex>
-        <spName>Chorus 2</spName>
-        <spNbBars>16</spNbBars>
-        <spParentSection class="org.jjazz.chordleadsheet.item.CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/org.jjazz.chordleadsheet.item.CLI__SectionImpl[3]"/>
-        <spMapRpIdValue>
-          <VERSION>1</VERSION>
-          <keys>
-            <string>rpVariationID</string>
-            <string>rpIntensityID</string>
-            <string>RpFillID</string>
-            <string>RpSysMuteID</string>
-            <string>rpSysMarkerID</string>
-            <string>rpTempoID</string>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[3]"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry>
             <string>RP_SYS_DrumsTransformId</string>
-            <string>RP_SYS_CustomPhraseId</string>
-          </keys>
-          <values>
+            <string>[DrumsMixIdhidden#BASS=-37,CRASH=-34,PERCUSSION=-36,TOM=-36,SNARE=-41]</string>
+          </entry>
+          <entry>
+            <string>rpVariationID</string>
             <string>Main C-1</string>
+          </entry>
+          <entry>
+            <string>rpIntensityID</string>
             <string>2</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_CustomPhraseId</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpSysMuteID</string>
+            <string>[]</string>
+          </entry>
+          <entry>
+            <string>rpSysMarkerID</string>
+            <string>solo</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpFillID</string>
             <string>random_rare</string>
-            <string>[]</string>
-            <string>solo</string>
+          </entry>
+          <entry>
+            <string>rpTempoID</string>
             <string>100</string>
-            <string>[DrumsMixIdhidden#BASS=-37,CRASH=-34,PERCUSSION=-36,TOM=-36,SNARE=-41]</string>
-            <string></string>
-          </values>
-        </spMapRpIdValue>
-        <spMapRpIdDisplayName>
-          <VERSION>1</VERSION>
-          <keys>
-            <string>rpVariationID</string>
-            <string>rpIntensityID</string>
-            <string>RpFillID</string>
-            <string>RpSysMuteID</string>
-            <string>rpSysMarkerID</string>
-            <string>rpTempoID</string>
-            <string>RP_SYS_DrumsTransformId</string>
-            <string>RP_SYS_CustomPhraseId</string>
-          </keys>
-          <values>
-            <string>Variation</string>
-            <string>Intensity</string>
-            <string>Fill</string>
-            <string>Mute</string>
-            <string>Marker</string>
-            <string>Tempo %</string>
-            <string>Drums transform</string>
-            <string>Custom phrase</string>
-          </values>
-        </spMapRpIdDisplayName>
-        <spMapRpIdPercentageValue>
-          <VERSION>1</VERSION>
-          <keys>
-            <string>rpVariationID</string>
-            <string>rpIntensityID</string>
-            <string>RpFillID</string>
-            <string>RpSysMuteID</string>
-            <string>rpSysMarkerID</string>
-            <string>rpTempoID</string>
-            <string>RP_SYS_DrumsTransformId</string>
-            <string>RP_SYS_CustomPhraseId</string>
-          </keys>
-          <values>
-            <double>0.35714285714285715</double>
-            <double>0.6</double>
-            <double>0.75</double>
-            <double>0.0</double>
-            <double>0.14285714285714285</double>
-            <double>0.3333333333333333</double>
-            <double>-1.0</double>
-            <double>-1.0</double>
-          </values>
-        </spMapRpIdPercentageValue>
-        <spClientProperties>
-          <owner class="org.jjazz.songstructure.SongPartImpl" reference="../.."/>
-        </spClientProperties>
-      </org.jjazz.songstructure.SongPartImpl>
-      <org.jjazz.songstructure.SongPartImpl resolves-to="org.jjazz.songstructure.SongPartImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spRhythmId>MediumJazz.S737.sst-ID</spRhythmId>
+          </entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="MediumJazz.S737.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="68" spName="Chorus 3" spNbBars="16">
+        <spVERSION>3</spVERSION>
         <spRhythmName>MediumJazz.S737.sst</spRhythmName>
-        <spRhythmTs>FOUR_FOUR</spRhythmTs>
-        <spStartBarIndex>68</spStartBarIndex>
-        <spName>Chorus 3</spName>
-        <spNbBars>16</spNbBars>
-        <spParentSection class="org.jjazz.chordleadsheet.item.CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/org.jjazz.chordleadsheet.item.CLI__SectionImpl[2]"/>
-        <spMapRpIdValue>
-          <VERSION>1</VERSION>
-          <keys>
-            <string>rpVariationID</string>
-            <string>rpIntensityID</string>
-            <string>RpFillID</string>
-            <string>RpSysMuteID</string>
-            <string>rpSysMarkerID</string>
-            <string>rpTempoID</string>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[2]"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry>
             <string>RP_SYS_DrumsTransformId</string>
-            <string>RP_SYS_CustomPhraseId</string>
-          </keys>
-          <values>
+            <string>[DrumsMixIdhidden#BASS=-37,CRASH=-34,PERCUSSION=-36,TOM=-36,SNARE=-41]</string>
+          </entry>
+          <entry>
+            <string>rpVariationID</string>
             <string>Main C-1</string>
+          </entry>
+          <entry>
+            <string>rpIntensityID</string>
             <string>4</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_CustomPhraseId</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpSysMuteID</string>
+            <string>[]</string>
+          </entry>
+          <entry>
+            <string>rpSysMarkerID</string>
+            <string>solo2</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpFillID</string>
             <string>random</string>
-            <string>[]</string>
-            <string>solo2</string>
+          </entry>
+          <entry>
+            <string>rpTempoID</string>
             <string>100</string>
-            <string>[DrumsMixIdhidden#BASS=-37,CRASH=-34,PERCUSSION=-36,TOM=-36,SNARE=-41]</string>
-            <string></string>
-          </values>
-        </spMapRpIdValue>
-        <spMapRpIdDisplayName>
-          <VERSION>1</VERSION>
-          <keys>
-            <string>rpVariationID</string>
-            <string>rpIntensityID</string>
-            <string>RpFillID</string>
-            <string>RpSysMuteID</string>
-            <string>rpSysMarkerID</string>
-            <string>rpTempoID</string>
-            <string>RP_SYS_DrumsTransformId</string>
-            <string>RP_SYS_CustomPhraseId</string>
-          </keys>
-          <values>
-            <string>Variation</string>
-            <string>Intensity</string>
-            <string>Fill</string>
-            <string>Mute</string>
-            <string>Marker</string>
-            <string>Tempo %</string>
-            <string>Drums transform</string>
-            <string>Custom phrase</string>
-          </values>
-        </spMapRpIdDisplayName>
-        <spMapRpIdPercentageValue>
-          <VERSION>1</VERSION>
-          <keys>
-            <string>rpVariationID</string>
-            <string>rpIntensityID</string>
-            <string>RpFillID</string>
-            <string>RpSysMuteID</string>
-            <string>rpSysMarkerID</string>
-            <string>rpTempoID</string>
-            <string>RP_SYS_DrumsTransformId</string>
-            <string>RP_SYS_CustomPhraseId</string>
-          </keys>
-          <values>
-            <double>0.35714285714285715</double>
-            <double>0.7</double>
-            <double>0.5</double>
-            <double>0.0</double>
-            <double>0.7142857142857143</double>
-            <double>0.3333333333333333</double>
-            <double>-1.0</double>
-            <double>-1.0</double>
-          </values>
-        </spMapRpIdPercentageValue>
-        <spClientProperties>
-          <owner class="org.jjazz.songstructure.SongPartImpl" reference="../.."/>
-        </spClientProperties>
-      </org.jjazz.songstructure.SongPartImpl>
-      <org.jjazz.songstructure.SongPartImpl resolves-to="org.jjazz.songstructure.SongPartImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spRhythmId>MediumJazz.S737.sst-ID</spRhythmId>
+          </entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="MediumJazz.S737.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="84" spName="Chorus 3" spNbBars="16">
+        <spVERSION>3</spVERSION>
         <spRhythmName>MediumJazz.S737.sst</spRhythmName>
-        <spRhythmTs>FOUR_FOUR</spRhythmTs>
-        <spStartBarIndex>84</spStartBarIndex>
-        <spName>Chorus 3</spName>
-        <spNbBars>16</spNbBars>
-        <spParentSection class="org.jjazz.chordleadsheet.item.CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/org.jjazz.chordleadsheet.item.CLI__SectionImpl[3]"/>
-        <spMapRpIdValue>
-          <VERSION>1</VERSION>
-          <keys>
-            <string>rpVariationID</string>
-            <string>rpIntensityID</string>
-            <string>RpFillID</string>
-            <string>RpSysMuteID</string>
-            <string>rpSysMarkerID</string>
-            <string>rpTempoID</string>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[3]"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry>
             <string>RP_SYS_DrumsTransformId</string>
-            <string>RP_SYS_CustomPhraseId</string>
-          </keys>
-          <values>
+            <string>[DrumsMixIdhidden#BASS=-37,CRASH=-34,PERCUSSION=-36,TOM=-36,SNARE=-41]</string>
+          </entry>
+          <entry>
+            <string>rpVariationID</string>
             <string>Main D-1</string>
+          </entry>
+          <entry>
+            <string>rpIntensityID</string>
             <string>2</string>
-            <string>break</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_CustomPhraseId</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpSysMuteID</string>
             <string>[]</string>
+          </entry>
+          <entry>
+            <string>rpSysMarkerID</string>
             <string>solo2</string>
-            <string>100</string>
-            <string>[DrumsMixIdhidden#BASS=-37,CRASH=-34,PERCUSSION=-36,TOM=-36,SNARE=-41]</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
             <string></string>
-          </values>
-        </spMapRpIdValue>
-        <spMapRpIdDisplayName>
-          <VERSION>1</VERSION>
-          <keys>
-            <string>rpVariationID</string>
-            <string>rpIntensityID</string>
+          </entry>
+          <entry>
             <string>RpFillID</string>
-            <string>RpSysMuteID</string>
-            <string>rpSysMarkerID</string>
-            <string>rpTempoID</string>
-            <string>RP_SYS_DrumsTransformId</string>
-            <string>RP_SYS_CustomPhraseId</string>
-          </keys>
-          <values>
-            <string>Variation</string>
-            <string>Intensity</string>
-            <string>Fill</string>
-            <string>Mute</string>
-            <string>Marker</string>
-            <string>Tempo %</string>
-            <string>Drums transform</string>
-            <string>Custom phrase</string>
-          </values>
-        </spMapRpIdDisplayName>
-        <spMapRpIdPercentageValue>
-          <VERSION>1</VERSION>
-          <keys>
-            <string>rpVariationID</string>
-            <string>rpIntensityID</string>
-            <string>RpFillID</string>
-            <string>RpSysMuteID</string>
-            <string>rpSysMarkerID</string>
-            <string>rpTempoID</string>
-            <string>RP_SYS_DrumsTransformId</string>
-            <string>RP_SYS_CustomPhraseId</string>
-          </keys>
-          <values>
-            <double>0.42857142857142855</double>
-            <double>0.6</double>
-            <double>1.0</double>
-            <double>0.0</double>
-            <double>0.7142857142857143</double>
-            <double>0.3333333333333333</double>
-            <double>-1.0</double>
-            <double>-1.0</double>
-          </values>
-        </spMapRpIdPercentageValue>
-        <spClientProperties>
-          <owner class="org.jjazz.songstructure.SongPartImpl" reference="../.."/>
-        </spClientProperties>
-      </org.jjazz.songstructure.SongPartImpl>
-      <org.jjazz.songstructure.SongPartImpl resolves-to="org.jjazz.songstructure.SongPartImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spRhythmId>MediumJazz.S737.sst-ID</spRhythmId>
-        <spRhythmName>MediumJazz.S737.sst</spRhythmName>
-        <spRhythmTs>FOUR_FOUR</spRhythmTs>
-        <spStartBarIndex>100</spStartBarIndex>
-        <spName>Last Chorus</spName>
-        <spNbBars>16</spNbBars>
-        <spParentSection class="org.jjazz.chordleadsheet.item.CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/org.jjazz.chordleadsheet.item.CLI__SectionImpl[2]"/>
-        <spMapRpIdValue>
-          <VERSION>1</VERSION>
-          <keys>
-            <string>rpVariationID</string>
-            <string>rpIntensityID</string>
-            <string>RpFillID</string>
-            <string>RpSysMuteID</string>
-            <string>rpSysMarkerID</string>
-            <string>rpTempoID</string>
-            <string>RP_SYS_DrumsTransformId</string>
-            <string>RP_SYS_CustomPhraseId</string>
-          </keys>
-          <values>
-            <string>Main A-1</string>
-            <string>1</string>
-            <string>always</string>
-            <string>[]</string>
-            <string>theme2</string>
-            <string>100</string>
-            <string>[DrumsMixIdhidden#BASS=-37,CRASH=-34,PERCUSSION=-36,TOM=-36,SNARE=-41]</string>
-            <string></string>
-          </values>
-        </spMapRpIdValue>
-        <spMapRpIdDisplayName>
-          <VERSION>1</VERSION>
-          <keys>
-            <string>rpVariationID</string>
-            <string>rpIntensityID</string>
-            <string>RpFillID</string>
-            <string>RpSysMuteID</string>
-            <string>rpSysMarkerID</string>
-            <string>rpTempoID</string>
-            <string>RP_SYS_DrumsTransformId</string>
-            <string>RP_SYS_CustomPhraseId</string>
-          </keys>
-          <values>
-            <string>Variation</string>
-            <string>Intensity</string>
-            <string>Fill</string>
-            <string>Mute</string>
-            <string>Marker</string>
-            <string>Tempo %</string>
-            <string>Drums transform</string>
-            <string>Custom phrase</string>
-          </values>
-        </spMapRpIdDisplayName>
-        <spMapRpIdPercentageValue>
-          <VERSION>1</VERSION>
-          <keys>
-            <string>rpVariationID</string>
-            <string>rpIntensityID</string>
-            <string>RpFillID</string>
-            <string>RpSysMuteID</string>
-            <string>rpSysMarkerID</string>
-            <string>rpTempoID</string>
-            <string>RP_SYS_DrumsTransformId</string>
-            <string>RP_SYS_CustomPhraseId</string>
-          </keys>
-          <values>
-            <double>0.21428571428571427</double>
-            <double>0.55</double>
-            <double>0.25</double>
-            <double>0.0</double>
-            <double>0.2857142857142857</double>
-            <double>0.3333333333333333</double>
-            <double>-1.0</double>
-            <double>-1.0</double>
-          </values>
-        </spMapRpIdPercentageValue>
-        <spClientProperties>
-          <owner class="org.jjazz.songstructure.SongPartImpl" reference="../.."/>
-        </spClientProperties>
-      </org.jjazz.songstructure.SongPartImpl>
-      <org.jjazz.songstructure.SongPartImpl resolves-to="org.jjazz.songstructure.SongPartImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spRhythmId>MediumJazz.S737.sst-ID</spRhythmId>
-        <spRhythmName>MediumJazz.S737.sst</spRhythmName>
-        <spRhythmTs>FOUR_FOUR</spRhythmTs>
-        <spStartBarIndex>116</spStartBarIndex>
-        <spName>Last Chorus</spName>
-        <spNbBars>10</spNbBars>
-        <spParentSection class="org.jjazz.chordleadsheet.item.CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/org.jjazz.chordleadsheet.item.CLI__SectionImpl[4]"/>
-        <spMapRpIdValue>
-          <VERSION>1</VERSION>
-          <keys>
-            <string>rpVariationID</string>
-            <string>rpIntensityID</string>
-            <string>RpFillID</string>
-            <string>RpSysMuteID</string>
-            <string>rpSysMarkerID</string>
-            <string>rpTempoID</string>
-            <string>RP_SYS_DrumsTransformId</string>
-            <string>RP_SYS_CustomPhraseId</string>
-          </keys>
-          <values>
-            <string>Main B-1</string>
-            <string>0</string>
-            <string>always</string>
-            <string>[]</string>
-            <string>theme2</string>
-            <string>100</string>
-            <string>[DrumsMixIdhidden#BASS=-37,CRASH=-34,PERCUSSION=-36,TOM=-36,SNARE=-41]</string>
-            <string></string>
-          </values>
-        </spMapRpIdValue>
-        <spMapRpIdDisplayName>
-          <VERSION>1</VERSION>
-          <keys>
-            <string>rpVariationID</string>
-            <string>rpIntensityID</string>
-            <string>RpFillID</string>
-            <string>RpSysMuteID</string>
-            <string>rpSysMarkerID</string>
-            <string>rpTempoID</string>
-            <string>RP_SYS_DrumsTransformId</string>
-            <string>RP_SYS_CustomPhraseId</string>
-          </keys>
-          <values>
-            <string>Variation</string>
-            <string>Intensity</string>
-            <string>Fill</string>
-            <string>Mute</string>
-            <string>Marker</string>
-            <string>Tempo %</string>
-            <string>Drums transform</string>
-            <string>Custom phrase</string>
-          </values>
-        </spMapRpIdDisplayName>
-        <spMapRpIdPercentageValue>
-          <VERSION>1</VERSION>
-          <keys>
-            <string>rpVariationID</string>
-            <string>rpIntensityID</string>
-            <string>RpFillID</string>
-            <string>RpSysMuteID</string>
-            <string>rpSysMarkerID</string>
-            <string>rpTempoID</string>
-            <string>RP_SYS_DrumsTransformId</string>
-            <string>RP_SYS_CustomPhraseId</string>
-          </keys>
-          <values>
-            <double>0.2857142857142857</double>
-            <double>0.5</double>
-            <double>0.25</double>
-            <double>0.0</double>
-            <double>0.2857142857142857</double>
-            <double>0.3333333333333333</double>
-            <double>-1.0</double>
-            <double>-1.0</double>
-          </values>
-        </spMapRpIdPercentageValue>
-        <spClientProperties>
-          <owner class="org.jjazz.songstructure.SongPartImpl" reference="../.."/>
-        </spClientProperties>
-      </org.jjazz.songstructure.SongPartImpl>
-      <org.jjazz.songstructure.SongPartImpl resolves-to="org.jjazz.songstructure.SongPartImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spRhythmId>MediumJazz.S737.sst-ID</spRhythmId>
-        <spRhythmName>MediumJazz.S737.sst</spRhythmName>
-        <spRhythmTs>FOUR_FOUR</spRhythmTs>
-        <spStartBarIndex>126</spStartBarIndex>
-        <spName>Last Chorus</spName>
-        <spNbBars>4</spNbBars>
-        <spParentSection class="org.jjazz.chordleadsheet.item.CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/org.jjazz.chordleadsheet.item.CLI__SectionImpl[5]"/>
-        <spMapRpIdValue>
-          <VERSION>1</VERSION>
-          <keys>
-            <string>rpVariationID</string>
-            <string>rpIntensityID</string>
-            <string>RpFillID</string>
-            <string>RpSysMuteID</string>
-            <string>rpSysMarkerID</string>
-            <string>rpTempoID</string>
-            <string>RP_SYS_DrumsTransformId</string>
-            <string>RP_SYS_CustomPhraseId</string>
-          </keys>
-          <values>
-            <string>Main B-1</string>
-            <string>0</string>
-            <string>always</string>
-            <string>[]</string>
-            <string>theme2</string>
-            <string>100</string>
-            <string>[DrumsMixIdhidden#BASS=-37,CRASH=-34,PERCUSSION=-36,TOM=-36,SNARE=-41]</string>
-            <string></string>
-          </values>
-        </spMapRpIdValue>
-        <spMapRpIdDisplayName>
-          <VERSION>1</VERSION>
-          <keys>
-            <string>rpVariationID</string>
-            <string>rpIntensityID</string>
-            <string>RpFillID</string>
-            <string>RpSysMuteID</string>
-            <string>rpSysMarkerID</string>
-            <string>rpTempoID</string>
-            <string>RP_SYS_DrumsTransformId</string>
-            <string>RP_SYS_CustomPhraseId</string>
-          </keys>
-          <values>
-            <string>Variation</string>
-            <string>Intensity</string>
-            <string>Fill</string>
-            <string>Mute</string>
-            <string>Marker</string>
-            <string>Tempo %</string>
-            <string>Drums transform</string>
-            <string>Custom phrase</string>
-          </values>
-        </spMapRpIdDisplayName>
-        <spMapRpIdPercentageValue>
-          <VERSION>1</VERSION>
-          <keys>
-            <string>rpVariationID</string>
-            <string>rpIntensityID</string>
-            <string>RpFillID</string>
-            <string>RpSysMuteID</string>
-            <string>rpSysMarkerID</string>
-            <string>rpTempoID</string>
-            <string>RP_SYS_DrumsTransformId</string>
-            <string>RP_SYS_CustomPhraseId</string>
-          </keys>
-          <values>
-            <double>0.2857142857142857</double>
-            <double>0.5</double>
-            <double>0.25</double>
-            <double>0.0</double>
-            <double>0.2857142857142857</double>
-            <double>0.3333333333333333</double>
-            <double>-1.0</double>
-            <double>-1.0</double>
-          </values>
-        </spMapRpIdPercentageValue>
-        <spClientProperties>
-          <owner class="org.jjazz.songstructure.SongPartImpl" reference="../.."/>
-        </spClientProperties>
-      </org.jjazz.songstructure.SongPartImpl>
-      <org.jjazz.songstructure.SongPartImpl resolves-to="org.jjazz.songstructure.SongPartImpl$SerializationProxy">
-        <spVERSION>2</spVERSION>
-        <spRhythmId>MediumJazz.S737.sst-ID</spRhythmId>
-        <spRhythmName>MediumJazz.S737.sst</spRhythmName>
-        <spRhythmTs>FOUR_FOUR</spRhythmTs>
-        <spStartBarIndex>130</spStartBarIndex>
-        <spName>Last Chorus</spName>
-        <spNbBars>2</spNbBars>
-        <spParentSection class="org.jjazz.chordleadsheet.item.CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/org.jjazz.chordleadsheet.item.CLI__SectionImpl[6]"/>
-        <spMapRpIdValue>
-          <VERSION>1</VERSION>
-          <keys>
-            <string>rpVariationID</string>
-            <string>rpIntensityID</string>
-            <string>RpFillID</string>
-            <string>RpSysMuteID</string>
-            <string>rpSysMarkerID</string>
-            <string>rpTempoID</string>
-            <string>RP_SYS_DrumsTransformId</string>
-            <string>RP_SYS_CustomPhraseId</string>
-          </keys>
-          <values>
-            <string>Main B-1</string>
-            <string>0</string>
             <string>break</string>
-            <string>[]</string>
-            <string>theme2</string>
+          </entry>
+          <entry>
+            <string>rpTempoID</string>
             <string>100</string>
-            <string>[DrumsMixIdhidden#BASS=-37,CRASH=-34,PERCUSSION=-36,TOM=-36,SNARE=-41]</string>
-            <string></string>
-          </values>
-        </spMapRpIdValue>
-        <spMapRpIdDisplayName>
-          <VERSION>1</VERSION>
-          <keys>
-            <string>rpVariationID</string>
-            <string>rpIntensityID</string>
-            <string>RpFillID</string>
-            <string>RpSysMuteID</string>
-            <string>rpSysMarkerID</string>
-            <string>rpTempoID</string>
-            <string>RP_SYS_DrumsTransformId</string>
-            <string>RP_SYS_CustomPhraseId</string>
-          </keys>
-          <values>
-            <string>Variation</string>
-            <string>Intensity</string>
-            <string>Fill</string>
-            <string>Mute</string>
-            <string>Marker</string>
-            <string>Tempo %</string>
-            <string>Drums transform</string>
-            <string>Custom phrase</string>
-          </values>
-        </spMapRpIdDisplayName>
-        <spMapRpIdPercentageValue>
-          <VERSION>1</VERSION>
-          <keys>
-            <string>rpVariationID</string>
-            <string>rpIntensityID</string>
-            <string>RpFillID</string>
-            <string>RpSysMuteID</string>
-            <string>rpSysMarkerID</string>
-            <string>rpTempoID</string>
-            <string>RP_SYS_DrumsTransformId</string>
-            <string>RP_SYS_CustomPhraseId</string>
-          </keys>
-          <values>
-            <double>0.2857142857142857</double>
-            <double>0.5</double>
-            <double>1.0</double>
-            <double>0.0</double>
-            <double>0.2857142857142857</double>
-            <double>0.3333333333333333</double>
-            <double>-1.0</double>
-            <double>-1.0</double>
-          </values>
-        </spMapRpIdPercentageValue>
+          </entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="MediumJazz.S737.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="100" spName="Last Chorus" spNbBars="16">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>MediumJazz.S737.sst</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[2]"/>
         <spClientProperties>
-          <owner class="org.jjazz.songstructure.SongPartImpl" reference="../.."/>
+          <owner class="SongPartImpl" reference="../.."/>
         </spClientProperties>
-      </org.jjazz.songstructure.SongPartImpl>
+        <spHashMapRpIdValue>
+          <entry>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>[DrumsMixIdhidden#BASS=-37,CRASH=-34,PERCUSSION=-36,TOM=-36,SNARE=-41]</string>
+          </entry>
+          <entry>
+            <string>rpVariationID</string>
+            <string>Main A-1</string>
+          </entry>
+          <entry>
+            <string>rpIntensityID</string>
+            <string>1</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_CustomPhraseId</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpSysMuteID</string>
+            <string>[]</string>
+          </entry>
+          <entry>
+            <string>rpSysMarkerID</string>
+            <string>theme2</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpFillID</string>
+            <string>always</string>
+          </entry>
+          <entry>
+            <string>rpTempoID</string>
+            <string>100</string>
+          </entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="MediumJazz.S737.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="116" spName="Last Chorus" spNbBars="10">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>MediumJazz.S737.sst</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[4]"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>[DrumsMixIdhidden#BASS=-37,CRASH=-34,PERCUSSION=-36,TOM=-36,SNARE=-41]</string>
+          </entry>
+          <entry>
+            <string>rpVariationID</string>
+            <string>Main B-1</string>
+          </entry>
+          <entry>
+            <string>rpIntensityID</string>
+            <string>0</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_CustomPhraseId</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpSysMuteID</string>
+            <string>[]</string>
+          </entry>
+          <entry>
+            <string>rpSysMarkerID</string>
+            <string>theme2</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpFillID</string>
+            <string>always</string>
+          </entry>
+          <entry>
+            <string>rpTempoID</string>
+            <string>100</string>
+          </entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="MediumJazz.S737.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="126" spName="Last Chorus" spNbBars="4">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>MediumJazz.S737.sst</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[5]"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>[DrumsMixIdhidden#BASS=-37,CRASH=-34,PERCUSSION=-36,TOM=-36,SNARE=-41]</string>
+          </entry>
+          <entry>
+            <string>rpVariationID</string>
+            <string>Main B-1</string>
+          </entry>
+          <entry>
+            <string>rpIntensityID</string>
+            <string>0</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_CustomPhraseId</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpSysMuteID</string>
+            <string>[]</string>
+          </entry>
+          <entry>
+            <string>rpSysMarkerID</string>
+            <string>theme2</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpFillID</string>
+            <string>always</string>
+          </entry>
+          <entry>
+            <string>rpTempoID</string>
+            <string>100</string>
+          </entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="MediumJazz.S737.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="130" spName="Last Chorus" spNbBars="2">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>MediumJazz.S737.sst</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[6]"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>[DrumsMixIdhidden#BASS=-37,CRASH=-34,PERCUSSION=-36,TOM=-36,SNARE=-41]</string>
+          </entry>
+          <entry>
+            <string>rpVariationID</string>
+            <string>Main B-1</string>
+          </entry>
+          <entry>
+            <string>rpIntensityID</string>
+            <string>0</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_CustomPhraseId</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpSysMuteID</string>
+            <string>[]</string>
+          </entry>
+          <entry>
+            <string>rpSysMarkerID</string>
+            <string>theme2</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpFillID</string>
+            <string>break</string>
+          </entry>
+          <entry>
+            <string>rpTempoID</string>
+            <string>100</string>
+          </entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
     </spSpts>
-    <spParentCls class="org.jjazz.chordleadsheet.ChordLeadSheetImpl" reference="../../spChordLeadSheet"/>
-    <spKeepUpdated>true</spKeepUpdated>
+    <spParentCls class="ChordLeadSheetImpl" reference="../../spChordLeadSheet"/>
+    <spKeepUpdated>false</spKeepUpdated>
   </spSongStructure>
   <spMapUserPhrases>
     <entry>
-      <string>User1</string>
-      <org.jjazz.phrase.api.Phrase resolves-to="org.jjazz.phrase.api.Phrase$SerializationProxy">
-        <spVERSION>1</spVERSION>
+      <string>Lead</string>
+      <Phrase resolves-to="PhraseSP" spVERSION="2">
         <spSaveString>[0|68,94,0.76666665:16.166666|67,71,0.425:17.108334|65,77,0.6166667:17.658333|63,80,0.31666666:18.833334|61,79,1.975:19.808332|63,91,0.425:21.666666|65,84,0.56666666:22.275|68,91,0.525:23.0|67,92,1.7666667:23.716667|65,99,0.375:25.833334|63,82,0.6666667:26.35|61,80,0.55:27.05|60,96,3.7:27.741667|65,96,1.3416667:32.125|63,101,0.31666666:33.85|61,80,0.7416667:34.316666|60,88,0.45:35.033333|58,78,0.48333332:35.775|60,93,0.65:36.683334|61,102,0.81666666:37.641666|65,96,1.1083333:38.683334|64,98,0.5:40.1|61,98,0.6166667:41.1|60,93,0.625:41.733334|58,91,0.825:42.658333|56,96,3.2833333:43.675|57,114,0.31666666:47.8|58,83,0.75:48.175|65,93,0.38333333:48.808334|65,90,2.7666667:49.675|68,101,1.3916667:53.125|67,97,1.325:54.666668|63,91,6.5583334:56.125|56,90,0.175:63.766666|56,87,0.51666665:64.15833|61,91,0.375:64.808334|61,100,3.9666667:65.808334|65,93,0.40833333:70.083336|63,94,0.53333336:71.05|61,96,1.375:72.1|60,98,5.45:73.683334|68,99,0.5833333:80.13333|67,77,0.325:81.041664|65,97,0.43333334:81.64167|63,96,0.33333334:82.85|61,95,1.8083333:83.84167|63,94,0.20833333:85.825|65,73,0.49166667:86.23333|68,76,0.98333335:86.95|67,101,0.45833334:88.125|65,80,0.39166668:89.041664|63,98,0.475:89.63333|61,88,0.45:90.808334|60,99,3.9416666:91.833336|65,93,0.5:96.10833|63,88,0.375:97.1|61,92,0.41666666:97.7|60,103,0.33333334:98.84167|58,87,0.49166667:99.63333|60,105,0.31666666:100.85|61,101,0.5416667:101.65833|65,91,0.71666664:102.7|64,104,0.625:103.666664|61,85,1.275:104.71667|60,75,0.575:106.1|58,95,0.60833335:107.11667|56,81,2.8833334:108.11667|57,106,0.28333333:111.76667|58,81,0.71666664:112.183334|65,83,0.35833332:112.775|65,91,4.075:113.825|68,100,0.5:118.05|67,93,0.5833333:119.05|72,93,6.9583335:119.65833|72,96,0.175:127.7|72,89,0.51666665:128.13333|68,94,0.4:128.83333|68,93,4.825:129.85|70,101,0.5416667:134.63333|63,60,0.44166666:135.63333|68,98,7.4416666:136.10834|68,94,0.76666665:400.16666|67,71,0.425:401.10834|65,77,0.6166667:401.65833|63,80,0.31666666:402.83334|61,79,1.975:403.80832|63,91,0.425:405.66666|65,84,0.56666666:406.275|68,91,0.525:407.0|67,92,1.7666667:407.71667|65,99,0.375:409.83334|63,82,0.6666667:410.35|61,80,0.55:411.05|60,96,3.7:411.74167|65,96,1.3416667:416.125|63,101,0.31666666:417.85|61,80,0.7416667:418.31668|60,88,0.45:419.03333|58,78,0.48333332:419.775|60,93,0.65:420.68332|61,102,0.81666666:421.64166|65,96,1.1083333:422.68332|64,98,0.5:424.1|61,98,0.6166667:425.1|60,93,0.625:425.73334|58,91,0.825:426.65833|56,96,3.2833333:427.675|57,114,0.31666666:431.8|58,83,0.75:432.175|65,93,0.38333333:432.80832|65,90,2.7666667:433.675|68,101,1.3916667:437.125|67,97,1.325:438.66666|63,91,6.5583334:440.125|56,90,0.175:447.76666|56,87,0.51666665:448.15833|61,91,0.375:448.80832|61,100,3.9666667:449.80832|65,93,0.40833333:454.08334|63,94,0.53333336:455.05|61,96,1.375:456.1|60,98,5.45:457.68332|68,99,0.5833333:464.13333|67,77,0.325:465.04166|65,97,0.43333334:465.64166|63,96,0.33333334:466.85|61,95,1.8083333:467.84167|63,94,0.20833333:469.825|65,73,0.49166667:470.23334|68,76,0.98333335:470.95|67,101,0.45833334:472.125|65,80,0.39166668:473.04166|63,98,0.475:473.63333|61,88,0.45:474.80832|60,99,3.9416666:475.83334|65,93,0.5:480.10834|63,88,0.375:481.1|61,92,0.41666666:481.7|60,103,0.33333334:482.84167|58,87,0.49166667:483.63333|60,105,0.31666666:484.85|61,101,0.5416667:485.65833|65,91,0.71666664:486.7|64,104,0.625:487.66666|61,85,1.275:488.71667|60,75,0.575:490.1|58,95,0.60833335:491.11667|56,81,2.8833334:492.11667|57,106,0.28333333:495.76666|58,81,0.71666664:496.18332|65,83,0.35833332:496.775|65,91,4.075:497.825|68,100,0.5:502.05|67,93,0.5833333:503.05|72,93,6.9583335:503.65833|72,96,0.175:511.7|72,89,0.51666665:512.13336|68,94,0.4:512.8333|68,93,4.825:513.85|70,101,0.5416667:518.63336|63,60,0.44166666:519.63336|68,98,7.4416666:520.10834|68,98,7.4416666:524.10834|70,92,1.2333333:528.05|67,54,0.11666667:529.6|70,82,0.475:529.7|67,86,0.8333333:530.06665|60,78,0.98333335:531.06665|61,81,0.39166668:531.89166|62,89,0.375:531.99164|70,92,1.2333333:532.05|63,84,3.8166666:532.23334|67,54,0.11666667:533.6|70,82,0.475:533.7|67,86,0.8333333:534.06665|60,78,0.98333335:535.06665|61,81,0.39166668:535.89166|62,89,0.375:535.99164|63,84,3.8166666:536.23334|70,92,1.2333333:656.05|67,54,0.11666667:657.6|70,82,0.475:657.7|67,86,0.8333333:658.06665|60,78,0.98333335:659.06665|61,81,0.39166668:659.89166|62,89,0.375:659.99164|63,84,3.8166666:660.23334]</spSaveString>
-      </org.jjazz.phrase.api.Phrase>
+      </Phrase>
     </entry>
   </spMapUserPhrases>
   <spClientPropertiesV3>
@@ -2366,7 +1613,7 @@
       </entry>
       <entry>
         <string>PropSsEditorZoomFactorX</string>
-        <string>6</string>
+        <string>12</string>
       </entry>
       <entry>
         <string>SectionDisplayQuantization-B*4/4</string>
