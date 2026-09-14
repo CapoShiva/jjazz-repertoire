@@ -10,20 +10,23 @@ This repository contains lead sheets and musical data created with [JJazzLab](ht
   - Learning new jazz standards.
   - Practicing improvisation over various chord progressions.
   - Analyzing harmonic movements in the jazz tradition.
-  - Currently these songs are using styles from a hardware synth.
+  - Currently most songs are using styles from a hardware synth.
+
+Note: Please note that the accuracy and musical quality of these files may vary.
 
 ## ⚙️ TODO
 
-  - Standardize the synth to FluidSynt
-  - Use default styles
+  - Standardize all songs.
+  - Use default styles.
+  - Set the right instruments for FluidSynth.
 
-Note: Please note that the accuracy and musical quality of these files may vary.
+    **Al the songs that start with A are done**
 
 ## 🛠️ How to Use
 
 1. Clone this repository to your local machine or click green **Code** button and then Download ZIP.
 2. Open the files using [JJazzLab](https://www.jjazzlab.org/en/) software.
-3. Adjust the instruments to taste and hardware.
+3. Adjust the instruments to taste.
 4. Happy practicing!
 
 ## ⚠️ Disclaimer
