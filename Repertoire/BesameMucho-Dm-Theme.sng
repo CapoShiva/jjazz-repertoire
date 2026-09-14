@@ -1,19 +1,13 @@
-<Song resolves-to="SongSP" spName="BesameMucho-Dm" spTempo="140">
+<Song resolves-to="SongSP" spName="BesameMucho-Dm-Theme" spTempo="140">
   <spVERSION>4</spVERSION>
   <spComments>Edit me...</spComments>
   <spTags/>
   <spChordLeadSheet class="ChordLeadSheetImpl" resolves-to="ChordLeadSheetImplSP">
-    <spVERSION>2</spVERSION>
+    <spVERSION>3</spVERSION>
     <spItems>
       <CLI__SectionImpl resolves-to="CLI_SectionImplSP" spName="Intro" spTs="FOUR_FOUR" spBarIndex="0">
-        <spVERSION>3</spVERSION>
+        <spVERSION>4</spVERSION>
         <spClientProperties>
-          <properties>
-            <entry>
-              <string>PropSectionQuantization</string>
-              <string>ONE_QUARTER_BEAT</string>
-            </entry>
-          </properties>
           <owner class="CLI_SectionImpl" reference="../.."/>
         </spClientProperties>
       </CLI__SectionImpl>
@@ -120,14 +114,8 @@
         </spClientProperties>
       </CLI__ChordSymbolImpl>
       <CLI__SectionImpl resolves-to="CLI_SectionImplSP" spName="A1" spTs="FOUR_FOUR" spBarIndex="8">
-        <spVERSION>3</spVERSION>
+        <spVERSION>4</spVERSION>
         <spClientProperties>
-          <properties>
-            <entry>
-              <string>PropSectionQuantization</string>
-              <string>ONE_QUARTER_BEAT</string>
-            </entry>
-          </properties>
           <owner class="CLI_SectionImpl" reference="../.."/>
         </spClientProperties>
       </CLI__SectionImpl>
@@ -370,14 +358,8 @@
         </spClientProperties>
       </CLI__ChordSymbolImpl>
       <CLI__SectionImpl resolves-to="CLI_SectionImplSP" spName="A2" spTs="FOUR_FOUR" spBarIndex="24">
-        <spVERSION>3</spVERSION>
+        <spVERSION>4</spVERSION>
         <spClientProperties>
-          <properties>
-            <entry>
-              <string>PropSectionQuantization</string>
-              <string>ONE_QUARTER_BEAT</string>
-            </entry>
-          </properties>
           <owner class="CLI_SectionImpl" reference="../.."/>
         </spClientProperties>
       </CLI__SectionImpl>
@@ -511,14 +493,8 @@
         </spClientProperties>
       </CLI__ChordSymbolImpl>
       <CLI__SectionImpl resolves-to="CLI_SectionImplSP" spName="B" spTs="FOUR_FOUR" spBarIndex="40">
-        <spVERSION>3</spVERSION>
+        <spVERSION>4</spVERSION>
         <spClientProperties>
-          <properties>
-            <entry>
-              <string>PropSectionQuantization</string>
-              <string>ONE_QUARTER_BEAT</string>
-            </entry>
-          </properties>
           <owner class="CLI_SectionImpl" reference="../.."/>
         </spClientProperties>
       </CLI__SectionImpl>
@@ -676,14 +652,8 @@
         </spClientProperties>
       </CLI__ChordSymbolImpl>
       <CLI__SectionImpl resolves-to="CLI_SectionImplSP" spName="Outro" spTs="FOUR_FOUR" spBarIndex="48">
-        <spVERSION>3</spVERSION>
+        <spVERSION>4</spVERSION>
         <spClientProperties>
-          <properties>
-            <entry>
-              <string>PropSectionQuantization</string>
-              <string>ONE_QUARTER_BEAT</string>
-            </entry>
-          </properties>
           <owner class="CLI_SectionImpl" reference="../.."/>
         </spClientProperties>
       </CLI__SectionImpl>
@@ -833,7 +803,7 @@
     <spSize>56</spSize>
   </spChordLeadSheet>
   <spSongStructure class="SongStructureImpl" resolves-to="SongStructureImplSP">
-    <spVERSION>2</spVERSION>
+    <spVERSION>3</spVERSION>
     <spSpts>
       <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="BossaNova2.S469.prs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="0" spName="Intro" spNbBars="8">
         <spVERSION>3</spVERSION>
@@ -866,6 +836,10 @@
           <entry>
             <string>rpSysMarkerID</string>
             <string>theme</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
           </entry>
           <entry>
             <string>RpFillID</string>
@@ -910,8 +884,12 @@
             <string>theme</string>
           </entry>
           <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
             <string>RpFillID</string>
-            <string>random_rare</string>
+            <string>always</string>
           </entry>
           <entry>
             <string>rpTempoID</string>
@@ -933,7 +911,7 @@
           </entry>
           <entry>
             <string>rpVariationID</string>
-            <string>Main A-1</string>
+            <string>Main B-1</string>
           </entry>
           <entry>
             <string>rpIntensityID</string>
@@ -952,8 +930,12 @@
             <string>theme</string>
           </entry>
           <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
             <string>RpFillID</string>
-            <string>random</string>
+            <string>always</string>
           </entry>
           <entry>
             <string>rpTempoID</string>
@@ -994,6 +976,10 @@
             <string>theme</string>
           </entry>
           <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
             <string>RpFillID</string>
             <string>break</string>
           </entry>
@@ -1017,7 +1003,7 @@
           </entry>
           <entry>
             <string>rpVariationID</string>
-            <string>Main B-1</string>
+            <string>Main A-1</string>
           </entry>
           <entry>
             <string>rpIntensityID</string>
@@ -1034,6 +1020,10 @@
           <entry>
             <string>rpSysMarkerID</string>
             <string>solo</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
           </entry>
           <entry>
             <string>RpFillID</string>
@@ -1078,6 +1068,10 @@
             <string>solo</string>
           </entry>
           <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
             <string>RpFillID</string>
             <string>random</string>
           </entry>
@@ -1101,7 +1095,7 @@
           </entry>
           <entry>
             <string>rpVariationID</string>
-            <string>Main B-1</string>
+            <string>Main A-1</string>
           </entry>
           <entry>
             <string>rpIntensityID</string>
@@ -1120,8 +1114,12 @@
             <string>solo</string>
           </entry>
           <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
             <string>RpFillID</string>
-            <string>break</string>
+            <string>always</string>
           </entry>
           <entry>
             <string>rpTempoID</string>
@@ -1155,11 +1153,15 @@
           </entry>
           <entry>
             <string>RpSysMuteID</string>
-            <string>[]</string>
+            <string>[Phrase1]</string>
           </entry>
           <entry>
             <string>rpSysMarkerID</string>
             <string>solo2</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
           </entry>
           <entry>
             <string>RpFillID</string>
@@ -1185,7 +1187,7 @@
           </entry>
           <entry>
             <string>rpVariationID</string>
-            <string>Main C-1</string>
+            <string>Main D-1</string>
           </entry>
           <entry>
             <string>rpIntensityID</string>
@@ -1197,11 +1199,15 @@
           </entry>
           <entry>
             <string>RpSysMuteID</string>
-            <string>[]</string>
+            <string>[Phrase1]</string>
           </entry>
           <entry>
             <string>rpSysMarkerID</string>
             <string>solo2</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
           </entry>
           <entry>
             <string>RpFillID</string>
@@ -1239,15 +1245,19 @@
           </entry>
           <entry>
             <string>RpSysMuteID</string>
-            <string>[]</string>
+            <string>[Phrase1]</string>
           </entry>
           <entry>
             <string>rpSysMarkerID</string>
             <string>solo2</string>
           </entry>
           <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
             <string>RpFillID</string>
-            <string>break</string>
+            <string>always</string>
           </entry>
           <entry>
             <string>rpTempoID</string>
@@ -1269,7 +1279,7 @@
           </entry>
           <entry>
             <string>rpVariationID</string>
-            <string>Main D-1</string>
+            <string>Main C-1</string>
           </entry>
           <entry>
             <string>rpIntensityID</string>
@@ -1281,11 +1291,15 @@
           </entry>
           <entry>
             <string>RpSysMuteID</string>
-            <string>[]</string>
+            <string>[Phrase1]</string>
           </entry>
           <entry>
             <string>rpSysMarkerID</string>
             <string>solo3</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
           </entry>
           <entry>
             <string>RpFillID</string>
@@ -1323,11 +1337,15 @@
           </entry>
           <entry>
             <string>RpSysMuteID</string>
-            <string>[]</string>
+            <string>[Phrase1]</string>
           </entry>
           <entry>
             <string>rpSysMarkerID</string>
             <string>solo3</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
           </entry>
           <entry>
             <string>RpFillID</string>
@@ -1353,7 +1371,7 @@
           </entry>
           <entry>
             <string>rpVariationID</string>
-            <string>Main D-1</string>
+            <string>Main C-1</string>
           </entry>
           <entry>
             <string>rpIntensityID</string>
@@ -1365,11 +1383,15 @@
           </entry>
           <entry>
             <string>RpSysMuteID</string>
-            <string>[]</string>
+            <string>[Phrase1]</string>
           </entry>
           <entry>
             <string>rpSysMarkerID</string>
             <string>solo3</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
           </entry>
           <entry>
             <string>RpFillID</string>
@@ -1414,8 +1436,12 @@
             <string>theme2</string>
           </entry>
           <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
             <string>RpFillID</string>
-            <string>random_rare</string>
+            <string>always</string>
           </entry>
           <entry>
             <string>rpTempoID</string>
@@ -1437,7 +1463,7 @@
           </entry>
           <entry>
             <string>rpVariationID</string>
-            <string>Main A-1</string>
+            <string>Intro B-1</string>
           </entry>
           <entry>
             <string>rpIntensityID</string>
@@ -1456,8 +1482,12 @@
             <string>theme2</string>
           </entry>
           <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
             <string>RpFillID</string>
-            <string>random</string>
+            <string>always</string>
           </entry>
           <entry>
             <string>rpTempoID</string>
@@ -1498,8 +1528,12 @@
             <string>theme2</string>
           </entry>
           <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
             <string>RpFillID</string>
-            <string>random</string>
+            <string>always</string>
           </entry>
           <entry>
             <string>rpTempoID</string>
@@ -1533,11 +1567,15 @@
           </entry>
           <entry>
             <string>RpSysMuteID</string>
-            <string>[]</string>
+            <string>[SubRhythm]</string>
           </entry>
           <entry>
             <string>rpSysMarkerID</string>
-            <string>theme</string>
+            <string>theme2</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
           </entry>
           <entry>
             <string>RpFillID</string>
@@ -1551,13 +1589,13 @@
       </SongPartImpl>
     </spSpts>
     <spParentCls class="ChordLeadSheetImpl" reference="../../spChordLeadSheet"/>
-    <spKeepUpdated>true</spKeepUpdated>
+    <spKeepUpdated>false</spKeepUpdated>
   </spSongStructure>
   <spMapUserPhrases>
     <entry>
-      <string>User1</string>
+      <string>Lead</string>
       <Phrase resolves-to="PhraseSP" spVERSION="2">
-        <spSaveString>[0|62,127,0.7916667:32.0|62,127,0.39583334:33.0|62,127,3.59375:33.5|62,127,0.59375:38.0|64,127,0.59375:38.75|65,127,0.39583334:39.5|69,127,1.59375:40.0|67,127,4.0833335:42.0|67,127,0.59375:48.0|67,127,0.59375:48.75|67,127,0.39583334:49.5|69,127,0.59375:50.0|69,127,0.59375:50.75|69,127,0.39583334:51.5|70,127,0.59375:52.0|70,127,0.59375:52.75|70,127,0.39583334:53.5|73,127,0.59375:54.0|74,127,0.59375:54.75|76,127,0.39583334:55.5|69,127,6.1979165:56.0|74,127,5.59375:64.0|72,127,0.7916667:70.0|70,127,0.7916667:71.0|69,127,1.59375:72.0|67,127,4.0833335:74.0|74,127,0.59375:80.0|69,127,0.59375:80.75|65,127,0.39583334:81.5|69,127,0.59375:82.0|65,127,0.59375:82.75|62,127,0.39583334:83.5|65,127,0.59375:84.0|64,127,0.59375:84.75|62,127,0.39583334:85.5|64,127,0.59375:86.0|62,127,0.59375:86.75|61,127,0.39583334:87.5|62,127,6.1979165:88.0|67,127,0.7916667:96.0|67,127,0.39583334:97.0|67,127,0.39583334:97.5|67,127,0.59375:98.0|65,127,0.59375:98.75|64,127,0.39583334:99.5|65,127,0.7916667:100.0|65,127,0.39583334:101.0|65,127,0.39583334:101.5|65,127,0.59375:102.0|64,127,0.59375:102.75|62,127,0.39583334:103.5|64,127,0.39583334:104.0|64,127,1.1979166:104.5|64,127,0.59375:106.0|64,127,0.19791667:106.75|65,127,0.59375:107.0|67,127,0.19791667:107.75|69,127,3.1979167:108.0|67,127,0.7916667:112.0|67,127,0.39583334:113.0|67,127,0.39583334:113.5|67,127,0.59375:114.0|65,127,0.59375:114.75|64,127,0.39583334:115.5|65,127,0.7916667:116.0|65,127,0.39583334:117.0|65,127,0.39583334:117.5|65,127,0.59375:118.0|64,127,0.59375:118.75|62,127,0.39583334:119.5|64,127,0.59375:120.0|64,127,0.59375:120.75|64,127,0.39583334:121.5|65,127,0.59375:122.0|65,127,0.59375:122.75|65,127,0.39583334:123.5|64,127,3.1979167:124.0|62,127,0.7916667:128.0|62,127,0.39583334:129.0|62,127,4.0833335:129.5|62,127,0.59375:134.0|64,127,0.59375:134.75|65,127,0.39583334:135.5|69,127,1.59375:136.0|67,127,4.0833335:138.0|67,127,0.59375:144.0|67,127,0.59375:144.75|67,127,0.39583334:145.5|69,127,0.59375:146.0|69,127,0.59375:146.75|69,127,0.39583334:147.5|70,127,0.59375:148.0|70,127,0.59375:148.75|70,127,0.39583334:149.5|73,127,0.59375:150.0|74,127,0.59375:150.75|76,127,0.39583334:151.5|69,127,6.1979165:152.0|74,127,5.59375:160.0|72,127,0.7916667:166.0|70,127,0.7916667:167.0|69,127,1.59375:168.0|67,127,4.0833335:170.0|74,127,0.59375:176.0|69,127,0.59375:176.75|65,127,0.39583334:177.5|69,127,0.59375:178.0|65,127,0.59375:178.75|62,127,0.39583334:179.5|65,127,0.59375:180.0|64,127,0.59375:180.75|62,127,0.39583334:181.5|64,127,0.7916667:182.0|65,127,0.7916667:183.0|62,127,6.1979165:184.0|62,127,0.7864583:672.0|62,127,0.39583334:673.0|62,127,3.59375:673.5|62,127,0.59375:678.0|64,127,0.59375:678.75|65,127,0.39583334:679.5|69,127,1.59375:680.0|67,127,4.0833335:682.0|67,127,0.59375:688.0|67,127,0.59375:688.75|67,127,0.39583334:689.5|69,127,0.59375:690.0|69,127,0.59375:690.75|69,127,0.39583334:691.5|70,127,0.59375:692.0|70,127,0.59375:692.75|70,127,0.39583334:693.5|73,127,0.59375:694.0|74,127,0.59375:694.75|76,127,0.39583334:695.5|69,127,6.1979165:696.0|74,127,5.59375:704.0|72,127,0.7916667:710.0|70,127,0.7916667:711.0|69,127,1.59375:712.0|67,127,4.0833335:714.0|74,127,0.59375:720.0|69,127,0.59375:720.75|65,127,0.39583334:721.5|69,127,0.59375:722.0|65,127,0.59375:722.75|62,127,0.39583334:723.5|65,127,0.59375:724.0|64,127,0.59375:724.75|62,127,0.39583334:725.5|64,127,0.59375:726.0|62,127,0.59375:726.75|61,127,0.39583334:727.5|62,127,6.1979165:728.0|67,127,0.7916667:736.0|67,127,0.39583334:737.0|67,127,0.39583334:737.5|67,127,0.59375:738.0|65,127,0.59375:738.75|64,127,0.39583334:739.5|65,127,0.7916667:740.0|65,127,0.39583334:741.0|65,127,0.39583334:741.5|65,127,0.59375:742.0|64,127,0.59375:742.75|62,127,0.39583334:743.5|64,127,0.39583334:744.0|64,127,1.1979166:744.5|64,127,0.59375:746.0|64,127,0.19791667:746.75|65,127,0.59375:747.0|67,127,0.19791667:747.75|69,127,3.1979167:748.0|67,127,0.7916667:752.0|67,127,0.39583334:753.0|67,127,0.39583334:753.5|67,127,0.59375:754.0|65,127,0.59375:754.75|64,127,0.39583334:755.5|65,127,0.7916667:756.0|65,127,0.39583334:757.0|65,127,0.39583334:757.5|65,127,0.59375:758.0|64,127,0.59375:758.75|62,127,0.39583334:759.5|64,127,0.59375:760.0|64,127,0.59375:760.75|64,127,0.39583334:761.5|65,127,0.59375:762.0|65,127,0.59375:762.75|65,127,0.39583334:763.5|64,127,3.1979167:764.0|62,127,0.7916667:768.0|62,127,0.39583334:769.0|62,127,4.0833335:769.5|62,127,0.59375:774.0|64,127,0.59375:774.75|65,127,0.39583334:775.5|69,127,1.59375:776.0|67,127,4.0833335:778.0|67,127,0.59375:784.0|67,127,0.59375:784.75|67,127,0.39583334:785.5|69,127,0.59375:786.0|69,127,0.59375:786.75|69,127,0.39583334:787.5|70,127,0.59375:788.0|70,127,0.59375:788.75|70,127,0.39583334:789.5|73,127,0.59375:790.0|74,127,0.59375:790.75|76,127,0.39583334:791.5|69,127,6.1979165:792.0|74,127,5.59375:800.0|72,127,0.7916667:806.0|70,127,0.7916667:807.0|69,127,1.59375:808.0|67,127,4.0833335:810.0|74,127,0.59375:816.0|69,127,0.59375:816.75|65,127,0.39583334:817.5|69,127,0.59375:818.0|65,127,0.59375:818.75|62,127,0.39583334:819.5|65,127,0.59375:820.0|64,127,0.59375:820.75|62,127,0.39583334:821.5|64,127,0.7916667:822.0|65,127,0.7916667:823.0|62,127,6.1979165:824.0]</spSaveString>
+        <spSaveString>[0|62,127,0.7916667:32.00904|62,126,0.39583334:32.96997|62,127,3.59375:33.504658|62,125,0.59375:37.994183|64,127,0.59375:38.733364|65,127,0.39583334:39.48401|69,126,1.59375:40.01085|67,126,4.0833335:41.992504|67,125,0.59375:47.98297|67,125,0.59375:48.738235|67,127,0.39583334:49.508163|69,126,0.59375:49.98356|69,124,0.59375:50.737255|69,126,0.39583334:51.515553|70,127,0.59375:52.017532|70,127,0.59375:52.724197|70,127,0.39583334:53.49082|73,127,0.59375:53.991463|74,125,0.59375:54.73525|76,127,0.39583334:55.4733|69,127,6.1979165:55.997158|74,127,5.59375:64.00115|72,127,0.7916667:69.98134|70,127,0.7916667:70.98978|69,127,1.59375:71.98935|67,124,4.0833335:73.989105|74,127,0.59375:79.9888|69,127,0.59375:80.76425|65,127,0.39583334:81.51322|69,126,0.59375:81.999146|65,127,0.59375:82.75818|62,127,0.39583334:83.50855|65,127,0.59375:83.99882|64,126,0.59375:84.7383|62,126,0.39583334:85.49573|64,125,0.59375:85.98921|62,126,0.59375:86.75157|61,127,0.39583334:87.507774|62,124,6.1979165:87.98852|67,127,0.7916667:96.007164|67,127,0.39583334:96.996666|67,125,0.39583334:97.51115|67,126,0.59375:97.98798|65,127,0.59375:98.73861|64,126,0.39583334:99.49479|65,127,0.7916667:99.99051|65,127,0.39583334:101.00665|65,126,0.39583334:101.479645|65,126,0.59375:102.00013|64,124,0.59375:102.73129|62,127,0.39583334:103.50309|64,126,0.39583334:103.964615|64,126,1.1979166:104.49077|64,127,0.59375:105.99088|64,127,0.19791667:106.74037|65,127,0.59375:106.9903|67,124,0.19791667:107.72213|69,126,3.1979167:107.99786|67,126,0.7916667:112.009575|67,127,0.39583334:112.97622|67,126,0.39583334:113.48659|67,127,0.59375:113.99639|65,126,0.59375:114.76947|64,125,0.39583334:115.50177|65,126,0.7916667:115.97135|65,126,0.39583334:116.98302|65,127,0.39583334:117.49116|65,127,0.59375:117.998116|64,126,0.59375:118.74696|62,126,0.39583334:119.507774|64,127,0.59375:119.99077|64,127,0.59375:120.72534|64,127,0.39583334:121.48571|65,123,0.59375:122.00116|65,126,0.59375:122.752365|65,127,0.39583334:123.49052|64,127,3.1979167:124.005486|62,127,0.7916667:128.00159|62,127,0.39583334:128.99411|62,127,4.0833335:129.49066|62,127,0.59375:134.00938|64,127,0.59375:134.7473|65,127,0.39583334:135.51987|69,127,1.59375:136.00658|67,127,4.0833335:137.98824|67,122,0.59375:144.00497|67,126,0.59375:144.74275|67,126,0.39583334:145.4706|69,127,0.59375:145.98773|69,127,0.59375:146.75632|69,126,0.39583334:147.4946|70,127,0.59375:147.989|70,124,0.59375:148.74887|70,126,0.39583334:149.47894|73,127,0.59375:149.98238|74,125,0.59375:150.74995|76,127,0.39583334:151.48256|69,127,6.1979165:151.99533|74,127,5.59375:159.98706|72,127,0.7916667:165.9756|70,127,0.7916667:166.99132|69,127,1.59375:167.99658|67,127,4.0833335:169.9785|74,127,0.59375:176.00636|69,126,0.59375:176.74864|65,127,0.39583334:177.48183|69,127,0.59375:177.99872|65,127,0.59375:178.75061|62,127,0.39583334:179.49046|65,127,0.59375:180.01015|64,127,0.59375:180.74037|62,122,0.39583334:181.50772|64,124,0.7916667:181.97964|65,126,0.7916667:182.9883|62,126,6.1979165:184.00583|62,127,0.7864583:671.99884|62,127,0.39583334:672.99756|62,124,3.59375:673.4876|62,127,0.59375:677.9803|64,127,0.59375:678.7537|65,125,0.39583334:679.49194|69,127,1.59375:679.9846|67,124,4.0833335:681.9916|67,127,0.59375:688.0017|67,125,0.59375:688.73895|67,127,0.39583334:689.5155|69,127,0.59375:690.0066|69,127,0.59375:690.74634|69,124,0.39583334:691.5084|70,123,0.59375:691.99927|70,122,0.59375:692.75684|70,127,0.39583334:693.491|73,126,0.59375:694.012|74,127,0.59375:694.7619|76,127,0.39583334:695.4971|69,127,6.1979165:695.96826|74,125,5.59375:703.9807|72,127,0.7916667:709.98474|70,127,0.7916667:711.01587|69,127,1.59375:711.9946|67,126,4.0833335:713.9745|74,125,0.59375:719.9726|69,127,0.59375:720.75323|65,127,0.39583334:721.48724|69,127,0.59375:721.97284|65,127,0.59375:722.7488|62,124,0.39583334:723.50635|65,126,0.59375:723.98724|64,125,0.59375:724.7354|62,126,0.39583334:725.4933|64,127,0.59375:725.9873|62,124,0.59375:726.7536|61,126,0.39583334:727.50604|62,125,6.1979165:727.9932|67,124,0.7916667:735.9713|67,127,0.39583334:736.98926|67,126,0.39583334:737.4896|67,127,0.59375:738.0239|65,127,0.59375:738.74603|64,127,0.39583334:739.47797|65,127,0.7916667:739.9913|65,127,0.39583334:740.9876|65,126,0.39583334:741.47565|65,126,0.59375:741.99493|64,126,0.59375:742.75397|62,127,0.39583334:743.49835|64,127,0.39583334:743.98376|64,127,1.1979166:744.49384|64,121,0.59375:746.01263|64,127,0.19791667:746.76044|65,127,0.59375:746.9886|67,127,0.19791667:747.74384|69,125,3.1979167:747.986|67,127,0.7916667:752.0059|67,125,0.39583334:752.9853|67,127,0.39583334:753.48987|67,126,0.59375:754.0007|65,127,0.59375:754.73315|64,126,0.39583334:755.4819|65,127,0.7916667:755.99097|65,126,0.39583334:756.9927|65,126,0.39583334:757.4898|65,126,0.59375:757.9764|64,127,0.59375:758.7323|62,123,0.39583334:759.4862|64,125,0.59375:760.0139|64,127,0.59375:760.73376|64,124,0.39583334:761.4963|65,127,0.59375:762.0057|65,127,0.59375:762.73645|65,127,0.39583334:763.4838|64,127,3.1979167:763.9961|62,127,0.7916667:767.9747|62,126,0.39583334:768.99774|62,127,4.0833335:769.50433|62,126,0.59375:773.99615|64,125,0.59375:774.7349|65,127,0.39583334:775.4945|69,127,1.59375:776.00006|67,127,4.0833335:778.004|67,126,0.59375:783.989|67,127,0.59375:784.7473|67,125,0.39583334:785.51025|69,127,0.59375:785.98126|69,127,0.59375:786.7591|69,123,0.39583334:787.4969|70,126,0.59375:787.98096|70,127,0.59375:788.7354|70,127,0.39583334:789.487|73,125,0.59375:789.9926|74,126,0.59375:790.72906|76,127,0.39583334:791.5037|69,126,6.1979165:792.0076|74,124,5.59375:799.976|72,126,0.7916667:806.01215|70,127,0.7916667:806.9907|69,126,1.59375:807.99927|67,127,4.0833335:810.00476|74,127,0.59375:816.0066|69,127,0.59375:816.7752|65,127,0.39583334:817.5273|69,127,0.59375:817.9973|65,123,0.59375:818.759|62,124,0.39583334:819.4906|65,127,0.59375:819.9904|64,127,0.59375:820.7389|62,127,0.39583334:821.5076|64,126,0.7916667:821.98096|65,121,0.7916667:822.9984|62,125,6.1979165:824.0037]</spSaveString>
       </Phrase>
     </entry>
   </spMapUserPhrases>
@@ -1572,8 +1610,12 @@
         <string>ONE_QUARTER_BEAT</string>
       </entry>
       <entry>
+        <string>PropSsEditorZoomFactorY</string>
+        <string>50</string>
+      </entry>
+      <entry>
         <string>PropSsEditorZoomFactorX</string>
-        <string>2</string>
+        <string>4</string>
       </entry>
       <entry>
         <string>SectionDisplayQuantization-B*4/4</string>
@@ -1585,7 +1627,7 @@
       </entry>
       <entry>
         <string>PropCompactViewModeVisibleRps_BossaNova2.S469.prs-ID</string>
-        <string>rpVariationID,rpIntensityID,RpFillID,rpSysMarkerID</string>
+        <string>rpVariationID,rpIntensityID,RpFillID,RpSysMuteID,rpSysMarkerID</string>
       </entry>
       <entry>
         <string>SectionDisplayQuantization-A2*4/4</string>
