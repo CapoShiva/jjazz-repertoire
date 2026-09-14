@@ -1,9 +1,9 @@
 <MidiMix resolves-to="MidiMixSP">
-  <spVERSION>3</spVERSION>
+  <spVERSION>5</spVERSION>
   <spInsMixes>
     <null/>
     <InstrumentMix resolves-to="InstrumentMixSP" spVERSION="2" spInsEnabled="true" spMute="false">
-      <spIns resolves-to="InstrumentSP" spVERSION="2" spSaveString="PSR-SX900#:#/home/admin/.jjazzlab/4.1.1/.jjazz/MidiSynthFiles/PSRSX900.ins#_#PSR-SX900 SuperArticulation Bank 1059#_#S.Art! JazzGuitarSmooth SW" spPatchname="S.Art! JazzGuitarSmooth SW"/>
+      <spIns resolves-to="InstrumentSP" spVERSION="2" spSaveString="FluidSynth#:#NOT_SET#_#Bank 1#_#Flute 2" spPatchname="Flute 2"/>
       <spInsSettings resolves-to="InstrumentSettingsSP" spVERSION="2" spTransposition="0" spVelocityShift="0" spVolume="88">
         <spPanoramic>64</spPanoramic>
         <spReverb>20</spReverb>
@@ -15,7 +15,7 @@
       </spInsSettings>
     </InstrumentMix>
     <InstrumentMix resolves-to="InstrumentMixSP" spVERSION="2" spInsEnabled="true" spMute="false">
-      <spIns resolves-to="InstrumentSP" spVERSION="2" spSaveString="PSR-SX900#:#/home/admin/.jjazzlab/4.1.1/.jjazz/MidiSynthFiles/PSRSX900.ins#_#PSR-SX900 Bank 113#_#Live! GrandPiano" spPatchname="Live! GrandPiano"/>
+      <spIns resolves-to="InstrumentSP" spVERSION="2" spSaveString="FluidSynth#:#NOT_SET#_#GM Bank#_#Grand Piano" spPatchname="Grand Piano"/>
       <spInsSettings resolves-to="InstrumentSettingsSP" spVERSION="2" spTransposition="0" spVelocityShift="0" spVolume="54">
         <spPanoramic>64</spPanoramic>
         <spReverb>20</spReverb>
@@ -27,7 +27,7 @@
       </spInsSettings>
     </InstrumentMix>
     <InstrumentMix resolves-to="InstrumentMixSP" spVERSION="2" spInsEnabled="true" spMute="false">
-      <spIns resolves-to="InstrumentSP" spVERSION="2" spSaveString="PSR-SX900#:#/home/admin/.jjazzlab/4.1.1/.jjazz/MidiSynthFiles/PSRSX900.ins#_#PSR-SX900 MSB104 Bank 13327#_#Cool! VintageEP Drive" spPatchname="Cool! VintageEP Drive"/>
+      <spIns reference="../../InstrumentMix[2]/spIns"/>
       <spInsSettings resolves-to="InstrumentSettingsSP" spVERSION="2" spTransposition="0" spVelocityShift="0" spVolume="57">
         <spPanoramic>64</spPanoramic>
         <spReverb>20</spReverb>
@@ -44,7 +44,7 @@
     <null/>
     <null/>
     <InstrumentMix resolves-to="InstrumentMixSP" spVERSION="2" spInsEnabled="true" spMute="false">
-      <spIns resolves-to="InstrumentSP" spVERSION="2" spSaveString="PSR-SX900#:#/home/admin/.jjazzlab/4.1.1/.jjazz/MidiSynthFiles/PSRSX900.ins#_#PSR-SX900 Drums#_#PSR-SX900 Live!Drums JazzBrushKitComp" spPatchname="PSR-SX900 Live!Drums JazzBrushKitComp"/>
+      <spIns resolves-to="InstrumentSP" spVERSION="2" spSaveString="FluidSynth#:#NOT_SET#_#Drums#_#Brush Kit" spPatchname="Brush Kit"/>
       <spInsSettings resolves-to="InstrumentSettingsSP" spVERSION="2" spTransposition="0" spVelocityShift="0" spVolume="96">
         <spPanoramic>64</spPanoramic>
         <spReverb>26</spReverb>
@@ -56,7 +56,7 @@
       </spInsSettings>
     </InstrumentMix>
     <InstrumentMix resolves-to="InstrumentMixSP" spVERSION="2" spInsEnabled="true" spMute="false">
-      <spIns resolves-to="InstrumentSP" spVERSION="2" spSaveString="PSR-SX900#:#/home/admin/.jjazzlab/4.1.1/.jjazz/MidiSynthFiles/PSRSX900.ins#_#PSR-SX900 SuperArticulation Bank 1058#_#S.Art! AcousticJazzBass" spPatchname="S.Art! AcousticJazzBass"/>
+      <spIns resolves-to="InstrumentSP" spVERSION="2" spSaveString="FluidSynth#:#NOT_SET#_#GM Bank#_#Acoustic Bass" spPatchname="Acoustic Bass"/>
       <spInsSettings resolves-to="InstrumentSettingsSP" spVERSION="2" spTransposition="0" spVelocityShift="0" spVolume="92">
         <spPanoramic>64</spPanoramic>
         <spReverb>0</spReverb>
@@ -67,8 +67,8 @@
         <spVolumeEnabled>true</spVolumeEnabled>
       </spInsSettings>
     </InstrumentMix>
-    <InstrumentMix resolves-to="InstrumentMixSP" spVERSION="2" spInsEnabled="true" spMute="true">
-      <spIns reference="../../InstrumentMix[3]/spIns"/>
+    <InstrumentMix resolves-to="InstrumentMixSP" spVERSION="2" spInsEnabled="true" spMute="false">
+      <spIns reference="../../InstrumentMix[2]/spIns"/>
       <spInsSettings resolves-to="InstrumentSettingsSP" spVERSION="2" spTransposition="0" spVelocityShift="0" spVolume="64">
         <spPanoramic>64</spPanoramic>
         <spReverb>26</spReverb>
@@ -79,8 +79,8 @@
         <spVolumeEnabled>true</spVolumeEnabled>
       </spInsSettings>
     </InstrumentMix>
-    <InstrumentMix resolves-to="InstrumentMixSP" spVERSION="2" spInsEnabled="true" spMute="true">
-      <spIns reference="../../InstrumentMix/spIns"/>
+    <InstrumentMix resolves-to="InstrumentMixSP" spVERSION="2" spInsEnabled="true" spMute="false">
+      <spIns resolves-to="InstrumentSP" spVERSION="2" spSaveString="FluidSynth#:#NOT_SET#_#GM Bank#_#Jazz Guitar" spPatchname="Jazz Guitar"/>
       <spInsSettings resolves-to="InstrumentSettingsSP" spVERSION="2" spTransposition="0" spVelocityShift="0" spVolume="50">
         <spPanoramic>36</spPanoramic>
         <spReverb>26</spReverb>
@@ -92,8 +92,8 @@
       </spInsSettings>
     </InstrumentMix>
     <null/>
-    <InstrumentMix resolves-to="InstrumentMixSP" spVERSION="2" spInsEnabled="true" spMute="true">
-      <spIns resolves-to="InstrumentSP" spVERSION="2" spSaveString="PSR-SX900#:#/home/admin/.jjazzlab/4.1.1/.jjazz/MidiSynthFiles/PSRSX900.ins#_#PSR-SX900 SuperArticulation Bank 1056#_#S.Art! OrchestralFlute" spPatchname="S.Art! OrchestralFlute"/>
+    <InstrumentMix resolves-to="InstrumentMixSP" spVERSION="2" spInsEnabled="true" spMute="false">
+      <spIns resolves-to="InstrumentSP" spVERSION="2" spSaveString="FluidSynth#:#NOT_SET#_#GM Bank#_#Flute" spPatchname="Flute"/>
       <spInsSettings resolves-to="InstrumentSettingsSP" spVERSION="2" spTransposition="0" spVelocityShift="0" spVolume="94">
         <spPanoramic>75</spPanoramic>
         <spReverb>41</spReverb>
@@ -110,18 +110,15 @@
     <null/>
     <RvStorage>
       <rhythmId>SpUserChannelRhythmID</rhythmId>
-      <rvName>User1</rvName>
-      <outer-class reference="../../.."/>
+      <rvName>Lead</rvName>
     </RvStorage>
     <RvStorage>
       <rhythmId>SpUserChannelRhythmID</rhythmId>
-      <rvName>User2</rvName>
-      <outer-class reference="../../.."/>
+      <rvName>Chords1</rvName>
     </RvStorage>
     <RvStorage>
       <rhythmId>SpUserChannelRhythmID</rhythmId>
-      <rvName>User3</rvName>
-      <outer-class reference="../../.."/>
+      <rvName>Chords2</rvName>
     </RvStorage>
     <null/>
     <null/>
@@ -131,28 +128,23 @@
     <RvStorage>
       <rhythmId>MediumJazz.S737.sst-ID</rhythmId>
       <rvName>Rhythm</rvName>
-      <outer-class reference="../../.."/>
     </RvStorage>
     <RvStorage>
       <rhythmId>MediumJazz.S737.sst-ID</rhythmId>
       <rvName>Bass</rvName>
-      <outer-class reference="../../.."/>
     </RvStorage>
     <RvStorage>
       <rhythmId>MediumJazz.S737.sst-ID</rhythmId>
       <rvName>Chord1</rvName>
-      <outer-class reference="../../.."/>
     </RvStorage>
     <RvStorage>
       <rhythmId>MediumJazz.S737.sst-ID</rhythmId>
       <rvName>Chord2</rvName>
-      <outer-class reference="../../.."/>
     </RvStorage>
     <null/>
     <RvStorage>
       <rhythmId>MediumJazz.S737.sst-ID</rhythmId>
       <rvName>Phrase1</rvName>
-      <outer-class reference="../../.."/>
     </RvStorage>
     <null/>
   </spKeys>

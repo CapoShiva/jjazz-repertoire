@@ -1,18 +1,9 @@
-<MidiMix resolves-to="org.jjazz.midimix.api.MidiMix$SerializationProxy">
-  <spVERSION>2</spVERSION>
+<MidiMix resolves-to="MidiMixSP">
+  <spVERSION>5</spVERSION>
   <spInsMixes>
-    <org.jjazz.midi.api.InstrumentMix resolves-to="org.jjazz.midi.api.InstrumentMix$SerializationProxy">
-      <spVERSION>1</spVERSION>
-      <spIns resolves-to="org.jjazz.midi.api.Instrument$SerializationProxy">
-        <spVERSION>1</spVERSION>
-        <spSaveString>PSR-SX900#:#/home/admin/.jjazzlab/4.0.2/.jjazz/MidiSynthFiles/PSRSX900.ins#_#PSR-SX900 MSB104 Bank 13327#_#Cool! VintageEP Drive</spSaveString>
-        <spPatchname>Cool! VintageEP Drive</spPatchname>
-      </spIns>
-      <spInsSettings resolves-to="org.jjazz.midi.api.InstrumentSettings$SerializationProxy">
-        <spVERSION>1</spVERSION>
-        <spTransposition>0</spTransposition>
-        <spVelocityShift>0</spVelocityShift>
-        <spVolume>81</spVolume>
+    <InstrumentMix resolves-to="InstrumentMixSP" spVERSION="2" spInsEnabled="true" spMute="false">
+      <spIns resolves-to="InstrumentSP" spVERSION="2" spSaveString="FluidSynth#:#NOT_SET#_#GM Bank#_#E.Piano2" spPatchname="E.Piano2"/>
+      <spInsSettings resolves-to="InstrumentSettingsSP" spVERSION="2" spTransposition="0" spVelocityShift="0" spVolume="81">
         <spPanoramic>64</spPanoramic>
         <spReverb>20</spReverb>
         <spChorus>8</spChorus>
@@ -21,22 +12,11 @@
         <spChorusEnabled>true</spChorusEnabled>
         <spVolumeEnabled>true</spVolumeEnabled>
       </spInsSettings>
-      <spInsEnabled>true</spInsEnabled>
-      <spMute>false</spMute>
-    </org.jjazz.midi.api.InstrumentMix>
+    </InstrumentMix>
     <null/>
-    <org.jjazz.midi.api.InstrumentMix resolves-to="org.jjazz.midi.api.InstrumentMix$SerializationProxy">
-      <spVERSION>1</spVERSION>
-      <spIns resolves-to="org.jjazz.midi.api.Instrument$SerializationProxy">
-        <spVERSION>1</spVERSION>
-        <spSaveString>PSR-SX900#:#/home/admin/.jjazzlab/4.0.2/.jjazz/MidiSynthFiles/PSRSX900.ins#_#PSR-SX900 SuperArticulation Bank 1058#_#S.Art! SoftAltoSax</spSaveString>
-        <spPatchname>S.Art! SoftAltoSax</spPatchname>
-      </spIns>
-      <spInsSettings resolves-to="org.jjazz.midi.api.InstrumentSettings$SerializationProxy">
-        <spVERSION>1</spVERSION>
-        <spTransposition>0</spTransposition>
-        <spVelocityShift>0</spVelocityShift>
-        <spVolume>77</spVolume>
+    <InstrumentMix resolves-to="InstrumentMixSP" spVERSION="2" spInsEnabled="true" spMute="false">
+      <spIns resolves-to="InstrumentSP" spVERSION="2" spSaveString="FluidSynth#:#NOT_SET#_#GM Bank#_#Alto Sax" spPatchname="Alto Sax"/>
+      <spInsSettings resolves-to="InstrumentSettingsSP" spVERSION="2" spTransposition="0" spVelocityShift="0" spVolume="77">
         <spPanoramic>64</spPanoramic>
         <spReverb>20</spReverb>
         <spChorus>8</spChorus>
@@ -45,21 +25,10 @@
         <spChorusEnabled>true</spChorusEnabled>
         <spVolumeEnabled>true</spVolumeEnabled>
       </spInsSettings>
-      <spInsEnabled>true</spInsEnabled>
-      <spMute>false</spMute>
-    </org.jjazz.midi.api.InstrumentMix>
-    <org.jjazz.midi.api.InstrumentMix resolves-to="org.jjazz.midi.api.InstrumentMix$SerializationProxy">
-      <spVERSION>1</spVERSION>
-      <spIns resolves-to="org.jjazz.midi.api.Instrument$SerializationProxy">
-        <spVERSION>1</spVERSION>
-        <spSaveString>PSR-SX900#:#/home/admin/.jjazzlab/4.0.2/.jjazz/MidiSynthFiles/PSRSX900.ins#_#PSR-SX900 Bank 115#_#Sweet! Trumpet</spSaveString>
-        <spPatchname>Sweet! Trumpet</spPatchname>
-      </spIns>
-      <spInsSettings resolves-to="org.jjazz.midi.api.InstrumentSettings$SerializationProxy">
-        <spVERSION>1</spVERSION>
-        <spTransposition>0</spTransposition>
-        <spVelocityShift>0</spVelocityShift>
-        <spVolume>80</spVolume>
+    </InstrumentMix>
+    <InstrumentMix resolves-to="InstrumentMixSP" spVERSION="2" spInsEnabled="true" spMute="false">
+      <spIns resolves-to="InstrumentSP" spVERSION="2" spSaveString="FluidSynth#:#NOT_SET#_#GM Bank#_#Trumpet" spPatchname="Trumpet"/>
+      <spInsSettings resolves-to="InstrumentSettingsSP" spVERSION="2" spTransposition="0" spVelocityShift="0" spVolume="80">
         <spPanoramic>64</spPanoramic>
         <spReverb>20</spReverb>
         <spChorus>8</spChorus>
@@ -68,67 +37,27 @@
         <spChorusEnabled>true</spChorusEnabled>
         <spVolumeEnabled>true</spVolumeEnabled>
       </spInsSettings>
-      <spInsEnabled>true</spInsEnabled>
-      <spMute>false</spMute>
-    </org.jjazz.midi.api.InstrumentMix>
+    </InstrumentMix>
     <null/>
     <null/>
     <null/>
     <null/>
-    <org.jjazz.midi.api.InstrumentMix resolves-to="org.jjazz.midi.api.InstrumentMix$SerializationProxy">
-      <spVERSION>1</spVERSION>
-      <spIns resolves-to="org.jjazz.midi.api.Instrument$SerializationProxy">
-        <spVERSION>1</spVERSION>
-        <spSaveString>PSR-SX900#:#/home/admin/.jjazzlab/4.0.2/.jjazz/MidiSynthFiles/PSRSX900.ins#_#PSR-SX900 Drums#_#PSR-SX900 Live!Drums JazzBrushKitComp</spSaveString>
-        <spPatchname>PSR-SX900 Live!Drums JazzBrushKitComp</spPatchname>
-      </spIns>
-      <spInsSettings resolves-to="org.jjazz.midi.api.InstrumentSettings$SerializationProxy">
-        <spVERSION>1</spVERSION>
-        <spTransposition>0</spTransposition>
-        <spVelocityShift>0</spVelocityShift>
-        <spVolume>77</spVolume>
+    <null/>
+    <InstrumentMix resolves-to="InstrumentMixSP" spVERSION="2" spInsEnabled="true" spMute="false">
+      <spIns resolves-to="InstrumentSP" spVERSION="2" spSaveString="FluidSynth#:#NOT_SET#_#Drums#_#Jazz Kit" spPatchname="Jazz Kit"/>
+      <spInsSettings resolves-to="InstrumentSettingsSP" spVERSION="2" spTransposition="0" spVelocityShift="15" spVolume="106">
         <spPanoramic>64</spPanoramic>
-        <spReverb>15</spReverb>
+        <spReverb>23</spReverb>
         <spChorus>8</spChorus>
         <spPanoramicEnabled>true</spPanoramicEnabled>
         <spReverbEnabled>true</spReverbEnabled>
         <spChorusEnabled>true</spChorusEnabled>
         <spVolumeEnabled>true</spVolumeEnabled>
       </spInsSettings>
-      <spInsEnabled>true</spInsEnabled>
-      <spMute>false</spMute>
-    </org.jjazz.midi.api.InstrumentMix>
-    <org.jjazz.midi.api.InstrumentMix resolves-to="org.jjazz.midi.api.InstrumentMix$SerializationProxy">
-      <spVERSION>1</spVERSION>
-      <spIns reference="../../org.jjazz.midi.api.InstrumentMix[4]/spIns"/>
-      <spInsSettings resolves-to="org.jjazz.midi.api.InstrumentSettings$SerializationProxy">
-        <spVERSION>1</spVERSION>
-        <spTransposition>0</spTransposition>
-        <spVelocityShift>0</spVelocityShift>
-        <spVolume>77</spVolume>
-        <spPanoramic>64</spPanoramic>
-        <spReverb>15</spReverb>
-        <spChorus>8</spChorus>
-        <spPanoramicEnabled>true</spPanoramicEnabled>
-        <spReverbEnabled>true</spReverbEnabled>
-        <spChorusEnabled>true</spChorusEnabled>
-        <spVolumeEnabled>true</spVolumeEnabled>
-      </spInsSettings>
-      <spInsEnabled>true</spInsEnabled>
-      <spMute>false</spMute>
-    </org.jjazz.midi.api.InstrumentMix>
-    <org.jjazz.midi.api.InstrumentMix resolves-to="org.jjazz.midi.api.InstrumentMix$SerializationProxy">
-      <spVERSION>1</spVERSION>
-      <spIns resolves-to="org.jjazz.midi.api.Instrument$SerializationProxy">
-        <spVERSION>1</spVERSION>
-        <spSaveString>PSR-SX900#:#/home/admin/.jjazzlab/4.0.2/.jjazz/MidiSynthFiles/PSRSX900.ins#_#PSR-SX900 SuperArticulation Bank 1057#_#S.Art! SoftAcousticBass</spSaveString>
-        <spPatchname>S.Art! SoftAcousticBass</spPatchname>
-      </spIns>
-      <spInsSettings resolves-to="org.jjazz.midi.api.InstrumentSettings$SerializationProxy">
-        <spVERSION>1</spVERSION>
-        <spTransposition>0</spTransposition>
-        <spVelocityShift>0</spVelocityShift>
-        <spVolume>108</spVolume>
+    </InstrumentMix>
+    <InstrumentMix resolves-to="InstrumentMixSP" spVERSION="2" spInsEnabled="true" spMute="false">
+      <spIns resolves-to="InstrumentSP" spVERSION="2" spSaveString="FluidSynth#:#NOT_SET#_#GM Bank#_#Acoustic Bass" spPatchname="Acoustic Bass"/>
+      <spInsSettings resolves-to="InstrumentSettingsSP" spVERSION="2" spTransposition="0" spVelocityShift="0" spVolume="84">
         <spPanoramic>64</spPanoramic>
         <spReverb>0</spReverb>
         <spChorus>8</spChorus>
@@ -137,181 +66,72 @@
         <spChorusEnabled>true</spChorusEnabled>
         <spVolumeEnabled>true</spVolumeEnabled>
       </spInsSettings>
-      <spInsEnabled>true</spInsEnabled>
-      <spMute>false</spMute>
-    </org.jjazz.midi.api.InstrumentMix>
-    <org.jjazz.midi.api.InstrumentMix resolves-to="org.jjazz.midi.api.InstrumentMix$SerializationProxy">
-      <spVERSION>1</spVERSION>
-      <spIns resolves-to="org.jjazz.midi.api.Instrument$SerializationProxy">
-        <spVERSION>1</spVERSION>
-        <spSaveString>PSR-SX900#:#/home/admin/.jjazzlab/4.0.2/.jjazz/MidiSynthFiles/PSRSX900.ins#_#PSR-SX900 MSB104 Bank 13312#_#Cool! DX Sweet</spSaveString>
-        <spPatchname>Cool! DX Sweet</spPatchname>
-      </spIns>
-      <spInsSettings resolves-to="org.jjazz.midi.api.InstrumentSettings$SerializationProxy">
-        <spVERSION>1</spVERSION>
-        <spTransposition>0</spTransposition>
-        <spVelocityShift>0</spVelocityShift>
-        <spVolume>64</spVolume>
-        <spPanoramic>64</spPanoramic>
-        <spReverb>15</spReverb>
+    </InstrumentMix>
+    <InstrumentMix resolves-to="InstrumentMixSP" spVERSION="2" spInsEnabled="true" spMute="false">
+      <spIns resolves-to="InstrumentSP" spVERSION="2" spSaveString="FluidSynth#:#NOT_SET#_#GM Bank#_#Grand Piano" spPatchname="Grand Piano"/>
+      <spInsSettings resolves-to="InstrumentSettingsSP" spVERSION="2" spTransposition="0" spVelocityShift="0" spVolume="79">
+        <spPanoramic>87</spPanoramic>
+        <spReverb>25</spReverb>
         <spChorus>8</spChorus>
         <spPanoramicEnabled>true</spPanoramicEnabled>
         <spReverbEnabled>true</spReverbEnabled>
         <spChorusEnabled>true</spChorusEnabled>
         <spVolumeEnabled>true</spVolumeEnabled>
       </spInsSettings>
-      <spInsEnabled>true</spInsEnabled>
-      <spMute>false</spMute>
-    </org.jjazz.midi.api.InstrumentMix>
-    <org.jjazz.midi.api.InstrumentMix resolves-to="org.jjazz.midi.api.InstrumentMix$SerializationProxy">
-      <spVERSION>1</spVERSION>
-      <spIns reference="../../org.jjazz.midi.api.InstrumentMix[7]/spIns"/>
-      <spInsSettings resolves-to="org.jjazz.midi.api.InstrumentSettings$SerializationProxy">
-        <spVERSION>1</spVERSION>
-        <spTransposition>0</spTransposition>
-        <spVelocityShift>0</spVelocityShift>
-        <spVolume>67</spVolume>
-        <spPanoramic>64</spPanoramic>
-        <spReverb>15</spReverb>
-        <spChorus>8</spChorus>
+    </InstrumentMix>
+    <InstrumentMix resolves-to="InstrumentMixSP" spVERSION="2" spInsEnabled="true" spMute="false">
+      <spIns resolves-to="InstrumentSP" spVERSION="2" spSaveString="FluidSynth#:#NOT_SET#_#GM Bank#_#Jazz Guitar" spPatchname="Jazz Guitar"/>
+      <spInsSettings resolves-to="InstrumentSettingsSP" spVERSION="2" spTransposition="0" spVelocityShift="0" spVolume="49">
+        <spPanoramic>36</spPanoramic>
+        <spReverb>24</spReverb>
+        <spChorus>15</spChorus>
         <spPanoramicEnabled>true</spPanoramicEnabled>
         <spReverbEnabled>true</spReverbEnabled>
         <spChorusEnabled>true</spChorusEnabled>
         <spVolumeEnabled>true</spVolumeEnabled>
       </spInsSettings>
-      <spInsEnabled>true</spInsEnabled>
-      <spMute>false</spMute>
-    </org.jjazz.midi.api.InstrumentMix>
-    <org.jjazz.midi.api.InstrumentMix resolves-to="org.jjazz.midi.api.InstrumentMix$SerializationProxy">
-      <spVERSION>1</spVERSION>
-      <spIns resolves-to="org.jjazz.midi.api.Instrument$SerializationProxy">
-        <spVERSION>1</spVERSION>
-        <spSaveString>PSR-SX900#:#/home/admin/.jjazzlab/4.0.2/.jjazz/MidiSynthFiles/PSRSX900.ins#_#GM/XG Bank 0#_#Muted Trumpet</spSaveString>
-        <spPatchname>Muted Trumpet</spPatchname>
-      </spIns>
-      <spInsSettings resolves-to="org.jjazz.midi.api.InstrumentSettings$SerializationProxy">
-        <spVERSION>1</spVERSION>
-        <spTransposition>0</spTransposition>
-        <spVelocityShift>0</spVelocityShift>
-        <spVolume>92</spVolume>
-        <spPanoramic>64</spPanoramic>
-        <spReverb>20</spReverb>
-        <spChorus>8</spChorus>
-        <spPanoramicEnabled>true</spPanoramicEnabled>
-        <spReverbEnabled>true</spReverbEnabled>
-        <spChorusEnabled>true</spChorusEnabled>
-        <spVolumeEnabled>true</spVolumeEnabled>
-      </spInsSettings>
-      <spInsEnabled>true</spInsEnabled>
-      <spMute>false</spMute>
-    </org.jjazz.midi.api.InstrumentMix>
-    <org.jjazz.midi.api.InstrumentMix resolves-to="org.jjazz.midi.api.InstrumentMix$SerializationProxy">
-      <spVERSION>1</spVERSION>
-      <spIns resolves-to="org.jjazz.midi.api.Instrument$SerializationProxy">
-        <spVERSION>1</spVERSION>
-        <spSaveString>PSR-SX900#:#/home/admin/.jjazzlab/4.0.2/.jjazz/MidiSynthFiles/PSRSX900.ins#_#GM/XG Bank 0#_#Alto Sax</spSaveString>
-        <spPatchname>Alto Sax</spPatchname>
-      </spIns>
-      <spInsSettings resolves-to="org.jjazz.midi.api.InstrumentSettings$SerializationProxy">
-        <spVERSION>1</spVERSION>
-        <spTransposition>0</spTransposition>
-        <spVelocityShift>0</spVelocityShift>
-        <spVolume>68</spVolume>
-        <spPanoramic>32</spPanoramic>
-        <spReverb>20</spReverb>
-        <spChorus>8</spChorus>
-        <spPanoramicEnabled>true</spPanoramicEnabled>
-        <spReverbEnabled>true</spReverbEnabled>
-        <spChorusEnabled>true</spChorusEnabled>
-        <spVolumeEnabled>true</spVolumeEnabled>
-      </spInsSettings>
-      <spInsEnabled>true</spInsEnabled>
-      <spMute>false</spMute>
-    </org.jjazz.midi.api.InstrumentMix>
-    <org.jjazz.midi.api.InstrumentMix resolves-to="org.jjazz.midi.api.InstrumentMix$SerializationProxy">
-      <spVERSION>1</spVERSION>
-      <spIns resolves-to="org.jjazz.midi.api.Instrument$SerializationProxy">
-        <spVERSION>1</spVERSION>
-        <spSaveString>PSR-SX900#:#/home/admin/.jjazzlab/4.0.2/.jjazz/MidiSynthFiles/PSRSX900.ins#_#GM/XG Bank 0#_#Tenor Sax</spSaveString>
-        <spPatchname>Tenor Sax</spPatchname>
-      </spIns>
-      <spInsSettings resolves-to="org.jjazz.midi.api.InstrumentSettings$SerializationProxy">
-        <spVERSION>1</spVERSION>
-        <spTransposition>0</spTransposition>
-        <spVelocityShift>0</spVelocityShift>
-        <spVolume>88</spVolume>
-        <spPanoramic>96</spPanoramic>
-        <spReverb>20</spReverb>
-        <spChorus>8</spChorus>
-        <spPanoramicEnabled>true</spPanoramicEnabled>
-        <spReverbEnabled>true</spReverbEnabled>
-        <spChorusEnabled>true</spChorusEnabled>
-        <spVolumeEnabled>true</spVolumeEnabled>
-      </spInsSettings>
-      <spInsEnabled>true</spInsEnabled>
-      <spMute>false</spMute>
-    </org.jjazz.midi.api.InstrumentMix>
+    </InstrumentMix>
+    <null/>
+    <null/>
+    <null/>
   </spInsMixes>
   <spKeys>
-    <org.jjazz.midimix.api.MidiMix_-SerializationProxy_-RvStorage>
+    <RvStorage>
       <rhythmId>SpUserChannelRhythmID</rhythmId>
       <rvName>Keys</rvName>
-      <outer-class reference="../../.."/>
-    </org.jjazz.midimix.api.MidiMix_-SerializationProxy_-RvStorage>
+    </RvStorage>
     <null/>
-    <org.jjazz.midimix.api.MidiMix_-SerializationProxy_-RvStorage>
+    <RvStorage>
       <rhythmId>SpUserChannelRhythmID</rhythmId>
       <rvName>AltSax</rvName>
-      <outer-class reference="../../.."/>
-    </org.jjazz.midimix.api.MidiMix_-SerializationProxy_-RvStorage>
-    <org.jjazz.midimix.api.MidiMix_-SerializationProxy_-RvStorage>
+    </RvStorage>
+    <RvStorage>
       <rhythmId>SpUserChannelRhythmID</rhythmId>
       <rvName>Trumpet</rvName>
-      <outer-class reference="../../.."/>
-    </org.jjazz.midimix.api.MidiMix_-SerializationProxy_-RvStorage>
+    </RvStorage>
     <null/>
     <null/>
     <null/>
     <null/>
-    <org.jjazz.midimix.api.MidiMix_-SerializationProxy_-RvStorage>
-      <rhythmId>Bebop.S468.sst-ID</rhythmId>
-      <rvName>SubRhythm</rvName>
-      <outer-class reference="../../.."/>
-    </org.jjazz.midimix.api.MidiMix_-SerializationProxy_-RvStorage>
-    <org.jjazz.midimix.api.MidiMix_-SerializationProxy_-RvStorage>
-      <rhythmId>Bebop.S468.sst-ID</rhythmId>
+    <null/>
+    <RvStorage>
+      <rhythmId>FastJazz.S741.sst-ID</rhythmId>
       <rvName>Rhythm</rvName>
-      <outer-class reference="../../.."/>
-    </org.jjazz.midimix.api.MidiMix_-SerializationProxy_-RvStorage>
-    <org.jjazz.midimix.api.MidiMix_-SerializationProxy_-RvStorage>
-      <rhythmId>Bebop.S468.sst-ID</rhythmId>
+    </RvStorage>
+    <RvStorage>
+      <rhythmId>FastJazz.S741.sst-ID</rhythmId>
       <rvName>Bass</rvName>
-      <outer-class reference="../../.."/>
-    </org.jjazz.midimix.api.MidiMix_-SerializationProxy_-RvStorage>
-    <org.jjazz.midimix.api.MidiMix_-SerializationProxy_-RvStorage>
-      <rhythmId>Bebop.S468.sst-ID</rhythmId>
+    </RvStorage>
+    <RvStorage>
+      <rhythmId>FastJazz.S741.sst-ID</rhythmId>
       <rvName>Chord1</rvName>
-      <outer-class reference="../../.."/>
-    </org.jjazz.midimix.api.MidiMix_-SerializationProxy_-RvStorage>
-    <org.jjazz.midimix.api.MidiMix_-SerializationProxy_-RvStorage>
-      <rhythmId>Bebop.S468.sst-ID</rhythmId>
+    </RvStorage>
+    <RvStorage>
+      <rhythmId>FastJazz.S741.sst-ID</rhythmId>
       <rvName>Chord2</rvName>
-      <outer-class reference="../../.."/>
-    </org.jjazz.midimix.api.MidiMix_-SerializationProxy_-RvStorage>
-    <org.jjazz.midimix.api.MidiMix_-SerializationProxy_-RvStorage>
-      <rhythmId>Bebop.S468.sst-ID</rhythmId>
-      <rvName>Pad</rvName>
-      <outer-class reference="../../.."/>
-    </org.jjazz.midimix.api.MidiMix_-SerializationProxy_-RvStorage>
-    <org.jjazz.midimix.api.MidiMix_-SerializationProxy_-RvStorage>
-      <rhythmId>Bebop.S468.sst-ID</rhythmId>
-      <rvName>Phrase1</rvName>
-      <outer-class reference="../../.."/>
-    </org.jjazz.midimix.api.MidiMix_-SerializationProxy_-RvStorage>
-    <org.jjazz.midimix.api.MidiMix_-SerializationProxy_-RvStorage>
-      <rhythmId>Bebop.S468.sst-ID</rhythmId>
-      <rvName>Phrase2</rvName>
-      <outer-class reference="../../.."/>
-    </org.jjazz.midimix.api.MidiMix_-SerializationProxy_-RvStorage>
+    </RvStorage>
+    <null/>
+    <null/>
+    <null/>
   </spKeys>
 </MidiMix>
