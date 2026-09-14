@@ -3,7 +3,7 @@
   <spComments>Edit me...</spComments>
   <spTags/>
   <spChordLeadSheet class="ChordLeadSheetImpl" resolves-to="ChordLeadSheetImplSP">
-    <spVERSION>2</spVERSION>
+    <spVERSION>3</spVERSION>
     <spItems>
       <CLI__SectionImpl resolves-to="CLI_SectionImplSP" spName="Verse" spTs="FOUR_FOUR" spBarIndex="0">
         <spVERSION>4</spVERSION>
@@ -1174,9 +1174,9 @@
   <spSongStructure class="SongStructureImpl" resolves-to="SongStructureImplSP">
     <spVERSION>3</spVERSION>
     <spSpts>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="EPBallad.T160.prs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="0" spName="Verse" spNbBars="20">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="jjSwing-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="0" spName="Verse" spNbBars="20">
         <spVERSION>3</spVERSION>
-        <spRhythmName>EPBallad.T160.prs</spRhythmName>
+        <spRhythmName>jjSwing</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1199,6 +1199,10 @@
             <string></string>
           </entry>
           <entry>
+            <string>DrumsStyleId</string>
+            <string>auto</string>
+          </entry>
+          <entry>
             <string>RpSysMuteID</string>
             <string>[Chord2,Phrase1,Chord1]</string>
           </entry>
@@ -1217,6 +1221,10 @@
           <entry>
             <string>rpTempoID</string>
             <string>100</string>
+          </entry>
+          <entry>
+            <string>BassStyleId</string>
+            <string>auto</string>
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
@@ -1818,9 +1826,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="EPBallad.T160.prs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="152" spName="Verse" spNbBars="20">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="jjSwing-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="152" spName="Verse" spNbBars="20">
         <spVERSION>3</spVERSION>
-        <spRhythmName>EPBallad.T160.prs</spRhythmName>
+        <spRhythmName>jjSwing</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1843,6 +1851,10 @@
             <string></string>
           </entry>
           <entry>
+            <string>DrumsStyleId</string>
+            <string>auto</string>
+          </entry>
+          <entry>
             <string>RpSysMuteID</string>
             <string>[Chord2,Phrase1,Chord1]</string>
           </entry>
@@ -1861,6 +1873,10 @@
           <entry>
             <string>rpTempoID</string>
             <string>100</string>
+          </entry>
+          <entry>
+            <string>BassStyleId</string>
+            <string>auto</string>
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
@@ -1916,7 +1932,7 @@
       </entry>
       <entry>
         <string>PropSsEditorZoomFactorX</string>
-        <string>4</string>
+        <string>6</string>
       </entry>
       <entry>
         <string>PropViewMode</string>
