@@ -20,7 +20,7 @@ Note: Please note that the accuracy and musical quality of these files may vary.
   - Use default styles.
   - Set the right instruments for FluidSynth.
 
-    **Al the songs that start with A,B,C,D and F are done**
+    **Al the songs that start with A,B,C,D,E,F,G,H and I are done**
 
 ## 🛠️ How to Use
 
