@@ -1,9 +1,9 @@
-<Song resolves-to="SongSP" spName="HowHighTheMoon-G" spTempo="160">
+<Song resolves-to="SongSP" spName="HowHighTheMoon-G-Theme" spTempo="188">
   <spVERSION>4</spVERSION>
   <spComments>Edit me...</spComments>
   <spTags/>
   <spChordLeadSheet class="ChordLeadSheetImpl" resolves-to="ChordLeadSheetImplSP">
-    <spVERSION>2</spVERSION>
+    <spVERSION>3</spVERSION>
     <spItems>
       <CLI__SectionImpl resolves-to="CLI_SectionImplSP" spName="Intro" spTs="FOUR_FOUR" spBarIndex="0">
         <spVERSION>4</spVERSION>
@@ -907,9 +907,9 @@
   <spSongStructure class="SongStructureImpl" resolves-to="SongStructureImplSP">
     <spVERSION>3</spVERSION>
     <spSpts>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="AcousticJazz3.S084.SST-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="0" spName="Intro" spNbBars="4">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="FastJazz.S741.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="0" spName="Intro" spNbBars="4">
         <spVERSION>3</spVERSION>
-        <spRhythmName>AcousticJazz3.S084.SST</spRhythmName>
+        <spRhythmName>FastJazz.S741.sst</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -933,7 +933,7 @@
           </entry>
           <entry>
             <string>RpSysMuteID</string>
-            <string>[Pad,Chord2,Phrase1]</string>
+            <string>[]</string>
           </entry>
           <entry>
             <string>rpSysMarkerID</string>
@@ -953,9 +953,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="AcousticJazz3.S084.SST-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="4" spName="Chorus 1" spNbBars="8">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="FastJazz.S741.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="4" spName="Chorus 1" spNbBars="8">
         <spVERSION>3</spVERSION>
-        <spRhythmName>AcousticJazz3.S084.SST</spRhythmName>
+        <spRhythmName>FastJazz.S741.sst</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[2]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -979,7 +979,7 @@
           </entry>
           <entry>
             <string>RpSysMuteID</string>
-            <string>[Chord2,Phrase1]</string>
+            <string>[Chord2]</string>
           </entry>
           <entry>
             <string>rpSysMarkerID</string>
@@ -999,9 +999,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="AcousticJazz3.S084.SST-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="12" spName="Chorus 1" spNbBars="8">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="FastJazz.S741.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="12" spName="Chorus 1" spNbBars="8">
         <spVERSION>3</spVERSION>
-        <spRhythmName>AcousticJazz3.S084.SST</spRhythmName>
+        <spRhythmName>FastJazz.S741.sst</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[3]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1025,7 +1025,7 @@
           </entry>
           <entry>
             <string>RpSysMuteID</string>
-            <string>[Chord2,Phrase1]</string>
+            <string>[Chord2]</string>
           </entry>
           <entry>
             <string>rpSysMarkerID</string>
@@ -1045,9 +1045,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="AcousticJazz3.S084.SST-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="20" spName="Chorus 1" spNbBars="8">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="FastJazz.S741.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="20" spName="Chorus 1" spNbBars="8">
         <spVERSION>3</spVERSION>
-        <spRhythmName>AcousticJazz3.S084.SST</spRhythmName>
+        <spRhythmName>FastJazz.S741.sst</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[4]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1071,7 +1071,7 @@
           </entry>
           <entry>
             <string>RpSysMuteID</string>
-            <string>[Chord2,Phrase1]</string>
+            <string>[Chord2]</string>
           </entry>
           <entry>
             <string>rpSysMarkerID</string>
@@ -1091,9 +1091,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="AcousticJazz3.S084.SST-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="28" spName="Chorus 1" spNbBars="8">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="FastJazz.S741.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="28" spName="Chorus 1" spNbBars="8">
         <spVERSION>3</spVERSION>
-        <spRhythmName>AcousticJazz3.S084.SST</spRhythmName>
+        <spRhythmName>FastJazz.S741.sst</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[5]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1117,7 +1117,7 @@
           </entry>
           <entry>
             <string>RpSysMuteID</string>
-            <string>[Chord2,Phrase1]</string>
+            <string>[Chord2]</string>
           </entry>
           <entry>
             <string>rpSysMarkerID</string>
@@ -1137,9 +1137,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="AcousticJazz3.S084.SST-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="36" spName="Chorus 2" spNbBars="8">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="FastJazz.S741.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="36" spName="Chorus 2" spNbBars="8">
         <spVERSION>3</spVERSION>
-        <spRhythmName>AcousticJazz3.S084.SST</spRhythmName>
+        <spRhythmName>FastJazz.S741.sst</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[2]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1163,7 +1163,7 @@
           </entry>
           <entry>
             <string>RpSysMuteID</string>
-            <string>[Chord2,Phrase1]</string>
+            <string>[Chord2]</string>
           </entry>
           <entry>
             <string>rpSysMarkerID</string>
@@ -1183,9 +1183,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="AcousticJazz3.S084.SST-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="44" spName="Chorus 2" spNbBars="8">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="FastJazz.S741.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="44" spName="Chorus 2" spNbBars="8">
         <spVERSION>3</spVERSION>
-        <spRhythmName>AcousticJazz3.S084.SST</spRhythmName>
+        <spRhythmName>FastJazz.S741.sst</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[3]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1209,7 +1209,7 @@
           </entry>
           <entry>
             <string>RpSysMuteID</string>
-            <string>[Chord2,Phrase1]</string>
+            <string>[Chord2]</string>
           </entry>
           <entry>
             <string>rpSysMarkerID</string>
@@ -1229,9 +1229,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="AcousticJazz3.S084.SST-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="52" spName="Chorus 2" spNbBars="8">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="FastJazz.S741.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="52" spName="Chorus 2" spNbBars="8">
         <spVERSION>3</spVERSION>
-        <spRhythmName>AcousticJazz3.S084.SST</spRhythmName>
+        <spRhythmName>FastJazz.S741.sst</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[4]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1255,7 +1255,7 @@
           </entry>
           <entry>
             <string>RpSysMuteID</string>
-            <string>[Chord2,Phrase1]</string>
+            <string>[Chord2]</string>
           </entry>
           <entry>
             <string>rpSysMarkerID</string>
@@ -1275,9 +1275,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="AcousticJazz3.S084.SST-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="60" spName="Chorus 2" spNbBars="8">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="FastJazz.S741.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="60" spName="Chorus 2" spNbBars="8">
         <spVERSION>3</spVERSION>
-        <spRhythmName>AcousticJazz3.S084.SST</spRhythmName>
+        <spRhythmName>FastJazz.S741.sst</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[5]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1301,7 +1301,7 @@
           </entry>
           <entry>
             <string>RpSysMuteID</string>
-            <string>[Chord2,Phrase1]</string>
+            <string>[Chord2]</string>
           </entry>
           <entry>
             <string>rpSysMarkerID</string>
@@ -1321,9 +1321,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="AcousticJazz3.S084.SST-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="68" spName="Chorus 3" spNbBars="8">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="FastJazz.S741.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="68" spName="Chorus 3" spNbBars="8">
         <spVERSION>3</spVERSION>
-        <spRhythmName>AcousticJazz3.S084.SST</spRhythmName>
+        <spRhythmName>FastJazz.S741.sst</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[2]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1347,7 +1347,7 @@
           </entry>
           <entry>
             <string>RpSysMuteID</string>
-            <string>[Chord2,Phrase1]</string>
+            <string>[Chord2]</string>
           </entry>
           <entry>
             <string>rpSysMarkerID</string>
@@ -1367,9 +1367,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="AcousticJazz3.S084.SST-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="76" spName="Chorus 3" spNbBars="8">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="FastJazz.S741.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="76" spName="Chorus 3" spNbBars="8">
         <spVERSION>3</spVERSION>
-        <spRhythmName>AcousticJazz3.S084.SST</spRhythmName>
+        <spRhythmName>FastJazz.S741.sst</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[3]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1393,7 +1393,7 @@
           </entry>
           <entry>
             <string>RpSysMuteID</string>
-            <string>[Chord2,Phrase1]</string>
+            <string>[Chord2]</string>
           </entry>
           <entry>
             <string>rpSysMarkerID</string>
@@ -1413,9 +1413,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="AcousticJazz3.S084.SST-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="84" spName="Chorus 3" spNbBars="8">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="FastJazz.S741.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="84" spName="Chorus 3" spNbBars="8">
         <spVERSION>3</spVERSION>
-        <spRhythmName>AcousticJazz3.S084.SST</spRhythmName>
+        <spRhythmName>FastJazz.S741.sst</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[4]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1439,7 +1439,7 @@
           </entry>
           <entry>
             <string>RpSysMuteID</string>
-            <string>[Chord2,Phrase1]</string>
+            <string>[Chord2]</string>
           </entry>
           <entry>
             <string>rpSysMarkerID</string>
@@ -1459,9 +1459,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="AcousticJazz3.S084.SST-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="92" spName="Chorus 3" spNbBars="8">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="FastJazz.S741.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="92" spName="Chorus 3" spNbBars="8">
         <spVERSION>3</spVERSION>
-        <spRhythmName>AcousticJazz3.S084.SST</spRhythmName>
+        <spRhythmName>FastJazz.S741.sst</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[5]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1485,7 +1485,7 @@
           </entry>
           <entry>
             <string>RpSysMuteID</string>
-            <string>[Chord2,Phrase1]</string>
+            <string>[Chord2]</string>
           </entry>
           <entry>
             <string>rpSysMarkerID</string>
@@ -1505,9 +1505,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="AcousticJazz3.S084.SST-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="100" spName="Chorus 4" spNbBars="8">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="FastJazz.S741.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="100" spName="Chorus 4" spNbBars="8">
         <spVERSION>3</spVERSION>
-        <spRhythmName>AcousticJazz3.S084.SST</spRhythmName>
+        <spRhythmName>FastJazz.S741.sst</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[2]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1531,7 +1531,7 @@
           </entry>
           <entry>
             <string>RpSysMuteID</string>
-            <string>[Chord2,Phrase1]</string>
+            <string>[Chord2]</string>
           </entry>
           <entry>
             <string>rpSysMarkerID</string>
@@ -1551,9 +1551,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="AcousticJazz3.S084.SST-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="108" spName="Chorus 4" spNbBars="8">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="FastJazz.S741.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="108" spName="Chorus 4" spNbBars="8">
         <spVERSION>3</spVERSION>
-        <spRhythmName>AcousticJazz3.S084.SST</spRhythmName>
+        <spRhythmName>FastJazz.S741.sst</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[3]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1577,7 +1577,7 @@
           </entry>
           <entry>
             <string>RpSysMuteID</string>
-            <string>[Chord2,Phrase1]</string>
+            <string>[Chord2]</string>
           </entry>
           <entry>
             <string>rpSysMarkerID</string>
@@ -1597,9 +1597,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="AcousticJazz3.S084.SST-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="116" spName="Chorus 4" spNbBars="8">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="FastJazz.S741.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="116" spName="Chorus 4" spNbBars="8">
         <spVERSION>3</spVERSION>
-        <spRhythmName>AcousticJazz3.S084.SST</spRhythmName>
+        <spRhythmName>FastJazz.S741.sst</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[4]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1623,7 +1623,7 @@
           </entry>
           <entry>
             <string>RpSysMuteID</string>
-            <string>[Chord2,Phrase1]</string>
+            <string>[Chord2]</string>
           </entry>
           <entry>
             <string>rpSysMarkerID</string>
@@ -1643,9 +1643,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="AcousticJazz3.S084.SST-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="124" spName="Chorus 4" spNbBars="8">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="FastJazz.S741.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="124" spName="Chorus 4" spNbBars="8">
         <spVERSION>3</spVERSION>
-        <spRhythmName>AcousticJazz3.S084.SST</spRhythmName>
+        <spRhythmName>FastJazz.S741.sst</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[5]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1669,7 +1669,7 @@
           </entry>
           <entry>
             <string>RpSysMuteID</string>
-            <string>[Chord2,Phrase1]</string>
+            <string>[Chord2]</string>
           </entry>
           <entry>
             <string>rpSysMarkerID</string>
@@ -1689,9 +1689,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="AcousticJazz3.S084.SST-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="132" spName="Last Chorus" spNbBars="8">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="FastJazz.S741.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="132" spName="Last Chorus" spNbBars="8">
         <spVERSION>3</spVERSION>
-        <spRhythmName>AcousticJazz3.S084.SST</spRhythmName>
+        <spRhythmName>FastJazz.S741.sst</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[2]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1715,7 +1715,7 @@
           </entry>
           <entry>
             <string>RpSysMuteID</string>
-            <string>[Chord2,Phrase1]</string>
+            <string>[Chord2]</string>
           </entry>
           <entry>
             <string>rpSysMarkerID</string>
@@ -1735,9 +1735,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="AcousticJazz3.S084.SST-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="140" spName="Last Chorus" spNbBars="8">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="FastJazz.S741.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="140" spName="Last Chorus" spNbBars="8">
         <spVERSION>3</spVERSION>
-        <spRhythmName>AcousticJazz3.S084.SST</spRhythmName>
+        <spRhythmName>FastJazz.S741.sst</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[3]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1761,7 +1761,7 @@
           </entry>
           <entry>
             <string>RpSysMuteID</string>
-            <string>[Chord2,Phrase1]</string>
+            <string>[Chord2]</string>
           </entry>
           <entry>
             <string>rpSysMarkerID</string>
@@ -1781,9 +1781,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="AcousticJazz3.S084.SST-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="148" spName="Last Chorus" spNbBars="20">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="FastJazz.S741.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="148" spName="Last Chorus" spNbBars="20">
         <spVERSION>3</spVERSION>
-        <spRhythmName>AcousticJazz3.S084.SST</spRhythmName>
+        <spRhythmName>FastJazz.S741.sst</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[6]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1807,7 +1807,7 @@
           </entry>
           <entry>
             <string>RpSysMuteID</string>
-            <string>[Chord2,Phrase1]</string>
+            <string>[Chord2]</string>
           </entry>
           <entry>
             <string>rpSysMarkerID</string>
@@ -1833,9 +1833,9 @@
   </spSongStructure>
   <spMapUserPhrases>
     <entry>
-      <string>User1</string>
+      <string>Lead</string>
       <Phrase resolves-to="PhraseSP" spVERSION="2">
-        <spSaveString>[0|62,68,0.9458333:13.052083|67,68,0.9479167:14.05|69,68,0.9479167:15.05|69,68,1.9:16.05|71,68,2.8479166:18.052084|62,68,0.9479167:21.052084|67,68,0.9479167:22.052084|69,68,0.9479167:23.052084|70,68,4.7458334:24.052084|60,68,0.9479167:29.05|65,68,0.9479167:30.05|67,68,0.9479167:31.05|67,68,1.8979167:32.05|69,68,2.85:34.05|60,68,0.9479167:37.052082|65,68,0.9479167:38.052082|67,68,0.9479167:39.052082|68,68,4.7479167:40.052082|62,68,0.9479167:45.052082|63,68,0.9479167:46.052082|65,68,0.9479167:47.052082|67,68,0.81875:47.9|67,68,0.81875:48.9|67,68,0.45:49.9|67,68,0.84583336:50.464584|67,68,1.35:51.36875|67,68,0.47291666:52.920834|69,68,0.95:53.420834|67,68,0.47291666:54.420834|69,68,0.95:54.920834|70,68,4.5208335:56.05|67,68,0.76875:60.8|69,68,0.7:61.7|67,68,0.475:62.55|69,68,0.95:63.05|71,68,4.75:64.05|69,68,0.9479167:69.052086|71,68,0.9479167:70.052086|72,68,0.9479167:71.052086|74,68,0.81875:71.9|74,68,0.81875:72.9|74,68,0.45:73.9|74,68,0.45:74.464584|74,68,0.95:75.370834|62,68,0.9479167:77.052086|67,68,0.9479167:78.052086|69,68,0.9479167:79.052086|69,68,1.8979167:80.052086|71,68,2.8479166:82.052086|62,68,0.9479167:85.052086|67,68,0.9479167:86.052086|69,68,0.9479167:87.052086|70,68,4.7479167:88.052086|60,68,0.9479167:93.052086|65,68,0.9479167:94.052086|67,68,0.9479167:95.052086|67,68,1.8979167:96.052086|69,68,2.8479166:98.052086|60,68,0.9479167:101.052086|65,68,0.9479167:102.052086|67,68,0.9479167:103.052086|68,68,4.7479167:104.052086|62,68,0.95:109.05|63,68,0.95:110.05|65,68,0.95:111.05|67,68,0.81666666:111.964584|67,68,0.81666666:112.964584|67,68,0.45:113.964584|67,68,0.84583336:114.525|67,68,1.35:115.427086|67,68,0.47291666:117.04792|69,68,0.9479167:117.54792|67,68,0.47291666:118.54792|69,68,0.9479167:119.04792|71,68,4.7479167:120.04792|69,68,0.9479167:125.04792|71,68,0.9479167:126.04792|72,68,0.9479167:127.04792|74,68,0.9479167:128.04791|74,68,0.9479167:129.04791|74,68,0.9479167:130.04791|74,68,0.9479167:131.04791|74,68,0.9479167:132.04791|62,68,0.9479167:133.04791|67,68,0.9479167:134.04791|69,68,0.9479167:135.04791|67,68,4.6854167:136.04791|62,68,0.9458333:525.1521|67,68,0.9479167:526.15|69,68,0.9479167:527.15|69,68,1.8979167:528.15|71,68,2.8458333:530.1521|62,68,0.9458333:533.1521|67,68,0.9458333:534.1521|69,68,0.9458333:535.1521|70,68,4.7458334:536.1521|60,68,0.9479167:541.15|65,68,0.9479167:542.15|67,68,0.9479167:543.15|67,68,1.8979167:544.15|69,68,2.85:546.15|60,68,0.9479167:549.1521|65,68,0.9479167:550.1521|67,68,0.9479167:551.1521|68,68,4.7479167:552.1521|62,68,0.9479167:557.1521|63,68,0.9479167:558.1521|65,68,0.9479167:559.1521|67,68,0.81666666:560.0|67,68,0.81666666:561.0|67,68,0.45:562.0|67,68,0.84583336:562.5604|67,68,1.35:563.4667|67,68,0.47291666:565.01874|69,68,0.95:565.51874|67,68,0.47291666:566.51874|69,68,0.95:567.01874|70,68,4.51875:568.15|67,68,0.76666665:572.9|69,68,0.7:573.8|67,68,0.47291666:574.65|69,68,0.95:575.15|71,68,4.75:576.15|69,68,0.9479167:581.1521|71,68,0.9479167:582.1521|72,68,0.9479167:583.1521|74,68,0.81666666:584.0|74,68,0.81666666:585.0|74,68,0.45:586.0|74,68,0.45:586.5625|74,68,0.95:587.46875|62,68,0.9479167:589.1521|67,68,0.9479167:590.1521|69,68,0.9479167:591.1521|69,68,1.8979167:592.1521|71,68,2.8479166:594.1521|62,68,0.9479167:597.1521|67,68,0.9479167:598.1521|69,68,0.9479167:599.1521|70,68,4.7479167:600.1521|60,68,0.9479167:605.1521|65,68,0.9479167:606.1521|67,68,0.9479167:607.1521|67,68,1.8979167:608.1521|69,68,2.8479166:610.1521|60,68,0.9479167:613.1521|65,68,0.9479167:614.1521|67,68,0.9479167:615.1521|68,68,4.7479167:616.1521|62,68,0.95:621.15|63,68,0.95:622.15|65,68,0.95:623.15|67,68,0.81666666:624.0625|67,68,0.81666666:625.0625|67,68,0.45:626.0625|67,68,0.84583336:626.6229|67,68,1.35:627.5292|67,68,0.47291666:629.15|69,68,0.95:629.65|67,68,0.47291666:630.65|69,68,0.95:631.15|71,68,4.75:632.15|69,68,0.95:637.15|71,68,0.95:638.15|72,68,0.95:639.15|74,68,0.81666666:640.05|74,68,0.81666666:641.05|74,68,0.45:642.05|74,68,0.45:642.6125|74,68,0.95:643.51874|69,68,0.95:645.0979|71,68,0.95:646.0979|72,68,0.95:647.0979|74,68,0.81666666:648.0|74,68,0.81666666:649.0|74,68,0.45:650.0|74,68,0.45:650.5625|74,68,0.95:651.46875|69,68,0.95:653.0979|71,68,0.95:654.0979|72,68,0.95:655.0979|74,68,0.81666666:656.0|74,68,0.81666666:657.0|74,68,0.45:658.0|74,68,0.45:658.5625|74,68,0.95:659.46875|62,68,0.95:661.15|67,68,0.95:662.15|69,68,0.95:663.15|67,68,4.6854167:664.15]</spSaveString>
+        <spSaveString>[0|62,71,0.9458333:13.033965|67,70,0.9479167:14.047471|69,69,0.9479167:15.033345|69,70,1.9:16.036715|71,64,2.8479166:18.039106|62,71,0.9479167:21.039495|67,68,0.9479167:22.03665|69,67,0.9479167:23.02808|70,68,4.7458334:24.056103|60,72,0.9479167:29.030373|65,70,0.9479167:30.040155|67,67,0.9479167:31.048964|67,68,1.8979167:32.052986|69,68,2.85:34.032635|60,68,0.9479167:37.048325|65,69,0.9479167:38.06124|67,69,0.9479167:39.048344|68,68,4.7479167:40.056156|62,70,0.9479167:45.051502|63,70,0.9479167:46.0728|65,69,0.9479167:47.044514|67,68,0.81875:47.900898|67,67,0.81875:48.8883|67,69,0.45:49.89233|67,69,0.84583336:50.45017|67,65,1.35:51.372803|67,70,0.47291666:52.904495|69,71,0.95:53.432674|67,66,0.47291666:54.413227|69,68,0.95:54.927906|70,67,4.5208335:56.04025|67,67,0.76875:60.80681|69,70,0.7:61.693455|67,69,0.475:62.5577|69,68,0.95:63.037525|71,68,4.75:64.04511|69,70,0.9479167:69.02816|71,72,0.9479167:70.0123|72,70,0.9479167:71.03486|74,67,0.81875:71.884636|74,68,0.81875:72.90648|74,68,0.45:73.90347|74,71,0.45:74.48812|74,68,0.95:75.35321|62,68,0.9479167:77.049484|67,66,0.9479167:78.06131|69,68,0.9479167:79.0711|69,72,1.8979167:80.03094|71,68,2.8479166:82.0275|62,66,0.9479167:85.05672|67,71,0.9479167:86.051895|69,65,0.9479167:87.040665|70,66,4.7479167:88.04014|60,71,0.9479167:93.05977|65,69,0.9479167:94.03818|67,70,0.9479167:95.06303|67,67,1.8979167:96.04363|69,68,2.8479166:98.05224|60,70,0.9479167:101.05996|65,69,0.9479167:102.02976|67,65,0.9479167:103.03813|68,69,4.7479167:104.03648|62,72,0.95:109.03953|63,70,0.95:110.03988|65,67,0.95:111.04504|67,68,0.81666666:111.96401|67,66,0.81666666:112.95994|67,69,0.45:113.970215|67,66,0.84583336:114.53599|67,69,1.35:115.4192|67,68,0.47291666:117.0224|69,68,0.9479167:117.53519|67,68,0.47291666:118.54568|69,67,0.9479167:119.03478|71,68,4.7479167:120.057304|69,69,0.9479167:125.03346|71,68,0.9479167:126.03634|72,68,0.9479167:127.03551|74,74,0.9479167:128.05946|74,69,0.9479167:129.04845|74,71,0.9479167:130.0327|74,70,0.9479167:131.02518|74,70,0.9479167:132.0404|62,66,0.9479167:133.03178|67,71,0.9479167:134.04895|69,67,0.9479167:135.02519|67,68,4.6854167:136.03653|62,68,0.9458333:525.1391|67,68,0.9479167:526.15076|69,67,0.9479167:527.1326|69,68,1.8979167:528.14703|71,69,2.8458333:530.17126|62,70,0.9458333:533.149|67,70,0.9458333:534.15405|69,71,0.9458333:535.1512|70,67,4.7458334:536.1435|60,67,0.9479167:541.1491|65,67,0.9479167:542.1448|67,65,0.9479167:543.17377|67,67,1.8979167:544.1359|69,70,2.85:546.15045|60,69,0.9479167:549.1333|65,67,0.9479167:550.13257|67,68,0.9479167:551.1615|68,72,4.7479167:552.15063|62,69,0.9479167:557.1176|63,70,0.9479167:558.153|65,67,0.9479167:559.1324|67,70,0.81666666:559.99774|67,70,0.81666666:560.9932|67,68,0.45:561.983|67,70,0.84583336:562.5366|67,69,1.35:563.4566|67,68,0.47291666:565.03284|69,71,0.95:565.51117|67,70,0.47291666:566.5372|69,67,0.95:567.01764|70,70,4.51875:568.1516|67,65,0.76666665:572.8815|69,67,0.7:573.79974|67,66,0.47291666:574.6282|69,67,0.95:575.1431|71,66,4.75:576.1471|69,67,0.9479167:581.14014|71,66,0.9479167:582.16534|72,68,0.9479167:583.1595|74,70,0.81666666:583.98706|74,65,0.81666666:585.00037|74,66,0.45:586.0196|74,66,0.45:586.55426|74,70,0.95:587.46704|62,67,0.9479167:589.15063|67,65,0.9479167:590.14484|69,70,0.9479167:591.17084|69,67,1.8979167:592.11993|71,70,2.8479166:594.1595|62,68,0.9479167:597.14795|67,67,0.9479167:598.1693|69,68,0.9479167:599.15063|70,65,4.7479167:600.13293|60,69,0.9479167:605.1769|65,73,0.9479167:606.1495|67,67,0.9479167:607.15247|67,66,1.8979167:608.16016|69,68,2.8479166:610.1646|60,67,0.9479167:613.1465|65,69,0.9479167:614.14795|67,69,0.9479167:615.14435|68,69,4.7479167:616.1392|62,68,0.95:621.15796|63,70,0.95:622.156|65,65,0.95:623.1663|67,69,0.81666666:624.04535|67,66,0.81666666:625.0705|67,70,0.45:626.04486|67,67,0.84583336:626.6012|67,68,1.35:627.5404|67,68,0.47291666:629.1453|69,71,0.95:629.6436|67,71,0.47291666:630.6661|69,67,0.95:631.14825|71,71,4.75:632.13257|69,63,0.95:637.15607|71,67,0.95:638.12964|72,68,0.95:639.14655|74,72,0.81666666:640.0457|74,68,0.81666666:641.0455|74,70,0.45:642.0454|74,68,0.45:642.5991|74,68,0.95:643.4946|69,69,0.95:645.0997|71,68,0.95:646.08105|72,64,0.95:647.0942|74,66,0.81666666:647.9958|74,69,0.81666666:648.9689|74,69,0.45:650.0005|74,69,0.45:650.5637|74,67,0.95:651.452|69,69,0.95:653.09314|71,69,0.95:654.06683|72,69,0.95:655.0721|74,70,0.81666666:656.0199|74,68,0.81666666:656.97473|74,63,0.45:657.9866|74,73,0.45:658.5649|74,70,0.95:659.45856|62,70,0.95:661.1437|67,69,0.95:662.1344|69,68,0.95:663.1536|67,70,4.6854167:664.1542]</spSaveString>
       </Phrase>
     </entry>
   </spMapUserPhrases>
@@ -1854,6 +1854,10 @@
         <string>50</string>
       </entry>
       <entry>
+        <string>PropCompactViewModeVisibleRps_jjSwing-ID</string>
+        <string>rpVariationID,BassStyleId,DrumsStyleId,RpFillID,RpSysMuteID,rpSysMarkerID</string>
+      </entry>
+      <entry>
         <string>PropSsEditorZoomFactorY</string>
         <string>50</string>
       </entry>
@@ -1868,6 +1872,10 @@
       <entry>
         <string>PropViewMode</string>
         <string>NORMAL</string>
+      </entry>
+      <entry>
+        <string>PropCompactViewModeVisibleRps_FastJazz.S741.sst-ID</string>
+        <string>rpVariationID,rpIntensityID,RpFillID,RpSysMuteID,rpSysMarkerID</string>
       </entry>
       <entry>
         <string>SectionDisplayQuantization-Last B*4/4</string>
