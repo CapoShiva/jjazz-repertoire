@@ -1,14 +1,13 @@
-<Song resolves-to="SongSP" spName="IWishYouLove-Ebm" spTempo="108">
+<Song resolves-to="SongSP" spName="IWishYouLove-Ebm-Theme" spTempo="108">
   <spVERSION>4</spVERSION>
   <spComments>Edit me...</spComments>
   <spTags/>
   <spChordLeadSheet class="ChordLeadSheetImpl" resolves-to="ChordLeadSheetImplSP">
-    <spVERSION>2</spVERSION>
+    <spVERSION>3</spVERSION>
     <spItems>
       <CLI__SectionImpl resolves-to="CLI_SectionImplSP" spName="Count" spTs="FOUR_FOUR" spBarIndex="0">
         <spVERSION>4</spVERSION>
         <spClientProperties>
-          <properties/>
           <owner class="CLI_SectionImpl" reference="../.."/>
         </spClientProperties>
       </CLI__SectionImpl>
@@ -112,7 +111,6 @@
       <CLI__SectionImpl resolves-to="CLI_SectionImplSP" spName="Verse" spTs="FOUR_FOUR" spBarIndex="5">
         <spVERSION>4</spVERSION>
         <spClientProperties>
-          <properties/>
           <owner class="CLI_SectionImpl" reference="../.."/>
         </spClientProperties>
       </CLI__SectionImpl>
@@ -629,7 +627,6 @@
       <CLI__SectionImpl resolves-to="CLI_SectionImplSP" spName="A1" spTs="FOUR_FOUR" spBarIndex="21">
         <spVERSION>4</spVERSION>
         <spClientProperties>
-          <properties/>
           <owner class="CLI_SectionImpl" reference="../.."/>
         </spClientProperties>
       </CLI__SectionImpl>
@@ -789,7 +786,6 @@
       <CLI__SectionImpl resolves-to="CLI_SectionImplSP" spName="A2" spTs="FOUR_FOUR" spBarIndex="29">
         <spVERSION>4</spVERSION>
         <spClientProperties>
-          <properties/>
           <owner class="CLI_SectionImpl" reference="../.."/>
         </spClientProperties>
       </CLI__SectionImpl>
@@ -949,7 +945,6 @@
       <CLI__SectionImpl resolves-to="CLI_SectionImplSP" spName="B" spTs="FOUR_FOUR" spBarIndex="37">
         <spVERSION>4</spVERSION>
         <spClientProperties>
-          <properties/>
           <owner class="CLI_SectionImpl" reference="../.."/>
         </spClientProperties>
       </CLI__SectionImpl>
@@ -1177,7 +1172,6 @@
       <CLI__SectionImpl resolves-to="CLI_SectionImplSP" spName="A3" spTs="FOUR_FOUR" spBarIndex="45">
         <spVERSION>4</spVERSION>
         <spClientProperties>
-          <properties/>
           <owner class="CLI_SectionImpl" reference="../.."/>
         </spClientProperties>
       </CLI__SectionImpl>
@@ -1337,7 +1331,6 @@
       <CLI__SectionImpl resolves-to="CLI_SectionImplSP" spName="A last" spTs="FOUR_FOUR" spBarIndex="53">
         <spVERSION>4</spVERSION>
         <spClientProperties>
-          <properties/>
           <owner class="CLI_SectionImpl" reference="../.."/>
         </spClientProperties>
       </CLI__SectionImpl>
@@ -2068,7 +2061,7 @@
       </entry>
       <entry>
         <string>PropSsEditorZoomFactorX</string>
-        <string>6</string>
+        <string>16</string>
       </entry>
     </properties>
     <owner class="Song" reference="../.."/>
