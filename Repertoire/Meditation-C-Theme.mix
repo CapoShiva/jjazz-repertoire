@@ -1,12 +1,12 @@
 <MidiMix resolves-to="MidiMixSP">
-  <spVERSION>3</spVERSION>
+  <spVERSION>5</spVERSION>
   <spInsMixes>
     <InstrumentMix resolves-to="InstrumentMixSP" spVERSION="2" spInsEnabled="true" spMute="false">
-      <spIns resolves-to="InstrumentSP" spVERSION="2" spSaveString="PSR-SX900#:#/home/admin/.jjazzlab/4.1.2/.jjazz/MidiSynthFiles/PSRSX900.ins#_#PSR-SX900 Bank 114#_#Sweet! JazzClarinet" spPatchname="Sweet! JazzClarinet"/>
+      <spIns resolves-to="InstrumentSP" spVERSION="2" spSaveString="FluidSynth#:#NOT_SET#_#GM Bank#_#Tenor Sax" spPatchname="Tenor Sax"/>
       <spInsSettings resolves-to="InstrumentSettingsSP" spVERSION="2" spTransposition="0" spVelocityShift="0" spVolume="100">
         <spPanoramic>64</spPanoramic>
-        <spReverb>38</spReverb>
-        <spChorus>33</spChorus>
+        <spReverb>51</spReverb>
+        <spChorus>19</spChorus>
         <spPanoramicEnabled>true</spPanoramicEnabled>
         <spReverbEnabled>true</spReverbEnabled>
         <spChorusEnabled>true</spChorusEnabled>
@@ -21,7 +21,7 @@
     <null/>
     <null/>
     <InstrumentMix resolves-to="InstrumentMixSP" spVERSION="2" spInsEnabled="true" spMute="false">
-      <spIns class="VoidInstrument" resolves-to="VoidInstrumentSP" spVERSION="2" spProgChange="0"/>
+      <spIns resolves-to="InstrumentSP" spVERSION="2" spSaveString="FluidSynth#:#NOT_SET#_#Drums#_#Jazz Kit" spPatchname="Jazz Kit"/>
       <spInsSettings resolves-to="InstrumentSettingsSP" spVERSION="2" spTransposition="0" spVelocityShift="0" spVolume="48">
         <spPanoramic>64</spPanoramic>
         <spReverb>36</spReverb>
@@ -33,7 +33,7 @@
       </spInsSettings>
     </InstrumentMix>
     <InstrumentMix resolves-to="InstrumentMixSP" spVERSION="2" spInsEnabled="true" spMute="false">
-      <spIns resolves-to="InstrumentSP" spVERSION="2" spSaveString="PSR-SX900#:#/home/admin/.jjazzlab/4.1.2/.jjazz/MidiSynthFiles/PSRSX900.ins#_#PSR-SX900 SFX#_#PSR-SX900 Live!SFX PopLatinKit1" spPatchname="PSR-SX900 Live!SFX PopLatinKit1"/>
+      <spIns reference="../../InstrumentMix[2]/spIns"/>
       <spInsSettings resolves-to="InstrumentSettingsSP" spVERSION="2" spTransposition="0" spVelocityShift="0" spVolume="65">
         <spPanoramic>64</spPanoramic>
         <spReverb>30</spReverb>
@@ -45,7 +45,7 @@
       </spInsSettings>
     </InstrumentMix>
     <InstrumentMix resolves-to="InstrumentMixSP" spVERSION="2" spInsEnabled="true" spMute="false">
-      <spIns resolves-to="InstrumentSP" spVERSION="2" spSaveString="PSR-SX900#:#/home/admin/.jjazzlab/4.1.2/.jjazz/MidiSynthFiles/PSRSX900.ins#_#GM/XG Bank 6#_#Mellow Synth Bass" spPatchname="Mellow Synth Bass"/>
+      <spIns resolves-to="InstrumentSP" spVERSION="2" spSaveString="FluidSynth#:#NOT_SET#_#GM Bank#_#Fingered Bass" spPatchname="Fingered Bass"/>
       <spInsSettings resolves-to="InstrumentSettingsSP" spVERSION="2" spTransposition="0" spVelocityShift="0" spVolume="60">
         <spPanoramic>64</spPanoramic>
         <spReverb>0</spReverb>
@@ -57,7 +57,7 @@
       </spInsSettings>
     </InstrumentMix>
     <InstrumentMix resolves-to="InstrumentMixSP" spVERSION="2" spInsEnabled="true" spMute="false">
-      <spIns resolves-to="InstrumentSP" spVERSION="2" spSaveString="PSR-SX900#:#/home/admin/.jjazzlab/4.1.2/.jjazz/MidiSynthFiles/PSRSX900.ins#_#PSR-SX900 Bank 117#_#60sCleanGuitar" spPatchname="60sCleanGuitar"/>
+      <spIns resolves-to="InstrumentSP" spVERSION="2" spSaveString="FluidSynth#:#NOT_SET#_#GM Bank#_#Clean Guitar" spPatchname="Clean Guitar"/>
       <spInsSettings resolves-to="InstrumentSettingsSP" spVERSION="2" spTransposition="0" spVelocityShift="0" spVolume="59">
         <spPanoramic>38</spPanoramic>
         <spReverb>30</spReverb>
@@ -69,7 +69,7 @@
       </spInsSettings>
     </InstrumentMix>
     <InstrumentMix resolves-to="InstrumentMixSP" spVERSION="2" spInsEnabled="true" spMute="false">
-      <spIns resolves-to="InstrumentSP" spVERSION="2" spSaveString="PSR-SX900#:#/home/admin/.jjazzlab/4.1.2/.jjazz/MidiSynthFiles/PSRSX900.ins#_#PSR-SX900 Bank 113#_#Live! GrandPiano" spPatchname="Live! GrandPiano"/>
+      <spIns resolves-to="InstrumentSP" spVERSION="2" spSaveString="FluidSynth#:#NOT_SET#_#GM Bank#_#Grand Piano" spPatchname="Grand Piano"/>
       <spInsSettings resolves-to="InstrumentSettingsSP" spVERSION="2" spTransposition="0" spVelocityShift="0" spVolume="84">
         <spPanoramic>64</spPanoramic>
         <spReverb>24</spReverb>
@@ -81,7 +81,7 @@
       </spInsSettings>
     </InstrumentMix>
     <InstrumentMix resolves-to="InstrumentMixSP" spVERSION="2" spInsEnabled="true" spMute="false">
-      <spIns resolves-to="InstrumentSP" spVERSION="2" spSaveString="PSR-SX900#:#/home/admin/.jjazzlab/4.1.2/.jjazz/MidiSynthFiles/PSRSX900.ins#_#PSR-SX900 GM2 Bank 15488#_#Synth Strings1" spPatchname="Synth Strings1"/>
+      <spIns resolves-to="InstrumentSP" spVERSION="2" spSaveString="FluidSynth#:#NOT_SET#_#GM Bank#_#Strings" spPatchname="Strings"/>
       <spInsSettings resolves-to="InstrumentSettingsSP" spVERSION="2" spTransposition="0" spVelocityShift="0" spVolume="35">
         <spPanoramic>64</spPanoramic>
         <spReverb>36</spReverb>
@@ -99,7 +99,6 @@
     <RvStorage>
       <rhythmId>SpUserChannelRhythmID</rhythmId>
       <rvName>Lead</rvName>
-      <outer-class reference="../../.."/>
     </RvStorage>
     <null/>
     <null/>
@@ -111,32 +110,26 @@
     <RvStorage>
       <rhythmId>CoolBossa.S460.sty-ID</rhythmId>
       <rvName>SubRhythm</rvName>
-      <outer-class reference="../../.."/>
     </RvStorage>
     <RvStorage>
       <rhythmId>CoolBossa.S460.sty-ID</rhythmId>
       <rvName>Rhythm</rvName>
-      <outer-class reference="../../.."/>
     </RvStorage>
     <RvStorage>
       <rhythmId>CoolBossa.S460.sty-ID</rhythmId>
       <rvName>Bass</rvName>
-      <outer-class reference="../../.."/>
     </RvStorage>
     <RvStorage>
       <rhythmId>CoolBossa.S460.sty-ID</rhythmId>
       <rvName>Chord1</rvName>
-      <outer-class reference="../../.."/>
     </RvStorage>
     <RvStorage>
       <rhythmId>CoolBossa.S460.sty-ID</rhythmId>
       <rvName>Chord2</rvName>
-      <outer-class reference="../../.."/>
     </RvStorage>
     <RvStorage>
       <rhythmId>CoolBossa.S460.sty-ID</rhythmId>
       <rvName>Pad</rvName>
-      <outer-class reference="../../.."/>
     </RvStorage>
     <null/>
     <null/>
