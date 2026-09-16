@@ -1,14 +1,13 @@
-<Song resolves-to="SongSP" spName="RecadoBossaNova-Gm-Theme" spTempo="144">
+<Song resolves-to="SongSP" spName="RecadoBossaNova-Gm-Theme" spTempo="140">
   <spVERSION>4</spVERSION>
   <spComments>Edit me...</spComments>
   <spTags/>
   <spChordLeadSheet class="ChordLeadSheetImpl" resolves-to="ChordLeadSheetImplSP">
-    <spVERSION>2</spVERSION>
+    <spVERSION>3</spVERSION>
     <spItems>
       <CLI__SectionImpl resolves-to="CLI_SectionImplSP" spName="Intro" spTs="FOUR_FOUR" spBarIndex="0">
         <spVERSION>4</spVERSION>
         <spClientProperties>
-          <properties/>
           <owner class="CLI_SectionImpl" reference="../.."/>
         </spClientProperties>
       </CLI__SectionImpl>
@@ -32,7 +31,6 @@
       <CLI__SectionImpl resolves-to="CLI_SectionImplSP" spName="A1" spTs="FOUR_FOUR" spBarIndex="8">
         <spVERSION>4</spVERSION>
         <spClientProperties>
-          <properties/>
           <owner class="CLI_SectionImpl" reference="../.."/>
         </spClientProperties>
       </CLI__SectionImpl>
@@ -226,7 +224,6 @@
       <CLI__SectionImpl resolves-to="CLI_SectionImplSP" spName="A2" spTs="FOUR_FOUR" spBarIndex="24">
         <spVERSION>4</spVERSION>
         <spClientProperties>
-          <properties/>
           <owner class="CLI_SectionImpl" reference="../.."/>
         </spClientProperties>
       </CLI__SectionImpl>
@@ -375,7 +372,6 @@
       <CLI__SectionImpl resolves-to="CLI_SectionImplSP" spName="B" spTs="FOUR_FOUR" spBarIndex="40">
         <spVERSION>4</spVERSION>
         <spClientProperties>
-          <properties/>
           <owner class="CLI_SectionImpl" reference="../.."/>
         </spClientProperties>
       </CLI__SectionImpl>
@@ -501,7 +497,6 @@
       <CLI__SectionImpl resolves-to="CLI_SectionImplSP" spName="Ending" spTs="FOUR_FOUR" spBarIndex="48">
         <spVERSION>4</spVERSION>
         <spClientProperties>
-          <properties/>
           <owner class="CLI_SectionImpl" reference="../.."/>
         </spClientProperties>
       </CLI__SectionImpl>
@@ -528,9 +523,9 @@
   <spSongStructure class="SongStructureImpl" resolves-to="SongStructureImplSP">
     <spVERSION>3</spVERSION>
     <spSpts>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="CoolBossa.S460.sty-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="0" spName="Intro" spNbBars="8">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="BossaNova2.S469.prs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="0" spName="Intro" spNbBars="8">
         <spVERSION>3</spVERSION>
-        <spRhythmName>CoolBossa.S460.sty</spRhythmName>
+        <spRhythmName>BossaNova2.S469.prs</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -538,7 +533,7 @@
         <spHashMapRpIdValue>
           <entry>
             <string>RP_SYS_DrumsTransformId</string>
-            <string>[DrumsMixIdhidden#BASS=-37,CRASH=-34,PERCUSSION=-36,TOM=-36,SNARE=-41]</string>
+            <string>[DrumsMixIdhidden#]</string>
           </entry>
           <entry>
             <string>rpVariationID</string>
@@ -554,7 +549,7 @@
           </entry>
           <entry>
             <string>RpSysMuteID</string>
-            <string>[]</string>
+            <string>[Phrase1]</string>
           </entry>
           <entry>
             <string>rpSysMarkerID</string>
@@ -574,9 +569,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="CoolBossa.S460.sty-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="8" spName="Chorus 1" spNbBars="16">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="BossaNova2.S469.prs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="8" spName="Chorus 1" spNbBars="16">
         <spVERSION>3</spVERSION>
-        <spRhythmName>CoolBossa.S460.sty</spRhythmName>
+        <spRhythmName>BossaNova2.S469.prs</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[2]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -584,7 +579,7 @@
         <spHashMapRpIdValue>
           <entry>
             <string>RP_SYS_DrumsTransformId</string>
-            <string>[DrumsMixIdhidden#BASS=-37,CRASH=-34,PERCUSSION=-36,TOM=-36,SNARE=-41]</string>
+            <string>[DrumsMixIdhidden#]</string>
           </entry>
           <entry>
             <string>rpVariationID</string>
@@ -620,9 +615,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="CoolBossa.S460.sty-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="24" spName="Chorus 1" spNbBars="16">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="BossaNova2.S469.prs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="24" spName="Chorus 1" spNbBars="16">
         <spVERSION>3</spVERSION>
-        <spRhythmName>CoolBossa.S460.sty</spRhythmName>
+        <spRhythmName>BossaNova2.S469.prs</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[3]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -630,7 +625,7 @@
         <spHashMapRpIdValue>
           <entry>
             <string>RP_SYS_DrumsTransformId</string>
-            <string>[DrumsMixIdhidden#BASS=-37,CRASH=-34,PERCUSSION=-36,TOM=-36,SNARE=-41]</string>
+            <string>[DrumsMixIdhidden#]</string>
           </entry>
           <entry>
             <string>rpVariationID</string>
@@ -666,9 +661,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="CoolBossa.S460.sty-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="40" spName="Chorus 1" spNbBars="8">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="BossaNova2.S469.prs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="40" spName="Chorus 1" spNbBars="8">
         <spVERSION>3</spVERSION>
-        <spRhythmName>CoolBossa.S460.sty</spRhythmName>
+        <spRhythmName>BossaNova2.S469.prs</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[4]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -676,7 +671,7 @@
         <spHashMapRpIdValue>
           <entry>
             <string>RP_SYS_DrumsTransformId</string>
-            <string>[DrumsMixIdhidden#BASS=-37,CRASH=-34,PERCUSSION=-36,TOM=-36,SNARE=-41]</string>
+            <string>[DrumsMixIdhidden#]</string>
           </entry>
           <entry>
             <string>rpVariationID</string>
@@ -712,9 +707,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="CoolBossa.S460.sty-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="48" spName="Chorus 1" spNbBars="16">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="BossaNova2.S469.prs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="48" spName="Chorus 1" spNbBars="16">
         <spVERSION>3</spVERSION>
-        <spRhythmName>CoolBossa.S460.sty</spRhythmName>
+        <spRhythmName>BossaNova2.S469.prs</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[3]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -722,7 +717,7 @@
         <spHashMapRpIdValue>
           <entry>
             <string>RP_SYS_DrumsTransformId</string>
-            <string>[DrumsMixIdhidden#BASS=-37,CRASH=-34,PERCUSSION=-36,TOM=-36,SNARE=-41]</string>
+            <string>[DrumsMixIdhidden#]</string>
           </entry>
           <entry>
             <string>rpVariationID</string>
@@ -758,9 +753,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="CoolBossa.S460.sty-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="64" spName="Chorus 2" spNbBars="16">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="BossaNova2.S469.prs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="64" spName="Chorus 2" spNbBars="16">
         <spVERSION>3</spVERSION>
-        <spRhythmName>CoolBossa.S460.sty</spRhythmName>
+        <spRhythmName>BossaNova2.S469.prs</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[2]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -768,7 +763,7 @@
         <spHashMapRpIdValue>
           <entry>
             <string>RP_SYS_DrumsTransformId</string>
-            <string>[DrumsMixIdhidden#BASS=-37,CRASH=-34,PERCUSSION=-36,TOM=-36,SNARE=-41]</string>
+            <string>[DrumsMixIdhidden#]</string>
           </entry>
           <entry>
             <string>rpVariationID</string>
@@ -804,9 +799,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="CoolBossa.S460.sty-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="80" spName="Chorus 2" spNbBars="16">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="BossaNova2.S469.prs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="80" spName="Chorus 2" spNbBars="16">
         <spVERSION>3</spVERSION>
-        <spRhythmName>CoolBossa.S460.sty</spRhythmName>
+        <spRhythmName>BossaNova2.S469.prs</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[3]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -814,7 +809,7 @@
         <spHashMapRpIdValue>
           <entry>
             <string>RP_SYS_DrumsTransformId</string>
-            <string>[DrumsMixIdhidden#BASS=-37,CRASH=-34,PERCUSSION=-36,TOM=-36,SNARE=-41]</string>
+            <string>[DrumsMixIdhidden#]</string>
           </entry>
           <entry>
             <string>rpVariationID</string>
@@ -850,9 +845,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="CoolBossa.S460.sty-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="96" spName="Chorus 2" spNbBars="8">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="BossaNova2.S469.prs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="96" spName="Chorus 2" spNbBars="8">
         <spVERSION>3</spVERSION>
-        <spRhythmName>CoolBossa.S460.sty</spRhythmName>
+        <spRhythmName>BossaNova2.S469.prs</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[4]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -860,7 +855,7 @@
         <spHashMapRpIdValue>
           <entry>
             <string>RP_SYS_DrumsTransformId</string>
-            <string>[DrumsMixIdhidden#BASS=-37,CRASH=-34,PERCUSSION=-36,TOM=-36,SNARE=-41]</string>
+            <string>[DrumsMixIdhidden#]</string>
           </entry>
           <entry>
             <string>rpVariationID</string>
@@ -896,9 +891,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="CoolBossa.S460.sty-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="104" spName="Chorus 2" spNbBars="16">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="BossaNova2.S469.prs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="104" spName="Chorus 2" spNbBars="16">
         <spVERSION>3</spVERSION>
-        <spRhythmName>CoolBossa.S460.sty</spRhythmName>
+        <spRhythmName>BossaNova2.S469.prs</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[3]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -906,7 +901,7 @@
         <spHashMapRpIdValue>
           <entry>
             <string>RP_SYS_DrumsTransformId</string>
-            <string>[DrumsMixIdhidden#BASS=-37,CRASH=-34,PERCUSSION=-36,TOM=-36,SNARE=-41]</string>
+            <string>[DrumsMixIdhidden#]</string>
           </entry>
           <entry>
             <string>rpVariationID</string>
@@ -942,9 +937,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="CoolBossa.S460.sty-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="120" spName="Chorus 3" spNbBars="16">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="BossaNova2.S469.prs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="120" spName="Chorus 3" spNbBars="16">
         <spVERSION>3</spVERSION>
-        <spRhythmName>CoolBossa.S460.sty</spRhythmName>
+        <spRhythmName>BossaNova2.S469.prs</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[2]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -952,7 +947,7 @@
         <spHashMapRpIdValue>
           <entry>
             <string>RP_SYS_DrumsTransformId</string>
-            <string>[DrumsMixIdhidden#BASS=-37,CRASH=-34,PERCUSSION=-36,TOM=-36,SNARE=-41]</string>
+            <string>[DrumsMixIdhidden#]</string>
           </entry>
           <entry>
             <string>rpVariationID</string>
@@ -988,9 +983,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="CoolBossa.S460.sty-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="136" spName="Chorus 3" spNbBars="16">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="BossaNova2.S469.prs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="136" spName="Chorus 3" spNbBars="16">
         <spVERSION>3</spVERSION>
-        <spRhythmName>CoolBossa.S460.sty</spRhythmName>
+        <spRhythmName>BossaNova2.S469.prs</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[3]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -998,7 +993,7 @@
         <spHashMapRpIdValue>
           <entry>
             <string>RP_SYS_DrumsTransformId</string>
-            <string>[DrumsMixIdhidden#BASS=-37,CRASH=-34,PERCUSSION=-36,TOM=-36,SNARE=-41]</string>
+            <string>[DrumsMixIdhidden#]</string>
           </entry>
           <entry>
             <string>rpVariationID</string>
@@ -1034,9 +1029,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="CoolBossa.S460.sty-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="152" spName="Chorus 3" spNbBars="8">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="BossaNova2.S469.prs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="152" spName="Chorus 3" spNbBars="8">
         <spVERSION>3</spVERSION>
-        <spRhythmName>CoolBossa.S460.sty</spRhythmName>
+        <spRhythmName>BossaNova2.S469.prs</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[4]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1044,7 +1039,7 @@
         <spHashMapRpIdValue>
           <entry>
             <string>RP_SYS_DrumsTransformId</string>
-            <string>[DrumsMixIdhidden#BASS=-37,CRASH=-34,PERCUSSION=-36,TOM=-36,SNARE=-41]</string>
+            <string>[DrumsMixIdhidden#]</string>
           </entry>
           <entry>
             <string>rpVariationID</string>
@@ -1080,9 +1075,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="CoolBossa.S460.sty-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="160" spName="Chorus 3" spNbBars="16">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="BossaNova2.S469.prs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="160" spName="Chorus 3" spNbBars="16">
         <spVERSION>3</spVERSION>
-        <spRhythmName>CoolBossa.S460.sty</spRhythmName>
+        <spRhythmName>BossaNova2.S469.prs</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[3]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1090,7 +1085,7 @@
         <spHashMapRpIdValue>
           <entry>
             <string>RP_SYS_DrumsTransformId</string>
-            <string>[DrumsMixIdhidden#BASS=-37,CRASH=-34,PERCUSSION=-36,TOM=-36,SNARE=-41]</string>
+            <string>[DrumsMixIdhidden#]</string>
           </entry>
           <entry>
             <string>rpVariationID</string>
@@ -1126,9 +1121,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="CoolBossa.S460.sty-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="176" spName="Chorus 4" spNbBars="16">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="BossaNova2.S469.prs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="176" spName="Chorus 4" spNbBars="16">
         <spVERSION>3</spVERSION>
-        <spRhythmName>CoolBossa.S460.sty</spRhythmName>
+        <spRhythmName>BossaNova2.S469.prs</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[2]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1136,7 +1131,7 @@
         <spHashMapRpIdValue>
           <entry>
             <string>RP_SYS_DrumsTransformId</string>
-            <string>[DrumsMixIdhidden#BASS=-37,CRASH=-34,PERCUSSION=-36,TOM=-36,SNARE=-41]</string>
+            <string>[DrumsMixIdhidden#]</string>
           </entry>
           <entry>
             <string>rpVariationID</string>
@@ -1172,9 +1167,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="CoolBossa.S460.sty-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="192" spName="Chorus 4" spNbBars="16">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="BossaNova2.S469.prs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="192" spName="Chorus 4" spNbBars="16">
         <spVERSION>3</spVERSION>
-        <spRhythmName>CoolBossa.S460.sty</spRhythmName>
+        <spRhythmName>BossaNova2.S469.prs</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[3]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1182,7 +1177,7 @@
         <spHashMapRpIdValue>
           <entry>
             <string>RP_SYS_DrumsTransformId</string>
-            <string>[DrumsMixIdhidden#BASS=-37,CRASH=-34,PERCUSSION=-36,TOM=-36,SNARE=-41]</string>
+            <string>[DrumsMixIdhidden#]</string>
           </entry>
           <entry>
             <string>rpVariationID</string>
@@ -1218,9 +1213,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="CoolBossa.S460.sty-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="208" spName="Chorus 4" spNbBars="8">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="BossaNova2.S469.prs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="208" spName="Chorus 4" spNbBars="8">
         <spVERSION>3</spVERSION>
-        <spRhythmName>CoolBossa.S460.sty</spRhythmName>
+        <spRhythmName>BossaNova2.S469.prs</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[4]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1228,7 +1223,7 @@
         <spHashMapRpIdValue>
           <entry>
             <string>RP_SYS_DrumsTransformId</string>
-            <string>[DrumsMixIdhidden#BASS=-37,CRASH=-34,PERCUSSION=-36,TOM=-36,SNARE=-41]</string>
+            <string>[DrumsMixIdhidden#]</string>
           </entry>
           <entry>
             <string>rpVariationID</string>
@@ -1264,9 +1259,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="CoolBossa.S460.sty-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="216" spName="Chorus 4" spNbBars="16">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="BossaNova2.S469.prs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="216" spName="Chorus 4" spNbBars="16">
         <spVERSION>3</spVERSION>
-        <spRhythmName>CoolBossa.S460.sty</spRhythmName>
+        <spRhythmName>BossaNova2.S469.prs</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[3]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1274,7 +1269,7 @@
         <spHashMapRpIdValue>
           <entry>
             <string>RP_SYS_DrumsTransformId</string>
-            <string>[DrumsMixIdhidden#BASS=-37,CRASH=-34,PERCUSSION=-36,TOM=-36,SNARE=-41]</string>
+            <string>[DrumsMixIdhidden#]</string>
           </entry>
           <entry>
             <string>rpVariationID</string>
@@ -1310,9 +1305,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="CoolBossa.S460.sty-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="232" spName="Last Chorus" spNbBars="16">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="BossaNova2.S469.prs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="232" spName="Last Chorus" spNbBars="16">
         <spVERSION>3</spVERSION>
-        <spRhythmName>CoolBossa.S460.sty</spRhythmName>
+        <spRhythmName>BossaNova2.S469.prs</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[2]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1320,7 +1315,7 @@
         <spHashMapRpIdValue>
           <entry>
             <string>RP_SYS_DrumsTransformId</string>
-            <string>[DrumsMixIdhidden#BASS=-37,CRASH=-34,PERCUSSION=-36,TOM=-36,SNARE=-41]</string>
+            <string>[DrumsMixIdhidden#]</string>
           </entry>
           <entry>
             <string>rpVariationID</string>
@@ -1356,9 +1351,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="CoolBossa.S460.sty-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="248" spName="Last Chorus" spNbBars="16">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="BossaNova2.S469.prs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="248" spName="Last Chorus" spNbBars="16">
         <spVERSION>3</spVERSION>
-        <spRhythmName>CoolBossa.S460.sty</spRhythmName>
+        <spRhythmName>BossaNova2.S469.prs</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[3]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1366,7 +1361,7 @@
         <spHashMapRpIdValue>
           <entry>
             <string>RP_SYS_DrumsTransformId</string>
-            <string>[DrumsMixIdhidden#BASS=-37,CRASH=-34,PERCUSSION=-36,TOM=-36,SNARE=-41]</string>
+            <string>[DrumsMixIdhidden#]</string>
           </entry>
           <entry>
             <string>rpVariationID</string>
@@ -1402,9 +1397,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="CoolBossa.S460.sty-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="264" spName="Last Chorus" spNbBars="8">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="BossaNova2.S469.prs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="264" spName="Last Chorus" spNbBars="8">
         <spVERSION>3</spVERSION>
-        <spRhythmName>CoolBossa.S460.sty</spRhythmName>
+        <spRhythmName>BossaNova2.S469.prs</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[4]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1412,7 +1407,7 @@
         <spHashMapRpIdValue>
           <entry>
             <string>RP_SYS_DrumsTransformId</string>
-            <string>[DrumsMixIdhidden#BASS=-37,CRASH=-34,PERCUSSION=-36,TOM=-36,SNARE=-41]</string>
+            <string>[DrumsMixIdhidden#]</string>
           </entry>
           <entry>
             <string>rpVariationID</string>
@@ -1448,9 +1443,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="CoolBossa.S460.sty-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="272" spName="Last Chorus" spNbBars="16">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="BossaNova2.S469.prs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="272" spName="Last Chorus" spNbBars="16">
         <spVERSION>3</spVERSION>
-        <spRhythmName>CoolBossa.S460.sty</spRhythmName>
+        <spRhythmName>BossaNova2.S469.prs</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[3]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1458,7 +1453,7 @@
         <spHashMapRpIdValue>
           <entry>
             <string>RP_SYS_DrumsTransformId</string>
-            <string>[DrumsMixIdhidden#BASS=-37,CRASH=-34,PERCUSSION=-36,TOM=-36,SNARE=-41]</string>
+            <string>[DrumsMixIdhidden#]</string>
           </entry>
           <entry>
             <string>rpVariationID</string>
@@ -1494,9 +1489,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="CoolBossa.S460.sty-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="288" spName="Ending" spNbBars="4">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="BossaNova2.S469.prs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="288" spName="Ending" spNbBars="4">
         <spVERSION>3</spVERSION>
-        <spRhythmName>CoolBossa.S460.sty</spRhythmName>
+        <spRhythmName>BossaNova2.S469.prs</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[5]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1504,7 +1499,7 @@
         <spHashMapRpIdValue>
           <entry>
             <string>RP_SYS_DrumsTransformId</string>
-            <string>[DrumsMixIdhidden#BASS=-37,CRASH=-34,PERCUSSION=-36,TOM=-36,SNARE=-41]</string>
+            <string>[DrumsMixIdhidden#]</string>
           </entry>
           <entry>
             <string>rpVariationID</string>
@@ -1548,7 +1543,7 @@
     <entry>
       <string>User1</string>
       <Phrase resolves-to="PhraseSP" spVERSION="2">
-        <spSaveString>[0|55,55,0.99791664:32.0|63,63,0.49791667:35.0|62,62,0.49791667:35.5|62,62,0.49791667:37.5|58,58,0.49791667:38.5|55,55,0.49791667:39.5|54,54,0.99791664:40.0|63,63,0.49791667:43.0|62,62,0.49791667:43.5|53,53,0.49791667:49.5|55,55,0.49791667:50.5|59,59,0.49791667:51.5|62,62,0.49791667:52.0|59,59,0.99791664:53.0|55,55,0.99791664:54.0|53,53,0.99791664:55.0|51,51,0.99791664:56.0|62,62,0.49791667:59.0|60,60,0.49791667:59.5|62,62,0.49791667:67.0|60,60,0.49791667:67.5|57,57,0.99791664:69.5|53,53,0.99791664:70.5|51,51,0.49791667:71.5|50,50,0.49791667:72.0|60,60,0.49791667:75.0|58,58,0.49791667:75.5|57,57,0.99791664:81.5|52,52,0.99791664:82.5|57,57,0.49791667:83.5|58,58,0.99791664:84.0|60,60,1.9979167:85.0|58,58,0.49791667:87.0|57,57,0.49791667:87.5|55,55,0.99791664:96.0|63,63,0.49791667:99.0|62,62,0.49791667:99.5|62,62,0.49791667:101.5|58,58,0.49791667:102.5|55,55,0.49791667:103.5|54,54,0.99791664:104.0|63,63,0.49791667:107.0|62,62,0.49791667:107.5|53,53,0.49791667:113.5|55,55,0.49791667:114.5|59,59,0.49791667:115.5|62,62,0.49791667:116.0|59,59,0.99791664:117.0|55,55,0.99791664:118.0|53,53,0.99791664:119.0|51,51,0.99791664:120.0|62,62,0.49791667:123.0|60,60,0.49791667:123.5|60,60,0.49791667:129.5|62,62,0.49791667:130.5|63,63,0.49791667:131.5|65,65,0.49791667:132.0|63,63,1.9979167:133.0|62,62,0.49791667:135.0|60,60,2.4979167:136.0|58,58,0.49791667:138.5|57,57,0.49791667:139.0|58,58,1.4979167:139.5|57,57,0.99791664:143.0|56,56,0.49791667:144.0|63,63,0.99791664:145.0|60,60,0.99791664:146.0|56,56,0.99791664:147.0|54,54,0.49791667:148.0|50,50,0.49791667:149.5|57,57,0.99791664:150.0|58,58,0.99791664:151.0|55,55,1.9979167:152.0|55,55,0.49791667:159.0|56,56,1.4979167:160.0|55,55,0.49791667:161.5|54,54,0.49791667:162.0|55,55,0.49791667:162.5|60,60,0.49791667:164.5|59,59,0.49791667:165.5|58,58,0.49791667:166.0|59,59,0.49791667:166.5|62,62,0.49791667:170.5|59,59,0.49791667:171.0|60,60,0.49791667:171.5|55,55,0.49791667:175.0|58,58,1.4979167:176.0|57,57,0.49791667:177.5|56,56,0.49791667:178.0|57,57,0.49791667:178.5|62,62,0.49791667:180.5|59,59,0.49791667:181.5|60,60,0.49791667:182.0|55,55,0.99791664:192.0|63,63,0.49791667:195.0|62,62,0.49791667:195.5|62,62,0.49791667:197.5|58,58,0.49791667:198.5|55,55,0.49791667:199.5|54,54,0.99791664:200.0|63,63,0.49791667:203.0|62,62,0.49791667:203.5|53,53,0.49791667:209.5|55,55,0.49791667:210.5|59,59,0.49791667:211.5|62,62,0.49791667:212.0|59,59,0.99791664:213.0|55,55,0.99791664:214.0|53,53,0.99791664:215.0|51,51,0.99791664:216.0|62,62,0.49791667:219.0|60,60,0.49791667:219.5|60,60,0.49791667:225.5|62,62,0.49791667:226.5|63,63,0.49791667:227.5|65,65,0.49791667:228.0|63,63,1.9979167:229.0|62,62,0.49791667:231.0|60,60,2.4979167:232.0|58,58,0.49791667:234.5|57,57,0.49791667:235.0|58,58,1.4979167:235.5|57,57,0.99791664:239.0|56,56,0.49791667:240.0|63,63,0.99791664:241.0|60,60,0.99791664:242.0|56,56,0.99791664:243.0|54,54,0.49791667:244.0|50,50,0.49791667:245.5|57,57,0.99791664:246.0|58,58,0.99791664:247.0|55,55,1.9979167:248.0]</spSaveString>
+        <spSaveString>[0|55,53,0.99791664:31.986448|63,64,0.49791667:34.9892|62,60,0.49791667:35.505867|62,62,0.49791667:37.49201|58,58,0.49791667:38.483383|55,56,0.49791667:39.48852|54,56,0.99791664:39.980927|63,64,0.49791667:42.989513|62,64,0.49791667:43.492706|53,53,0.49791667:49.486904|55,53,0.49791667:50.497765|59,59,0.49791667:51.499477|62,60,0.49791667:51.990852|59,60,0.99791664:52.98859|55,56,0.99791664:54.005707|53,51,0.99791664:54.996754|51,51,0.99791664:56.012707|62,62,0.49791667:58.97956|60,60,0.49791667:59.493465|62,63,0.49791667:66.97848|60,60,0.49791667:67.4848|57,56,0.99791664:69.51623|53,53,0.99791664:70.47164|51,53,0.49791667:71.48251|50,49,0.49791667:71.998215|60,59,0.49791667:75.011|58,59,0.49791667:75.483795|57,59,0.99791664:81.48989|52,52,0.99791664:82.50155|57,56,0.49791667:83.48317|58,53,0.99791664:83.98328|60,60,1.9979167:84.992226|58,56,0.49791667:87.0169|57,56,0.49791667:87.49983|55,54,0.99791664:96.0047|63,67,0.49791667:98.999275|62,62,0.49791667:99.49241|62,63,0.49791667:101.50611|58,56,0.49791667:102.48308|55,54,0.49791667:103.48428|54,54,0.99791664:103.98931|63,64,0.49791667:106.99746|62,60,0.49791667:107.4821|53,51,0.49791667:113.509|55,57,0.49791667:114.49875|59,58,0.49791667:115.504616|62,60,0.49791667:116.01087|59,58,0.99791664:117.01267|55,52,0.99791664:117.994804|53,50,0.99791664:118.984856|51,54,0.99791664:119.98347|62,62,0.49791667:122.99974|60,58,0.49791667:123.49779|60,58,0.49791667:129.50688|62,61,0.49791667:130.46767|63,62,0.49791667:131.49506|65,64,0.49791667:131.98933|63,60,1.9979167:132.99083|62,62,0.49791667:135.0225|60,59,2.4979167:136.00642|58,56,0.49791667:138.48631|57,57,0.49791667:138.98021|58,59,1.4979167:139.48413|57,57,0.99791664:142.99078|56,55,0.49791667:143.98506|63,63,0.99791664:144.99702|60,65,0.99791664:145.99329|56,56,0.99791664:146.9924|54,55,0.49791667:147.98929|50,51,0.49791667:149.48235|57,56,0.99791664:149.99614|58,56,0.99791664:150.9933|55,55,1.9979167:151.99243|55,57,0.49791667:158.98378|56,54,1.4979167:159.98183|55,54,0.49791667:161.49295|54,53,0.49791667:161.99527|55,57,0.49791667:162.49709|60,62,0.49791667:164.5189|59,61,0.49791667:165.50482|58,56,0.49791667:165.9998|59,55,0.49791667:166.50198|62,61,0.49791667:170.49504|59,60,0.49791667:171.00671|60,61,0.49791667:171.50726|55,56,0.49791667:174.9833|58,58,1.4979167:175.98566|57,54,0.49791667:177.48271|56,58,0.49791667:178.00133|57,57,0.49791667:178.48012|62,64,0.49791667:180.50722|59,62,0.49791667:181.49396|60,62,0.49791667:181.9956|55,52,0.99791664:191.98607|63,63,0.49791667:194.99693|62,59,0.49791667:195.4662|62,61,0.49791667:197.49902|58,61,0.49791667:198.50066|55,54,0.49791667:199.51266|54,56,0.99791664:199.99577|63,59,0.49791667:203.00444|62,60,0.49791667:203.49812|53,54,0.49791667:209.47305|55,55,0.49791667:210.49254|59,57,0.49791667:211.49658|62,63,0.49791667:211.97546|59,59,0.99791664:212.97832|55,54,0.99791664:213.99963|53,51,0.99791664:214.98795|51,51,0.99791664:215.99573|62,62,0.49791667:218.98827|60,61,0.49791667:219.47748|60,63,0.49791667:225.49796|62,61,0.49791667:226.48682|63,64,0.49791667:227.49135|65,69,0.49791667:227.99364|63,61,1.9979167:228.97737|62,60,0.49791667:230.9978|60,60,2.4979167:231.98888|58,57,0.49791667:234.5064|57,58,0.49791667:235.00763|58,59,1.4979167:235.48041|57,57,0.99791664:239.00267|56,54,0.49791667:239.9899|63,64,0.99791664:240.99477|60,60,0.99791664:241.9933|56,53,0.99791664:242.99812|54,55,0.49791667:243.99113|50,51,0.49791667:245.5106|57,58,0.99791664:245.9875|58,55,0.99791664:246.99535|55,55,1.9979167:247.99902|55,91,0.99791664:928.00665|63,87,0.49791667:930.99115|62,91,0.49791667:931.49097|62,90,0.49791667:933.4946|58,85,0.49791667:934.4902|55,89,0.49791667:935.5001|54,88,0.99791664:935.9988|63,83,0.49791667:938.99207|62,87,0.49791667:939.4959|53,80,0.49791667:945.5007|55,78,0.49791667:946.5091|59,81,0.49791667:947.5015|62,79,0.49791667:947.98956|59,81,0.99791664:948.98065|55,83,0.99791664:949.99023|53,80,0.99791664:951.01276|51,76,0.99791664:952.0259|62,78,0.49791667:954.993|60,88,0.49791667:955.50903|62,84,0.49791667:962.99146|60,87,0.49791667:963.48944|57,84,0.99791664:965.49725|53,84,0.99791664:966.4739|51,83,0.49791667:967.4893|50,82,0.49791667:967.9763|60,87,0.49791667:970.98444|58,90,0.49791667:971.50336|57,80,0.99791664:977.48755|52,85,0.99791664:978.4929|57,89,0.49791667:979.4919|58,88,0.99791664:979.99896|60,88,1.9979167:980.9791|58,89,0.49791667:982.98376|57,84,0.49791667:983.50616|55,82,0.99791664:991.99567|63,86,0.49791667:994.97534|62,89,0.49791667:995.4802|62,86,0.49791667:997.4948|58,85,0.49791667:998.5021|55,85,0.49791667:999.50824|54,81,0.99791664:999.99023|63,75,0.49791667:1002.99133|62,79,0.49791667:1003.4953|53,79,0.49791667:1009.4909|55,79,0.49791667:1010.5255|59,79,0.49791667:1011.51263|62,89,0.49791667:1011.983|59,79,0.99791664:1012.9997|55,96,0.99791664:1013.99335|53,87,0.99791664:1014.975|51,70,0.99791664:1016.0056|62,62,0.49791667:1018.9806|60,62,0.49791667:1019.49023|60,56,0.49791667:1025.5109|62,60,0.49791667:1026.52|63,62,0.49791667:1027.5096|65,65,0.49791667:1027.9916|63,62,1.9979167:1028.998|62,61,0.49791667:1030.9797|60,61,2.4979167:1031.9899|58,98,0.49791667:1034.5107|57,83,0.49791667:1035.0|58,90,1.4979167:1035.484|57,84,0.99791664:1038.9843|56,87,0.49791667:1040.0051|63,88,0.99791664:1040.9929|60,90,0.99791664:1041.9849|56,80,0.99791664:1042.9808|54,91,0.49791667:1043.9934|50,84,0.49791667:1045.4906|57,85,0.99791664:1046.0033|58,86,0.99791664:1046.9824|55,80,1.9979167:1047.9893|55,85,0.49791667:1054.9994|56,83,1.4979167:1056.0083|55,87,0.49791667:1057.5001|54,86,0.49791667:1057.9944|55,86,0.49791667:1058.4924|60,85,0.49791667:1060.5079|59,85,0.49791667:1061.512|58,84,0.49791667:1061.9714|59,87,0.49791667:1062.5194|62,85,0.49791667:1066.4952|59,89,0.49791667:1067.015|60,86,0.49791667:1067.5065|55,91,0.49791667:1070.9956|58,91,1.4979167:1071.986|57,99,0.49791667:1073.4639|56,96,0.49791667:1073.9938|57,91,0.49791667:1074.4921|62,97,0.49791667:1076.4921|59,97,0.49791667:1077.508|60,93,0.49791667:1077.9803|55,104,0.99791664:1088.0002|63,98,0.49791667:1090.9954|62,99,0.49791667:1091.4873|62,100,0.49791667:1093.5151|58,97,0.49791667:1094.508|55,93,0.49791667:1095.4669|54,95,0.99791664:1095.9957|63,105,0.49791667:1098.981|62,96,0.49791667:1099.481|53,105,0.49791667:1105.4949|55,96,0.49791667:1106.5027|59,104,0.49791667:1107.4886|62,96,0.49791667:1107.9868|59,96,0.99791664:1109.0012|55,97,0.99791664:1109.9933|53,104,0.99791664:1110.992|51,96,0.99791664:1111.9882|62,98,0.49791667:1114.9886|60,102,0.49791667:1115.4888|60,96,0.49791667:1121.4965|62,96,0.49791667:1122.481|63,91,0.49791667:1123.4978|65,94,0.49791667:1123.9753|63,95,1.9979167:1124.97|62,93,0.49791667:1126.9944|60,94,2.4979167:1127.9767|58,89,0.49791667:1130.474|57,85,0.49791667:1131.0059|58,85,1.4979167:1131.4972|57,82,0.99791664:1134.9894|56,89,0.49791667:1136.0072|63,83,0.99791664:1136.9979|60,82,0.99791664:1138.0011|56,87,0.99791664:1139.0057|54,91,0.49791667:1140.0073|50,89,0.49791667:1141.5076|57,87,0.99791664:1142.0117|58,84,0.99791664:1143.0067|55,82,1.9979167:1144.0]</spSaveString>
       </Phrase>
     </entry>
   </spMapUserPhrases>
@@ -1567,12 +1562,16 @@
         <string>ONE_QUARTER_BEAT</string>
       </entry>
       <entry>
+        <string>PropSsEditorZoomFactorY</string>
+        <string>50</string>
+      </entry>
+      <entry>
         <string>SectionDisplayQuantization-B*4/4</string>
         <string>ONE_QUARTER_BEAT</string>
       </entry>
       <entry>
         <string>PropSsEditorZoomFactorX</string>
-        <string>0</string>
+        <string>2</string>
       </entry>
       <entry>
         <string>PropViewMode</string>
@@ -1581,6 +1580,10 @@
       <entry>
         <string>SectionDisplayQuantization-A1*4/4</string>
         <string>ONE_QUARTER_BEAT</string>
+      </entry>
+      <entry>
+        <string>PropCompactViewModeVisibleRps_BossaNova2.S469.prs-ID</string>
+        <string>rpVariationID,rpIntensityID,RpFillID,RpSysMuteID,rpSysMarkerID</string>
       </entry>
       <entry>
         <string>SectionDisplayQuantization-A2*4/4</string>
