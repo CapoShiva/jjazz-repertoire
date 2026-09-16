@@ -1,19 +1,13 @@
-<Song resolves-to="SongSP" spName="OutOfNoWhere-G-Theme" spTempo="120">
+<Song resolves-to="SongSP" spName="OutOfNoWhere-G-Theme" spTempo="142">
   <spVERSION>4</spVERSION>
   <spComments>Edit me...</spComments>
   <spTags/>
   <spChordLeadSheet class="ChordLeadSheetImpl" resolves-to="ChordLeadSheetImplSP">
-    <spVERSION>2</spVERSION>
+    <spVERSION>3</spVERSION>
     <spItems>
       <CLI__SectionImpl resolves-to="CLI_SectionImplSP" spName="Intro" spTs="FOUR_FOUR" spBarIndex="0">
-        <spVERSION>3</spVERSION>
+        <spVERSION>4</spVERSION>
         <spClientProperties>
-          <properties>
-            <entry>
-              <string>PropSectionQuantization</string>
-              <string>ONE_QUARTER_BEAT</string>
-            </entry>
-          </properties>
           <owner class="CLI_SectionImpl" reference="../.."/>
         </spClientProperties>
       </CLI__SectionImpl>
@@ -154,14 +148,8 @@
         </spClientProperties>
       </CLI__ChordSymbolImpl>
       <CLI__SectionImpl resolves-to="CLI_SectionImplSP" spName="A1" spTs="FOUR_FOUR" spBarIndex="4">
-        <spVERSION>3</spVERSION>
+        <spVERSION>4</spVERSION>
         <spClientProperties>
-          <properties>
-            <entry>
-              <string>PropSectionQuantization</string>
-              <string>ONE_THIRD_BEAT</string>
-            </entry>
-          </properties>
           <owner class="CLI_SectionImpl" reference="../.."/>
         </spClientProperties>
       </CLI__SectionImpl>
@@ -268,14 +256,8 @@
         </spClientProperties>
       </CLI__ChordSymbolImpl>
       <CLI__SectionImpl resolves-to="CLI_SectionImplSP" spName="A2" spTs="FOUR_FOUR" spBarIndex="12">
-        <spVERSION>3</spVERSION>
+        <spVERSION>4</spVERSION>
         <spClientProperties>
-          <properties>
-            <entry>
-              <string>PropSectionQuantization</string>
-              <string>ONE_THIRD_BEAT</string>
-            </entry>
-          </properties>
           <owner class="CLI_SectionImpl" reference="../.."/>
         </spClientProperties>
       </CLI__SectionImpl>
@@ -382,14 +364,8 @@
         </spClientProperties>
       </CLI__ChordSymbolImpl>
       <CLI__SectionImpl resolves-to="CLI_SectionImplSP" spName="B1" spTs="FOUR_FOUR" spBarIndex="20">
-        <spVERSION>3</spVERSION>
+        <spVERSION>4</spVERSION>
         <spClientProperties>
-          <properties>
-            <entry>
-              <string>PropSectionQuantization</string>
-              <string>ONE_THIRD_BEAT</string>
-            </entry>
-          </properties>
           <owner class="CLI_SectionImpl" reference="../.."/>
         </spClientProperties>
       </CLI__SectionImpl>
@@ -442,14 +418,8 @@
         </spClientProperties>
       </CLI__ChordSymbolImpl>
       <CLI__SectionImpl resolves-to="CLI_SectionImplSP" spName="B2" spTs="FOUR_FOUR" spBarIndex="28">
-        <spVERSION>3</spVERSION>
+        <spVERSION>4</spVERSION>
         <spClientProperties>
-          <properties>
-            <entry>
-              <string>PropSectionQuantization</string>
-              <string>ONE_THIRD_BEAT</string>
-            </entry>
-          </properties>
           <owner class="CLI_SectionImpl" reference="../.."/>
         </spClientProperties>
       </CLI__SectionImpl>
@@ -614,14 +584,8 @@
         </spClientProperties>
       </CLI__ChordSymbolImpl>
       <CLI__SectionImpl resolves-to="CLI_SectionImplSP" spName="AB1 alt" spTs="FOUR_FOUR" spBarIndex="36">
-        <spVERSION>3</spVERSION>
+        <spVERSION>4</spVERSION>
         <spClientProperties>
-          <properties>
-            <entry>
-              <string>PropSectionQuantization</string>
-              <string>ONE_THIRD_BEAT</string>
-            </entry>
-          </properties>
           <owner class="CLI_SectionImpl" reference="../.."/>
         </spClientProperties>
       </CLI__SectionImpl>
@@ -685,14 +649,8 @@
         </spClientProperties>
       </CLI__ChordSymbolImpl>
       <CLI__SectionImpl resolves-to="CLI_SectionImplSP" spName="B2 End" spTs="FOUR_FOUR" spBarIndex="44">
-        <spVERSION>3</spVERSION>
+        <spVERSION>4</spVERSION>
         <spClientProperties>
-          <properties>
-            <entry>
-              <string>PropSectionQuantization</string>
-              <string>ONE_THIRD_BEAT</string>
-            </entry>
-          </properties>
           <owner class="CLI_SectionImpl" reference="../.."/>
         </spClientProperties>
       </CLI__SectionImpl>
@@ -806,14 +764,8 @@
         </spClientProperties>
       </CLI__ChordSymbolImpl>
       <CLI__SectionImpl resolves-to="CLI_SectionImplSP" spName="Coda" spTs="FOUR_FOUR" spBarIndex="50">
-        <spVERSION>3</spVERSION>
+        <spVERSION>4</spVERSION>
         <spClientProperties>
-          <properties>
-            <entry>
-              <string>PropSectionQuantization</string>
-              <string>ONE_THIRD_BEAT</string>
-            </entry>
-          </properties>
           <owner class="CLI_SectionImpl" reference="../.."/>
         </spClientProperties>
       </CLI__SectionImpl>
@@ -973,11 +925,11 @@
     <spSize>56</spSize>
   </spChordLeadSheet>
   <spSongStructure class="SongStructureImpl" resolves-to="SongStructureImplSP">
-    <spVERSION>2</spVERSION>
+    <spVERSION>3</spVERSION>
     <spSpts>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="MediumJazz.S088.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="0" spName="Intro" spNbBars="4">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="MediumJazz.S737.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="0" spName="Intro" spNbBars="4">
         <spVERSION>3</spVERSION>
-        <spRhythmName>MediumJazz.S088.sst</spRhythmName>
+        <spRhythmName>MediumJazz.S737.sst</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1008,6 +960,10 @@
             <string>theme</string>
           </entry>
           <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
             <string>RpFillID</string>
             <string>break</string>
           </entry>
@@ -1017,9 +973,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="MediumJazz.S088.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="4" spName="Chorus 1" spNbBars="8">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="MediumJazz.S737.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="4" spName="Chorus 1" spNbBars="8">
         <spVERSION>3</spVERSION>
-        <spRhythmName>MediumJazz.S088.sst</spRhythmName>
+        <spRhythmName>MediumJazz.S737.sst</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[2]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1050,6 +1006,10 @@
             <string>theme</string>
           </entry>
           <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
             <string>RpFillID</string>
             <string></string>
           </entry>
@@ -1059,9 +1019,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="MediumJazz.S088.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="12" spName="Chorus 1" spNbBars="8">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="MediumJazz.S737.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="12" spName="Chorus 1" spNbBars="8">
         <spVERSION>3</spVERSION>
-        <spRhythmName>MediumJazz.S088.sst</spRhythmName>
+        <spRhythmName>MediumJazz.S737.sst</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[3]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1092,6 +1052,10 @@
             <string>theme</string>
           </entry>
           <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
             <string>RpFillID</string>
             <string>always</string>
           </entry>
@@ -1101,9 +1065,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="MediumJazz.S088.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="20" spName="Chorus 1" spNbBars="8">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="MediumJazz.S737.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="20" spName="Chorus 1" spNbBars="8">
         <spVERSION>3</spVERSION>
-        <spRhythmName>MediumJazz.S088.sst</spRhythmName>
+        <spRhythmName>MediumJazz.S737.sst</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[4]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1134,6 +1098,10 @@
             <string>theme</string>
           </entry>
           <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
             <string>RpFillID</string>
             <string>always</string>
           </entry>
@@ -1143,9 +1111,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="MediumJazz.S088.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="28" spName="Chorus 1" spNbBars="8">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="MediumJazz.S737.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="28" spName="Chorus 1" spNbBars="8">
         <spVERSION>3</spVERSION>
-        <spRhythmName>MediumJazz.S088.sst</spRhythmName>
+        <spRhythmName>MediumJazz.S737.sst</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[5]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1176,6 +1144,10 @@
             <string>theme</string>
           </entry>
           <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
             <string>RpFillID</string>
             <string>break</string>
           </entry>
@@ -1185,9 +1157,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="MediumJazz.S088.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="36" spName="Chorus 2" spNbBars="8">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="MediumJazz.S737.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="36" spName="Chorus 2" spNbBars="8">
         <spVERSION>3</spVERSION>
-        <spRhythmName>MediumJazz.S088.sst</spRhythmName>
+        <spRhythmName>MediumJazz.S737.sst</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[6]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1218,6 +1190,10 @@
             <string>solo</string>
           </entry>
           <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
             <string>RpFillID</string>
             <string></string>
           </entry>
@@ -1227,9 +1203,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="MediumJazz.S088.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="44" spName="Chorus 2" spNbBars="8">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="MediumJazz.S737.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="44" spName="Chorus 2" spNbBars="8">
         <spVERSION>3</spVERSION>
-        <spRhythmName>MediumJazz.S088.sst</spRhythmName>
+        <spRhythmName>MediumJazz.S737.sst</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[3]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1260,6 +1236,10 @@
             <string>solo</string>
           </entry>
           <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
             <string>RpFillID</string>
             <string>always</string>
           </entry>
@@ -1269,9 +1249,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="MediumJazz.S088.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="52" spName="Chorus 2" spNbBars="8">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="MediumJazz.S737.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="52" spName="Chorus 2" spNbBars="8">
         <spVERSION>3</spVERSION>
-        <spRhythmName>MediumJazz.S088.sst</spRhythmName>
+        <spRhythmName>MediumJazz.S737.sst</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[6]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1302,6 +1282,10 @@
             <string>solo</string>
           </entry>
           <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
             <string>RpFillID</string>
             <string>always</string>
           </entry>
@@ -1311,9 +1295,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="MediumJazz.S088.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="60" spName="Chorus 2" spNbBars="8">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="MediumJazz.S737.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="60" spName="Chorus 2" spNbBars="8">
         <spVERSION>3</spVERSION>
-        <spRhythmName>MediumJazz.S088.sst</spRhythmName>
+        <spRhythmName>MediumJazz.S737.sst</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[5]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1344,6 +1328,10 @@
             <string>solo</string>
           </entry>
           <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
             <string>RpFillID</string>
             <string>always</string>
           </entry>
@@ -1353,9 +1341,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="MediumJazz.S088.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="68" spName="Chorus 3" spNbBars="8">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="MediumJazz.S737.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="68" spName="Chorus 3" spNbBars="8">
         <spVERSION>3</spVERSION>
-        <spRhythmName>MediumJazz.S088.sst</spRhythmName>
+        <spRhythmName>MediumJazz.S737.sst</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[6]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1386,6 +1374,10 @@
             <string>solo</string>
           </entry>
           <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
             <string>RpFillID</string>
             <string></string>
           </entry>
@@ -1395,9 +1387,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="MediumJazz.S088.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="76" spName="Chorus 3" spNbBars="8">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="MediumJazz.S737.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="76" spName="Chorus 3" spNbBars="8">
         <spVERSION>3</spVERSION>
-        <spRhythmName>MediumJazz.S088.sst</spRhythmName>
+        <spRhythmName>MediumJazz.S737.sst</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[3]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1428,6 +1420,10 @@
             <string>solo</string>
           </entry>
           <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
             <string>RpFillID</string>
             <string>always</string>
           </entry>
@@ -1437,9 +1433,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="MediumJazz.S088.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="84" spName="Chorus 3" spNbBars="8">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="MediumJazz.S737.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="84" spName="Chorus 3" spNbBars="8">
         <spVERSION>3</spVERSION>
-        <spRhythmName>MediumJazz.S088.sst</spRhythmName>
+        <spRhythmName>MediumJazz.S737.sst</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[6]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1470,6 +1466,10 @@
             <string>solo</string>
           </entry>
           <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
             <string>RpFillID</string>
             <string>always</string>
           </entry>
@@ -1479,9 +1479,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="MediumJazz.S088.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="92" spName="Chorus 3" spNbBars="8">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="MediumJazz.S737.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="92" spName="Chorus 3" spNbBars="8">
         <spVERSION>3</spVERSION>
-        <spRhythmName>MediumJazz.S088.sst</spRhythmName>
+        <spRhythmName>MediumJazz.S737.sst</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[5]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1512,6 +1512,10 @@
             <string>solo</string>
           </entry>
           <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
             <string>RpFillID</string>
             <string>break</string>
           </entry>
@@ -1521,9 +1525,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="MediumJazz.S088.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="100" spName="Chorus4" spNbBars="8">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="MediumJazz.S737.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="100" spName="Chorus4" spNbBars="8">
         <spVERSION>3</spVERSION>
-        <spRhythmName>MediumJazz.S088.sst</spRhythmName>
+        <spRhythmName>MediumJazz.S737.sst</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[2]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1554,6 +1558,10 @@
             <string>theme</string>
           </entry>
           <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
             <string>RpFillID</string>
             <string></string>
           </entry>
@@ -1563,9 +1571,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="MediumJazz.S088.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="108" spName="Chorus4" spNbBars="8">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="MediumJazz.S737.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="108" spName="Chorus4" spNbBars="8">
         <spVERSION>3</spVERSION>
-        <spRhythmName>MediumJazz.S088.sst</spRhythmName>
+        <spRhythmName>MediumJazz.S737.sst</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[3]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1596,6 +1604,10 @@
             <string>theme</string>
           </entry>
           <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
             <string>RpFillID</string>
             <string>always</string>
           </entry>
@@ -1605,9 +1617,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="MediumJazz.S088.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="116" spName="Chorus4" spNbBars="8">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="MediumJazz.S737.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="116" spName="Chorus4" spNbBars="8">
         <spVERSION>3</spVERSION>
-        <spRhythmName>MediumJazz.S088.sst</spRhythmName>
+        <spRhythmName>MediumJazz.S737.sst</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[4]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1638,6 +1650,10 @@
             <string>theme</string>
           </entry>
           <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
             <string>RpFillID</string>
             <string>always</string>
           </entry>
@@ -1647,9 +1663,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="MediumJazz.S088.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="124" spName="Chorus4" spNbBars="6">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="MediumJazz.S737.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="124" spName="Chorus4" spNbBars="6">
         <spVERSION>3</spVERSION>
-        <spRhythmName>MediumJazz.S088.sst</spRhythmName>
+        <spRhythmName>MediumJazz.S737.sst</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[7]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1680,6 +1696,10 @@
             <string>theme</string>
           </entry>
           <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
             <string>RpFillID</string>
             <string></string>
           </entry>
@@ -1689,9 +1709,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="MediumJazz.S088.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="130" spName="Chorus4" spNbBars="6">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="MediumJazz.S737.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="130" spName="Chorus4" spNbBars="6">
         <spVERSION>3</spVERSION>
-        <spRhythmName>MediumJazz.S088.sst</spRhythmName>
+        <spRhythmName>MediumJazz.S737.sst</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[8]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1722,6 +1742,10 @@
             <string>theme</string>
           </entry>
           <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
             <string>RpFillID</string>
             <string>break</string>
           </entry>
@@ -1733,7 +1757,7 @@
       </SongPartImpl>
     </spSpts>
     <spParentCls class="ChordLeadSheetImpl" reference="../../spChordLeadSheet"/>
-    <spKeepUpdated>true</spKeepUpdated>
+    <spKeepUpdated>false</spKeepUpdated>
   </spSongStructure>
   <spMapUserPhrases>
     <entry>
@@ -1768,8 +1792,20 @@
         <string>50</string>
       </entry>
       <entry>
+        <string>PropCompactViewModeVisibleRps_jjSwing-ID</string>
+        <string>rpVariationID,BassStyleId,DrumsStyleId,RpFillID,rpSysMarkerID,RP_SYS_DrumsTransformId</string>
+      </entry>
+      <entry>
         <string>PropCompactViewModeVisibleRps_LingusFunk.S066.yjz-ID</string>
         <string>rpVariationID,rpIntensityID,RpFillID</string>
+      </entry>
+      <entry>
+        <string>PropCompactViewModeVisibleRps_MediumJazz.S737.sst-ID</string>
+        <string>rpVariationID,rpIntensityID,RpFillID,rpSysMarkerID,RP_SYS_DrumsTransformId</string>
+      </entry>
+      <entry>
+        <string>PropSsEditorZoomFactorY</string>
+        <string>50</string>
       </entry>
       <entry>
         <string>PropViewMode</string>
@@ -1777,7 +1813,7 @@
       </entry>
       <entry>
         <string>PropSsEditorZoomFactorX</string>
-        <string>2</string>
+        <string>6</string>
       </entry>
       <entry>
         <string>PropCompactViewModeVisibleRps_MediumJazz.S088.sst-ID</string>
