@@ -3,17 +3,11 @@
   <spComments>Éditez-moi...</spComments>
   <spTags/>
   <spChordLeadSheet class="ChordLeadSheetImpl" resolves-to="ChordLeadSheetImplSP">
-    <spVERSION>2</spVERSION>
+    <spVERSION>3</spVERSION>
     <spItems>
       <CLI__SectionImpl resolves-to="CLI_SectionImplSP" spName="Intro" spTs="FOUR_FOUR" spBarIndex="0">
-        <spVERSION>3</spVERSION>
+        <spVERSION>4</spVERSION>
         <spClientProperties>
-          <properties>
-            <entry>
-              <string>PropSectionQuantization</string>
-              <string>ONE_THIRD_BEAT</string>
-            </entry>
-          </properties>
           <owner class="CLI_SectionImpl" reference="../.."/>
         </spClientProperties>
       </CLI__SectionImpl>
@@ -103,14 +97,8 @@
         </spClientProperties>
       </CLI__ChordSymbolImpl>
       <CLI__SectionImpl resolves-to="CLI_SectionImplSP" spName="Intro fill" spTs="FOUR_FOUR" spBarIndex="3">
-        <spVERSION>3</spVERSION>
+        <spVERSION>4</spVERSION>
         <spClientProperties>
-          <properties>
-            <entry>
-              <string>PropSectionQuantization</string>
-              <string>ONE_THIRD_BEAT</string>
-            </entry>
-          </properties>
           <owner class="CLI_SectionImpl" reference="../.."/>
         </spClientProperties>
       </CLI__SectionImpl>
@@ -132,14 +120,8 @@
         </spClientProperties>
       </CLI__ChordSymbolImpl>
       <CLI__SectionImpl resolves-to="CLI_SectionImplSP" spName="A1" spTs="FOUR_FOUR" spBarIndex="4">
-        <spVERSION>3</spVERSION>
+        <spVERSION>4</spVERSION>
         <spClientProperties>
-          <properties>
-            <entry>
-              <string>PropSectionQuantization</string>
-              <string>HALF_BEAT</string>
-            </entry>
-          </properties>
           <owner class="CLI_SectionImpl" reference="../.."/>
         </spClientProperties>
       </CLI__SectionImpl>
@@ -348,14 +330,8 @@
         </spClientProperties>
       </CLI__ChordSymbolImpl>
       <CLI__SectionImpl resolves-to="CLI_SectionImplSP" spName="A2" spTs="FOUR_FOUR" spBarIndex="12">
-        <spVERSION>3</spVERSION>
+        <spVERSION>4</spVERSION>
         <spClientProperties>
-          <properties>
-            <entry>
-              <string>PropSectionQuantization</string>
-              <string>ONE_THIRD_BEAT</string>
-            </entry>
-          </properties>
           <owner class="CLI_SectionImpl" reference="../.."/>
         </spClientProperties>
       </CLI__SectionImpl>
@@ -441,14 +417,8 @@
         </spClientProperties>
       </CLI__ChordSymbolImpl>
       <CLI__SectionImpl resolves-to="CLI_SectionImplSP" spName="A2 Alt" spTs="FOUR_FOUR" spBarIndex="20">
-        <spVERSION>3</spVERSION>
+        <spVERSION>4</spVERSION>
         <spClientProperties>
-          <properties>
-            <entry>
-              <string>PropSectionQuantization</string>
-              <string>ONE_THIRD_BEAT</string>
-            </entry>
-          </properties>
           <owner class="CLI_SectionImpl" reference="../.."/>
         </spClientProperties>
       </CLI__SectionImpl>
@@ -569,14 +539,8 @@
         </spClientProperties>
       </CLI__ChordSymbolImpl>
       <CLI__SectionImpl resolves-to="CLI_SectionImplSP" spName="B" spTs="FOUR_FOUR" spBarIndex="28">
-        <spVERSION>3</spVERSION>
+        <spVERSION>4</spVERSION>
         <spClientProperties>
-          <properties>
-            <entry>
-              <string>PropSectionQuantization</string>
-              <string>ONE_THIRD_BEAT</string>
-            </entry>
-          </properties>
           <owner class="CLI_SectionImpl" reference="../.."/>
         </spClientProperties>
       </CLI__SectionImpl>
@@ -768,14 +732,8 @@
         </spClientProperties>
       </CLI__ChordSymbolImpl>
       <CLI__SectionImpl resolves-to="CLI_SectionImplSP" spName="A3" spTs="FOUR_FOUR" spBarIndex="36">
-        <spVERSION>3</spVERSION>
+        <spVERSION>4</spVERSION>
         <spClientProperties>
-          <properties>
-            <entry>
-              <string>PropSectionQuantization</string>
-              <string>ONE_THIRD_BEAT</string>
-            </entry>
-          </properties>
           <owner class="CLI_SectionImpl" reference="../.."/>
         </spClientProperties>
       </CLI__SectionImpl>
@@ -967,14 +925,8 @@
         </spClientProperties>
       </CLI__ChordSymbolImpl>
       <CLI__SectionImpl resolves-to="CLI_SectionImplSP" spName="A3 End" spTs="FOUR_FOUR" spBarIndex="44">
-        <spVERSION>3</spVERSION>
+        <spVERSION>4</spVERSION>
         <spClientProperties>
-          <properties>
-            <entry>
-              <string>PropSectionQuantization</string>
-              <string>ONE_THIRD_BEAT</string>
-            </entry>
-          </properties>
           <owner class="CLI_SectionImpl" reference="../.."/>
         </spClientProperties>
       </CLI__SectionImpl>
@@ -1043,14 +995,8 @@
         </spClientProperties>
       </CLI__ChordSymbolImpl>
       <CLI__SectionImpl resolves-to="CLI_SectionImplSP" spName="A3 Fade" spTs="FOUR_FOUR" spBarIndex="50">
-        <spVERSION>3</spVERSION>
+        <spVERSION>4</spVERSION>
         <spClientProperties>
-          <properties>
-            <entry>
-              <string>PropSectionQuantization</string>
-              <string>ONE_THIRD_BEAT</string>
-            </entry>
-          </properties>
           <owner class="CLI_SectionImpl" reference="../.."/>
         </spClientProperties>
       </CLI__SectionImpl>
@@ -1066,7 +1012,7 @@
     <spSize>52</spSize>
   </spChordLeadSheet>
   <spSongStructure class="SongStructureImpl" resolves-to="SongStructureImplSP">
-    <spVERSION>2</spVERSION>
+    <spVERSION>3</spVERSION>
     <spSpts>
       <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="MediumJazz.S737.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="0" spName="Intro" spNbBars="3">
         <spVERSION>3</spVERSION>
@@ -1099,6 +1045,10 @@
           <entry>
             <string>rpSysMarkerID</string>
             <string>theme</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
           </entry>
           <entry>
             <string>RpFillID</string>
@@ -1143,6 +1093,10 @@
             <string>theme</string>
           </entry>
           <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
             <string>RpFillID</string>
             <string></string>
           </entry>
@@ -1183,6 +1137,10 @@
           <entry>
             <string>rpSysMarkerID</string>
             <string>theme</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
           </entry>
           <entry>
             <string>RpFillID</string>
@@ -1227,6 +1185,10 @@
             <string>theme</string>
           </entry>
           <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
             <string>RpFillID</string>
             <string>always</string>
           </entry>
@@ -1267,6 +1229,10 @@
           <entry>
             <string>rpSysMarkerID</string>
             <string>theme</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
           </entry>
           <entry>
             <string>RpFillID</string>
@@ -1311,6 +1277,10 @@
             <string>theme</string>
           </entry>
           <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
             <string>RpFillID</string>
             <string>break</string>
           </entry>
@@ -1351,6 +1321,10 @@
           <entry>
             <string>rpSysMarkerID</string>
             <string>theme</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
           </entry>
           <entry>
             <string>RpFillID</string>
@@ -1395,6 +1369,10 @@
             <string>theme</string>
           </entry>
           <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
             <string>RpFillID</string>
             <string>always</string>
           </entry>
@@ -1435,6 +1413,10 @@
           <entry>
             <string>rpSysMarkerID</string>
             <string>theme</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
           </entry>
           <entry>
             <string>RpFillID</string>
@@ -1479,6 +1461,10 @@
             <string>theme</string>
           </entry>
           <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
             <string>RpFillID</string>
             <string>always</string>
           </entry>
@@ -1519,6 +1505,10 @@
           <entry>
             <string>rpSysMarkerID</string>
             <string>theme</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
           </entry>
           <entry>
             <string>RpFillID</string>
@@ -1563,6 +1553,10 @@
             <string>theme</string>
           </entry>
           <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
             <string>RpFillID</string>
             <string>always</string>
           </entry>
@@ -1603,6 +1597,10 @@
           <entry>
             <string>rpSysMarkerID</string>
             <string>theme</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
           </entry>
           <entry>
             <string>RpFillID</string>
@@ -1647,6 +1645,10 @@
             <string>theme</string>
           </entry>
           <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
             <string>RpFillID</string>
             <string>break</string>
           </entry>
@@ -1687,6 +1689,10 @@
           <entry>
             <string>rpSysMarkerID</string>
             <string>theme</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
           </entry>
           <entry>
             <string>RpFillID</string>
@@ -1731,6 +1737,10 @@
             <string>theme</string>
           </entry>
           <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
             <string>RpFillID</string>
             <string>always</string>
           </entry>
@@ -1771,6 +1781,10 @@
           <entry>
             <string>rpSysMarkerID</string>
             <string>theme</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
           </entry>
           <entry>
             <string>RpFillID</string>
@@ -1815,6 +1829,10 @@
             <string>theme</string>
           </entry>
           <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
             <string>RpFillID</string>
             <string></string>
           </entry>
@@ -1857,6 +1875,10 @@
             <string>theme</string>
           </entry>
           <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
             <string>RpFillID</string>
             <string>fade_out</string>
           </entry>
@@ -1868,11 +1890,11 @@
       </SongPartImpl>
     </spSpts>
     <spParentCls class="ChordLeadSheetImpl" reference="../../spChordLeadSheet"/>
-    <spKeepUpdated>true</spKeepUpdated>
+    <spKeepUpdated>false</spKeepUpdated>
   </spSongStructure>
   <spMapUserPhrases>
     <entry>
-      <string>User1</string>
+      <string>Lead</string>
       <Phrase resolves-to="PhraseSP" spVERSION="2">
         <spSaveString>[0|65,93,1.625:14.03125|68,99,1.1041666:15.75|56,62,0.375:16.755209|58,69,0.7708333:17.0625|65,82,0.34375:17.713541|60,78,0.5833333:18.083334|56,75,0.65625:19.041666|58,82,2.1822917:19.78125|65,91,1.8072916:22.046875|68,94,0.9947917:23.755209|56,74,0.38020834:24.75|58,77,0.5833333:25.046875|65,88,0.30208334:25.697916|60,67,0.47395834:26.072916|56,76,0.7239583:27.046875|58,77,2.265625:27.755209|65,95,1.53125:30.03125|68,93,1.0416666:31.713541|56,76,0.41145834:32.713543|58,75,0.7395833:33.015625|61,71,0.3125:33.645832|66,92,0.484375:34.03125|61,90,0.47395834:35.005207|60,80,2.125:35.739582|65,90,1.5520834:38.03125|61,90,0.9895833:39.682293|56,57,0.390625:40.708332|58,71,0.5260417:41.057293|60,68,0.27604166:41.739582|61,80,0.45833334:42.072918|58,88,0.46354166:43.041668|60,88,0.6666667:44.057293|56,83,1.25:44.8125|65,92,1.59375:46.130207|68,90,1.1458334:47.75|56,75,0.45833334:48.739582|58,75,0.5729167:49.125|65,85,0.45833334:49.713543|60,76,0.8333333:50.130207|56,86,0.45833334:51.03125|58,85,2.2447917:51.796875|65,91,1.609375:54.020832|68,89,1.0416666:55.697918|56,69,0.45833334:56.697918|58,71,0.8385417:57.015625|65,88,0.5104167:57.6875|60,70,0.9583333:58.083332|56,77,0.671875:59.041668|58,76,2.2604167:59.739582|65,93,1.5520834:62.020832|68,91,1.1666666:63.739582|56,76,0.421875:64.75|58,66,0.671875:65.140625|61,60,0.33333334:65.729164|66,84,0.45833334:66.09896|61,91,0.48958334:66.989586|60,72,2.1145833:67.75|65,85,1.3854166:70.03125|61,88,6.953125:71.6875|68,90,0.47916666:80.0625|66,95,0.9635417:80.791664|69,75,0.59375:82.046875|67,85,0.8333333:82.84896|68,96,0.45833334:83.80729|66,94,2.734375:84.75521|68,85,0.6979167:88.041664|66,96,0.9479167:88.80729|71,82,1.4427084:90.072914|69,79,0.45833334:91.625|68,84,0.5625:92.1875|66,89,2.5104167:92.822914|66,99,0.65625:96.03125|64,86,1.0677084:96.770836|67,80,0.703125:98.00521|65,93,0.39583334:98.8125|66,99,0.41666666:99.765625|64,86,2.5416667:100.770836|65,78,0.41666666:103.72396|66,87,0.41666666:104.00521|69,92,0.33333334:104.6875|69,80,0.47395834:105.041664|69,84,1.78125:106.015625|65,76,0.47395834:108.041664|68,88,0.33333334:108.6875|68,90,0.484375:109.0625|68,95,1.0052084:109.791664|65,79,0.53125:111.05729|68,88,1.0:111.78125|56,66,0.45833334:112.697914|58,79,0.5052083:113.05729|65,84,0.45833334:113.666664|60,58,1.015625:114.041664|56,65,0.6822917:115.03125|58,59,2.2708333:115.729164|65,95,1.59375:118.020836|68,98,1.0416666:119.708336|56,78,0.45833334:120.71354|58,75,0.6458333:121.0|65,90,0.34375:121.671875|60,76,0.9166667:122.05729|56,69,0.7239583:123.00521|58,71,2.1666667:123.75|65,97,1.5833334:126.020836|68,88,1.0729166:127.697914|56,67,0.40625:128.69792|58,70,0.6875:129.0625|61,66,0.33333334:129.6823|66,90,0.46875:130.0625|61,86,0.484375:131.0052|60,80,2.0833333:131.75|65,92,1.5416666:134.01562|61,94,5.5677085:135.71355|65,94,1.4739584:398.04688|68,98,1.3333334:399.64584|56,62,0.375:400.75522|58,69,0.7708333:401.0625|65,82,0.34375:401.71353|60,78,0.5833333:402.08334|56,75,0.65625:403.04166|58,82,2.1822917:403.78125|65,91,1.8072916:406.04688|68,94,0.9947917:407.75522|56,74,0.38020834:408.75|58,77,0.5833333:409.04688|65,88,0.30208334:409.6979|60,67,0.47395834:410.0729|56,76,0.7239583:411.04688|58,77,2.265625:411.75522|65,95,1.53125:414.03125|68,93,1.0416666:415.71353|56,76,0.41145834:416.71353|58,75,0.7395833:417.01562|61,71,0.3125:417.64584|66,92,0.484375:418.03125|61,90,0.47395834:419.00522|60,80,2.125:419.7396|65,90,1.5520834:422.03125|61,90,0.9895833:423.68228|56,57,0.390625:424.70834|58,71,0.5260417:425.05728|60,68,0.27604166:425.7396|61,80,0.45833334:426.0729|58,88,0.46354166:427.04166|60,88,0.6666667:428.05728|56,83,1.25:428.8125|65,92,1.59375:430.13022|68,90,1.1458334:431.75|56,75,0.45833334:432.7396|58,75,0.5729167:433.125|65,85,0.45833334:433.71353|60,76,0.8333333:434.13022|56,86,0.45833334:435.03125|58,85,2.2447917:435.79688|65,91,1.609375:438.02084|68,89,1.0416666:439.6979|56,69,0.45833334:440.6979|58,71,0.8385417:441.01562|65,88,0.5104167:441.6875|60,70,0.9583333:442.08334|56,77,0.671875:443.04166|58,76,2.2604167:443.7396|65,93,1.5520834:446.02084|68,91,1.1666666:447.7396|56,76,0.421875:448.75|58,66,0.671875:449.14062|61,60,0.33333334:449.72916|66,84,0.45833334:450.09897|61,91,0.48958334:450.9896|60,72,2.1145833:451.75|65,85,1.3854166:454.03125|61,88,6.953125:455.6875|68,90,0.47916666:464.0625|66,95,0.9635417:464.79166|69,75,0.59375:466.04688|67,85,0.8333333:466.84897|68,96,0.45833334:467.80728|66,94,2.734375:468.75522|68,85,0.6979167:472.04166|66,96,0.9479167:472.80728|71,82,1.4427084:474.0729|69,79,0.45833334:475.625|68,84,0.5625:476.1875|66,89,2.5104167:476.8229|66,99,0.65625:480.03125|64,86,1.0677084:480.77084|67,80,0.703125:482.00522|65,93,0.39583334:482.8125|66,99,0.41666666:483.76562|64,86,2.5416667:484.77084|65,78,0.41666666:487.72397|66,87,0.41666666:488.00522|69,92,0.33333334:488.6875|69,80,0.47395834:489.04166|69,84,1.78125:490.01562|65,76,0.47395834:492.04166|68,88,0.33333334:492.6875|68,90,0.484375:493.0625|68,95,1.0052084:493.79166|65,79,0.53125:495.05728|68,88,1.0:495.78125|56,66,0.45833334:496.6979|58,79,0.5052083:497.05728|65,84,0.45833334:497.66666|60,58,1.015625:498.04166|56,65,0.6822917:499.03125|58,59,2.2708333:499.72916|65,95,1.59375:502.02084|68,98,1.0416666:503.70834|56,78,0.45833334:504.71353|58,75,0.6458333:505.0|65,90,0.34375:505.67188|60,76,0.9166667:506.05728|56,69,0.7239583:507.00522|58,71,2.1666667:507.75|65,97,1.5833334:510.02084|68,88,1.0729166:511.6979|56,67,0.40625:512.69794|58,70,0.6875:513.0625|61,66,0.33333334:513.6823|66,90,0.46875:514.0625|61,86,0.484375:515.0052|60,80,2.0833333:515.75|65,92,1.5416666:518.0156|61,94,5.5677085:519.71356|68,98,1.3333334:527.6458]</spSaveString>
       </Phrase>
