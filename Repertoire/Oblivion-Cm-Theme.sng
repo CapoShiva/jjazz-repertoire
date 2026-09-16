@@ -3,7 +3,7 @@
   <spComments>Edit me...</spComments>
   <spTags/>
   <spChordLeadSheet class="ChordLeadSheetImpl" resolves-to="ChordLeadSheetImplSP">
-    <spVERSION>2</spVERSION>
+    <spVERSION>3</spVERSION>
     <spItems>
       <CLI__SectionImpl resolves-to="CLI_SectionImplSP" spName="In/Out" spTs="FOUR_FOUR" spBarIndex="0">
         <spVERSION>4</spVERSION>
@@ -975,9 +975,9 @@
   <spSongStructure class="SongStructureImpl" resolves-to="SongStructureImplSP">
     <spVERSION>3</spVERSION>
     <spSpts>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="ComboRumba 110.S725.sty-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="0" spName="In/Out" spNbBars="4">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="PopRumba.S625.bcs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="0" spName="In/Out" spNbBars="4">
         <spVERSION>3</spVERSION>
-        <spRhythmName>ComboRumba 110.S725.sty</spRhythmName>
+        <spRhythmName>PopRumba.S625.bcs</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1001,7 +1001,7 @@
           </entry>
           <entry>
             <string>RpSysMuteID</string>
-            <string>[Pad,Chord2,Chord1]</string>
+            <string>[]</string>
           </entry>
           <entry>
             <string>rpSysMarkerID</string>
@@ -1021,9 +1021,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="ComboRumba 110.S725.sty-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="4" spName="Chorus 1" spNbBars="24">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="PopRumba.S625.bcs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="4" spName="Chorus 1" spNbBars="24">
         <spVERSION>3</spVERSION>
-        <spRhythmName>ComboRumba 110.S725.sty</spRhythmName>
+        <spRhythmName>PopRumba.S625.bcs</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[2]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1047,7 +1047,7 @@
           </entry>
           <entry>
             <string>RpSysMuteID</string>
-            <string>[Pad,Chord1]</string>
+            <string>[]</string>
           </entry>
           <entry>
             <string>rpSysMarkerID</string>
@@ -1067,9 +1067,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="ComboRumba 110.S725.sty-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="28" spName="Chorus 1" spNbBars="16">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="PopRumba.S625.bcs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="28" spName="Chorus 1" spNbBars="16">
         <spVERSION>3</spVERSION>
-        <spRhythmName>ComboRumba 110.S725.sty</spRhythmName>
+        <spRhythmName>PopRumba.S625.bcs</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[3]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1093,7 +1093,7 @@
           </entry>
           <entry>
             <string>RpSysMuteID</string>
-            <string>[Pad,Chord1]</string>
+            <string>[]</string>
           </entry>
           <entry>
             <string>rpSysMarkerID</string>
@@ -1113,9 +1113,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="ComboRumba 110.S725.sty-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="44" spName="Chorus 2" spNbBars="24">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="PopRumba.S625.bcs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="44" spName="Chorus 2" spNbBars="24">
         <spVERSION>3</spVERSION>
-        <spRhythmName>ComboRumba 110.S725.sty</spRhythmName>
+        <spRhythmName>PopRumba.S625.bcs</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[2]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1159,9 +1159,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="ComboRumba 110.S725.sty-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="68" spName="Chorus 2" spNbBars="16">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="PopRumba.S625.bcs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="68" spName="Chorus 2" spNbBars="16">
         <spVERSION>3</spVERSION>
-        <spRhythmName>ComboRumba 110.S725.sty</spRhythmName>
+        <spRhythmName>PopRumba.S625.bcs</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[3]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1205,9 +1205,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="ComboRumba 110.S725.sty-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="84" spName="Chorus 3" spNbBars="24">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="PopRumba.S625.bcs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="84" spName="Chorus 3" spNbBars="24">
         <spVERSION>3</spVERSION>
-        <spRhythmName>ComboRumba 110.S725.sty</spRhythmName>
+        <spRhythmName>PopRumba.S625.bcs</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[2]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1251,9 +1251,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="ComboRumba 110.S725.sty-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="108" spName="Chorus 3" spNbBars="16">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="PopRumba.S625.bcs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="108" spName="Chorus 3" spNbBars="16">
         <spVERSION>3</spVERSION>
-        <spRhythmName>ComboRumba 110.S725.sty</spRhythmName>
+        <spRhythmName>PopRumba.S625.bcs</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[3]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1297,9 +1297,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="ComboRumba 110.S725.sty-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="124" spName="Chorus 4" spNbBars="24">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="PopRumba.S625.bcs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="124" spName="Chorus 4" spNbBars="24">
         <spVERSION>3</spVERSION>
-        <spRhythmName>ComboRumba 110.S725.sty</spRhythmName>
+        <spRhythmName>PopRumba.S625.bcs</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[2]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1343,9 +1343,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="ComboRumba 110.S725.sty-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="148" spName="Chorus 4" spNbBars="16">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="PopRumba.S625.bcs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="148" spName="Chorus 4" spNbBars="16">
         <spVERSION>3</spVERSION>
-        <spRhythmName>ComboRumba 110.S725.sty</spRhythmName>
+        <spRhythmName>PopRumba.S625.bcs</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[3]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1389,9 +1389,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="ComboRumba 110.S725.sty-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="164" spName="Last Chorus" spNbBars="24">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="PopRumba.S625.bcs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="164" spName="Last Chorus" spNbBars="24">
         <spVERSION>3</spVERSION>
-        <spRhythmName>ComboRumba 110.S725.sty</spRhythmName>
+        <spRhythmName>PopRumba.S625.bcs</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[2]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1415,7 +1415,7 @@
           </entry>
           <entry>
             <string>RpSysMuteID</string>
-            <string>[Pad,Chord2,Chord1]</string>
+            <string>[]</string>
           </entry>
           <entry>
             <string>rpSysMarkerID</string>
@@ -1435,9 +1435,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="ComboRumba 110.S725.sty-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="188" spName="Last Chorus" spNbBars="16">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="PopRumba.S625.bcs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="188" spName="Last Chorus" spNbBars="16">
         <spVERSION>3</spVERSION>
-        <spRhythmName>ComboRumba 110.S725.sty</spRhythmName>
+        <spRhythmName>PopRumba.S625.bcs</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[3]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1461,7 +1461,7 @@
           </entry>
           <entry>
             <string>RpSysMuteID</string>
-            <string>[Pad,Chord2,Chord1]</string>
+            <string>[]</string>
           </entry>
           <entry>
             <string>rpSysMarkerID</string>
@@ -1481,9 +1481,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="ComboRumba 110.S725.sty-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="204" spName="In/Out" spNbBars="4">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="PopRumba.S625.bcs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="204" spName="In/Out" spNbBars="4">
         <spVERSION>3</spVERSION>
-        <spRhythmName>ComboRumba 110.S725.sty</spRhythmName>
+        <spRhythmName>PopRumba.S625.bcs</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1507,7 +1507,7 @@
           </entry>
           <entry>
             <string>RpSysMuteID</string>
-            <string>[Pad,Chord2,Chord1]</string>
+            <string>[]</string>
           </entry>
           <entry>
             <string>rpSysMarkerID</string>
@@ -1533,9 +1533,9 @@
   </spSongStructure>
   <spMapUserPhrases>
     <entry>
-      <string>User2</string>
+      <string>Lead</string>
       <Phrase resolves-to="PhraseSP" spVERSION="2">
-        <spSaveString>[0|67,80,5.4947915:15.994792|65,80,0.24479167:21.5|63,80,0.24479167:21.75|62,80,0.9947917:22.0|60,80,0.9947917:23.0|63,80,5.4947915:24.0|62,80,0.24479167:29.5|60,80,0.24479167:29.75|58,80,0.9947917:30.0|56,80,0.9947917:31.0|60,80,1.9947916:32.0|60,80,0.6614583:34.0|58,80,0.6614583:34.666668|56,80,0.6614583:35.333332|58,80,1.9947916:36.0|58,80,0.6614583:38.0|56,80,0.6614583:38.666668|55,80,0.6614583:39.333332|56,80,2.4947917:40.0|55,80,0.49479166:42.5|53,80,0.49479166:43.0|51,80,0.49479166:43.5|50,80,1.9947916:44.0|55,80,1.9947916:46.0|67,80,5.4947915:48.0|65,80,0.24479167:53.5|63,80,0.24479167:53.75|62,80,0.9947917:54.0|60,80,0.9947917:55.0|63,80,5.4947915:56.0|62,80,0.24479167:61.5|60,80,0.24479167:61.75|58,80,0.9947917:62.0|56,80,0.9947917:63.0|60,80,5.4947915:64.0|58,80,0.24479167:69.5|56,80,0.24479167:69.75|55,80,0.9947917:70.0|53,80,0.9947917:71.0|56,80,5.9947915:72.0|56,80,0.49479166:78.0|60,80,0.49479166:78.5|65,80,0.49479166:79.0|67,80,0.49479166:79.5|68,80,5.4947915:80.0|67,80,0.24479167:85.5|65,80,0.24479167:85.75|63,80,0.9947917:86.0|62,80,0.9947917:87.0|67,80,5.4947915:88.0|65,80,0.24479167:93.5|63,80,0.24479167:93.75|62,80,0.9947917:94.0|60,80,0.9947917:95.0|66,80,1.9947916:96.0|62,80,1.9947916:98.0|67,80,1.9947916:100.0|62,80,1.9947916:102.0|60,80,3.9947917:104.0|60,80,2.4947917:108.0|55,80,0.49479166:110.5|60,80,0.49479166:111.0|62,80,0.49479166:111.5|63,80,2.9947917:112.0|60,80,0.49479166:115.0|62,80,0.49479166:115.5|63,80,0.49479166:116.0|62,80,0.9947917:116.5|65,80,0.49479166:117.5|58,80,0.9947917:118.0|56,80,0.9947917:119.0|55,80,0.9947917:120.0|62,80,2.9947917:121.0|60,80,0.49479166:125.0|63,80,0.49479166:125.5|56,80,0.9947917:126.0|55,80,0.9947917:127.0|53,80,0.9947917:128.0|60,80,2.9947917:129.0|59,80,0.49479166:133.0|62,80,0.49479166:133.5|55,80,0.9947917:134.0|53,80,0.9947917:135.0|51,80,1.9947916:136.0|53,80,1.9947916:138.0|55,80,2.4947917:140.0|55,80,0.49479166:142.5|60,80,0.49479166:143.0|62,80,0.49479166:143.5|63,80,2.9947917:144.0|60,80,0.49479166:147.0|62,80,0.49479166:147.5|63,80,0.49479166:148.0|62,80,0.9947917:148.5|65,80,0.49479166:149.5|58,80,0.9947917:150.0|56,80,0.9947917:151.0|55,80,0.9947917:152.0|62,80,2.9947917:153.0|60,80,0.49479166:157.0|63,80,0.49479166:157.5|56,80,0.9947917:158.0|55,80,0.9947917:159.0|54,80,5.9947915:160.0|51,80,0.9947917:166.0|50,80,0.9947917:167.0|55,80,7.9947915:168.0|60,80,24.192709:176.0|67,80,5.4947915:656.0|65,80,0.24479167:661.5052|63,80,0.24479167:661.7552|62,80,0.9947917:662.0052|60,80,0.9947917:663.0052|63,80,5.4947915:664.0052|62,80,0.24479167:669.5052|60,80,0.24479167:669.7552|58,80,0.9947917:670.0052|56,80,0.9947917:671.0052|60,80,1.9947916:672.0052|60,80,0.6614583:674.0052|58,80,0.6614583:674.6719|56,80,0.6614583:675.33856|58,80,1.9947916:676.0052|58,80,0.6614583:678.0052|56,80,0.6614583:678.6719|55,80,0.6614583:679.33856|56,80,2.4947917:680.0052|55,80,0.49479166:682.5052|53,80,0.49479166:683.0052|51,80,0.49479166:683.5052|50,80,1.9947916:684.0052|55,80,1.9947916:686.0052|67,80,5.4947915:688.0052|65,80,0.24479167:693.5052|63,80,0.24479167:693.7552|62,80,0.9947917:694.0052|60,80,0.9947917:695.0052|63,80,5.4947915:696.0052|62,80,0.24479167:701.5052|60,80,0.24479167:701.7552|58,80,0.9947917:702.0052|56,80,0.9947917:703.0052|60,80,5.4947915:704.0052|58,80,0.24479167:709.5052|56,80,0.24479167:709.7552|55,80,0.9947917:710.0052|53,80,0.9947917:711.0052|56,80,5.9947915:712.0052|56,80,0.49479166:718.0052|60,80,0.49479166:718.5052|65,80,0.49479166:719.0052|67,80,0.49479166:719.5052|68,80,5.4947915:720.0052|67,80,0.24479167:725.5052|65,80,0.24479167:725.7552|63,80,0.9947917:726.0052|62,80,0.9947917:727.0052|67,80,5.4947915:728.0052|65,80,0.24479167:733.5052|63,80,0.24479167:733.7552|62,80,0.9947917:734.0052|60,80,0.9947917:735.0052|66,80,1.9947916:736.0052|62,80,1.9947916:738.0052|67,80,1.9947916:740.0052|62,80,1.9947916:742.0052|60,80,3.9947917:744.0052|60,80,2.4947917:748.0052|55,80,0.49479166:750.5052|60,80,0.49479166:751.0052|62,80,0.49479166:751.5052|63,80,2.9947917:752.0052|60,80,0.49479166:755.0052|62,80,0.49479166:755.5052|63,80,0.49479166:756.0052|62,80,0.9947917:756.5052|65,80,0.49479166:757.5052|58,80,0.9947917:758.0052|56,80,0.9947917:759.0052|55,80,0.9947917:760.0052|62,80,2.9947917:761.0052|60,80,0.49479166:765.0052|63,80,0.49479166:765.5052|56,80,0.9947917:766.0052|55,80,0.9947917:767.0052|53,80,0.9947917:768.0052|60,80,2.9947917:769.0052|59,80,0.49479166:773.0052|62,80,0.49479166:773.5052|55,80,0.9947917:774.0052|53,80,0.9947917:775.0052|51,80,1.9947916:776.0052|53,80,1.9947916:778.0052|55,80,2.4947917:780.0052|55,80,0.49479166:782.5052|60,80,0.49479166:783.0052|62,80,0.49479166:783.5052|63,80,2.9947917:784.0052|60,80,0.49479166:787.0052|62,80,0.49479166:787.5052|63,80,0.49479166:788.0052|62,80,0.9947917:788.5052|65,80,0.49479166:789.5052|58,80,0.9947917:790.0052|56,80,0.9947917:791.0052|55,80,0.9947917:792.0052|62,80,2.9947917:793.0052|60,80,0.49479166:797.0052|63,80,0.49479166:797.5052|56,80,0.9947917:798.0052|55,80,0.9947917:799.0052|54,80,5.9947915:800.0052|51,80,0.9947917:806.0052|50,80,0.9947917:807.0052|55,80,7.9947915:808.0052|60,80,31.994791:816.0052]</spSaveString>
+        <spSaveString>[0|67,80,5.4947915:15.994792|65,80,0.24479167:21.5|63,80,0.24479167:21.75|62,80,0.9947917:22.0|60,80,0.9947917:23.0|63,80,5.4947915:24.0|62,80,0.24479167:29.5|60,80,0.24479167:29.75|58,80,0.9947917:30.0|56,80,0.9947917:31.0|60,80,1.9947916:32.0|60,80,0.6614583:34.0|58,80,0.6614583:34.666668|56,80,0.6614583:35.333332|58,80,1.9947916:36.0|58,80,0.6614583:38.0|56,80,0.6614583:38.666668|55,80,0.6614583:39.333332|56,80,2.4947917:40.0|55,80,0.49479166:42.5|53,80,0.49479166:43.0|51,80,0.49479166:43.5|50,80,1.9947916:44.0|55,80,1.9947916:46.0|67,80,5.4947915:48.0|65,80,0.24479167:53.5|63,80,0.24479167:53.75|62,80,0.9947917:54.0|60,80,0.9947917:55.0|63,80,5.4947915:56.0|62,80,0.24479167:61.5|60,80,0.24479167:61.75|58,80,0.9947917:62.0|56,80,0.9947917:63.0|60,80,5.4947915:64.0|58,80,0.24479167:69.5|56,80,0.24479167:69.75|55,80,0.9947917:70.0|53,80,0.9947917:71.0|56,80,5.9947915:72.0|56,80,0.49479166:78.0|60,80,0.49479166:78.5|65,80,0.49479166:79.0|67,80,0.49479166:79.5|68,80,5.4947915:80.0|67,80,0.24479167:85.5|65,80,0.24479167:85.75|63,80,0.9947917:86.0|62,80,0.9947917:87.0|67,80,5.4947915:88.0|65,80,0.24479167:93.5|63,80,0.24479167:93.75|62,80,0.9947917:94.0|60,80,0.9947917:95.0|66,80,1.9947916:96.0|62,80,1.9947916:98.0|67,80,1.9947916:100.0|62,80,1.9947916:102.0|60,80,3.9947917:104.0|60,80,2.4947917:108.0|55,80,0.49479166:110.5|60,80,0.49479166:111.0|62,80,0.49479166:111.5|63,80,2.9947917:112.0|60,80,0.49479166:115.0|62,80,0.49479166:115.5|63,80,0.49479166:116.0|62,80,0.9947917:116.5|65,80,0.49479166:117.5|58,80,0.9947917:118.0|56,80,0.9947917:119.0|55,80,0.9947917:120.0|62,80,2.9947917:121.0|60,80,0.49479166:125.0|63,80,0.49479166:125.5|56,80,0.9947917:126.0|55,80,0.9947917:127.0|53,80,0.9947917:128.0|60,80,2.9947917:129.0|59,80,0.49479166:133.0|62,80,0.49479166:133.5|55,80,0.9947917:134.0|53,80,0.9947917:135.0|51,80,1.9947916:136.0|53,80,1.9947916:138.0|55,80,2.4947917:140.0|55,80,0.49479166:142.5|60,80,0.49479166:143.0|62,80,0.49479166:143.5|63,80,2.9947917:144.0|60,80,0.49479166:147.0|62,80,0.49479166:147.5|63,80,0.49479166:148.0|62,80,0.9947917:148.5|65,80,0.49479166:149.5|58,80,0.9947917:150.0|56,80,0.9947917:151.0|55,80,0.9947917:152.0|62,80,2.9947917:153.0|60,80,0.49479166:157.0|63,80,0.49479166:157.5|56,80,0.9947917:158.0|55,80,0.9947917:159.0|54,80,5.9947915:160.0|51,80,0.9947917:166.0|50,80,0.9947917:167.0|55,80,7.9947915:168.0|67,80,5.4947915:656.0|65,80,0.24479167:661.5052|63,80,0.24479167:661.7552|62,80,0.9947917:662.0052|60,80,0.9947917:663.0052|63,80,5.4947915:664.0052|62,80,0.24479167:669.5052|60,80,0.24479167:669.7552|58,80,0.9947917:670.0052|56,80,0.9947917:671.0052|60,80,1.9947916:672.0052|60,80,0.6614583:674.0052|58,80,0.6614583:674.6719|56,80,0.6614583:675.33856|58,80,1.9947916:676.0052|58,80,0.6614583:678.0052|56,80,0.6614583:678.6719|55,80,0.6614583:679.33856|56,80,2.4947917:680.0052|55,80,0.49479166:682.5052|53,80,0.49479166:683.0052|51,80,0.49479166:683.5052|50,80,1.9947916:684.0052|55,80,1.9947916:686.0052|67,80,5.4947915:688.0052|65,80,0.24479167:693.5052|63,80,0.24479167:693.7552|62,80,0.9947917:694.0052|60,80,0.9947917:695.0052|63,80,5.4947915:696.0052|62,80,0.24479167:701.5052|60,80,0.24479167:701.7552|58,80,0.9947917:702.0052|56,80,0.9947917:703.0052|60,80,5.4947915:704.0052|58,80,0.24479167:709.5052|56,80,0.24479167:709.7552|55,80,0.9947917:710.0052|53,80,0.9947917:711.0052|56,80,5.9947915:712.0052|56,80,0.49479166:718.0052|60,80,0.49479166:718.5052|65,80,0.49479166:719.0052|67,80,0.49479166:719.5052|68,80,5.4947915:720.0052|67,80,0.24479167:725.5052|65,80,0.24479167:725.7552|63,80,0.9947917:726.0052|62,80,0.9947917:727.0052|67,80,5.4947915:728.0052|65,80,0.24479167:733.5052|63,80,0.24479167:733.7552|62,80,0.9947917:734.0052|60,80,0.9947917:735.0052|66,80,1.9947916:736.0052|62,80,1.9947916:738.0052|67,80,1.9947916:740.0052|62,80,1.9947916:742.0052|60,80,3.9947917:744.0052|60,80,2.4947917:748.0052|55,80,0.49479166:750.5052|60,80,0.49479166:751.0052|62,80,0.49479166:751.5052|63,80,2.9947917:752.0052|60,80,0.49479166:755.0052|62,80,0.49479166:755.5052|63,80,0.49479166:756.0052|62,80,0.9947917:756.5052|65,80,0.49479166:757.5052|58,80,0.9947917:758.0052|56,80,0.9947917:759.0052|55,80,0.9947917:760.0052|62,80,2.9947917:761.0052|60,80,0.49479166:765.0052|63,80,0.49479166:765.5052|56,80,0.9947917:766.0052|55,80,0.9947917:767.0052|53,80,0.9947917:768.0052|60,80,2.9947917:769.0052|59,80,0.49479166:773.0052|62,80,0.49479166:773.5052|55,80,0.9947917:774.0052|53,80,0.9947917:775.0052|51,80,1.9947916:776.0052|53,80,1.9947916:778.0052|55,80,2.4947917:780.0052|55,80,0.49479166:782.5052|60,80,0.49479166:783.0052|62,80,0.49479166:783.5052|63,80,2.9947917:784.0052|60,80,0.49479166:787.0052|62,80,0.49479166:787.5052|63,80,0.49479166:788.0052|62,80,0.9947917:788.5052|65,80,0.49479166:789.5052|58,80,0.9947917:790.0052|56,80,0.9947917:791.0052|55,80,0.9947917:792.0052|62,80,2.9947917:793.0052|60,80,0.49479166:797.0052|63,80,0.49479166:797.5052|56,80,0.9947917:798.0052|55,80,0.9947917:799.0052|54,80,5.9947915:800.0052|51,80,0.9947917:806.0052|50,80,0.9947917:807.0052|55,80,7.9947915:808.0052|60,80,31.994791:816.0052]</spSaveString>
       </Phrase>
     </entry>
   </spMapUserPhrases>
@@ -1559,7 +1559,7 @@
       </entry>
       <entry>
         <string>PropSsEditorZoomFactorX</string>
-        <string>4</string>
+        <string>6</string>
       </entry>
       <entry>
         <string>SectionDisplayQuantization-B*4/4</string>
@@ -1568,6 +1568,10 @@
       <entry>
         <string>SectionDisplayQuantization-A*4/4</string>
         <string>ONE_QUARTER_BEAT</string>
+      </entry>
+      <entry>
+        <string>PropCompactViewModeVisibleRps_PopRumba.S625.bcs-ID</string>
+        <string>rpVariationID,rpIntensityID,RpFillID,RpSysMuteID,rpSysMarkerID</string>
       </entry>
     </properties>
     <owner class="Song" reference="../.."/>
