@@ -1,6 +1,8 @@
 <Song resolves-to="SongSP" spName="AanDeAmsterdamseGrachten-Cm-Theme" spTempo="144">
   <spVERSION>4</spVERSION>
-  <spComments>Edit me...</spComments>
+  <spComments>Year: 	1949
+Composer: 	Pieter Goemans
+Lyrics: 	Pieter Goemans</spComments>
   <spTags/>
   <spChordLeadSheet class="ChordLeadSheetImpl" resolves-to="ChordLeadSheetImplSP">
     <spVERSION>3</spVERSION>
@@ -81,7 +83,16 @@
       </CLI__ChordSymbolImpl>
       <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
         <spVERSION>3</spVERSION>
-        <spChord reference="../../CLI__ChordSymbolImpl/spChord"/>
+        <spChord resolves-to="ExtChordSymbolSP" spName="C" spOriginalName="C">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
+              <null/>
+            </ChordRenderingInfoSP>
+          </spRenderingInfo>
+        </spChord>
         <spPos resolves-to="PositionSP" spVERSION="2" spPos="[4:0]"/>
         <spClientProperties>
           <owner class="CLI_ChordSymbolImpl" reference="../.."/>
@@ -119,7 +130,7 @@
       </CLI__SectionImpl>
       <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
         <spVERSION>3</spVERSION>
-        <spChord reference="../../CLI__ChordSymbolImpl/spChord"/>
+        <spChord reference="../../CLI__ChordSymbolImpl[5]/spChord"/>
         <spPos resolves-to="PositionSP" spVERSION="2" spPos="[8:0]"/>
         <spClientProperties>
           <owner class="CLI_ChordSymbolImpl" reference="../.."/>
@@ -327,7 +338,7 @@
       </CLI__SectionImpl>
       <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
         <spVERSION>3</spVERSION>
-        <spChord reference="../../CLI__ChordSymbolImpl/spChord"/>
+        <spChord reference="../../CLI__ChordSymbolImpl[5]/spChord"/>
         <spPos resolves-to="PositionSP" spVERSION="2" spPos="[24:0]"/>
         <spClientProperties>
           <owner class="CLI_ChordSymbolImpl" reference="../.."/>
@@ -1170,7 +1181,7 @@
           </entry>
           <entry>
             <string>rpVariationID</string>
-            <string>Main A-1</string>
+            <string>Fill In AA-1</string>
           </entry>
           <entry>
             <string>rpIntensityID</string>
@@ -1644,7 +1655,7 @@
       </entry>
       <entry>
         <string>PropSsEditorZoomFactorX</string>
-        <string>12</string>
+        <string>10</string>
       </entry>
     </properties>
     <owner class="Song" reference="../.."/>
