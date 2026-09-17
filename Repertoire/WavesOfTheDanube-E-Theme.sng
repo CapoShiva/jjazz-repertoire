@@ -3,17 +3,11 @@
   <spComments>Edit me...</spComments>
   <spTags/>
   <spChordLeadSheet class="ChordLeadSheetImpl" resolves-to="ChordLeadSheetImplSP">
-    <spVERSION>2</spVERSION>
+    <spVERSION>3</spVERSION>
     <spItems>
       <CLI__SectionImpl resolves-to="CLI_SectionImplSP" spName="Intro" spTs="THREE_FOUR" spBarIndex="0">
-        <spVERSION>3</spVERSION>
+        <spVERSION>4</spVERSION>
         <spClientProperties>
-          <properties>
-            <entry>
-              <string>PropSectionQuantization</string>
-              <string>ONE_QUARTER_BEAT</string>
-            </entry>
-          </properties>
           <owner class="CLI_SectionImpl" reference="../.."/>
         </spClientProperties>
       </CLI__SectionImpl>
@@ -86,14 +80,8 @@
         </spClientProperties>
       </CLI__ChordSymbolImpl>
       <CLI__SectionImpl resolves-to="CLI_SectionImplSP" spName="A1" spTs="THREE_FOUR" spBarIndex="4">
-        <spVERSION>3</spVERSION>
+        <spVERSION>4</spVERSION>
         <spClientProperties>
-          <properties>
-            <entry>
-              <string>PropSectionQuantization</string>
-              <string>ONE_QUARTER_BEAT</string>
-            </entry>
-          </properties>
           <owner class="CLI_SectionImpl" reference="../.."/>
         </spClientProperties>
       </CLI__SectionImpl>
@@ -132,14 +120,8 @@
         </spClientProperties>
       </CLI__ChordSymbolImpl>
       <CLI__SectionImpl resolves-to="CLI_SectionImplSP" spName="A2" spTs="THREE_FOUR" spBarIndex="12">
-        <spVERSION>3</spVERSION>
+        <spVERSION>4</spVERSION>
         <spClientProperties>
-          <properties>
-            <entry>
-              <string>PropSectionQuantization</string>
-              <string>ONE_QUARTER_BEAT</string>
-            </entry>
-          </properties>
           <owner class="CLI_SectionImpl" reference="../.."/>
         </spClientProperties>
       </CLI__SectionImpl>
@@ -212,14 +194,8 @@
         </spClientProperties>
       </CLI__ChordSymbolImpl>
       <CLI__SectionImpl resolves-to="CLI_SectionImplSP" spName="B1" spTs="THREE_FOUR" spBarIndex="20">
-        <spVERSION>3</spVERSION>
+        <spVERSION>4</spVERSION>
         <spClientProperties>
-          <properties>
-            <entry>
-              <string>PropSectionQuantization</string>
-              <string>ONE_QUARTER_BEAT</string>
-            </entry>
-          </properties>
           <owner class="CLI_SectionImpl" reference="../.."/>
         </spClientProperties>
       </CLI__SectionImpl>
@@ -292,14 +268,8 @@
         </spClientProperties>
       </CLI__ChordSymbolImpl>
       <CLI__SectionImpl resolves-to="CLI_SectionImplSP" spName="B2" spTs="THREE_FOUR" spBarIndex="28">
-        <spVERSION>3</spVERSION>
+        <spVERSION>4</spVERSION>
         <spClientProperties>
-          <properties>
-            <entry>
-              <string>PropSectionQuantization</string>
-              <string>ONE_QUARTER_BEAT</string>
-            </entry>
-          </properties>
           <owner class="CLI_SectionImpl" reference="../.."/>
         </spClientProperties>
       </CLI__SectionImpl>
@@ -389,14 +359,8 @@
         </spClientProperties>
       </CLI__ChordSymbolImpl>
       <CLI__SectionImpl resolves-to="CLI_SectionImplSP" spName="Outro" spTs="THREE_FOUR" spBarIndex="36">
-        <spVERSION>3</spVERSION>
+        <spVERSION>4</spVERSION>
         <spClientProperties>
-          <properties>
-            <entry>
-              <string>PropSectionQuantization</string>
-              <string>ONE_QUARTER_BEAT</string>
-            </entry>
-          </properties>
           <owner class="CLI_SectionImpl" reference="../.."/>
         </spClientProperties>
       </CLI__SectionImpl>
@@ -455,11 +419,11 @@
     <spSize>40</spSize>
   </spChordLeadSheet>
   <spSongStructure class="SongStructureImpl" resolves-to="SongStructureImplSP">
-    <spVERSION>2</spVERSION>
+    <spVERSION>3</spVERSION>
     <spSpts>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="TradWaltz 180.T083.sty-ID" spRhythmTs="THREE_FOUR" spStartBarIndex="0" spName="Intro" spNbBars="4">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="JazzWaltzMed.S351.sst-ID" spRhythmTs="THREE_FOUR" spStartBarIndex="0" spName="Intro" spNbBars="4">
         <spVERSION>3</spVERSION>
-        <spRhythmName>TradWaltz 180.T083.sty</spRhythmName>
+        <spRhythmName>JazzWaltzMed.S351.sst</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -490,256 +454,8 @@
             <string>theme</string>
           </entry>
           <entry>
-            <string>RpFillID</string>
-            <string>break</string>
-          </entry>
-          <entry>
-            <string>rpTempoID</string>
-            <string>100</string>
-          </entry>
-        </spHashMapRpIdValue>
-      </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="TradWaltz 180.T083.sty-ID" spRhythmTs="THREE_FOUR" spStartBarIndex="4" spName="Chorus 1" spNbBars="8">
-        <spVERSION>3</spVERSION>
-        <spRhythmName>TradWaltz 180.T083.sty</spRhythmName>
-        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[2]"/>
-        <spClientProperties>
-          <owner class="SongPartImpl" reference="../.."/>
-        </spClientProperties>
-        <spHashMapRpIdValue>
-          <entry>
-            <string>RP_SYS_DrumsTransformId</string>
-            <string>[DrumsMixIdhidden#]</string>
-          </entry>
-          <entry>
-            <string>rpVariationID</string>
-            <string>Main A-1</string>
-          </entry>
-          <entry>
-            <string>rpIntensityID</string>
-            <string>0</string>
-          </entry>
-          <entry>
-            <string>RP_SYS_CustomPhraseId</string>
+            <string>RP_SYS_OverrideTracksID</string>
             <string></string>
-          </entry>
-          <entry>
-            <string>RpSysMuteID</string>
-            <string>[]</string>
-          </entry>
-          <entry>
-            <string>rpSysMarkerID</string>
-            <string>theme</string>
-          </entry>
-          <entry>
-            <string>RpFillID</string>
-            <string>always</string>
-          </entry>
-          <entry>
-            <string>rpTempoID</string>
-            <string>100</string>
-          </entry>
-        </spHashMapRpIdValue>
-      </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="TradWaltz 180.T083.sty-ID" spRhythmTs="THREE_FOUR" spStartBarIndex="12" spName="Chorus 1" spNbBars="8">
-        <spVERSION>3</spVERSION>
-        <spRhythmName>TradWaltz 180.T083.sty</spRhythmName>
-        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[3]"/>
-        <spClientProperties>
-          <owner class="SongPartImpl" reference="../.."/>
-        </spClientProperties>
-        <spHashMapRpIdValue>
-          <entry>
-            <string>RP_SYS_DrumsTransformId</string>
-            <string>[DrumsMixIdhidden#]</string>
-          </entry>
-          <entry>
-            <string>rpVariationID</string>
-            <string>Main B-1</string>
-          </entry>
-          <entry>
-            <string>rpIntensityID</string>
-            <string>0</string>
-          </entry>
-          <entry>
-            <string>RP_SYS_CustomPhraseId</string>
-            <string></string>
-          </entry>
-          <entry>
-            <string>RpSysMuteID</string>
-            <string>[]</string>
-          </entry>
-          <entry>
-            <string>rpSysMarkerID</string>
-            <string>theme</string>
-          </entry>
-          <entry>
-            <string>RpFillID</string>
-            <string>always</string>
-          </entry>
-          <entry>
-            <string>rpTempoID</string>
-            <string>100</string>
-          </entry>
-        </spHashMapRpIdValue>
-      </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="TradWaltz 180.T083.sty-ID" spRhythmTs="THREE_FOUR" spStartBarIndex="20" spName="Chorus 1" spNbBars="8">
-        <spVERSION>3</spVERSION>
-        <spRhythmName>TradWaltz 180.T083.sty</spRhythmName>
-        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[2]"/>
-        <spClientProperties>
-          <owner class="SongPartImpl" reference="../.."/>
-        </spClientProperties>
-        <spHashMapRpIdValue>
-          <entry>
-            <string>RP_SYS_DrumsTransformId</string>
-            <string>[DrumsMixIdhidden#]</string>
-          </entry>
-          <entry>
-            <string>rpVariationID</string>
-            <string>Main A-1</string>
-          </entry>
-          <entry>
-            <string>rpIntensityID</string>
-            <string>0</string>
-          </entry>
-          <entry>
-            <string>RP_SYS_CustomPhraseId</string>
-            <string></string>
-          </entry>
-          <entry>
-            <string>RpSysMuteID</string>
-            <string>[]</string>
-          </entry>
-          <entry>
-            <string>rpSysMarkerID</string>
-            <string>theme</string>
-          </entry>
-          <entry>
-            <string>RpFillID</string>
-            <string>always</string>
-          </entry>
-          <entry>
-            <string>rpTempoID</string>
-            <string>100</string>
-          </entry>
-        </spHashMapRpIdValue>
-      </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="TradWaltz 180.T083.sty-ID" spRhythmTs="THREE_FOUR" spStartBarIndex="28" spName="Chorus 1" spNbBars="8">
-        <spVERSION>3</spVERSION>
-        <spRhythmName>TradWaltz 180.T083.sty</spRhythmName>
-        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[3]"/>
-        <spClientProperties>
-          <owner class="SongPartImpl" reference="../.."/>
-        </spClientProperties>
-        <spHashMapRpIdValue>
-          <entry>
-            <string>RP_SYS_DrumsTransformId</string>
-            <string>[DrumsMixIdhidden#]</string>
-          </entry>
-          <entry>
-            <string>rpVariationID</string>
-            <string>Main B-1</string>
-          </entry>
-          <entry>
-            <string>rpIntensityID</string>
-            <string>0</string>
-          </entry>
-          <entry>
-            <string>RP_SYS_CustomPhraseId</string>
-            <string></string>
-          </entry>
-          <entry>
-            <string>RpSysMuteID</string>
-            <string>[]</string>
-          </entry>
-          <entry>
-            <string>rpSysMarkerID</string>
-            <string>theme</string>
-          </entry>
-          <entry>
-            <string>RpFillID</string>
-            <string>always</string>
-          </entry>
-          <entry>
-            <string>rpTempoID</string>
-            <string>100</string>
-          </entry>
-        </spHashMapRpIdValue>
-      </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="TradWaltz 180.T083.sty-ID" spRhythmTs="THREE_FOUR" spStartBarIndex="36" spName="Chorus 1" spNbBars="8">
-        <spVERSION>3</spVERSION>
-        <spRhythmName>TradWaltz 180.T083.sty</spRhythmName>
-        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[4]"/>
-        <spClientProperties>
-          <owner class="SongPartImpl" reference="../.."/>
-        </spClientProperties>
-        <spHashMapRpIdValue>
-          <entry>
-            <string>RP_SYS_DrumsTransformId</string>
-            <string>[DrumsMixIdhidden#]</string>
-          </entry>
-          <entry>
-            <string>rpVariationID</string>
-            <string>Main D-1</string>
-          </entry>
-          <entry>
-            <string>rpIntensityID</string>
-            <string>0</string>
-          </entry>
-          <entry>
-            <string>RP_SYS_CustomPhraseId</string>
-            <string></string>
-          </entry>
-          <entry>
-            <string>RpSysMuteID</string>
-            <string>[]</string>
-          </entry>
-          <entry>
-            <string>rpSysMarkerID</string>
-            <string>theme</string>
-          </entry>
-          <entry>
-            <string>RpFillID</string>
-            <string>always</string>
-          </entry>
-          <entry>
-            <string>rpTempoID</string>
-            <string>100</string>
-          </entry>
-        </spHashMapRpIdValue>
-      </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="TradWaltz 180.T083.sty-ID" spRhythmTs="THREE_FOUR" spStartBarIndex="44" spName="Chorus 1" spNbBars="8">
-        <spVERSION>3</spVERSION>
-        <spRhythmName>TradWaltz 180.T083.sty</spRhythmName>
-        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[5]"/>
-        <spClientProperties>
-          <owner class="SongPartImpl" reference="../.."/>
-        </spClientProperties>
-        <spHashMapRpIdValue>
-          <entry>
-            <string>RP_SYS_DrumsTransformId</string>
-            <string>[DrumsMixIdhidden#]</string>
-          </entry>
-          <entry>
-            <string>rpVariationID</string>
-            <string>Main C-1</string>
-          </entry>
-          <entry>
-            <string>rpIntensityID</string>
-            <string>0</string>
-          </entry>
-          <entry>
-            <string>RP_SYS_CustomPhraseId</string>
-            <string></string>
-          </entry>
-          <entry>
-            <string>RpSysMuteID</string>
-            <string>[]</string>
-          </entry>
-          <entry>
-            <string>rpSysMarkerID</string>
-            <string>theme</string>
           </entry>
           <entry>
             <string>RpFillID</string>
@@ -751,9 +467,193 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="TradWaltz 180.T083.sty-ID" spRhythmTs="THREE_FOUR" spStartBarIndex="52" spName="Chorus 1" spNbBars="8">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="JazzWaltzMed.S351.sst-ID" spRhythmTs="THREE_FOUR" spStartBarIndex="4" spName="Chorus 1" spNbBars="8">
         <spVERSION>3</spVERSION>
-        <spRhythmName>TradWaltz 180.T083.sty</spRhythmName>
+        <spRhythmName>JazzWaltzMed.S351.sst</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[2]"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>[DrumsMixIdhidden#]</string>
+          </entry>
+          <entry>
+            <string>rpVariationID</string>
+            <string>Main A-1</string>
+          </entry>
+          <entry>
+            <string>rpIntensityID</string>
+            <string>0</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_CustomPhraseId</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpSysMuteID</string>
+            <string>[]</string>
+          </entry>
+          <entry>
+            <string>rpSysMarkerID</string>
+            <string>theme</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpFillID</string>
+            <string>always</string>
+          </entry>
+          <entry>
+            <string>rpTempoID</string>
+            <string>100</string>
+          </entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="JazzWaltzMed.S351.sst-ID" spRhythmTs="THREE_FOUR" spStartBarIndex="12" spName="Chorus 1" spNbBars="8">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>JazzWaltzMed.S351.sst</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[3]"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>[DrumsMixIdhidden#]</string>
+          </entry>
+          <entry>
+            <string>rpVariationID</string>
+            <string>Main B-1</string>
+          </entry>
+          <entry>
+            <string>rpIntensityID</string>
+            <string>0</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_CustomPhraseId</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpSysMuteID</string>
+            <string>[]</string>
+          </entry>
+          <entry>
+            <string>rpSysMarkerID</string>
+            <string>theme</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpFillID</string>
+            <string>always</string>
+          </entry>
+          <entry>
+            <string>rpTempoID</string>
+            <string>100</string>
+          </entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="JazzWaltzMed.S351.sst-ID" spRhythmTs="THREE_FOUR" spStartBarIndex="20" spName="Chorus 1" spNbBars="8">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>JazzWaltzMed.S351.sst</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[2]"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>[DrumsMixIdhidden#]</string>
+          </entry>
+          <entry>
+            <string>rpVariationID</string>
+            <string>Main A-1</string>
+          </entry>
+          <entry>
+            <string>rpIntensityID</string>
+            <string>0</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_CustomPhraseId</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpSysMuteID</string>
+            <string>[]</string>
+          </entry>
+          <entry>
+            <string>rpSysMarkerID</string>
+            <string>theme</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpFillID</string>
+            <string>always</string>
+          </entry>
+          <entry>
+            <string>rpTempoID</string>
+            <string>100</string>
+          </entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="JazzWaltzMed.S351.sst-ID" spRhythmTs="THREE_FOUR" spStartBarIndex="28" spName="Chorus 1" spNbBars="8">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>JazzWaltzMed.S351.sst</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[3]"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>[DrumsMixIdhidden#]</string>
+          </entry>
+          <entry>
+            <string>rpVariationID</string>
+            <string>Main B-1</string>
+          </entry>
+          <entry>
+            <string>rpIntensityID</string>
+            <string>0</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_CustomPhraseId</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpSysMuteID</string>
+            <string>[]</string>
+          </entry>
+          <entry>
+            <string>rpSysMarkerID</string>
+            <string>theme</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpFillID</string>
+            <string>always</string>
+          </entry>
+          <entry>
+            <string>rpTempoID</string>
+            <string>100</string>
+          </entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="JazzWaltzMed.S351.sst-ID" spRhythmTs="THREE_FOUR" spStartBarIndex="36" spName="Chorus 1" spNbBars="8">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>JazzWaltzMed.S351.sst</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[4]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -784,6 +684,10 @@
             <string>theme</string>
           </entry>
           <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
             <string>RpFillID</string>
             <string>always</string>
           </entry>
@@ -793,9 +697,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="TradWaltz 180.T083.sty-ID" spRhythmTs="THREE_FOUR" spStartBarIndex="60" spName="Chorus 1" spNbBars="8">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="JazzWaltzMed.S351.sst-ID" spRhythmTs="THREE_FOUR" spStartBarIndex="44" spName="Chorus 1" spNbBars="8">
         <spVERSION>3</spVERSION>
-        <spRhythmName>TradWaltz 180.T083.sty</spRhythmName>
+        <spRhythmName>JazzWaltzMed.S351.sst</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[5]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -824,6 +728,10 @@
           <entry>
             <string>rpSysMarkerID</string>
             <string>theme</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
           </entry>
           <entry>
             <string>RpFillID</string>
@@ -835,177 +743,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="TradWaltz 180.T083.sty-ID" spRhythmTs="THREE_FOUR" spStartBarIndex="68" spName="Chorus 2" spNbBars="8">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="JazzWaltzMed.S351.sst-ID" spRhythmTs="THREE_FOUR" spStartBarIndex="52" spName="Chorus 1" spNbBars="8">
         <spVERSION>3</spVERSION>
-        <spRhythmName>TradWaltz 180.T083.sty</spRhythmName>
-        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[2]"/>
-        <spClientProperties>
-          <owner class="SongPartImpl" reference="../.."/>
-        </spClientProperties>
-        <spHashMapRpIdValue>
-          <entry>
-            <string>RP_SYS_DrumsTransformId</string>
-            <string>[DrumsMixIdhidden#]</string>
-          </entry>
-          <entry>
-            <string>rpVariationID</string>
-            <string>Main A-1</string>
-          </entry>
-          <entry>
-            <string>rpIntensityID</string>
-            <string>0</string>
-          </entry>
-          <entry>
-            <string>RP_SYS_CustomPhraseId</string>
-            <string></string>
-          </entry>
-          <entry>
-            <string>RpSysMuteID</string>
-            <string>[]</string>
-          </entry>
-          <entry>
-            <string>rpSysMarkerID</string>
-            <string>theme</string>
-          </entry>
-          <entry>
-            <string>RpFillID</string>
-            <string>always</string>
-          </entry>
-          <entry>
-            <string>rpTempoID</string>
-            <string>100</string>
-          </entry>
-        </spHashMapRpIdValue>
-      </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="TradWaltz 180.T083.sty-ID" spRhythmTs="THREE_FOUR" spStartBarIndex="76" spName="Chorus 2" spNbBars="8">
-        <spVERSION>3</spVERSION>
-        <spRhythmName>TradWaltz 180.T083.sty</spRhythmName>
-        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[3]"/>
-        <spClientProperties>
-          <owner class="SongPartImpl" reference="../.."/>
-        </spClientProperties>
-        <spHashMapRpIdValue>
-          <entry>
-            <string>RP_SYS_DrumsTransformId</string>
-            <string>[DrumsMixIdhidden#]</string>
-          </entry>
-          <entry>
-            <string>rpVariationID</string>
-            <string>Main B-1</string>
-          </entry>
-          <entry>
-            <string>rpIntensityID</string>
-            <string>0</string>
-          </entry>
-          <entry>
-            <string>RP_SYS_CustomPhraseId</string>
-            <string></string>
-          </entry>
-          <entry>
-            <string>RpSysMuteID</string>
-            <string>[]</string>
-          </entry>
-          <entry>
-            <string>rpSysMarkerID</string>
-            <string>theme</string>
-          </entry>
-          <entry>
-            <string>RpFillID</string>
-            <string>always</string>
-          </entry>
-          <entry>
-            <string>rpTempoID</string>
-            <string>100</string>
-          </entry>
-        </spHashMapRpIdValue>
-      </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="TradWaltz 180.T083.sty-ID" spRhythmTs="THREE_FOUR" spStartBarIndex="84" spName="Chorus 2" spNbBars="8">
-        <spVERSION>3</spVERSION>
-        <spRhythmName>TradWaltz 180.T083.sty</spRhythmName>
-        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[2]"/>
-        <spClientProperties>
-          <owner class="SongPartImpl" reference="../.."/>
-        </spClientProperties>
-        <spHashMapRpIdValue>
-          <entry>
-            <string>RP_SYS_DrumsTransformId</string>
-            <string>[DrumsMixIdhidden#]</string>
-          </entry>
-          <entry>
-            <string>rpVariationID</string>
-            <string>Main A-1</string>
-          </entry>
-          <entry>
-            <string>rpIntensityID</string>
-            <string>0</string>
-          </entry>
-          <entry>
-            <string>RP_SYS_CustomPhraseId</string>
-            <string></string>
-          </entry>
-          <entry>
-            <string>RpSysMuteID</string>
-            <string>[]</string>
-          </entry>
-          <entry>
-            <string>rpSysMarkerID</string>
-            <string>theme</string>
-          </entry>
-          <entry>
-            <string>RpFillID</string>
-            <string>always</string>
-          </entry>
-          <entry>
-            <string>rpTempoID</string>
-            <string>100</string>
-          </entry>
-        </spHashMapRpIdValue>
-      </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="TradWaltz 180.T083.sty-ID" spRhythmTs="THREE_FOUR" spStartBarIndex="92" spName="Chorus 2" spNbBars="8">
-        <spVERSION>3</spVERSION>
-        <spRhythmName>TradWaltz 180.T083.sty</spRhythmName>
-        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[3]"/>
-        <spClientProperties>
-          <owner class="SongPartImpl" reference="../.."/>
-        </spClientProperties>
-        <spHashMapRpIdValue>
-          <entry>
-            <string>RP_SYS_DrumsTransformId</string>
-            <string>[DrumsMixIdhidden#]</string>
-          </entry>
-          <entry>
-            <string>rpVariationID</string>
-            <string>Main B-1</string>
-          </entry>
-          <entry>
-            <string>rpIntensityID</string>
-            <string>0</string>
-          </entry>
-          <entry>
-            <string>RP_SYS_CustomPhraseId</string>
-            <string></string>
-          </entry>
-          <entry>
-            <string>RpSysMuteID</string>
-            <string>[]</string>
-          </entry>
-          <entry>
-            <string>rpSysMarkerID</string>
-            <string>theme</string>
-          </entry>
-          <entry>
-            <string>RpFillID</string>
-            <string>always</string>
-          </entry>
-          <entry>
-            <string>rpTempoID</string>
-            <string>100</string>
-          </entry>
-        </spHashMapRpIdValue>
-      </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="TradWaltz 180.T083.sty-ID" spRhythmTs="THREE_FOUR" spStartBarIndex="100" spName="Chorus 2" spNbBars="8">
-        <spVERSION>3</spVERSION>
-        <spRhythmName>TradWaltz 180.T083.sty</spRhythmName>
+        <spRhythmName>JazzWaltzMed.S351.sst</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[4]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1036,6 +776,10 @@
             <string>theme</string>
           </entry>
           <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
             <string>RpFillID</string>
             <string>always</string>
           </entry>
@@ -1045,9 +789,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="TradWaltz 180.T083.sty-ID" spRhythmTs="THREE_FOUR" spStartBarIndex="108" spName="Chorus 2" spNbBars="8">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="JazzWaltzMed.S351.sst-ID" spRhythmTs="THREE_FOUR" spStartBarIndex="60" spName="Chorus 1" spNbBars="8">
         <spVERSION>3</spVERSION>
-        <spRhythmName>TradWaltz 180.T083.sty</spRhythmName>
+        <spRhythmName>JazzWaltzMed.S351.sst</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[5]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1078,6 +822,56 @@
             <string>theme</string>
           </entry>
           <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpFillID</string>
+            <string>break</string>
+          </entry>
+          <entry>
+            <string>rpTempoID</string>
+            <string>100</string>
+          </entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="JazzWaltzMed.S351.sst-ID" spRhythmTs="THREE_FOUR" spStartBarIndex="68" spName="Chorus 2" spNbBars="8">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>JazzWaltzMed.S351.sst</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[2]"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>[DrumsMixIdhidden#]</string>
+          </entry>
+          <entry>
+            <string>rpVariationID</string>
+            <string>Main A-1</string>
+          </entry>
+          <entry>
+            <string>rpIntensityID</string>
+            <string>0</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_CustomPhraseId</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpSysMuteID</string>
+            <string>[]</string>
+          </entry>
+          <entry>
+            <string>rpSysMarkerID</string>
+            <string>theme</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
             <string>RpFillID</string>
             <string>always</string>
           </entry>
@@ -1087,9 +881,147 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="TradWaltz 180.T083.sty-ID" spRhythmTs="THREE_FOUR" spStartBarIndex="116" spName="Chorus 2" spNbBars="8">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="JazzWaltzMed.S351.sst-ID" spRhythmTs="THREE_FOUR" spStartBarIndex="76" spName="Chorus 2" spNbBars="8">
         <spVERSION>3</spVERSION>
-        <spRhythmName>TradWaltz 180.T083.sty</spRhythmName>
+        <spRhythmName>JazzWaltzMed.S351.sst</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[3]"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>[DrumsMixIdhidden#]</string>
+          </entry>
+          <entry>
+            <string>rpVariationID</string>
+            <string>Main B-1</string>
+          </entry>
+          <entry>
+            <string>rpIntensityID</string>
+            <string>0</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_CustomPhraseId</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpSysMuteID</string>
+            <string>[]</string>
+          </entry>
+          <entry>
+            <string>rpSysMarkerID</string>
+            <string>theme</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpFillID</string>
+            <string>always</string>
+          </entry>
+          <entry>
+            <string>rpTempoID</string>
+            <string>100</string>
+          </entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="JazzWaltzMed.S351.sst-ID" spRhythmTs="THREE_FOUR" spStartBarIndex="84" spName="Chorus 2" spNbBars="8">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>JazzWaltzMed.S351.sst</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[2]"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>[DrumsMixIdhidden#]</string>
+          </entry>
+          <entry>
+            <string>rpVariationID</string>
+            <string>Main A-1</string>
+          </entry>
+          <entry>
+            <string>rpIntensityID</string>
+            <string>0</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_CustomPhraseId</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpSysMuteID</string>
+            <string>[]</string>
+          </entry>
+          <entry>
+            <string>rpSysMarkerID</string>
+            <string>theme</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpFillID</string>
+            <string>always</string>
+          </entry>
+          <entry>
+            <string>rpTempoID</string>
+            <string>100</string>
+          </entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="JazzWaltzMed.S351.sst-ID" spRhythmTs="THREE_FOUR" spStartBarIndex="92" spName="Chorus 2" spNbBars="8">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>JazzWaltzMed.S351.sst</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[3]"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>[DrumsMixIdhidden#]</string>
+          </entry>
+          <entry>
+            <string>rpVariationID</string>
+            <string>Main B-1</string>
+          </entry>
+          <entry>
+            <string>rpIntensityID</string>
+            <string>0</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_CustomPhraseId</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpSysMuteID</string>
+            <string>[]</string>
+          </entry>
+          <entry>
+            <string>rpSysMarkerID</string>
+            <string>theme</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpFillID</string>
+            <string>always</string>
+          </entry>
+          <entry>
+            <string>rpTempoID</string>
+            <string>100</string>
+          </entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="JazzWaltzMed.S351.sst-ID" spRhythmTs="THREE_FOUR" spStartBarIndex="100" spName="Chorus 2" spNbBars="8">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>JazzWaltzMed.S351.sst</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[4]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1120,6 +1052,10 @@
             <string>theme</string>
           </entry>
           <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
             <string>RpFillID</string>
             <string>always</string>
           </entry>
@@ -1129,9 +1065,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="TradWaltz 180.T083.sty-ID" spRhythmTs="THREE_FOUR" spStartBarIndex="124" spName="Chorus 2" spNbBars="8">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="JazzWaltzMed.S351.sst-ID" spRhythmTs="THREE_FOUR" spStartBarIndex="108" spName="Chorus 2" spNbBars="8">
         <spVERSION>3</spVERSION>
-        <spRhythmName>TradWaltz 180.T083.sty</spRhythmName>
+        <spRhythmName>JazzWaltzMed.S351.sst</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[5]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1162,6 +1098,10 @@
             <string>theme</string>
           </entry>
           <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
             <string>RpFillID</string>
             <string>always</string>
           </entry>
@@ -1171,9 +1111,101 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="TradWaltz 180.T083.sty-ID" spRhythmTs="THREE_FOUR" spStartBarIndex="132" spName="Last Chorus" spNbBars="8">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="JazzWaltzMed.S351.sst-ID" spRhythmTs="THREE_FOUR" spStartBarIndex="116" spName="Chorus 2" spNbBars="8">
         <spVERSION>3</spVERSION>
-        <spRhythmName>TradWaltz 180.T083.sty</spRhythmName>
+        <spRhythmName>JazzWaltzMed.S351.sst</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[4]"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>[DrumsMixIdhidden#]</string>
+          </entry>
+          <entry>
+            <string>rpVariationID</string>
+            <string>Main D-1</string>
+          </entry>
+          <entry>
+            <string>rpIntensityID</string>
+            <string>0</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_CustomPhraseId</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpSysMuteID</string>
+            <string>[]</string>
+          </entry>
+          <entry>
+            <string>rpSysMarkerID</string>
+            <string>theme</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpFillID</string>
+            <string>always</string>
+          </entry>
+          <entry>
+            <string>rpTempoID</string>
+            <string>100</string>
+          </entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="JazzWaltzMed.S351.sst-ID" spRhythmTs="THREE_FOUR" spStartBarIndex="124" spName="Chorus 2" spNbBars="8">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>JazzWaltzMed.S351.sst</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[5]"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>[DrumsMixIdhidden#]</string>
+          </entry>
+          <entry>
+            <string>rpVariationID</string>
+            <string>Main C-1</string>
+          </entry>
+          <entry>
+            <string>rpIntensityID</string>
+            <string>0</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_CustomPhraseId</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpSysMuteID</string>
+            <string>[]</string>
+          </entry>
+          <entry>
+            <string>rpSysMarkerID</string>
+            <string>theme</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpFillID</string>
+            <string>always</string>
+          </entry>
+          <entry>
+            <string>rpTempoID</string>
+            <string>100</string>
+          </entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="JazzWaltzMed.S351.sst-ID" spRhythmTs="THREE_FOUR" spStartBarIndex="132" spName="Last Chorus" spNbBars="8">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>JazzWaltzMed.S351.sst</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[2]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1204,6 +1236,10 @@
             <string>theme</string>
           </entry>
           <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
             <string>RpFillID</string>
             <string>always</string>
           </entry>
@@ -1213,9 +1249,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="TradWaltz 180.T083.sty-ID" spRhythmTs="THREE_FOUR" spStartBarIndex="140" spName="Last Chorus" spNbBars="8">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="JazzWaltzMed.S351.sst-ID" spRhythmTs="THREE_FOUR" spStartBarIndex="140" spName="Last Chorus" spNbBars="8">
         <spVERSION>3</spVERSION>
-        <spRhythmName>TradWaltz 180.T083.sty</spRhythmName>
+        <spRhythmName>JazzWaltzMed.S351.sst</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[3]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1246,6 +1282,10 @@
             <string>theme</string>
           </entry>
           <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
             <string>RpFillID</string>
             <string>always</string>
           </entry>
@@ -1255,9 +1295,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="TradWaltz 180.T083.sty-ID" spRhythmTs="THREE_FOUR" spStartBarIndex="148" spName="Last Chorus" spNbBars="8">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="JazzWaltzMed.S351.sst-ID" spRhythmTs="THREE_FOUR" spStartBarIndex="148" spName="Last Chorus" spNbBars="8">
         <spVERSION>3</spVERSION>
-        <spRhythmName>TradWaltz 180.T083.sty</spRhythmName>
+        <spRhythmName>JazzWaltzMed.S351.sst</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[2]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1288,6 +1328,10 @@
             <string>theme</string>
           </entry>
           <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
             <string>RpFillID</string>
             <string>always</string>
           </entry>
@@ -1297,9 +1341,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="TradWaltz 180.T083.sty-ID" spRhythmTs="THREE_FOUR" spStartBarIndex="156" spName="Last Chorus" spNbBars="8">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="JazzWaltzMed.S351.sst-ID" spRhythmTs="THREE_FOUR" spStartBarIndex="156" spName="Last Chorus" spNbBars="8">
         <spVERSION>3</spVERSION>
-        <spRhythmName>TradWaltz 180.T083.sty</spRhythmName>
+        <spRhythmName>JazzWaltzMed.S351.sst</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[3]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1330,6 +1374,10 @@
             <string>theme</string>
           </entry>
           <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
             <string>RpFillID</string>
             <string>always</string>
           </entry>
@@ -1339,9 +1387,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="TradWaltz 180.T083.sty-ID" spRhythmTs="THREE_FOUR" spStartBarIndex="164" spName="Last Chorus" spNbBars="8">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="JazzWaltzMed.S351.sst-ID" spRhythmTs="THREE_FOUR" spStartBarIndex="164" spName="Last Chorus" spNbBars="8">
         <spVERSION>3</spVERSION>
-        <spRhythmName>TradWaltz 180.T083.sty</spRhythmName>
+        <spRhythmName>JazzWaltzMed.S351.sst</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[4]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1372,6 +1420,10 @@
             <string>theme</string>
           </entry>
           <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
             <string>RpFillID</string>
             <string>always</string>
           </entry>
@@ -1381,9 +1433,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="TradWaltz 180.T083.sty-ID" spRhythmTs="THREE_FOUR" spStartBarIndex="172" spName="Last Chorus" spNbBars="8">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="JazzWaltzMed.S351.sst-ID" spRhythmTs="THREE_FOUR" spStartBarIndex="172" spName="Last Chorus" spNbBars="8">
         <spVERSION>3</spVERSION>
-        <spRhythmName>TradWaltz 180.T083.sty</spRhythmName>
+        <spRhythmName>JazzWaltzMed.S351.sst</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[5]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1414,6 +1466,10 @@
             <string>theme</string>
           </entry>
           <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
             <string>RpFillID</string>
             <string>always</string>
           </entry>
@@ -1423,9 +1479,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="TradWaltz 180.T083.sty-ID" spRhythmTs="THREE_FOUR" spStartBarIndex="180" spName="Last Chorus" spNbBars="8">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="JazzWaltzMed.S351.sst-ID" spRhythmTs="THREE_FOUR" spStartBarIndex="180" spName="Last Chorus" spNbBars="8">
         <spVERSION>3</spVERSION>
-        <spRhythmName>TradWaltz 180.T083.sty</spRhythmName>
+        <spRhythmName>JazzWaltzMed.S351.sst</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[4]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1456,6 +1512,10 @@
             <string>theme</string>
           </entry>
           <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
             <string>RpFillID</string>
             <string>always</string>
           </entry>
@@ -1465,9 +1525,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="TradWaltz 180.T083.sty-ID" spRhythmTs="THREE_FOUR" spStartBarIndex="188" spName="Last Chorus" spNbBars="8">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="JazzWaltzMed.S351.sst-ID" spRhythmTs="THREE_FOUR" spStartBarIndex="188" spName="Last Chorus" spNbBars="8">
         <spVERSION>3</spVERSION>
-        <spRhythmName>TradWaltz 180.T083.sty</spRhythmName>
+        <spRhythmName>JazzWaltzMed.S351.sst</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[5]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1498,6 +1558,10 @@
             <string>theme</string>
           </entry>
           <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
             <string>RpFillID</string>
             <string>always</string>
           </entry>
@@ -1507,9 +1571,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="TradWaltz 180.T083.sty-ID" spRhythmTs="THREE_FOUR" spStartBarIndex="196" spName="Outro" spNbBars="4">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="JazzWaltzMed.S351.sst-ID" spRhythmTs="THREE_FOUR" spStartBarIndex="196" spName="Outro" spNbBars="4">
         <spVERSION>3</spVERSION>
-        <spRhythmName>TradWaltz 180.T083.sty</spRhythmName>
+        <spRhythmName>JazzWaltzMed.S351.sst</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[6]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1540,6 +1604,10 @@
             <string>theme</string>
           </entry>
           <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
             <string>RpFillID</string>
             <string>break</string>
           </entry>
@@ -1551,41 +1619,53 @@
       </SongPartImpl>
     </spSpts>
     <spParentCls class="ChordLeadSheetImpl" reference="../../spChordLeadSheet"/>
-    <spKeepUpdated>true</spKeepUpdated>
+    <spKeepUpdated>false</spKeepUpdated>
   </spSongStructure>
   <spMapUserPhrases>
     <entry>
-      <string>User2</string>
+      <string>Piano</string>
       <Phrase resolves-to="PhraseSP" spVERSION="2">
-        <spSaveString>[0|76,127,3.9916666:12.0|80,127,0.9916667:16.0|81,127,0.9916667:17.0|83,127,3.9916666:18.0|80,127,1.4916667:22.0|76,127,0.49166667:23.5|84,127,3.9916666:24.0|83,127,0.9916667:28.0|81,127,0.9916667:29.0|88,127,4.991667:30.0|88,127,0.9916667:35.0|89,127,3.9916666:36.0|88,127,1.4916667:40.0|86,127,0.49166667:41.5|88,127,3.9916666:42.0|86,127,0.9916667:46.0|84,127,0.9916667:47.0|83,127,3.9916666:48.0|84,127,0.9916667:52.0|83,127,0.9916667:53.0|81,127,4.991667:54.0|76,127,0.9916667:59.0|76,127,3.9916666:60.0|80,127,0.9916667:64.0|81,127,0.9916667:65.0|83,127,3.9916666:66.0|80,127,0.9916667:70.0|76,127,0.9916667:71.0|84,127,3.9916666:72.0|83,127,0.9916667:76.0|81,127,0.9916667:77.0|88,127,4.991667:78.0|88,127,0.9916667:83.0|89,127,3.9916666:84.0|88,127,0.9916667:88.0|86,127,0.9916667:89.0|88,127,3.9916666:90.0|86,127,0.9916667:94.0|84,127,0.9916667:95.0|83,127,3.9916666:96.0|84,127,0.9916667:100.0|83,127,0.9916667:101.0|81,127,2.9916666:102.041664|83,127,0.49166667:105.0|84,127,0.49166667:105.5|86,127,0.49166667:106.0|88,127,0.49166667:106.5|89,127,0.49166667:107.0|91,127,0.49166667:107.5|93,127,0.9916667:108.0|93,127,0.9916667:109.0|93,127,0.9916667:110.0|93,127,0.9916667:111.0|93,127,0.9916667:112.0|93,127,0.9916667:113.0|93,127,0.9916667:114.0|91,127,1.4916667:115.0|90,127,0.49166667:116.5|91,127,2.9916666:117.0|89,127,0.9916667:120.0|89,127,0.9916667:121.0|89,127,0.9916667:122.0|89,127,0.9916667:123.0|89,127,0.9916667:124.0|89,127,0.9916667:125.0|89,127,0.9916667:126.0|88,127,1.4916667:127.0|87,127,0.49166667:128.5|88,127,1.9916667:129.0|88,127,0.9916667:131.0|86,127,0.9916667:132.0|86,127,0.9916667:133.0|86,127,0.9916667:134.0|86,127,0.9916667:135.0|86,127,0.9916667:136.0|86,127,0.9916667:137.0|86,127,0.9916667:138.0|84,127,1.4916667:139.0|83,127,0.49166667:140.5|81,127,1.9916667:141.0|93,127,0.9916667:143.0|89,127,0.9916667:144.0|86,127,0.9916667:145.0|83,127,0.9916667:146.0|84,127,1.9916667:147.0|83,127,0.9916667:149.0|81,127,2.8916667:149.925|83,127,0.49166667:153.0|84,127,0.49166667:153.5|86,127,0.49166667:154.0|88,127,0.49166667:154.5|89,127,0.49166667:155.0|91,127,0.49166667:155.5|93,127,0.9916667:156.0|93,127,0.9916667:157.0|93,127,0.9916667:158.0|93,127,0.9916667:159.0|93,127,0.9916667:160.0|93,127,0.9916667:161.0|93,127,0.9916667:162.0|91,127,1.4916667:163.0|90,127,0.49166667:164.5|91,127,2.9916666:165.0|89,127,0.9916667:168.0|89,127,0.9916667:169.0|89,127,0.9916667:170.0|89,127,0.9916667:171.0|89,127,0.9916667:172.0|89,127,0.9916667:173.0|89,127,0.9916667:174.0|88,127,1.4916667:175.0|87,127,0.49166667:176.5|88,127,1.9916667:177.0|88,127,0.9916667:179.0|86,127,0.9916667:180.0|86,127,0.9916667:181.0|86,127,0.9916667:182.0|86,127,0.9916667:183.0|86,127,0.9916667:184.0|86,127,0.9916667:185.0|86,127,0.9916667:186.0|84,127,1.4916667:187.0|83,127,0.49166667:188.5|81,127,1.9916667:189.0|93,127,0.9916667:191.0|89,127,0.9916667:192.0|86,127,0.9916667:193.0|83,127,0.9916667:194.0|84,127,1.9916667:195.0|83,127,0.9916667:197.0|81,127,5.2:197.925|76,127,0.9916667:395.0|76,127,3.9916666:396.0|80,127,0.49166667:400.0|76,127,0.49166667:400.5|80,127,0.49166667:401.0|81,127,0.49166667:401.5|83,127,3.9916666:402.0|80,127,1.4916667:406.0|76,127,0.49166667:407.5|84,127,3.4916666:408.0|83,127,0.49166667:411.5|81,127,0.49166667:412.0|83,127,0.49166667:412.5|84,127,0.49166667:413.0|86,127,0.49166667:413.5|88,127,3.9916666:414.0|88,127,0.49166667:418.0|93,127,0.49166667:418.0|88,127,0.49166667:419.0|91,127,0.49166667:419.5|89,127,3.4916666:420.0|88,127,0.49166667:423.5|86,127,0.49166667:424.0|88,127,0.49166667:424.5|89,127,0.49166667:425.0|86,127,0.49166667:425.5|88,127,3.4916666:426.0|84,127,0.49166667:429.5|88,127,0.49166667:430.0|86,127,0.49166667:430.5|84,127,0.49166667:431.0|86,127,0.49166667:431.5|83,127,3.4916666:432.0|86,127,0.49166667:435.5|84,127,0.49166667:436.0|86,127,0.49166667:436.5|84,127,0.49166667:437.0|83,127,0.49166667:437.5|81,127,4.991667:438.0|79,127,0.49166667:443.0|77,127,0.49166667:443.5|76,127,3.9916666:444.0|80,127,1.4916667:448.0|81,127,0.49166667:449.5|83,127,1.4916667:450.0|76,127,0.49166667:451.5|80,127,0.49166667:452.0|81,127,0.49166667:452.5|83,127,0.9916667:453.0|80,127,0.9916667:454.0|76,127,0.9916667:455.0|84,127,1.4916667:456.0|83,127,0.49166667:457.5|81,127,0.49166667:458.0|83,127,0.49166667:458.5|84,127,0.9916667:459.0|83,127,0.9916667:460.0|81,127,0.9916667:461.0|88,127,1.4916667:462.0|86,127,0.49166667:463.5|84,127,0.49166667:464.0|86,127,0.49166667:464.5|88,127,0.49166667:465.0|84,127,0.49166667:465.5|81,127,0.49166667:466.0|84,127,0.49166667:466.5|88,127,0.49166667:467.0|91,127,0.49166667:467.5|89,127,1.4916667:468.0|91,127,0.49166667:469.5|93,127,0.49166667:470.0|91,127,0.49166667:470.5|89,127,0.9916667:471.0|88,127,0.9916667:472.0|86,127,0.9916667:473.0|88,127,1.4916667:474.0|86,127,0.49166667:475.5|84,127,0.49166667:476.0|86,127,0.49166667:476.5|88,127,0.9916667:477.0|86,127,0.9916667:478.0|84,127,0.9916667:479.0|83,127,0.49166667:480.0|84,127,0.49166667:480.5|86,127,0.49166667:481.0|84,127,0.49166667:481.5|83,127,0.49166667:482.0|84,127,0.49166667:482.5|83,127,0.9916667:483.0|84,127,0.9916667:484.0|83,127,0.9916667:485.0|81,127,2.9916666:485.91666|83,127,0.49166667:489.0|84,127,0.49166667:489.5|86,127,0.49166667:490.0|88,127,0.49166667:490.5|89,127,0.49166667:491.0|91,127,0.49166667:491.5|93,127,0.9916667:492.0|93,127,0.9916667:493.0|93,127,0.9916667:494.0|93,127,0.9916667:495.0|93,127,0.9916667:496.0|93,127,0.9916667:497.0|93,127,0.9916667:498.0|91,127,1.4916667:499.0|90,127,0.49166667:500.5|91,127,2.9916666:501.0|89,127,0.9916667:504.0|89,127,0.9916667:505.0|89,127,0.9916667:506.0|89,127,0.9916667:507.0|89,127,0.9916667:508.0|89,127,0.9916667:509.0|89,127,0.9916667:510.0|88,127,1.4916667:511.0|87,127,0.49166667:512.5|88,127,1.9916667:513.0|88,127,0.9916667:515.0|86,127,0.9916667:516.0|86,127,0.9916667:517.0|86,127,0.9916667:518.0|86,127,0.9916667:519.0|86,127,0.9916667:520.0|86,127,0.9916667:521.0|86,127,0.9916667:522.0|84,127,1.4916667:523.0|83,127,0.49166667:524.5|81,127,1.9916667:525.0|93,127,0.9916667:527.0|89,127,0.9916667:528.0|86,127,0.9916667:529.0|83,127,0.9916667:530.0|84,127,1.9916667:531.0|83,127,0.9916667:533.0|81,127,2.9333334:534.0|83,127,0.49166667:537.0|84,127,0.49166667:537.5|86,127,0.49166667:538.0|88,127,0.49166667:538.5|89,127,0.49166667:539.0|91,127,0.49166667:539.5|93,127,0.9916667:540.0|93,127,0.9916667:541.0|93,127,0.9916667:542.0|93,127,0.9916667:543.0|93,127,0.9916667:544.0|93,127,0.9916667:545.0|93,127,0.9916667:546.0|91,127,1.4916667:547.0|90,127,0.49166667:548.5|91,127,2.9916666:549.0|89,127,0.9916667:552.0|89,127,0.9916667:553.0|89,127,0.9916667:554.0|89,127,0.9916667:555.0|89,127,0.9916667:556.0|89,127,0.9916667:557.0|89,127,0.9916667:558.0|88,127,1.4916667:559.0|87,127,0.49166667:560.5|88,127,1.9916667:561.0|88,127,0.9916667:563.0|86,127,0.9916667:564.0|86,127,0.9916667:565.0|86,127,0.9916667:566.0|86,127,0.9916667:567.0|86,127,0.9916667:568.0|86,127,0.9916667:569.0|86,127,0.9916667:570.0|84,127,1.4916667:571.0|83,127,0.49166667:572.5|81,127,1.9916667:573.0|93,127,0.9916667:575.0|89,127,0.9916667:576.0|86,127,0.9916667:577.0|83,127,0.9916667:578.0|84,127,1.9916667:579.0|83,127,0.9916667:581.0|81,127,5.491667:582.0|81,127,0.48333332:588.225|80,127,0.49166667:588.7167|81,127,0.5:589.2167|84,127,0.5:589.7167|88,127,0.48333332:590.225|91,127,0.48333332:590.725|93,127,2.9916666:591.2167|81,127,3.0:594.2167|84,127,3.0:594.2167|88,127,3.0:594.2167|93,127,3.0:594.2167]</spSaveString>
+        <spSaveString>[0|57,125,2.9916666:0.01305987|69,106,0.9916667:0.9863229|60,127,0.9916667:0.99338275|64,107,0.9916667:1.0100546|60,123,0.9916667:2.0006237|64,103,0.9916667:2.0046113|69,102,0.9916667:2.0110054|52,125,2.9916666:3.0044112|60,92,0.9916667:3.9914665|69,107,0.9788132:4.004239|64,127,0.9916667:4.012429|69,104,0.9916667:4.9830523|60,91,0.9916667:4.9935417|64,127,0.9916667:5.0058475|57,119,2.9916666:5.9645395|64,127,0.9916667:6.9907727|69,103,0.9916667:7.0024085|60,98,0.9908433:7.0045924|69,95,0.9916667:7.9942636|60,93,0.9916667:7.9954357|64,122,0.9916667:8.002401|52,124,2.9615116:9.015874|69,107,0.9916667:9.9924|60,95,0.98476124:9.994675|64,125,0.9916667:10.00184|60,93,0.9916667:10.979436|69,103,0.9916667:10.999615|64,117,0.9916667:11.004441|52,127,2.9916666:11.9773855|68,110,0.9916667:12.974938|62,96,0.9916667:12.980773|64,123,0.9916667:12.9976|68,108,0.9916667:13.979496|64,118,0.9916667:14.008904|62,93,0.9916667:14.00897|52,127,2.9916666:14.985546|64,125,0.9916667:15.9648075|62,109,0.9916667:15.991167|68,119,0.9882374:16.000015|68,121,0.9916667:16.988253|64,120,0.9916667:16.997873|62,112,0.9916667:17.000408|52,127,2.9916666:17.981474|71,110,0.9916667:18.96083|64,127,0.9916667:19.002237|68,69,0.9916667:19.003624|64,125,0.9916667:19.995403|71,92,0.9916667:19.995657|68,116,0.9916667:19.997133|52,127,2.9916666:20.9999|68,118,0.9916667:21.983728|64,127,0.9622154:22.021547|71,88,0.96409607:22.025642|64,127,0.9916667:22.983763|68,117,0.9916667:22.987223|71,105,0.9916667:22.989738|45,125,2.9916666:24.005438|69,112,0.9916667:24.977663|72,92,0.9916667:24.97906|64,95,0.97522545:25.02286|69,124,0.9916667:25.976835|64,97,0.9916667:25.998085|72,102,0.9916667:26.000835|45,127,2.9787655:27.00492|64,104,0.9916667:27.962307|69,126,0.9916667:27.990314|72,97,0.98342323:28.01059|72,102,0.9916667:28.994013|64,113,0.9916667:29.00977|69,120,0.9916667:29.014284|45,127,2.9916666:29.983685|60,93,0.9916667:30.980062|69,106,0.9916667:31.005648|64,127,0.9758873:31.010921|64,114,0.9916667:31.986809|60,88,0.9916667:32.00769|69,105,0.9916667:32.011158|45,125,2.9916666:32.994194|72,100,0.9806366:33.99713|69,123,0.9916667:33.99883|64,86,0.984684:34.00855|72,92,0.9916667:34.977768|64,92,0.9916667:34.993233|69,119,0.9916667:35.007286|50,126,2.9916666:36.00607|65,112,0.9916667:36.994156|62,79,0.9916667:36.995167|69,101,0.9916667:37.00868|65,119,0.9916667:37.99711|62,89,0.9916667:38.001453|69,106,0.9916667:38.00851|50,127,2.9916666:39.013397|65,125,0.9688606:39.985935|62,122,0.9916667:39.98783|69,125,0.9916667:39.99705|65,127,0.9916667:40.954796|69,124,0.9916667:40.99302|62,109,0.9916667:41.020596|45,126,2.9916666:41.98885|72,107,0.9916667:42.989162|69,127,0.9916667:43.000275|64,97,0.9916667:43.002487|72,89,0.9916667:43.988033|69,125,0.9916667:43.996338|64,91,0.9916667:43.998573|45,127,2.9916666:44.99391|72,99,0.9916667:45.991314|64,100,0.9916667:46.00305|69,110,0.9916667:46.02362|64,91,0.9916667:47.00004|72,100,0.9916667:47.00196|69,114,0.9916667:47.018517|52,127,2.9916666:48.00197|68,112,0.9916667:48.977337|64,112,0.9916667:48.97974|71,116,0.9916667:48.986618|64,111,0.9916667:49.97976|71,108,0.9916667:49.986977|68,106,0.9916667:50.002758|52,126,2.9916666:50.994602|64,122,0.9691582:51.999557|68,97,0.9885559:52.00728|62,93,0.9916667:52.009686|64,108,0.9916667:52.968716|68,101,0.9916667:52.995834|62,99,0.9916667:53.008465|45,127,2.9916666:53.983532|64,118,0.97537994:55.000805|60,77,0.9916667:55.004547|69,97,0.98078537:55.008976|64,112,0.9916667:55.976185|69,87,0.9916667:55.98976|60,86,0.9916667:56.007717|45,125,2.9916666:56.99988|60,79,0.9916667:58.002758|64,97,0.9899292:58.01032|69,89,0.9916667:58.010506|59,116,0.9916667:58.977924|57,119,0.9916667:58.98406|64,106,0.9916667:59.000248|52,123,2.9916666:59.97591|59,127,0.9916667:60.985764|68,90,0.9916667:60.99442|64,127,0.9916667:61.00609|68,83,0.9916667:61.992714|62,96,0.9916667:62.0082|64,107,0.9916667:62.016796|52,127,2.9682274:63.018024|62,107,0.9916667:63.983948|68,102,0.9890671:64.008965|64,117,0.95745087:64.0129|64,113,0.9916667:64.97035|68,102,0.9916667:64.99803|62,95,0.9916667:65.024254|52,127,2.9916666:65.98625|62,91,0.97946167:66.99385|68,105,0.9642105:66.99901|64,115,0.9916667:67.003716|68,104,0.9916667:67.96322|62,88,0.9916667:67.97331|64,109,0.9916667:67.999985|52,124,2.9916666:68.98159|64,93,0.9916667:69.99837|68,92,0.9903946:70.00658|71,111,0.970253:70.012344|71,116,0.9916667:70.9826|62,103,0.9916667:70.99116|68,100,0.9916667:70.99697|45,125,2.9916666:72.00898|72,96,0.9916667:72.98517|64,101,0.9916667:72.98782|69,127,0.97976685:72.998764|69,117,0.9916667:73.97853|64,84,0.9916667:73.98471|72,89,0.9916667:74.00278|45,127,2.9916666:75.0194|69,97,0.9916667:75.991684|60,85,0.9777069:76.013596|64,120,0.97714233:76.020966|60,91,0.9916667:76.9913|69,98,0.9916667:76.99618|64,111,0.9916667:76.99811|45,127,2.9732132:78.01611|64,118,0.9916667:78.99668|60,88,0.988945:79.002785|69,102,0.9832611:79.008865|60,86,0.9916667:79.99173|69,101,0.9916667:79.99213|64,107,0.9916667:79.99238|45,127,2.9916666:80.98933|69,119,0.9916667:81.97077|72,91,0.9916667:81.982346|64,93,0.9916667:81.98926|72,96,0.9916667:82.98806|64,94,0.9916667:82.99489|69,114,0.9916667:83.00342|50,127,2.9916666:83.99062|69,116,0.9916667:84.986115|71,120,0.9916667:84.98887|65,110,0.9916667:85.00013|65,105,0.9916667:85.99677|69,110,0.9916667:85.998146|71,99,0.9916667:86.00692|50,126,2.9916666:87.01475|65,99,0.9916667:87.98842|71,104,0.9916667:87.98967|69,122,0.9916667:87.99335|69,107,0.9916667:88.9986|71,109,0.9916667:89.00951|65,102,0.9916667:89.01091|45,127,2.9916666:89.99503|69,123,0.9816284:90.9821|72,92,0.9916667:91.00016|64,96,0.97810364:91.02643|69,125,0.9916667:91.96373|72,96,0.9916667:91.995026|64,99,0.9916667:92.00453|45,126,2.9916666:92.993965|69,109,0.9916667:93.97707|64,89,0.9814224:93.98574|72,106,0.9882431:94.00249|64,87,0.9916667:94.96716|69,114,0.9916667:94.97914|72,101,0.9916667:94.99073|52,126,2.983986:96.010635|68,124,0.9916667:96.9953|64,99,0.9916667:96.99838|71,104,0.97602844:97.02426|68,123,0.9916667:97.99606|71,99,0.9916667:98.00029|64,100,0.9916667:98.00681|52,127,2.9916666:98.99462|62,88,0.9916667:99.97805|71,112,0.9809799:99.994576|68,110,0.9916667:99.99461|71,112,0.9916667:100.975555|68,113,0.9916667:100.99001|62,86,0.9916667:100.99503|45,127,2.9916666:102.001816|69,110,0.9916667:102.979454|60,79,0.9916667:102.988335|64,107,0.9845505:102.98879|64,121,0.9916667:103.97334|60,97,0.9916667:103.99368|69,111,0.9916667:103.99378|45,123,2.9916666:104.99981|69,117,0.9916667:105.975525|57,103,0.9916667:105.981155|64,111,0.9916667:105.98881|64,101,0.9916667:106.98515|57,92,0.9916667:106.99552|69,111,0.9916667:107.01272|43,127,2.9916666:107.972176|69,107,0.98548126:108.99506|62,103,0.97802734:108.99661|65,109,0.9614792:109.00698|65,105,0.9916667:109.96846|62,82,0.9916667:109.97464|69,100,0.9916667:109.980545|43,126,2.9916666:110.98688|62,91,0.9916667:111.98098|69,95,0.9916667:111.991905|65,109,0.96855927:111.995804|65,117,0.9916667:112.96436|69,93,0.9916667:112.9907|62,90,0.9916667:113.01318|48,124,2.9916666:113.9967|60,103,0.9916667:114.98193|64,96,0.9916667:114.98288|67,115,0.9728317:115.003044|64,93,0.9916667:115.975685|60,100,0.9916667:115.97572|67,109,0.9916667:115.975876|48,127,2.9916666:116.99408|64,109,0.9916667:117.97684|72,84,0.9916667:117.97808|67,99,0.9752121:118.00708|72,83,0.9916667:118.978096|67,118,0.9916667:118.98229|64,98,0.9916667:119.0044|52,126,2.9878998:120.01261|62,109,0.9916667:120.98715|65,114,0.9916667:120.9974|62,96,0.9916667:122.003006|65,110,0.9916667:122.014626|52,127,2.9916666:123.00051|65,114,0.9916667:123.974365|59,98,0.9916667:123.9862|62,118,0.9916667:123.9929|62,105,0.9916667:125.00037|59,108,0.9916667:125.00895|65,104,0.9916667:125.02316|45,127,2.9916666:126.00176|64,107,0.9916667:126.98562|69,119,0.98763275:126.998634|60,99,0.9916667:127.0027|69,103,0.9916667:127.98627|60,111,0.9916667:127.99972|64,106,0.9916667:128.01434|45,127,2.9916666:129.00865|69,96,0.9916667:129.96977|60,104,0.9916667:129.97932|64,97,0.9916667:129.98412|64,109,0.9916667:130.98384|69,106,0.9916667:130.9943|60,111,0.9916667:131.00786|52,127,2.9845734:132.012|68,104,0.9916667:132.9855|64,108,0.9916667:132.99023|59,110,0.99134827:133.00076|59,107,0.9916667:133.99211|68,106,0.9916667:133.9922|64,95,0.9916667:133.99753|52,127,2.9916666:134.99657|65,102,0.9916667:135.9678|62,89,0.9916667:135.99586|69,88,0.9916667:135.99835|65,109,0.9916667:136.97202|69,92,0.9916667:136.9901|62,94,0.9916667:137.00948|45,126,2.9916666:137.99344|60,100,0.9916667:138.96686|64,109,0.9916667:138.9734|69,102,0.9916667:138.99535|64,101,0.9916667:139.99252|60,100,0.9916667:139.99692|69,91,0.9916667:140.01865|45,126,2.9916666:141.02968|60,106,0.9916667:141.97116|64,91,0.9576721:141.99304|69,90,0.98275757:142.0006|64,97,0.9916667:142.95071|69,96,0.9916667:142.98335|60,113,0.9916667:142.98729|50,126,2.9916666:144.02861|69,90,0.9916667:144.97318|62,105,0.98638916:144.98636|65,104,0.98365784:144.99406|62,97,0.9916667:145.97275|65,108,0.9916667:145.97772|69,93,0.9916667:145.98825|52,127,2.9916666:147.00514|62,105,0.9916667:147.97307|68,94,0.9916667:147.9866|64,106,0.9916667:147.98668|64,112,0.9916667:148.98|68,94,0.9916667:149.00099|62,93,0.9916667:149.01057|45,124,2.9610138:150.01799|60,103,0.9854889:150.99417|64,117,0.9916667:151.00458|69,94,0.9916667:151.01102|60,97,0.9916667:151.97966|69,86,0.9916667:152.00334|64,99,0.9916667:152.01427|45,126,2.9916666:152.979|69,119,0.9916667:153.9709|64,113,0.9916667:153.98985|57,100,0.96369934:154.02663|69,116,0.9916667:154.98941|57,93,0.9916667:154.99033|64,101,0.9916667:155.01875|65,112,0.9916667:156.96391|69,110,0.9916667:156.97568|62,103,0.9916667:156.99768|69,103,0.9916667:157.98895|65,104,0.9916667:157.99884|62,85,0.9916667:158.01385|62,94,0.9916667:159.97726|69,93,0.980896:160.00237|65,111,0.9916667:160.00415|69,97,0.9916667:160.98326|62,89,0.9916667:160.98495|65,115,0.9916667:160.99796|48,125,2.9916666:161.96617|64,97,0.9916667:162.98631|67,109,0.9916667:162.99406|60,103,0.98213196:163.00958|64,92,0.9916667:163.98918|60,99,0.9916667:163.99171|67,108,0.9916667:164.00722|48,124,2.9916666:165.01265|67,98,0.9916667:165.98793|64,110,0.9876709:165.99074|72,85,0.9916667:165.99263|64,101,0.9916667:166.97841|72,88,0.9916667:166.98676|67,120,0.9916667:166.9975|52,127,2.9916666:168.01015|62,104,0.9916667:168.99031|65,116,0.9916667:168.99539|62,100,0.9916667:169.99248|65,112,0.9916667:170.01361|52,127,2.9916666:171.00594|59,103,0.9916667:171.96776|62,118,0.98703:171.99712|65,116,0.9861145:172.00935|59,106,0.9916667:172.96326|62,104,0.9916667:172.98415|65,105,0.9916667:172.99547|45,126,2.9916666:173.97705|60,96,0.9916667:174.99527|64,112,0.9769592:174.99533|69,120,0.9916667:175.01514|64,101,0.9916667:175.97229|60,110,0.9916667:176.00742|69,105,0.9916667:176.01596|45,126,2.9916666:177.00204|69,95,0.98516846:177.98564|64,96,0.95880127:178.00697|60,107,0.9821472:178.01036|64,107,0.9916667:178.96577|69,103,0.9916667:178.97081|60,112,0.9916667:178.99251|52,125,2.9916666:179.99667|59,112,0.9916667:180.97745|68,103,0.981369:180.99298|64,106,0.9898834:180.99377|68,103,0.9916667:181.97435|64,99,0.9916667:181.98366|59,106,0.9916667:181.99734|52,127,2.9916666:183.00073|69,88,0.9916667:183.97491|62,91,0.9916667:183.98264|65,108,0.99128723:183.99344|65,105,0.9916667:184.98473|69,96,0.9916667:184.98999|62,93,0.9916667:184.99146|45,125,2.9734344:186.01035|60,101,0.9916667:186.9866|69,100,0.9916667:186.9878|64,102,0.9873657:187.00693|60,97,0.9916667:187.99171|69,94,0.9916667:187.99425|64,98,0.9916667:187.9943|45,127,2.9916666:188.98378|60,104,0.9916667:189.97151|69,93,0.9916667:189.99387|64,88,0.97476196:190.03061|69,96,0.9916667:191.00198|64,99,0.9916667:191.00537|60,111,0.9916667:191.00862|50,127,2.9916666:191.98393|69,92,0.9799042:193.0031|62,103,0.9916667:193.00784|65,105,0.9916667:193.01262|69,92,0.9916667:193.983|62,92,0.9916667:194.00703|65,108,0.9916667:194.01283|52,125,2.9916666:194.98149|64,108,0.9916667:195.98657|62,103,0.9916667:196.007|68,92,0.96969604:196.0108|68,90,0.9916667:196.9805|62,93,0.9916667:197.00311|64,109,0.9916667:197.01462|45,127,2.9916666:197.98328|60,102,0.9916667:198.98009|69,95,0.9770355:199.0037|64,119,0.9865265:199.0055|69,86,0.9916667:199.98073|60,99,0.9916667:199.9915|64,101,0.9916667:199.99202|45,127,2.9916666:200.98808|52,127,2.9916666:395.99866|68,110,0.9916667:396.97116|64,125,0.9916667:396.98358|62,98,0.9916667:396.99115|64,118,0.9916667:397.98926|68,105,0.9916667:397.99393|62,96,0.9916667:398.01944|52,127,2.9916666:399.00275|68,120,0.9916667:399.95844|64,122,0.9916667:399.9858|62,112,0.9744873:400.01483|62,111,0.9916667:400.98932|64,124,0.9916667:400.99594|68,123,0.9916667:400.9988|52,124,2.9916666:401.99924|62,108,0.9916667:402.9806|64,127,0.9916667:402.99387|68,70,0.9916667:402.99805|71,114,0.9764404:403.00217|62,98,0.9916667:403.97742|71,95,0.9916667:403.9786|64,127,0.9916667:403.99136|68,114,0.9916667:404.00638|52,127,2.9916666:405.00552|68,112,0.9916667:405.97394|71,85,0.9916667:405.99017|64,126,0.97753906:405.99203|62,106,0.9916667:406.00388|64,127,0.9916667:406.96957|71,105,0.9916667:406.98724|68,116,0.9916667:406.99707|62,98,0.9916667:407.01007|45,127,2.9916666:408.0074|69,111,0.9916667:408.9807|64,97,0.9916667:408.9839|72,94,0.9916667:409.00095|69,123,0.9916667:409.9756|64,100,0.9916667:410.00604|72,100,0.9916667:410.0067|45,127,2.9916666:411.0001|72,94,0.9916667:411.98376|69,123,0.9916667:411.99814|64,104,0.96832275:412.00647|64,108,0.9916667:412.9748|69,125,0.9916667:412.99423|72,100,0.9916667:412.99634|45,126,2.9916666:413.99393|69,106,0.9916667:414.99426|60,91,0.9828491:414.99716|64,127,0.9916667:414.99762|60,92,0.9916667:415.98|64,115,0.9916667:415.9986|69,105,0.9916667:416.01132|45,127,2.9916666:417.0007|69,122,0.9916667:417.97812|64,89,0.9916667:417.9829|72,99,0.98657227:417.99536|72,91,0.9916667:418.98193|64,94,0.9916667:418.98462|69,120,0.9916667:418.98785|50,127,2.985077:419.98962|62,81,0.9868469:421.007|65,115,0.9661865:421.00775|69,99,0.9541931:421.0131|69,110,0.9916667:421.9673|65,116,0.9916667:421.97394|62,91,0.9916667:421.99384|50,127,2.9916666:422.9747|62,120,0.9656677:423.98682|69,127,0.9916667:423.99017|65,127,0.96728516:424.00256|62,111,0.9916667:424.95248|65,127,0.9916667:424.96985|69,123,0.9916667:424.9904|45,127,2.9916666:425.98303|72,104,0.9916667:426.99182|69,125,0.9916667:427.00165|64,97,0.9654541:427.02725|72,93,0.9916667:427.98398|64,93,0.9916667:427.9927|69,121,0.9916667:427.99667|45,127,2.9916666:428.97562|64,100,0.9916667:429.97656|72,96,0.9916667:429.9962|69,116,0.9825134:430.01685|64,95,0.9916667:430.99313|69,113,0.9916667:430.99936|72,98,0.9916667:431.01508|52,124,2.9916666:432.0061|68,115,0.9887085:432.97968|64,110,0.9916667:432.98074|71,118,0.9916667:432.99847|68,111,0.9916667:433.96838|71,111,0.9916667:434.00388|64,110,0.9916667:434.01266|52,127,2.9916666:434.99796|62,93,0.9916667:435.98004|64,121,0.96240234:436.00662|68,103,0.95977783:436.01334|64,105,0.9916667:436.96902|68,101,0.9916667:436.9731|62,95,0.9916667:436.99805|45,127,2.9916666:437.97714|60,82,0.9916667:438.99237|69,96,0.9821167:439.0015|64,115,0.97579956:439.00583|64,113,0.9916667:439.98163|69,85,0.9916667:439.9836|60,86,0.9916667:440.004|45,125,2.9916666:441.01358|69,89,0.9916667:441.97067|64,99,0.9916667:441.9883|60,77,0.99050903:441.9976|57,116,0.9916667:442.9808|60,114,0.9916667:442.9881|64,104,0.9916667:442.99536|52,126,2.9916666:443.97473|64,126,0.9916667:444.98608|62,93,0.9916667:444.9945|68,93,0.9708557:445.00772|68,82,0.9916667:445.97858|62,95,0.9916667:445.99564|64,107,0.9916667:445.99875|52,127,2.979004:446.9915|62,103,0.9916667:447.97034|64,118,0.9916667:447.99118|68,99,0.9899597:447.99475|62,91,0.9916667:448.97513|68,106,0.9916667:448.9847|64,114,0.9916667:449.01822|52,126,2.9916666:449.9705|68,108,0.9916667:450.9802|64,113,0.9807739:451.00842|62,89,0.97943115:451.022|64,114,0.9916667:451.9892|62,83,0.9916667:452.00143|68,103,0.9916667:452.0093|52,125,2.9916666:453.00873|71,112,0.9916667:453.98474|64,92,0.9916667:453.99017|68,92,0.9876709:453.99808|64,98,0.9916667:454.98538|68,102,0.9916667:454.98575|71,115,0.9916667:455.00314|45,127,2.9916666:455.99637|69,127,0.9916667:456.99536|64,102,0.9916667:457.01422|72,93,0.9640503:457.0311|69,114,0.9916667:457.98727|72,89,0.9916667:457.99515|64,86,0.9916667:458.0159|45,127,2.9916666:458.99017|69,101,0.9916667:459.97845|60,88,0.9916667:460.00247|64,118,0.9884949:460.00394|64,111,0.9916667:460.99243|69,102,0.9916667:461.00403|60,93,0.9916667:461.0044|45,124,2.9916666:461.993|60,86,0.98568726:462.9899|64,118,0.9903259:462.98993|69,103,0.9692383:463.01773|60,82,0.9916667:463.9756|64,110,0.9916667:463.98026|69,102,0.9916667:463.98697|45,127,2.9916666:464.99194|64,94,0.9916667:465.9873|69,120,0.9916667:466.00418|72,90,0.96398926:466.02664|64,95,0.9916667:466.98798|72,94,0.9916667:466.99063|69,119,0.9916667:466.99777|50,123,2.9916666:467.97916|71,118,0.9916667:468.9939|65,109,0.9906006:468.99542|69,120,0.96954346:468.9984|69,109,0.9916667:469.96796|65,105,0.9916667:469.98602|71,99,0.9916667:469.99576|50,125,2.9916666:470.97708|65,99,0.9916667:471.96432|69,123,0.9916667:471.97238|71,102,0.9916667:471.9992|65,97,0.9916667:472.9947|69,105,0.9916667:472.99857|71,111,0.9916667:473.00558|45,126,2.9916666:473.9837|72,100,0.9916667:474.96924|69,124,0.9916667:474.98535|64,97,0.9916667:475.00784|72,90,0.9916667:475.96722|69,120,0.9916667:475.97778|64,102,0.9916667:476.0|45,127,2.9916666:476.99664|72,103,0.9916667:477.97537|64,89,0.985199:477.99075|69,111,0.99160767:478.00443|64,85,0.9916667:478.97595|72,102,0.9916667:478.99283|69,113,0.9916667:478.99603|52,125,2.9916666:479.98477|64,97,0.9916667:480.9729|71,102,0.9916667:480.99286|68,96,0.9916667:481.0095|71,98,0.9916667:481.9931|64,95,0.9916667:482.00424|68,104,0.9916667:482.00778|52,127,2.9916666:482.9949|71,113,0.9916667:483.9782|68,107,0.96209717:483.98944|64,89,0.9916667:483.99414|68,117,0.9916667:484.95154|71,112,0.9916667:484.99304|64,87,0.9916667:484.99722|45,126,2.9874573:486.00076|64,111,0.9916667:486.99103|60,81,0.98339844:487.008|69,110,0.9883728:487.0149|64,125,0.9916667:487.98895|60,92,0.9916667:487.9914|69,108,0.9916667:488.00327|45,127,2.9916666:488.98822|69,121,0.9916667:489.97906|64,113,0.9916667:489.9993|57,103,0.9660034:490.0025|57,89,0.9916667:490.9685|69,112,0.9916667:491.0|64,101,0.9916667:491.00476|43,124,2.9916666:492.0219|65,110,0.9916667:492.97958|62,105,0.9895935:493.0002|69,109,0.9777832:493.00815|69,103,0.9916667:493.98593|65,103,0.9916667:493.9869|62,82,0.9916667:493.9898|43,125,2.9916666:495.01678|65,109,0.9916667:495.9938|62,92,0.9916667:495.99442|69,96,0.98376465:496.0159|62,88,0.9916667:496.99222|65,119,0.9916667:496.99393|69,95,0.9916667:496.99966|48,124,2.9804382:498.00443|64,95,0.9916667:498.96872|60,104,0.9916667:498.99283|67,112,0.981781:499.0183|67,107,0.9916667:500.0001|60,99,0.9916667:500.00323|64,89,0.9916667:500.00974|48,125,2.9916666:500.98486|72,84,0.9916667:501.96622|64,111,0.9916667:501.97885|67,96,0.9902649:501.99548|72,88,0.9916667:502.9742|67,120,0.9916667:502.98575|64,100,0.9916667:503.00296|52,126,2.9916666:503.99026|62,104,0.9916667:504.98257|65,114,0.977417:505.0006|65,110,0.9916667:505.97803|62,97,0.9916667:505.9834|52,123,2.9916666:506.99802|62,121,0.9916667:507.9765|65,113,0.9916667:507.99173|59,104,0.98654175:507.99673|59,110,0.9916667:508.98328|65,111,0.9916667:508.99844|62,103,0.9916667:508.99866|45,127,2.9837952:509.99393|69,121,0.9916667:510.98486|60,98,0.9916667:510.9893|64,108,0.9916667:510.99893|69,104,0.9916667:511.98193|60,115,0.9916667:511.9913|64,102,0.9916667:512.02527|45,127,2.9916666:512.9777|69,95,0.9916667:513.9862|60,108,0.9716797:513.9993|64,98,0.973999:514.0037|60,111,0.9916667:514.971|64,107,0.9916667:514.9777|69,103,0.9916667:515.0008|52,127,2.987915:515.9886|64,104,0.9916667:516.97284|68,104,0.98028564:517.0027|59,110,0.9743042:517.0092|68,105,0.9916667:517.983|59,108,0.9916667:517.9835|64,96,0.9916667:518.00116|52,126,2.9916666:518.9765|62,90,0.9916667:519.988|69,89,0.9916667:519.99457|65,106,0.9588623:520.0188|65,105,0.9916667:520.97766|69,92,0.9916667:520.9955|62,95,0.9916667:521.00616|45,127,2.9916666:521.97675|64,105,0.9916667:522.971|60,103,0.9916667:522.9778|69,101,0.98895264:523.00366|64,102,0.9916667:523.98944|69,94,0.9916667:523.9926|60,97,0.9916667:524.01984|45,127,2.9916666:524.97253|60,106,0.9916667:525.9867|69,92,0.97509766:525.9938|64,90,0.97906494:526.0069|69,92,0.9916667:526.9689|64,103,0.9916667:526.98596|60,112,0.9916667:526.98944|50,127,2.9916666:528.00287|69,91,0.9840088:528.98914|62,102,0.9876709:528.9943|65,104,0.98223877:529.00757|69,94,0.9916667:529.97314|62,94,0.9916667:529.982|65,107,0.9916667:529.9898|52,126,2.9916666:531.0103|68,91,0.9916667:531.98193|64,107,0.9916667:531.9887|62,102,0.9904785:532.0011|68,87,0.9916667:532.9874|62,93,0.9916667:532.9916|64,112,0.9916667:533.0186|45,127,2.9916666:533.99567|60,100,0.9916667:534.98615|64,117,0.98223877:535.0008|69,95,0.9916667:535.00104|64,102,0.9916667:535.98303|60,92,0.9916667:535.98315|69,87,0.9916667:535.9949|45,127,2.9916666:536.9993|64,100,0.9916667:537.9806|60,97,0.9916667:537.9856|69,88,0.973938:538.0216|64,104,0.9916667:538.9797|69,89,0.9916667:538.99554|59,105,0.9916667:539.0079|43,127,2.9916666:539.986|62,101,0.9916667:540.96497|69,108,0.98883057:540.9956|65,114,0.97998047:541.0142|69,101,0.9916667:541.98444|62,84,0.9916667:541.98944|65,105,0.9916667:541.9942|43,127,2.9916666:542.9913|62,91,0.9906006:543.98785|69,95,0.9916667:543.9891|65,112,0.98931885:544.00446|62,89,0.9916667:544.97845|69,91,0.9916667:544.99005|65,116,0.9916667:544.9938|48,126,2.9916666:546.00385|64,95,0.9916667:546.9726|60,103,0.9916667:546.9847|67,113,0.98620605:547.0216|64,90,0.9916667:547.97174|60,98,0.9916667:548.00165|67,109,0.9916667:548.0078|48,127,2.9916666:549.0169|67,94,0.9916667:549.97626|64,106,0.9893799:550.00195|72,84,0.9916667:550.01025|67,116,0.9916667:550.9753|64,99,0.9916667:550.99133|72,87,0.9916667:551.00305|52,127,2.9732056:552.0168|62,109,0.9916667:552.9865|65,116,0.9916667:552.99457|62,94,0.9916667:553.98206|65,113,0.9916667:553.98975|52,127,2.9916666:554.99|59,97,0.9795532:555.9963|62,120,0.9916667:556.00433|65,113,0.97991943:556.009|59,110,0.9916667:556.9758|65,109,0.9916667:556.9889|62,101,0.9916667:557.0089|45,127,2.9916666:557.97205|64,112,0.9916667:558.98175|69,120,0.9916667:558.9973|60,100,0.9760742:559.0066|60,112,0.9916667:559.98267|64,101,0.9916667:559.9872|69,103,0.9916667:560.01404|45,127,2.9916666:560.9819|64,97,0.9916667:561.9796|60,106,0.9916667:561.98474|69,94,0.9815674:562.0009|69,101,0.9916667:562.9825|60,112,0.9916667:562.9954|64,108,0.9916667:562.99817|52,127,2.9916666:563.99255|68,104,0.9916667:564.98065|64,100,0.98773193:565.01025|59,107,0.9916667:565.0191|68,105,0.9916667:565.98737|64,97,0.9916667:565.998|59,107,0.9916667:566.012|52,125,2.9916666:567.0047|62,88,0.9916667:567.97516|65,106,0.98010254:567.99884|69,87,0.986145:568.0019|65,106,0.9916667:568.97894|69,92,0.9916667:568.98804|62,93,0.9916667:568.9969|45,126,2.9916666:569.988|64,108,0.9916667:570.9762|60,104,0.9840088:570.99384|69,102,0.9916667:570.99945|60,98,0.9916667:571.97784|64,101,0.9916667:572.003|69,96,0.9916667:572.0095|45,127,2.9916666:573.02313|69,94,0.9916667:573.98615|60,107,0.9916667:574.0031|64,85,0.9916667:574.0051|69,95,0.9916667:574.9904|60,107,0.9916667:574.99854|64,104,0.9916667:575.02625|50,127,2.9916666:575.9778|65,107,0.9916667:576.97656|62,105,0.9916667:576.9865|69,90,0.979126:577.0173|65,110,0.9916667:577.9905|69,93,0.9916667:577.9964|62,93,0.9916667:578.00726|52,126,2.9916666:578.9888|64,108,0.9916667:579.98|62,103,0.9916667:579.98615|68,95,0.97528076:580.00885|68,86,0.9916667:580.98413|64,109,0.9916667:580.9947|62,95,0.9916667:581.00183|45,125,2.9916666:581.99316|69,93,0.9916667:582.9875|60,102,0.9916667:582.99146|64,114,0.98083496:582.99646|64,101,0.9916667:583.9773|60,94,0.9916667:583.9992|69,87,0.9916667:584.01135|45,125,2.9916666:585.004|69,86,0.9916667:585.9694|64,104,0.9916667:585.9953|60,91,0.9916667:586.00977|59,104,0.9916667:586.99994|69,91,0.9916667:586.99994|64,107,0.9916667:587.01825]</spSaveString>
       </Phrase>
     </entry>
     <entry>
-      <string>User1</string>
+      <string>Cello</string>
       <Phrase resolves-to="PhraseSP" spVERSION="2">
         <spSaveString>[0|71,127,3.9916666:12.0|76,127,0.9916667:16.0|77,127,0.9916667:17.0|80,127,3.9916666:18.0|77,127,1.4916667:22.0|71,127,0.49166667:23.5|76,127,3.9916666:24.0|74,127,0.9916667:28.0|72,127,0.9916667:29.0|84,127,4.991667:30.0|84,127,0.9916667:35.0|86,127,3.9916666:36.0|84,127,1.4916667:40.0|83,127,0.49166667:41.5|84,127,3.9916666:42.0|83,127,0.9916667:46.0|81,127,0.9916667:47.0|80,127,3.9916666:48.0|81,127,0.9916667:52.0|80,127,0.9916667:53.0|76,127,4.991667:54.0|71,127,0.9916667:59.0|71,127,3.9916666:60.0|76,127,0.9916667:64.0|77,127,0.9916667:65.0|80,127,3.9916666:66.0|77,127,0.9916667:70.0|71,127,0.9916667:71.0|81,127,3.9916666:72.0|80,127,0.9916667:76.0|76,127,0.9916667:77.0|84,127,4.991667:78.0|84,127,0.9916667:83.0|86,127,3.9916666:84.0|84,127,0.9916667:88.0|83,127,0.9916667:89.0|84,127,3.9916666:90.0|83,127,0.9916667:94.0|81,127,0.9916667:95.0|80,127,3.9916666:96.0|81,127,0.9916667:100.0|80,127,0.9916667:101.0|76,127,2.9916666:102.0|79,127,0.49166667:105.0|81,127,0.49166667:105.5|83,127,0.49166667:106.0|84,127,0.49166667:106.5|86,127,0.49166667:107.0|88,127,0.49166667:107.5|89,127,0.9916667:108.0|89,127,0.9916667:109.0|89,127,0.9916667:110.0|89,127,0.9916667:111.0|88,127,0.9916667:112.0|86,127,0.9916667:113.0|89,127,0.9916667:114.0|88,127,1.4916667:115.0|87,127,0.49166667:116.5|88,127,2.9916666:117.0|86,127,0.9916667:120.0|86,127,0.9916667:121.0|86,127,0.9916667:122.0|86,127,0.9916667:123.0|84,127,0.9916667:124.0|83,127,0.9916667:125.0|86,127,0.9916667:126.0|84,127,1.4916667:127.0|83,127,0.49166667:128.5|84,127,1.9916667:129.0|84,127,0.9916667:131.0|83,127,0.9916667:132.0|83,127,0.9916667:133.0|83,127,0.9916667:134.0|83,127,0.9916667:135.0|81,127,0.9916667:136.0|80,127,0.9916667:137.0|83,127,0.9916667:138.0|81,127,1.4916667:139.0|80,127,0.49166667:140.5|76,127,1.9916667:141.0|89,127,0.9916667:143.0|86,127,0.9916667:144.0|83,127,0.9916667:145.0|80,127,0.9916667:146.0|81,127,1.9916667:147.0|80,127,0.9916667:149.0|76,127,3.1916666:150.0|79,127,0.49166667:153.0|81,127,0.49166667:153.5|83,127,0.49166667:154.0|84,127,0.49166667:154.5|86,127,0.49166667:155.0|88,127,0.49166667:155.5|89,127,0.9916667:156.0|89,127,0.9916667:157.0|89,127,0.9916667:158.0|89,127,0.9916667:159.0|88,127,0.9916667:160.0|86,127,0.9916667:161.0|89,127,0.9916667:162.0|88,127,1.4916667:163.0|87,127,0.49166667:164.5|88,127,2.9916666:165.0|86,127,0.9916667:168.0|86,127,0.9916667:169.0|86,127,0.9916667:170.0|86,127,0.9916667:171.0|84,127,0.9916667:172.0|83,127,0.9916667:173.0|86,127,0.9916667:174.0|84,127,1.4916667:175.0|83,127,0.49166667:176.5|84,127,1.9916667:177.0|84,127,0.9916667:179.0|83,127,0.9916667:180.0|83,127,0.9916667:181.0|83,127,0.9916667:182.0|83,127,0.9916667:183.0|81,127,0.9916667:184.0|80,127,0.9916667:185.0|83,127,0.9916667:186.0|81,127,1.4916667:187.0|80,127,0.49166667:188.5|76,127,1.9916667:189.0|89,127,0.9916667:191.0|86,127,0.9916667:192.0|83,127,0.9916667:193.0|80,127,0.9916667:194.0|81,127,1.9916667:195.0|80,127,0.9916667:197.0|76,127,4.991667:198.0|71,127,4.0583334:395.93332|76,127,0.49166667:400.0|71,127,0.35833332:400.5|76,127,0.49166667:401.0|77,127,0.49166667:401.5|80,127,3.9916666:402.0|77,127,1.4916667:406.0|71,127,0.49166667:407.5|81,127,3.4916666:408.0|80,127,0.49166667:411.5|76,127,0.49166667:412.0|80,127,0.49166667:412.5|81,127,0.49166667:413.0|83,127,0.49166667:413.5|84,127,3.9916666:414.0|84,127,0.49166667:418.5|88,127,0.49166667:418.5|81,127,0.49166667:419.0|88,127,0.49166667:419.5|86,127,3.4916666:420.0|84,127,0.49166667:423.5|83,127,0.49166667:424.0|84,127,0.49166667:424.5|86,127,0.49166667:425.0|83,127,0.49166667:425.5|84,127,3.4916666:426.0|81,127,0.49166667:429.5|84,127,0.49166667:430.0|83,127,0.49166667:430.5|81,127,0.49166667:431.0|83,127,0.49166667:431.5|80,127,3.4916666:432.0|83,127,0.49166667:435.5|81,127,0.49166667:436.0|83,127,0.49166667:436.5|81,127,0.49166667:437.0|80,127,0.49166667:437.5|76,127,4.991667:438.0|76,127,0.49166667:443.0|74,127,0.49166667:443.5|71,127,3.9916666:444.0|76,127,1.4916667:448.0|77,127,0.49166667:449.5|80,127,1.4916667:450.0|71,127,0.49166667:451.5|76,127,0.49166667:452.0|77,127,0.49166667:452.5|80,127,0.9916667:453.0|76,127,0.9916667:454.0|71,127,0.9916667:455.0|81,127,1.4916667:456.0|80,127,0.49166667:457.5|76,127,0.49166667:458.0|80,127,0.49166667:458.5|81,127,0.9916667:459.0|80,127,0.9916667:460.0|76,127,0.9916667:461.0|84,127,1.4916667:462.0|83,127,0.49166667:463.5|81,127,0.49166667:464.0|83,127,0.49166667:464.5|84,127,0.49166667:465.0|81,127,0.49166667:465.5|76,127,0.49166667:466.0|81,127,0.49166667:466.5|84,127,0.49166667:467.0|88,127,0.49166667:467.5|86,127,1.4916667:468.0|88,127,0.49166667:469.5|89,127,0.49166667:470.0|88,127,0.49166667:470.5|86,127,0.9916667:471.0|84,127,0.9916667:472.0|83,127,0.9916667:473.0|84,127,1.4916667:474.0|83,127,0.49166667:475.5|81,127,0.49166667:476.0|83,127,0.49166667:476.5|84,127,0.9916667:477.0|83,127,0.9916667:478.0|81,127,0.9916667:479.0|80,127,0.49166667:480.0|81,127,0.49166667:480.5|83,127,0.49166667:481.0|81,127,0.49166667:481.5|80,127,0.49166667:482.0|81,127,0.49166667:482.5|80,127,0.9916667:483.0|81,127,0.9916667:484.0|80,127,0.9916667:485.0|76,127,2.9916666:486.0|79,127,0.49166667:489.0|81,127,0.49166667:489.5|83,127,0.49166667:490.0|84,127,0.49166667:490.5|86,127,0.49166667:491.0|88,127,0.49166667:491.5|89,127,0.9916667:492.0|89,127,0.9916667:493.0|89,127,0.9916667:494.0|89,127,0.9916667:495.0|88,127,0.9916667:496.0|86,127,0.9916667:497.0|89,127,0.9916667:498.0|88,127,1.4916667:499.0|87,127,0.49166667:500.5|88,127,2.9916666:501.0|86,127,0.9916667:504.0|86,127,0.9916667:505.0|86,127,0.9916667:506.0|86,127,0.9916667:507.0|84,127,0.9916667:508.0|83,127,0.9916667:509.0|86,127,0.9916667:510.0|84,127,1.4916667:511.0|83,127,0.49166667:512.5|84,127,1.9916667:513.0|84,127,0.9916667:515.0|83,127,0.9916667:516.0|83,127,0.9916667:517.0|83,127,0.9916667:518.0|83,127,0.9916667:519.0|81,127,0.9916667:520.0|80,127,0.9916667:521.0|83,127,0.9916667:522.0|81,127,1.4916667:523.0|80,127,0.49166667:524.5|76,127,1.9916667:525.0|89,127,0.9916667:527.0|86,127,0.9916667:528.0|83,127,0.9916667:529.0|80,127,0.9916667:530.0|81,127,1.9916667:531.0|80,127,0.9916667:533.0|76,127,2.675:534.0|79,127,0.49166667:537.0|81,127,0.49166667:537.5|83,127,0.49166667:538.0|84,127,0.49166667:538.5|86,127,0.49166667:539.0|88,127,0.49166667:539.5|89,127,0.9916667:540.0|89,127,0.9916667:541.0|89,127,0.9916667:542.0|89,127,0.9916667:543.0|88,127,0.9916667:544.0|86,127,0.9916667:545.0|89,127,0.9916667:546.0|88,127,1.4916667:547.0|87,127,0.49166667:548.5|88,127,2.9916666:549.0|86,127,0.9916667:552.0|86,127,0.9916667:553.0|86,127,0.9916667:554.0|86,127,0.9916667:555.0|84,127,0.9916667:556.0|83,127,0.9916667:557.0|86,127,0.9916667:558.0|84,127,1.4916667:559.0|83,127,0.49166667:560.5|84,127,1.9916667:561.0|84,127,0.9916667:563.0|83,127,0.9916667:564.0|83,127,0.9916667:565.0|83,127,0.9916667:566.0|83,127,0.9916667:567.0|81,127,0.9916667:568.0|80,127,0.9916667:569.0|83,127,0.9916667:570.0|81,127,1.4916667:571.0|80,127,0.49166667:572.5|76,127,1.9916667:573.0|89,127,0.9916667:575.0|86,127,0.9916667:576.0|83,127,0.9916667:577.0|80,127,0.9916667:578.0|81,127,1.9916667:579.0|80,127,0.9916667:581.0|76,127,5.15:582.0|76,127,0.5:587.9083|71,127,0.49166667:588.4083|76,127,0.49166667:588.9083|81,127,0.49166667:589.4083|84,127,0.49166667:589.9083|88,127,0.49166667:590.4083|88,127,5.975:590.9083|76,127,0.49166667:629.98334|75,127,0.49166667:630.48334|76,127,0.49166667:630.98334|79,127,0.49166667:631.48334|83,127,0.49166667:631.98334|86,127,0.49166667:632.48334|88,127,2.9916666:632.98334|76,127,2.9916666:635.98334|79,127,2.9916666:635.98334|83,127,2.9916666:635.98334|88,127,2.9916666:635.98334]</spSaveString>
       </Phrase>
     </entry>
     <entry>
-      <string>User3</string>
+      <string>Violin</string>
       <Phrase resolves-to="PhraseSP" spVERSION="2">
-        <spSaveString>[0|57,124,2.9916666:0.0|60,127,0.9916667:1.0|64,105,0.9916667:1.0|69,107,0.9916667:1.0|60,125,0.9916667:2.0|64,101,0.9916667:2.0|69,101,0.9916667:2.0|52,127,2.9916666:3.0|60,94,0.9916667:4.0|64,127,0.9916667:4.0|69,108,0.9916667:4.0|60,90,0.9916667:5.0|64,127,0.9916667:5.0|69,103,0.9916667:5.0|57,120,2.9916666:6.0|60,97,0.9916667:7.0|64,127,0.9916667:7.0|69,102,0.9916667:7.0|60,90,0.9916667:8.0|64,122,0.9916667:8.0|69,97,0.9916667:8.0|52,127,2.9916666:9.0|60,96,0.9916667:10.0|64,120,0.9916667:10.0|69,105,0.9916667:10.0|60,93,0.9916667:11.0|64,116,0.9916667:11.0|69,104,0.9916667:11.0|52,127,2.9916666:12.0|62,98,0.9916667:13.0|64,125,0.9916667:13.0|68,111,0.9916667:13.0|62,96,0.9916667:14.0|64,120,0.9916667:14.0|68,106,0.9916667:14.0|52,127,2.9916666:15.0|62,109,0.9916667:16.0|64,124,0.9916667:16.0|68,121,0.9916667:16.0|62,111,0.9916667:17.0|64,120,0.9916667:17.0|68,122,0.9916667:17.0|52,127,2.9916666:18.0|64,127,0.9916667:19.0|68,70,0.9916667:19.0|71,111,0.9916667:19.0|64,127,0.9916667:20.0|68,115,0.9916667:20.0|71,94,0.9916667:20.0|52,127,2.9916666:21.0|64,127,0.9916667:22.0|68,114,0.9916667:22.0|71,86,0.9916667:22.0|64,127,0.9916667:23.0|68,116,0.9916667:23.0|71,105,0.9916667:23.0|45,127,2.9916666:24.0|64,99,0.9916667:25.0|69,112,0.9916667:25.0|72,94,0.9916667:25.0|64,97,0.9916667:26.0|69,125,0.9916667:26.0|72,101,0.9916667:26.0|45,127,2.9916666:27.0|64,105,0.9916667:28.0|69,124,0.9916667:28.0|72,96,0.9916667:28.0|64,108,0.9916667:29.0|69,125,0.9916667:29.0|72,103,0.9916667:29.0|45,127,2.9916666:30.0|60,92,0.9916667:31.0|64,127,0.9916667:31.0|69,107,0.9916667:31.0|60,92,0.9916667:32.0|64,115,0.9916667:32.0|69,103,0.9916667:32.0|45,127,2.9916666:33.0|64,88,0.9916667:34.0|69,120,0.9916667:34.0|72,97,0.9916667:34.0|64,91,0.9916667:35.0|69,122,0.9916667:35.0|72,92,0.9916667:35.0|50,127,2.9916666:36.0|62,80,0.9916667:37.0|65,113,0.9916667:37.0|69,102,0.9916667:37.0|62,91,0.9916667:38.0|65,118,0.9916667:38.0|69,108,0.9916667:38.0|50,127,2.9916666:39.0|62,120,0.9916667:40.0|65,127,0.9916667:40.0|69,127,0.9916667:40.0|62,109,0.9916667:41.0|65,127,0.9916667:41.0|69,124,0.9916667:41.0|45,127,2.9916666:42.0|64,99,0.9916667:43.0|69,125,0.9916667:43.0|72,107,0.9916667:43.0|64,93,0.9916667:44.0|69,121,0.9916667:44.0|72,91,0.9916667:44.0|45,127,2.9916666:45.0|64,99,0.9916667:46.0|69,113,0.9916667:46.0|72,96,0.9916667:46.0|64,90,0.9916667:47.0|69,113,0.9916667:47.0|72,101,0.9916667:47.0|52,127,2.9916666:48.0|64,110,0.9916667:49.0|68,113,0.9916667:49.0|71,114,0.9916667:49.0|64,112,0.9916667:50.0|68,108,0.9916667:50.0|71,112,0.9916667:50.0|52,127,2.9916666:51.0|62,94,0.9916667:52.0|64,120,0.9916667:52.0|68,100,0.9916667:52.0|62,97,0.9916667:53.0|64,108,0.9916667:53.0|68,101,0.9916667:53.0|45,127,2.9916666:54.0|60,80,0.9916667:55.0|64,117,0.9916667:55.0|69,96,0.9916667:55.0|60,86,0.9916667:56.0|64,113,0.9916667:56.0|69,88,0.9916667:56.0|45,127,2.9916666:57.0|60,77,0.9916667:58.0|64,98,0.9916667:58.0|69,88,0.9916667:58.0|57,118,0.9916667:59.0|59,115,0.9916667:59.0|64,103,0.9916667:59.0|52,125,2.9916666:60.0|59,127,0.9916667:61.0|64,127,0.9916667:61.0|68,92,0.9916667:61.0|62,94,0.9916667:62.0|64,108,0.9916667:62.0|68,81,0.9916667:62.0|52,127,2.9916666:63.0|62,103,0.9916667:64.0|64,116,0.9916667:64.0|68,103,0.9916667:64.0|62,90,0.9916667:65.0|64,111,0.9916667:65.0|68,106,0.9916667:65.0|52,127,2.9916666:66.0|62,90,0.9916667:67.0|64,113,0.9916667:67.0|68,105,0.9916667:67.0|62,84,0.9916667:68.0|64,108,0.9916667:68.0|68,105,0.9916667:68.0|52,127,2.9916666:69.0|64,94,0.9916667:70.0|68,94,0.9916667:70.0|71,109,0.9916667:70.0|62,105,0.9916667:71.0|68,99,0.9916667:71.0|71,114,0.9916667:71.0|45,127,2.9916666:72.0|64,100,0.9916667:73.0|69,127,0.9916667:73.0|72,95,0.9916667:73.0|64,86,0.9916667:74.0|69,116,0.9916667:74.0|72,88,0.9916667:74.0|45,127,2.9916666:75.0|60,83,0.9916667:76.0|64,118,0.9916667:76.0|69,101,0.9916667:76.0|60,92,0.9916667:77.0|64,111,0.9916667:77.0|69,99,0.9916667:77.0|45,127,2.9916666:78.0|60,88,0.9916667:79.0|64,119,0.9916667:79.0|69,103,0.9916667:79.0|60,82,0.9916667:80.0|64,109,0.9916667:80.0|69,100,0.9916667:80.0|45,127,2.9916666:81.0|64,96,0.9916667:82.0|69,120,0.9916667:82.0|72,91,0.9916667:82.0|64,95,0.9916667:83.0|69,117,0.9916667:83.0|72,96,0.9916667:83.0|50,125,2.9916666:84.0|65,108,0.9916667:85.0|69,119,0.9916667:85.0|71,117,0.9916667:85.0|65,106,0.9916667:86.0|69,108,0.9916667:86.0|71,99,0.9916667:86.0|50,127,2.9916666:87.0|65,101,0.9916667:88.0|69,123,0.9916667:88.0|71,104,0.9916667:88.0|65,100,0.9916667:89.0|69,106,0.9916667:89.0|71,109,0.9916667:89.0|45,127,2.9916666:90.0|64,97,0.9916667:91.0|69,124,0.9916667:91.0|72,94,0.9916667:91.0|64,103,0.9916667:92.0|69,122,0.9916667:92.0|72,93,0.9916667:92.0|45,127,2.9916666:93.0|64,89,0.9916667:94.0|69,111,0.9916667:94.0|72,104,0.9916667:94.0|64,84,0.9916667:95.0|69,113,0.9916667:95.0|72,104,0.9916667:95.0|52,127,2.9916666:96.0|64,98,0.9916667:97.0|68,125,0.9916667:97.0|71,101,0.9916667:97.0|64,100,0.9916667:98.0|68,121,0.9916667:98.0|71,99,0.9916667:98.0|52,127,2.9916666:99.0|62,89,0.9916667:100.0|68,107,0.9916667:100.0|71,112,0.9916667:100.0|62,86,0.9916667:101.0|68,113,0.9916667:101.0|71,112,0.9916667:101.0|45,127,2.9916666:102.0|60,78,0.9916667:103.0|64,111,0.9916667:103.0|69,111,0.9916667:103.0|60,92,0.9916667:104.0|64,124,0.9916667:104.0|69,108,0.9916667:104.0|45,127,2.9916666:105.0|57,103,0.9916667:106.0|64,113,0.9916667:106.0|69,120,0.9916667:106.0|57,92,0.9916667:107.0|64,102,0.9916667:107.0|69,113,0.9916667:107.0|43,127,2.9916666:108.0|62,103,0.9916667:109.0|65,111,0.9916667:109.0|69,108,0.9916667:109.0|62,84,0.9916667:110.0|65,105,0.9916667:110.0|69,102,0.9916667:110.0|43,127,2.9916666:111.0|62,94,0.9916667:112.0|65,109,0.9916667:112.0|69,96,0.9916667:112.0|62,89,0.9916667:113.0|65,117,0.9916667:113.0|69,95,0.9916667:113.0|48,123,2.9916666:114.0|60,104,0.9916667:115.0|64,97,0.9916667:115.0|67,112,0.9916667:115.0|60,100,0.9916667:116.0|64,92,0.9916667:116.0|67,108,0.9916667:116.0|48,127,2.9916666:117.0|64,108,0.9916667:118.0|67,98,0.9916667:118.0|72,83,0.9916667:118.0|64,99,0.9916667:119.0|67,117,0.9916667:119.0|72,86,0.9916667:119.0|52,127,2.9916666:120.0|62,108,0.9916667:121.0|65,115,0.9916667:121.0|62,95,0.9916667:122.0|65,111,0.9916667:122.0|52,127,2.9916666:123.0|59,102,0.9916667:124.0|62,118,0.9916667:124.0|65,114,0.9916667:124.0|59,107,0.9916667:125.0|62,104,0.9916667:125.0|65,108,0.9916667:125.0|45,127,2.9916666:126.0|60,98,0.9916667:127.0|64,110,0.9916667:127.0|69,118,0.9916667:127.0|60,111,0.9916667:128.0|64,102,0.9916667:128.0|69,103,0.9916667:128.0|45,127,2.9916666:129.0|60,107,0.9916667:130.0|64,98,0.9916667:130.0|69,95,0.9916667:130.0|60,113,0.9916667:131.0|64,108,0.9916667:131.0|69,103,0.9916667:131.0|52,127,2.9916666:132.0|59,109,0.9916667:133.0|64,104,0.9916667:133.0|68,105,0.9916667:133.0|59,106,0.9916667:134.0|64,96,0.9916667:134.0|68,104,0.9916667:134.0|52,127,2.9916666:135.0|62,90,0.9916667:136.0|65,104,0.9916667:136.0|69,90,0.9916667:136.0|62,94,0.9916667:137.0|65,106,0.9916667:137.0|69,93,0.9916667:137.0|45,127,2.9916666:138.0|60,103,0.9916667:139.0|64,107,0.9916667:139.0|69,100,0.9916667:139.0|60,97,0.9916667:140.0|64,101,0.9916667:140.0|69,95,0.9916667:140.0|45,127,2.9916666:141.0|60,105,0.9916667:142.0|64,89,0.9916667:142.0|69,92,0.9916667:142.0|60,111,0.9916667:143.0|64,100,0.9916667:143.0|69,95,0.9916667:143.0|50,127,2.9916666:144.0|62,103,0.9916667:145.0|65,106,0.9916667:145.0|69,92,0.9916667:145.0|62,93,0.9916667:146.0|65,108,0.9916667:146.0|69,93,0.9916667:146.0|52,127,2.9916666:147.0|62,103,0.9916667:148.0|64,108,0.9916667:148.0|68,94,0.9916667:148.0|62,94,0.9916667:149.0|64,111,0.9916667:149.0|68,90,0.9916667:149.0|45,127,2.9916666:150.0|60,102,0.9916667:151.0|64,118,0.9916667:151.0|69,95,0.9916667:151.0|60,95,0.9916667:152.0|64,101,0.9916667:152.0|69,87,0.9916667:152.0|45,127,2.9916666:153.0|57,103,0.9916667:154.0|64,113,0.9916667:154.0|69,120,0.9916667:154.0|57,92,0.9916667:155.0|64,102,0.9916667:155.0|69,113,0.9916667:155.0|62,103,0.9916667:157.0|65,111,0.9916667:157.0|69,108,0.9916667:157.0|62,84,0.9916667:158.0|65,105,0.9916667:158.0|69,102,0.9916667:158.0|62,94,0.9916667:160.0|65,109,0.9916667:160.0|69,96,0.9916667:160.0|62,89,0.9916667:161.0|65,117,0.9916667:161.0|69,95,0.9916667:161.0|48,123,2.9916666:162.0|60,104,0.9916667:163.0|64,97,0.9916667:163.0|67,112,0.9916667:163.0|60,100,0.9916667:164.0|64,92,0.9916667:164.0|67,108,0.9916667:164.0|48,127,2.9916666:165.0|64,108,0.9916667:166.0|67,98,0.9916667:166.0|72,83,0.9916667:166.0|64,99,0.9916667:167.0|67,117,0.9916667:167.0|72,86,0.9916667:167.0|52,127,2.9916666:168.0|62,108,0.9916667:169.0|65,115,0.9916667:169.0|62,95,0.9916667:170.0|65,111,0.9916667:170.0|52,127,2.9916666:171.0|59,102,0.9916667:172.0|62,118,0.9916667:172.0|65,114,0.9916667:172.0|59,107,0.9916667:173.0|62,104,0.9916667:173.0|65,108,0.9916667:173.0|45,127,2.9916666:174.0|60,98,0.9916667:175.0|64,110,0.9916667:175.0|69,118,0.9916667:175.0|60,111,0.9916667:176.0|64,102,0.9916667:176.0|69,103,0.9916667:176.0|45,127,2.9916666:177.0|60,107,0.9916667:178.0|64,98,0.9916667:178.0|69,95,0.9916667:178.0|60,113,0.9916667:179.0|64,108,0.9916667:179.0|69,103,0.9916667:179.0|52,127,2.9916666:180.0|59,109,0.9916667:181.0|64,104,0.9916667:181.0|68,105,0.9916667:181.0|59,106,0.9916667:182.0|64,96,0.9916667:182.0|68,104,0.9916667:182.0|52,127,2.9916666:183.0|62,90,0.9916667:184.0|65,104,0.9916667:184.0|69,90,0.9916667:184.0|62,94,0.9916667:185.0|65,106,0.9916667:185.0|69,93,0.9916667:185.0|45,127,2.9916666:186.0|60,103,0.9916667:187.0|64,107,0.9916667:187.0|69,100,0.9916667:187.0|60,97,0.9916667:188.0|64,101,0.9916667:188.0|69,95,0.9916667:188.0|45,127,2.9916666:189.0|60,105,0.9916667:190.0|64,89,0.9916667:190.0|69,92,0.9916667:190.0|60,111,0.9916667:191.0|64,100,0.9916667:191.0|69,95,0.9916667:191.0|50,127,2.9916666:192.0|62,103,0.9916667:193.0|65,106,0.9916667:193.0|69,92,0.9916667:193.0|62,93,0.9916667:194.0|65,108,0.9916667:194.0|69,93,0.9916667:194.0|52,127,2.9916666:195.0|62,103,0.9916667:196.0|64,108,0.9916667:196.0|68,94,0.9916667:196.0|62,94,0.9916667:197.0|64,111,0.9916667:197.0|68,90,0.9916667:197.0|45,127,2.9916666:198.0|60,102,0.9916667:199.0|64,118,0.9916667:199.0|69,95,0.9916667:199.0|60,95,0.9916667:200.0|64,101,0.9916667:200.0|69,87,0.9916667:200.0|45,127,2.9916666:201.0|52,127,2.9916666:396.0|62,98,0.9916667:397.0|64,125,0.9916667:397.0|68,111,0.9916667:397.0|62,96,0.9916667:398.0|64,120,0.9916667:398.0|68,106,0.9916667:398.0|52,127,2.9916666:399.0|62,109,0.9916667:400.0|64,124,0.9916667:400.0|68,121,0.9916667:400.0|62,111,0.9916667:401.0|64,120,0.9916667:401.0|68,122,0.9916667:401.0|52,127,2.9916666:402.0|62,107,0.9916667:403.0|64,127,0.9916667:403.0|68,70,0.9916667:403.0|71,111,0.9916667:403.0|62,99,0.9916667:404.0|64,127,0.9916667:404.0|68,115,0.9916667:404.0|71,94,0.9916667:404.0|52,127,2.9916666:405.0|62,104,0.9916667:406.0|64,127,0.9916667:406.0|68,114,0.9916667:406.0|71,86,0.9916667:406.0|62,98,0.9916667:407.0|64,127,0.9916667:407.0|68,116,0.9916667:407.0|71,105,0.9916667:407.0|45,127,2.9916666:408.0|64,99,0.9916667:409.0|69,112,0.9916667:409.0|72,94,0.9916667:409.0|64,97,0.9916667:410.0|69,125,0.9916667:410.0|72,101,0.9916667:410.0|45,127,2.9916666:411.0|64,105,0.9916667:412.0|69,124,0.9916667:412.0|72,96,0.9916667:412.0|64,108,0.9916667:413.0|69,125,0.9916667:413.0|72,103,0.9916667:413.0|45,127,2.9916666:414.0|60,92,0.9916667:415.0|64,127,0.9916667:415.0|69,107,0.9916667:415.0|60,92,0.9916667:416.0|64,115,0.9916667:416.0|69,103,0.9916667:416.0|45,127,2.9916666:417.0|64,88,0.9916667:418.0|69,120,0.9916667:418.0|72,97,0.9916667:418.0|64,91,0.9916667:419.0|69,122,0.9916667:419.0|72,92,0.9916667:419.0|50,127,2.9916666:420.0|62,80,0.9916667:421.0|65,113,0.9916667:421.0|69,102,0.9916667:421.0|62,91,0.9916667:422.0|65,118,0.9916667:422.0|69,108,0.9916667:422.0|50,127,2.9916666:423.0|62,120,0.9916667:424.0|65,127,0.9916667:424.0|69,127,0.9916667:424.0|62,109,0.9916667:425.0|65,127,0.9916667:425.0|69,124,0.9916667:425.0|45,127,2.9916666:426.0|64,99,0.9916667:427.0|69,125,0.9916667:427.0|72,107,0.9916667:427.0|64,93,0.9916667:428.0|69,121,0.9916667:428.0|72,91,0.9916667:428.0|45,127,2.9916666:429.0|64,99,0.9916667:430.0|69,113,0.9916667:430.0|72,96,0.9916667:430.0|64,90,0.9916667:431.0|69,113,0.9916667:431.0|72,101,0.9916667:431.0|52,127,2.9916666:432.0|64,110,0.9916667:433.0|68,113,0.9916667:433.0|71,114,0.9916667:433.0|64,112,0.9916667:434.0|68,108,0.9916667:434.0|71,112,0.9916667:434.0|52,127,2.9916666:435.0|62,94,0.9916667:436.0|64,120,0.9916667:436.0|68,100,0.9916667:436.0|62,97,0.9916667:437.0|64,108,0.9916667:437.0|68,101,0.9916667:437.0|45,127,2.9916666:438.0|60,80,0.9916667:439.0|64,117,0.9916667:439.0|69,96,0.9916667:439.0|60,86,0.9916667:440.0|64,113,0.9916667:440.0|69,88,0.9916667:440.0|45,127,2.9916666:441.0|60,77,0.9916667:442.0|64,98,0.9916667:442.0|69,88,0.9916667:442.0|57,118,0.9916667:443.0|60,115,0.9916667:443.0|64,103,0.9916667:443.0|52,125,2.9916666:444.0|62,97,0.9916667:445.0|64,127,0.9916667:445.0|68,92,0.9916667:445.0|62,94,0.9916667:446.0|64,108,0.9916667:446.0|68,81,0.9916667:446.0|52,127,2.9916666:447.0|62,103,0.9916667:448.0|64,116,0.9916667:448.0|68,103,0.9916667:448.0|62,90,0.9916667:449.0|64,111,0.9916667:449.0|68,106,0.9916667:449.0|52,127,2.9916666:450.0|62,90,0.9916667:451.0|64,113,0.9916667:451.0|68,105,0.9916667:451.0|62,84,0.9916667:452.0|64,108,0.9916667:452.0|68,105,0.9916667:452.0|52,127,2.9916666:453.0|64,94,0.9916667:454.0|68,94,0.9916667:454.0|71,109,0.9916667:454.0|64,97,0.9916667:455.0|68,99,0.9916667:455.0|71,114,0.9916667:455.0|45,127,2.9916666:456.0|64,100,0.9916667:457.0|69,127,0.9916667:457.0|72,95,0.9916667:457.0|64,86,0.9916667:458.0|69,116,0.9916667:458.0|72,88,0.9916667:458.0|45,127,2.9916666:459.0|60,83,0.9916667:460.0|64,118,0.9916667:460.0|69,101,0.9916667:460.0|60,92,0.9916667:461.0|64,111,0.9916667:461.0|69,99,0.9916667:461.0|45,127,2.9916666:462.0|60,88,0.9916667:463.0|64,119,0.9916667:463.0|69,103,0.9916667:463.0|60,82,0.9916667:464.0|64,109,0.9916667:464.0|69,100,0.9916667:464.0|45,127,2.9916666:465.0|64,96,0.9916667:466.0|69,120,0.9916667:466.0|72,91,0.9916667:466.0|64,95,0.9916667:467.0|69,117,0.9916667:467.0|72,96,0.9916667:467.0|50,125,2.9916666:468.0|65,108,0.9916667:469.0|69,119,0.9916667:469.0|71,117,0.9916667:469.0|65,106,0.9916667:470.0|69,108,0.9916667:470.0|71,99,0.9916667:470.0|50,127,2.9916666:471.0|65,101,0.9916667:472.0|69,123,0.9916667:472.0|71,104,0.9916667:472.0|65,100,0.9916667:473.0|69,106,0.9916667:473.0|71,109,0.9916667:473.0|45,127,2.9916666:474.0|64,97,0.9916667:475.0|69,124,0.9916667:475.0|72,94,0.9916667:475.0|64,103,0.9916667:476.0|69,122,0.9916667:476.0|72,93,0.9916667:476.0|45,127,2.9916666:477.0|64,89,0.9916667:478.0|69,111,0.9916667:478.0|72,104,0.9916667:478.0|64,84,0.9916667:479.0|69,113,0.9916667:479.0|72,104,0.9916667:479.0|52,127,2.9916666:480.0|64,95,0.9916667:481.0|68,98,0.9916667:481.0|71,101,0.9916667:481.0|64,97,0.9916667:482.0|68,100,0.9916667:482.0|71,99,0.9916667:482.0|52,127,2.9916666:483.0|64,92,0.9916667:484.0|68,107,0.9916667:484.0|71,112,0.9916667:484.0|64,86,0.9916667:485.0|68,113,0.9916667:485.0|71,112,0.9916667:485.0|45,127,2.9916666:486.0|60,78,0.9916667:487.0|64,111,0.9916667:487.0|69,111,0.9916667:487.0|60,92,0.9916667:488.0|64,124,0.9916667:488.0|69,108,0.9916667:488.0|45,127,2.9916666:489.0|57,103,0.9916667:490.0|64,113,0.9916667:490.0|69,120,0.9916667:490.0|57,92,0.9916667:491.0|64,102,0.9916667:491.0|69,113,0.9916667:491.0|43,127,2.9916666:492.0|62,103,0.9916667:493.0|65,111,0.9916667:493.0|69,108,0.9916667:493.0|62,84,0.9916667:494.0|65,105,0.9916667:494.0|69,102,0.9916667:494.0|43,127,2.9916666:495.0|62,94,0.9916667:496.0|65,109,0.9916667:496.0|69,96,0.9916667:496.0|62,89,0.9916667:497.0|65,117,0.9916667:497.0|69,95,0.9916667:497.0|48,123,2.9916666:498.0|60,104,0.9916667:499.0|64,97,0.9916667:499.0|67,112,0.9916667:499.0|60,100,0.9916667:500.0|64,92,0.9916667:500.0|67,108,0.9916667:500.0|48,127,2.9916666:501.0|64,108,0.9916667:502.0|67,98,0.9916667:502.0|72,83,0.9916667:502.0|64,99,0.9916667:503.0|67,117,0.9916667:503.0|72,86,0.9916667:503.0|52,127,2.9916666:504.0|62,108,0.9916667:505.0|65,115,0.9916667:505.0|62,95,0.9916667:506.0|65,111,0.9916667:506.0|52,127,2.9916666:507.0|59,102,0.9916667:508.0|62,118,0.9916667:508.0|65,114,0.9916667:508.0|59,107,0.9916667:509.0|62,104,0.9916667:509.0|65,108,0.9916667:509.0|45,127,2.9916666:510.0|60,98,0.9916667:511.0|64,110,0.9916667:511.0|69,118,0.9916667:511.0|60,111,0.9916667:512.0|64,102,0.9916667:512.0|69,103,0.9916667:512.0|45,127,2.9916666:513.0|60,107,0.9916667:514.0|64,98,0.9916667:514.0|69,95,0.9916667:514.0|60,113,0.9916667:515.0|64,108,0.9916667:515.0|69,103,0.9916667:515.0|52,127,2.9916666:516.0|59,109,0.9916667:517.0|64,104,0.9916667:517.0|68,105,0.9916667:517.0|59,106,0.9916667:518.0|64,96,0.9916667:518.0|68,104,0.9916667:518.0|52,127,2.9916666:519.0|62,90,0.9916667:520.0|65,104,0.9916667:520.0|69,90,0.9916667:520.0|62,94,0.9916667:521.0|65,106,0.9916667:521.0|69,93,0.9916667:521.0|45,127,2.9916666:522.0|60,103,0.9916667:523.0|64,107,0.9916667:523.0|69,100,0.9916667:523.0|60,97,0.9916667:524.0|64,101,0.9916667:524.0|69,95,0.9916667:524.0|45,127,2.9916666:525.0|60,105,0.9916667:526.0|64,89,0.9916667:526.0|69,92,0.9916667:526.0|60,111,0.9916667:527.0|64,100,0.9916667:527.0|69,95,0.9916667:527.0|50,127,2.9916666:528.0|62,103,0.9916667:529.0|65,106,0.9916667:529.0|69,92,0.9916667:529.0|62,93,0.9916667:530.0|65,108,0.9916667:530.0|69,93,0.9916667:530.0|52,127,2.9916666:531.0|62,103,0.9916667:532.0|64,108,0.9916667:532.0|68,94,0.9916667:532.0|62,94,0.9916667:533.0|64,111,0.9916667:533.0|68,90,0.9916667:533.0|45,127,2.9916666:534.0|60,102,0.9916667:535.0|64,118,0.9916667:535.0|69,95,0.9916667:535.0|60,95,0.9916667:536.0|64,101,0.9916667:536.0|69,87,0.9916667:536.0|45,127,2.9916666:537.0|60,94,0.9916667:538.0|64,101,0.9916667:538.0|69,88,0.9916667:538.0|59,105,0.9916667:539.0|64,105,0.9916667:539.0|69,88,0.9916667:539.0|43,127,2.9916666:540.0|62,103,0.9916667:541.0|65,111,0.9916667:541.0|69,108,0.9916667:541.0|62,84,0.9916667:542.0|65,105,0.9916667:542.0|69,102,0.9916667:542.0|43,127,2.9916666:543.0|62,94,0.9916667:544.0|65,109,0.9916667:544.0|69,96,0.9916667:544.0|62,89,0.9916667:545.0|65,117,0.9916667:545.0|69,95,0.9916667:545.0|48,123,2.9916666:546.0|60,104,0.9916667:547.0|64,97,0.9916667:547.0|67,112,0.9916667:547.0|60,100,0.9916667:548.0|64,92,0.9916667:548.0|67,108,0.9916667:548.0|48,127,2.9916666:549.0|64,108,0.9916667:550.0|67,98,0.9916667:550.0|72,83,0.9916667:550.0|64,99,0.9916667:551.0|67,117,0.9916667:551.0|72,86,0.9916667:551.0|52,127,2.9916666:552.0|62,108,0.9916667:553.0|65,115,0.9916667:553.0|62,95,0.9916667:554.0|65,111,0.9916667:554.0|52,127,2.9916666:555.0|59,102,0.9916667:556.0|62,118,0.9916667:556.0|65,114,0.9916667:556.0|59,107,0.9916667:557.0|62,104,0.9916667:557.0|65,108,0.9916667:557.0|45,127,2.9916666:558.0|60,98,0.9916667:559.0|64,110,0.9916667:559.0|69,118,0.9916667:559.0|60,111,0.9916667:560.0|64,102,0.9916667:560.0|69,103,0.9916667:560.0|45,127,2.9916666:561.0|60,107,0.9916667:562.0|64,98,0.9916667:562.0|69,95,0.9916667:562.0|60,113,0.9916667:563.0|64,108,0.9916667:563.0|69,103,0.9916667:563.0|52,127,2.9916666:564.0|59,109,0.9916667:565.0|64,104,0.9916667:565.0|68,105,0.9916667:565.0|59,106,0.9916667:566.0|64,96,0.9916667:566.0|68,104,0.9916667:566.0|52,127,2.9916666:567.0|62,90,0.9916667:568.0|65,104,0.9916667:568.0|69,90,0.9916667:568.0|62,94,0.9916667:569.0|65,106,0.9916667:569.0|69,93,0.9916667:569.0|45,127,2.9916666:570.0|60,103,0.9916667:571.0|64,107,0.9916667:571.0|69,100,0.9916667:571.0|60,97,0.9916667:572.0|64,101,0.9916667:572.0|69,95,0.9916667:572.0|45,127,2.9916666:573.0|60,105,0.9916667:574.0|64,89,0.9916667:574.0|69,92,0.9916667:574.0|60,111,0.9916667:575.0|64,100,0.9916667:575.0|69,95,0.9916667:575.0|50,127,2.9916666:576.0|62,103,0.9916667:577.0|65,106,0.9916667:577.0|69,92,0.9916667:577.0|62,93,0.9916667:578.0|65,108,0.9916667:578.0|69,93,0.9916667:578.0|52,127,2.9916666:579.0|62,103,0.9916667:580.0|64,108,0.9916667:580.0|68,94,0.9916667:580.0|62,94,0.9916667:581.0|64,111,0.9916667:581.0|68,90,0.9916667:581.0|45,127,2.9916666:582.0|60,102,0.9916667:583.0|64,118,0.9916667:583.0|69,95,0.9916667:583.0|60,95,0.9916667:584.0|64,101,0.9916667:584.0|69,87,0.9916667:584.0|45,127,2.9916666:585.0|60,94,0.9916667:586.0|64,101,0.9916667:586.0|69,88,0.9916667:586.0|59,105,0.9916667:587.0|64,105,0.9916667:587.0|69,88,0.9916667:587.0]</spSaveString>
+        <spSaveString>[0|76,126,3.9916666:11.980568|80,127,0.9916667:15.977878|81,126,0.9916667:16.984072|83,127,3.9916666:17.977692|80,125,1.4916667:22.01676|76,126,0.49166667:23.493053|84,125,3.9916666:24.0124|83,125,0.9916667:27.982777|81,127,0.9916667:28.993887|88,125,4.991667:29.981133|88,126,0.9916667:34.982513|89,125,3.9916666:35.99803|88,124,1.4916667:40.000053|86,126,0.49166667:41.51981|88,127,3.9916666:41.995678|86,127,0.9916667:46.002995|84,127,0.9916667:46.97901|83,127,3.9916666:47.99947|84,124,0.9916667:52.00599|83,127,0.9916667:52.97349|81,127,4.991667:53.98045|76,125,0.9916667:58.973957|76,126,3.9916666:60.008038|80,127,0.9916667:63.999207|81,126,0.9916667:64.979355|83,124,3.9916666:66.0078|80,127,0.9916667:69.984924|76,126,0.9916667:70.98724|84,126,3.9916666:71.96968|83,126,0.9916667:75.99445|81,127,0.9916667:77.019485|88,127,4.9819565:77.99528|88,126,0.9916667:82.977234|89,127,3.9916666:84.01554|88,127,0.9916667:88.001305|86,127,0.9916667:88.99175|88,126,3.9916666:89.99643|86,124,0.9916667:93.976616|84,126,0.9916667:94.98647|83,127,3.9916666:95.98191|84,127,0.9916667:99.987854|83,127,0.9916667:100.99084|81,127,2.9916666:102.03415|83,127,0.49166667:105.0114|84,127,0.49166667:105.50287|86,125,0.49166667:105.99598|88,125,0.49166667:106.491684|89,126,0.49166667:106.999626|91,127,0.49166667:107.50477|93,126,0.9916667:107.98879|93,127,0.9727173:109.002174|93,127,0.9916667:109.97489|93,127,0.97021484:111.00374|93,127,0.9916667:111.97395|93,127,0.98706055:112.98468|93,123,0.9916667:113.97174|91,127,1.4916667:114.982635|90,126,0.49166667:116.48875|91,127,2.9916666:116.971825|89,126,0.9825058:119.99825|89,127,0.9916667:120.98076|89,127,0.9822006:121.9973|89,127,0.9916667:122.9795|89,122,0.9916667:123.98189|89,126,0.96868896:124.99616|89,127,0.9916667:125.96485|88,124,1.4916667:126.99754|87,127,0.49166667:128.4861|88,127,1.9653625:129.00989|88,127,0.9916667:130.97525|86,127,0.98487854:132.00766|86,127,0.9916667:132.99254|86,126,0.9875488:134.01456|86,127,0.9916667:135.0021|86,126,0.9600067:136.00629|86,127,0.9916667:136.9663|86,127,0.9916667:137.99493|84,127,1.4916667:139.0126|83,127,0.49166667:140.4913|81,126,1.9916667:140.97758|93,126,0.9916667:143.00183|89,127,0.9916667:143.98964|86,127,0.9916667:144.99506|83,127,0.9916667:145.97745|84,127,1.9916667:147.00887|83,125,0.9916667:149.00139|81,127,2.8916667:149.91292|83,125,0.49166667:152.98065|84,124,0.49166667:153.4792|86,126,0.49166667:153.99586|88,124,0.49166667:154.49278|89,126,0.49166667:154.98929|91,127,0.49166667:155.47485|93,126,0.97135925:156.00089|93,127,0.9916667:156.97224|93,126,0.9916667:158.0075|93,126,0.9688263:159.00604|93,127,0.9916667:159.97487|93,126,0.9916667:160.99246|93,127,0.9916667:161.99019|91,127,1.4916667:162.98308|90,127,0.49166667:164.48178|91,125,2.9916666:164.99847|89,127,0.9916667:168.01256|89,123,0.97595215:169.01598|89,127,0.9916667:169.99193|89,126,0.9916667:170.9948|89,125,0.97795105:172.01144|89,127,0.9916667:172.9894|89,126,0.9916667:173.99796|88,125,1.4916667:174.99933|87,127,0.49166667:176.48555|88,127,1.9916667:176.98125|88,127,0.9916667:178.98936|86,125,0.9916667:179.99142|86,127,0.9916667:181.00151|86,127,0.9916667:181.99321|86,127,0.9794464:182.99832|86,126,0.9916667:183.97777|86,125,0.9916667:184.9966|86,125,0.9916667:185.98949|84,127,1.4916667:186.99165|83,123,0.49166667:188.51067|81,127,1.9916667:188.98749|93,126,0.9916667:190.98907|89,126,0.9916667:192.01161|86,127,0.9916667:192.9961|83,127,0.9916667:194.00636|84,126,1.9916667:195.00102|83,127,0.9916667:197.01071|81,127,5.2:197.93306|76,127,0.9916667:394.98688|76,126,3.9916666:395.9828|80,126,0.49166667:399.99152|76,127,0.49166667:400.49966|80,126,0.49166667:400.9927|81,127,0.49166667:401.474|83,127,3.9916666:402.00037|80,127,1.4916667:405.98593|76,126,0.49166667:407.50842|84,127,3.4916666:407.99646|83,126,0.49166667:411.46762|81,125,0.49166667:411.9852|83,127,0.49166667:412.5069|84,127,0.49166667:412.995|86,127,0.49166667:413.48413|88,127,3.9916666:413.9989|88,127,0.49166667:417.99203|93,127,0.49166667:417.99313|88,127,0.49166667:419.00085|91,127,0.49166667:419.5049|89,124,3.4916666:419.9972|88,127,0.49166667:423.50266|86,127,0.49166667:423.9904|88,127,0.49166667:424.47873|89,122,0.49166667:424.99472|86,127,0.49166667:425.47333|88,126,3.4916666:426.01065|84,127,0.49166667:429.50357|88,127,0.49166667:430.01288|86,127,0.49166667:430.49292|84,126,0.49166667:431.00848|86,125,0.49166667:431.50964|83,127,3.4916666:432.00208|86,127,0.49166667:435.49875|84,126,0.49166667:436.02408|86,127,0.49166667:436.49725|84,126,0.49166667:437.00046|83,127,0.49166667:437.46402|81,125,4.991667:437.97287|79,125,0.49166667:442.99423|77,123,0.49166667:443.46628|76,127,3.9916666:443.99112|80,127,1.4916667:447.96988|81,127,0.49166667:449.48154|83,126,1.4916667:450.00168|76,127,0.49166667:451.48346|80,126,0.49166667:452.02258|81,127,0.49166667:452.494|83,127,0.9916667:453.02094|80,127,0.9916667:453.99576|76,127,0.9916667:454.99054|84,124,1.4916667:456.0065|83,125,0.49166667:457.52518|81,126,0.49166667:458.01422|83,127,0.49166667:458.4732|84,127,0.9916667:459.00656|83,127,0.9916667:459.99222|81,127,0.9916667:461.01825|88,127,1.4916667:461.9744|86,127,0.49166667:463.49893|84,126,0.49166667:463.9775|86,127,0.49166667:464.49045|88,125,0.49166667:465.01724|84,127,0.49166667:465.49472|81,127,0.49166667:465.99792|84,127,0.49166667:466.4783|88,127,0.49166667:467.00455|91,127,0.49166667:467.4755|89,127,1.4916667:467.9928|91,127,0.49166667:469.4815|93,127,0.49166667:469.99744|91,125,0.49166667:470.4657|89,127,0.9916667:470.98984|88,127,0.9916667:472.00327|86,125,0.9916667:472.99808|88,125,1.4916667:473.98962|86,124,0.49166667:475.48813|84,127,0.49166667:475.98093|86,127,0.49166667:476.51138|88,127,0.9916667:476.9899|86,126,0.9916667:477.99158|84,127,0.9916667:478.97922|83,127,0.49166667:480.0046|84,125,0.49166667:480.49475|86,123,0.49166667:480.9899|84,122,0.49166667:481.50037|83,127,0.49166667:482.00415|84,127,0.49166667:482.4969|83,127,0.9916667:482.97516|84,126,0.9916667:483.98526|83,127,0.9916667:485.02295|81,127,2.9916666:485.91733|83,125,0.49166667:488.99463|84,127,0.49166667:489.51083|86,127,0.49166667:489.99136|88,126,0.49166667:490.48944|89,126,0.49166667:491.00177|91,124,0.49166667:491.50418|93,127,0.9916667:491.9817|93,125,0.9916667:492.9922|93,127,0.9897461:493.99298|93,123,0.9916667:494.98273|93,127,0.9916667:495.98804|93,125,0.9874573:497.01553|93,127,0.9916667:498.003|91,127,1.4916667:499.0084|90,126,0.49166667:500.49222|91,127,2.9916666:501.00317|89,127,0.97717285:504.01993|89,126,0.9897156:504.9971|89,127,0.9916667:505.98682|89,127,0.98291016:506.99188|89,127,0.9916667:507.9748|89,127,0.9916667:508.96796|89,127,0.9916667:509.99844|88,127,1.4916667:510.98782|87,127,0.49166667:512.50195|88,126,1.9813843:513.00446|88,127,0.9916667:514.98584|86,127,0.9916667:515.97797|86,127,0.97717285:516.9856|86,126,0.9916667:517.96277|86,126,0.9916667:518.988|86,125,0.97229004:520.00226|86,126,0.9916667:520.97455|86,126,0.9916667:521.9889|84,127,1.4916667:522.96594|83,126,0.49166667:524.4791|81,127,1.9916667:524.9818|93,127,0.9916667:526.9939|89,127,0.9916667:528.0069|86,127,0.9916667:529.01276|83,127,0.9916667:529.9876|84,125,1.9916667:530.99304|83,125,0.9916667:532.9998|81,127,2.9333334:534.01404|83,126,0.49166667:536.9814|84,127,0.49166667:537.49384|86,126,0.49166667:537.9978|88,127,0.49166667:538.48474|89,127,0.49166667:538.9926|91,127,0.49166667:539.5069|93,123,0.9916667:539.9688|93,127,0.9874878:541.0035|93,127,0.9916667:541.99097|93,127,0.9916667:542.98395|93,127,0.9909668:544.00397|93,127,0.9916667:544.99493|93,127,0.9916667:545.9942|91,124,1.4916667:546.9684|90,127,0.49166667:548.51056|91,125,2.9916666:549.0118|89,124,0.9916667:551.9851|89,124,0.9916667:552.99274|89,127,0.9916667:554.0055|89,127,0.9916667:555.00446|89,127,0.9916667:555.9996|89,126,0.9916667:557.00476|89,126,0.9916667:557.99963|88,126,1.4916667:558.9782|87,127,0.49166667:560.5037|88,127,1.9916667:560.9885|88,126,0.9916667:562.99255|86,127,0.9779053:563.9836|86,125,0.9916667:564.9615|86,125,0.9916667:565.9715|86,127,0.9916667:566.9781|86,127,0.9916667:567.9884|86,124,0.98413086:569.0116|86,127,0.9916667:569.9957|84,126,1.4916667:570.983|83,125,0.49166667:572.4802|81,125,1.9916667:572.9678|93,127,0.9916667:574.9786|89,127,0.9916667:576.0125|86,126,0.9916667:576.9792|83,125,0.9916667:578.0147|84,127,1.9916667:578.9993|83,127,0.9916667:580.9904|81,127,5.491667:582.02|81,124,0.48333332:588.24524|80,127,0.49166667:588.70996|81,125,0.5:589.19946|84,125,0.5:589.70465|88,127,0.48333332:590.19806|91,127,0.48333332:590.70496|93,125,2.9916666:591.1916|84,127,3.0:594.1987|88,127,3.0:594.2015|81,127,3.0:594.2078|93,126,3.0:594.2217]</spSaveString>
       </Phrase>
     </entry>
   </spMapUserPhrases>
   <spClientPropertiesV3>
     <properties>
       <entry>
+        <string>PropCompactViewModeVisibleRps_JazzWaltzMed.S351.sst-ID</string>
+        <string>rpVariationID,rpIntensityID,RpFillID</string>
+      </entry>
+      <entry>
+        <string>NoteEditorScoreOctaveTransposition#8</string>
+        <string>0</string>
+      </entry>
+      <entry>
         <string>PropClEditorZoomFactorY</string>
         <string>50</string>
       </entry>
       <entry>
         <string>PropSsEditorZoomFactorX</string>
-        <string>0</string>
+        <string>2</string>
       </entry>
       <entry>
         <string>PropCompactViewModeVisibleRps_YamJJazzRhythmProviderID___16beat.S556.yjz-ID___3/4</string>
         <string>rpVariationID,rpIntensityID,RpFillID</string>
+      </entry>
+      <entry>
+        <string>NoteEditorScoreOctaveTransposition#0</string>
+        <string>-2</string>
       </entry>
       <entry>
         <string>PropCompactViewModeVisibleRps_TradWaltz 180.T083.sty-ID</string>

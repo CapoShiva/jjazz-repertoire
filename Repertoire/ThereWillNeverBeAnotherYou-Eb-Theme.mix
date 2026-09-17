@@ -2,8 +2,8 @@
   <spVERSION>5</spVERSION>
   <spInsMixes>
     <InstrumentMix resolves-to="InstrumentMixSP" spVERSION="2" spInsEnabled="true" spMute="false">
-      <spIns resolves-to="InstrumentSP" spVERSION="2" spSaveString="FluidSynth#:#NOT_SET#_#GM Bank#_#Jazz Guitar" spPatchname="Jazz Guitar"/>
-      <spInsSettings resolves-to="InstrumentSettingsSP" spVERSION="2" spTransposition="0" spVelocityShift="0" spVolume="77">
+      <spIns resolves-to="InstrumentSP" spVERSION="2" spSaveString="FluidSynth#:#NOT_SET#_#GM Bank#_#Tenor Sax" spPatchname="Tenor Sax"/>
+      <spInsSettings resolves-to="InstrumentSettingsSP" spVERSION="2" spTransposition="0" spVelocityShift="0" spVolume="100">
         <spPanoramic>64</spPanoramic>
         <spReverb>20</spReverb>
         <spChorus>8</spChorus>
@@ -22,9 +22,9 @@
     <null/>
     <InstrumentMix resolves-to="InstrumentMixSP" spVERSION="2" spInsEnabled="true" spMute="false">
       <spIns resolves-to="InstrumentSP" spVERSION="2" spSaveString="FluidSynth#:#NOT_SET#_#Drums#_#Jazz Kit" spPatchname="Jazz Kit"/>
-      <spInsSettings resolves-to="InstrumentSettingsSP" spVERSION="2" spTransposition="0" spVelocityShift="0" spVolume="65">
-        <spPanoramic>64</spPanoramic>
-        <spReverb>25</spReverb>
+      <spInsSettings resolves-to="InstrumentSettingsSP" spVERSION="2" spTransposition="0" spVelocityShift="0" spVolume="62">
+        <spPanoramic>89</spPanoramic>
+        <spReverb>20</spReverb>
         <spChorus>8</spChorus>
         <spPanoramicEnabled>true</spPanoramicEnabled>
         <spReverbEnabled>true</spReverbEnabled>
@@ -34,9 +34,9 @@
     </InstrumentMix>
     <InstrumentMix resolves-to="InstrumentMixSP" spVERSION="2" spInsEnabled="true" spMute="false">
       <spIns reference="../../InstrumentMix[2]/spIns"/>
-      <spInsSettings resolves-to="InstrumentSettingsSP" spVERSION="2" spTransposition="0" spVelocityShift="0" spVolume="88">
+      <spInsSettings resolves-to="InstrumentSettingsSP" spVERSION="2" spTransposition="0" spVelocityShift="0" spVolume="85">
         <spPanoramic>64</spPanoramic>
-        <spReverb>26</spReverb>
+        <spReverb>29</spReverb>
         <spChorus>8</spChorus>
         <spPanoramicEnabled>true</spPanoramicEnabled>
         <spReverbEnabled>true</spReverbEnabled>
@@ -46,10 +46,10 @@
     </InstrumentMix>
     <InstrumentMix resolves-to="InstrumentMixSP" spVERSION="2" spInsEnabled="true" spMute="false">
       <spIns resolves-to="InstrumentSP" spVERSION="2" spSaveString="FluidSynth#:#NOT_SET#_#GM Bank#_#Fingered Bass" spPatchname="Fingered Bass"/>
-      <spInsSettings resolves-to="InstrumentSettingsSP" spVERSION="2" spTransposition="0" spVelocityShift="0" spVolume="66">
+      <spInsSettings resolves-to="InstrumentSettingsSP" spVERSION="2" spTransposition="0" spVelocityShift="0" spVolume="71">
         <spPanoramic>64</spPanoramic>
         <spReverb>0</spReverb>
-        <spChorus>8</spChorus>
+        <spChorus>18</spChorus>
         <spPanoramicEnabled>true</spPanoramicEnabled>
         <spReverbEnabled>true</spReverbEnabled>
         <spChorusEnabled>true</spChorusEnabled>
@@ -57,35 +57,34 @@
       </spInsSettings>
     </InstrumentMix>
     <InstrumentMix resolves-to="InstrumentMixSP" spVERSION="2" spInsEnabled="true" spMute="false">
-      <spIns resolves-to="InstrumentSP" spVERSION="2" spSaveString="FluidSynth#:#NOT_SET#_#GM Bank#_#Clean Guitar" spPatchname="Clean Guitar"/>
-      <spInsSettings resolves-to="InstrumentSettingsSP" spVERSION="2" spTransposition="0" spVelocityShift="0" spVolume="46">
-        <spPanoramic>92</spPanoramic>
-        <spReverb>0</spReverb>
-        <spChorus>8</spChorus>
+      <spIns resolves-to="InstrumentSP" spVERSION="2" spSaveString="FluidSynth#:#NOT_SET#_#GM Bank#_#Nylon Guitar" spPatchname="Nylon Guitar"/>
+      <spInsSettings resolves-to="InstrumentSettingsSP" spVERSION="2" spTransposition="0" spVelocityShift="0" spVolume="58">
+        <spPanoramic>39</spPanoramic>
+        <spReverb>42</spReverb>
+        <spChorus>22</spChorus>
         <spPanoramicEnabled>true</spPanoramicEnabled>
         <spReverbEnabled>true</spReverbEnabled>
         <spChorusEnabled>true</spChorusEnabled>
         <spVolumeEnabled>true</spVolumeEnabled>
       </spInsSettings>
     </InstrumentMix>
-    <InstrumentMix resolves-to="InstrumentMixSP" spVERSION="2" spInsEnabled="true" spMute="false">
-      <spIns reference="../../InstrumentMix/spIns"/>
-      <spInsSettings resolves-to="InstrumentSettingsSP" spVERSION="2" spTransposition="0" spVelocityShift="0" spVolume="24">
-        <spPanoramic>36</spPanoramic>
-        <spReverb>0</spReverb>
-        <spChorus>33</spChorus>
-        <spPanoramicEnabled>true</spPanoramicEnabled>
-        <spReverbEnabled>true</spReverbEnabled>
-        <spChorusEnabled>true</spChorusEnabled>
-        <spVolumeEnabled>true</spVolumeEnabled>
-      </spInsSettings>
-    </InstrumentMix>
-    <null/>
     <InstrumentMix resolves-to="InstrumentMixSP" spVERSION="2" spInsEnabled="true" spMute="false">
       <spIns resolves-to="InstrumentSP" spVERSION="2" spSaveString="FluidSynth#:#NOT_SET#_#GM Bank#_#Grand Piano" spPatchname="Grand Piano"/>
-      <spInsSettings resolves-to="InstrumentSettingsSP" spVERSION="2" spTransposition="0" spVelocityShift="0" spVolume="43">
-        <spPanoramic>100</spPanoramic>
-        <spReverb>37</spReverb>
+      <spInsSettings resolves-to="InstrumentSettingsSP" spVERSION="2" spTransposition="0" spVelocityShift="0" spVolume="60">
+        <spPanoramic>90</spPanoramic>
+        <spReverb>29</spReverb>
+        <spChorus>0</spChorus>
+        <spPanoramicEnabled>true</spPanoramicEnabled>
+        <spReverbEnabled>true</spReverbEnabled>
+        <spChorusEnabled>true</spChorusEnabled>
+        <spVolumeEnabled>true</spVolumeEnabled>
+      </spInsSettings>
+    </InstrumentMix>
+    <InstrumentMix resolves-to="InstrumentMixSP" spVERSION="2" spInsEnabled="true" spMute="false">
+      <spIns resolves-to="InstrumentSP" spVERSION="2" spSaveString="FluidSynth#:#NOT_SET#_#GM Bank#_#Slow Strings" spPatchname="Slow Strings"/>
+      <spInsSettings resolves-to="InstrumentSettingsSP" spVERSION="2" spTransposition="0" spVelocityShift="0" spVolume="46">
+        <spPanoramic>64</spPanoramic>
+        <spReverb>70</spReverb>
         <spChorus>8</spChorus>
         <spPanoramicEnabled>true</spPanoramicEnabled>
         <spReverbEnabled>true</spReverbEnabled>
@@ -93,7 +92,30 @@
         <spVolumeEnabled>true</spVolumeEnabled>
       </spInsSettings>
     </InstrumentMix>
-    <null/>
+    <InstrumentMix resolves-to="InstrumentMixSP" spVERSION="2" spInsEnabled="true" spMute="false">
+      <spIns resolves-to="InstrumentSP" spVERSION="2" spSaveString="FluidSynth#:#NOT_SET#_#GM Bank#_#Flute" spPatchname="Flute"/>
+      <spInsSettings resolves-to="InstrumentSettingsSP" spVERSION="2" spTransposition="0" spVelocityShift="0" spVolume="69">
+        <spPanoramic>52</spPanoramic>
+        <spReverb>0</spReverb>
+        <spChorus>8</spChorus>
+        <spPanoramicEnabled>true</spPanoramicEnabled>
+        <spReverbEnabled>true</spReverbEnabled>
+        <spChorusEnabled>true</spChorusEnabled>
+        <spVolumeEnabled>true</spVolumeEnabled>
+      </spInsSettings>
+    </InstrumentMix>
+    <InstrumentMix resolves-to="InstrumentMixSP" spVERSION="2" spInsEnabled="true" spMute="false">
+      <spIns resolves-to="InstrumentSP" spVERSION="2" spSaveString="FluidSynth#:#NOT_SET#_#GM Bank#_#Trombone" spPatchname="Trombone"/>
+      <spInsSettings resolves-to="InstrumentSettingsSP" spVERSION="2" spTransposition="0" spVelocityShift="0" spVolume="55">
+        <spPanoramic>86</spPanoramic>
+        <spReverb>44</spReverb>
+        <spChorus>8</spChorus>
+        <spPanoramicEnabled>true</spPanoramicEnabled>
+        <spReverbEnabled>true</spReverbEnabled>
+        <spChorusEnabled>true</spChorusEnabled>
+        <spVolumeEnabled>true</spVolumeEnabled>
+      </spInsSettings>
+    </InstrumentMix>
   </spInsMixes>
   <spKeys>
     <RvStorage>
@@ -108,30 +130,36 @@
     <null/>
     <null/>
     <RvStorage>
-      <rhythmId>Swing1.S737.bcs-ID</rhythmId>
+      <rhythmId>BossaNova2.S469.prs-ID</rhythmId>
       <rvName>SubRhythm</rvName>
     </RvStorage>
     <RvStorage>
-      <rhythmId>Swing1.S737.bcs-ID</rhythmId>
+      <rhythmId>BossaNova2.S469.prs-ID</rhythmId>
       <rvName>Rhythm</rvName>
     </RvStorage>
     <RvStorage>
-      <rhythmId>Swing1.S737.bcs-ID</rhythmId>
+      <rhythmId>BossaNova2.S469.prs-ID</rhythmId>
       <rvName>Bass</rvName>
     </RvStorage>
     <RvStorage>
-      <rhythmId>Swing1.S737.bcs-ID</rhythmId>
+      <rhythmId>BossaNova2.S469.prs-ID</rhythmId>
       <rvName>Chord1</rvName>
     </RvStorage>
     <RvStorage>
-      <rhythmId>Swing1.S737.bcs-ID</rhythmId>
+      <rhythmId>BossaNova2.S469.prs-ID</rhythmId>
       <rvName>Chord2</rvName>
     </RvStorage>
-    <null/>
     <RvStorage>
-      <rhythmId>Swing1.S737.bcs-ID</rhythmId>
+      <rhythmId>BossaNova2.S469.prs-ID</rhythmId>
+      <rvName>Pad</rvName>
+    </RvStorage>
+    <RvStorage>
+      <rhythmId>BossaNova2.S469.prs-ID</rhythmId>
       <rvName>Phrase1</rvName>
     </RvStorage>
-    <null/>
+    <RvStorage>
+      <rhythmId>BossaNova2.S469.prs-ID</rhythmId>
+      <rvName>Phrase2</rvName>
+    </RvStorage>
   </spKeys>
 </MidiMix>
