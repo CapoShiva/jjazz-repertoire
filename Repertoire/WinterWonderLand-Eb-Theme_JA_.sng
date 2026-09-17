@@ -1,19 +1,13 @@
-<Song resolves-to="SongSP" spName="WinterWonderLand-Eb_JA_" spTempo="116">
+<Song resolves-to="SongSP" spName="WinterWonderLand-Eb-Theme_JA_" spTempo="144">
   <spVERSION>4</spVERSION>
   <spComments>Edit me...</spComments>
   <spTags/>
   <spChordLeadSheet class="ChordLeadSheetImpl" resolves-to="ChordLeadSheetImplSP">
-    <spVERSION>2</spVERSION>
+    <spVERSION>3</spVERSION>
     <spItems>
       <CLI__SectionImpl resolves-to="CLI_SectionImplSP" spName="Intro" spTs="FOUR_FOUR" spBarIndex="0">
-        <spVERSION>3</spVERSION>
+        <spVERSION>4</spVERSION>
         <spClientProperties>
-          <properties>
-            <entry>
-              <string>PropSectionQuantization</string>
-              <string>ONE_QUARTER_BEAT</string>
-            </entry>
-          </properties>
           <owner class="CLI_SectionImpl" reference="../.."/>
         </spClientProperties>
       </CLI__SectionImpl>
@@ -137,14 +131,8 @@
         </spClientProperties>
       </CLI__ChordSymbolImpl>
       <CLI__SectionImpl resolves-to="CLI_SectionImplSP" spName="A1" spTs="FOUR_FOUR" spBarIndex="4">
-        <spVERSION>3</spVERSION>
+        <spVERSION>4</spVERSION>
         <spClientProperties>
-          <properties>
-            <entry>
-              <string>PropSectionQuantization</string>
-              <string>HALF_BEAT</string>
-            </entry>
-          </properties>
           <owner class="CLI_SectionImpl" reference="../.."/>
         </spClientProperties>
       </CLI__SectionImpl>
@@ -351,14 +339,8 @@
         </spClientProperties>
       </CLI__ChordSymbolImpl>
       <CLI__SectionImpl resolves-to="CLI_SectionImplSP" spName="A2" spTs="FOUR_FOUR" spBarIndex="12">
-        <spVERSION>3</spVERSION>
+        <spVERSION>4</spVERSION>
         <spClientProperties>
-          <properties>
-            <entry>
-              <string>PropSectionQuantization</string>
-              <string>ONE_QUARTER_BEAT</string>
-            </entry>
-          </properties>
           <owner class="CLI_SectionImpl" reference="../.."/>
         </spClientProperties>
       </CLI__SectionImpl>
@@ -493,14 +475,8 @@
         </spClientProperties>
       </CLI__ChordSymbolImpl>
       <CLI__SectionImpl resolves-to="CLI_SectionImplSP" spName="B" spTs="FOUR_FOUR" spBarIndex="20">
-        <spVERSION>3</spVERSION>
+        <spVERSION>4</spVERSION>
         <spClientProperties>
-          <properties>
-            <entry>
-              <string>PropSectionQuantization</string>
-              <string>ONE_THIRD_BEAT</string>
-            </entry>
-          </properties>
           <owner class="CLI_SectionImpl" reference="../.."/>
         </spClientProperties>
       </CLI__SectionImpl>
@@ -742,14 +718,8 @@
         </spClientProperties>
       </CLI__ChordSymbolImpl>
       <CLI__SectionImpl resolves-to="CLI_SectionImplSP" spName="A3" spTs="FOUR_FOUR" spBarIndex="28">
-        <spVERSION>3</spVERSION>
+        <spVERSION>4</spVERSION>
         <spClientProperties>
-          <properties>
-            <entry>
-              <string>PropSectionQuantization</string>
-              <string>ONE_THIRD_BEAT</string>
-            </entry>
-          </properties>
           <owner class="CLI_SectionImpl" reference="../.."/>
         </spClientProperties>
       </CLI__SectionImpl>
@@ -878,14 +848,8 @@
         </spClientProperties>
       </CLI__ChordSymbolImpl>
       <CLI__SectionImpl resolves-to="CLI_SectionImplSP" spName="A + Coda" spTs="FOUR_FOUR" spBarIndex="36">
-        <spVERSION>3</spVERSION>
+        <spVERSION>4</spVERSION>
         <spClientProperties>
-          <properties>
-            <entry>
-              <string>PropSectionQuantization</string>
-              <string>ONE_THIRD_BEAT</string>
-            </entry>
-          </properties>
           <owner class="CLI_SectionImpl" reference="../.."/>
         </spClientProperties>
       </CLI__SectionImpl>
@@ -1187,11 +1151,11 @@
     <spSize>48</spSize>
   </spChordLeadSheet>
   <spSongStructure class="SongStructureImpl" resolves-to="SongStructureImplSP">
-    <spVERSION>2</spVERSION>
+    <spVERSION>3</spVERSION>
     <spSpts>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="70s Swing Piano.T281.prs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="0" spName="Intro" spNbBars="4">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="EasyAcJazz.T157.STY-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="0" spName="Intro" spNbBars="4">
         <spVERSION>3</spVERSION>
-        <spRhythmName>70s Swing Piano.T281.prs</spRhythmName>
+        <spRhythmName>EasyAcJazz.T157.STY</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1222,6 +1186,10 @@
             <string>theme</string>
           </entry>
           <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
             <string>RpFillID</string>
             <string>break</string>
           </entry>
@@ -1231,9 +1199,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="70s Swing Piano.T281.prs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="4" spName="Chorus 1" spNbBars="8">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="EasyAcJazz.T157.STY-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="4" spName="Chorus 1" spNbBars="8">
         <spVERSION>3</spVERSION>
-        <spRhythmName>70s Swing Piano.T281.prs</spRhythmName>
+        <spRhythmName>EasyAcJazz.T157.STY</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[2]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1264,6 +1232,10 @@
             <string>theme</string>
           </entry>
           <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
             <string>RpFillID</string>
             <string>always</string>
           </entry>
@@ -1273,9 +1245,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="70s Swing Piano.T281.prs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="12" spName="Chorus 1" spNbBars="8">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="EasyAcJazz.T157.STY-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="12" spName="Chorus 1" spNbBars="8">
         <spVERSION>3</spVERSION>
-        <spRhythmName>70s Swing Piano.T281.prs</spRhythmName>
+        <spRhythmName>EasyAcJazz.T157.STY</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[3]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1306,6 +1278,10 @@
             <string>theme</string>
           </entry>
           <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
             <string>RpFillID</string>
             <string>always</string>
           </entry>
@@ -1315,9 +1291,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="70s Swing Piano.T281.prs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="20" spName="Chorus 1" spNbBars="8">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="EasyAcJazz.T157.STY-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="20" spName="Chorus 1" spNbBars="8">
         <spVERSION>3</spVERSION>
-        <spRhythmName>70s Swing Piano.T281.prs</spRhythmName>
+        <spRhythmName>EasyAcJazz.T157.STY</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[4]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1348,6 +1324,10 @@
             <string>theme</string>
           </entry>
           <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
             <string>RpFillID</string>
             <string>always</string>
           </entry>
@@ -1357,9 +1337,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="70s Swing Piano.T281.prs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="28" spName="Chorus 1" spNbBars="8">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="EasyAcJazz.T157.STY-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="28" spName="Chorus 1" spNbBars="8">
         <spVERSION>3</spVERSION>
-        <spRhythmName>70s Swing Piano.T281.prs</spRhythmName>
+        <spRhythmName>EasyAcJazz.T157.STY</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[5]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1390,6 +1370,10 @@
             <string>theme</string>
           </entry>
           <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
             <string>RpFillID</string>
             <string>break</string>
           </entry>
@@ -1399,9 +1383,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="70s Swing Piano.T281.prs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="36" spName="Chorus 2" spNbBars="8">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="EasyAcJazz.T157.STY-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="36" spName="Chorus 2" spNbBars="8">
         <spVERSION>3</spVERSION>
-        <spRhythmName>70s Swing Piano.T281.prs</spRhythmName>
+        <spRhythmName>EasyAcJazz.T157.STY</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[2]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1432,6 +1416,10 @@
             <string>theme</string>
           </entry>
           <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
             <string>RpFillID</string>
             <string></string>
           </entry>
@@ -1441,9 +1429,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="70s Swing Piano.T281.prs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="44" spName="Chorus 2" spNbBars="8">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="EasyAcJazz.T157.STY-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="44" spName="Chorus 2" spNbBars="8">
         <spVERSION>3</spVERSION>
-        <spRhythmName>70s Swing Piano.T281.prs</spRhythmName>
+        <spRhythmName>EasyAcJazz.T157.STY</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[3]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1474,6 +1462,10 @@
             <string>theme</string>
           </entry>
           <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
             <string>RpFillID</string>
             <string>always</string>
           </entry>
@@ -1483,9 +1475,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="70s Swing Piano.T281.prs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="52" spName="Chorus 2" spNbBars="8">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="EasyAcJazz.T157.STY-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="52" spName="Chorus 2" spNbBars="8">
         <spVERSION>3</spVERSION>
-        <spRhythmName>70s Swing Piano.T281.prs</spRhythmName>
+        <spRhythmName>EasyAcJazz.T157.STY</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[4]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1516,6 +1508,10 @@
             <string>theme</string>
           </entry>
           <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
             <string>RpFillID</string>
             <string>always</string>
           </entry>
@@ -1525,9 +1521,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="70s Swing Piano.T281.prs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="60" spName="Chorus 2" spNbBars="8">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="EasyAcJazz.T157.STY-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="60" spName="Chorus 2" spNbBars="8">
         <spVERSION>3</spVERSION>
-        <spRhythmName>70s Swing Piano.T281.prs</spRhythmName>
+        <spRhythmName>EasyAcJazz.T157.STY</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[5]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1558,6 +1554,10 @@
             <string>theme</string>
           </entry>
           <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
             <string>RpFillID</string>
             <string>always</string>
           </entry>
@@ -1567,9 +1567,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="70s Swing Piano.T281.prs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="68" spName="Chorus 3" spNbBars="8">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="EasyAcJazz.T157.STY-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="68" spName="Chorus 3" spNbBars="8">
         <spVERSION>3</spVERSION>
-        <spRhythmName>70s Swing Piano.T281.prs</spRhythmName>
+        <spRhythmName>EasyAcJazz.T157.STY</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[2]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1600,6 +1600,10 @@
             <string>theme</string>
           </entry>
           <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
             <string>RpFillID</string>
             <string></string>
           </entry>
@@ -1609,9 +1613,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="70s Swing Piano.T281.prs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="76" spName="Chorus 3" spNbBars="8">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="EasyAcJazz.T157.STY-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="76" spName="Chorus 3" spNbBars="8">
         <spVERSION>3</spVERSION>
-        <spRhythmName>70s Swing Piano.T281.prs</spRhythmName>
+        <spRhythmName>EasyAcJazz.T157.STY</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[3]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1642,6 +1646,10 @@
             <string>theme</string>
           </entry>
           <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
             <string>RpFillID</string>
             <string>always</string>
           </entry>
@@ -1651,9 +1659,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="70s Swing Piano.T281.prs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="84" spName="Chorus 3" spNbBars="8">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="EasyAcJazz.T157.STY-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="84" spName="Chorus 3" spNbBars="8">
         <spVERSION>3</spVERSION>
-        <spRhythmName>70s Swing Piano.T281.prs</spRhythmName>
+        <spRhythmName>EasyAcJazz.T157.STY</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[4]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1684,6 +1692,10 @@
             <string>theme</string>
           </entry>
           <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
             <string>RpFillID</string>
             <string>always</string>
           </entry>
@@ -1693,9 +1705,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="70s Swing Piano.T281.prs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="92" spName="Chorus 3" spNbBars="8">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="EasyAcJazz.T157.STY-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="92" spName="Chorus 3" spNbBars="8">
         <spVERSION>3</spVERSION>
-        <spRhythmName>70s Swing Piano.T281.prs</spRhythmName>
+        <spRhythmName>EasyAcJazz.T157.STY</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[5]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1726,6 +1738,10 @@
             <string>theme</string>
           </entry>
           <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
             <string>RpFillID</string>
             <string>break</string>
           </entry>
@@ -1735,9 +1751,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="70s Swing Piano.T281.prs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="100" spName="Chorus 4" spNbBars="8">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="EasyAcJazz.T157.STY-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="100" spName="Chorus 4" spNbBars="8">
         <spVERSION>3</spVERSION>
-        <spRhythmName>70s Swing Piano.T281.prs</spRhythmName>
+        <spRhythmName>EasyAcJazz.T157.STY</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[2]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1768,6 +1784,10 @@
             <string>theme</string>
           </entry>
           <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
             <string>RpFillID</string>
             <string>always</string>
           </entry>
@@ -1777,9 +1797,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="70s Swing Piano.T281.prs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="108" spName="Chorus 4" spNbBars="8">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="EasyAcJazz.T157.STY-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="108" spName="Chorus 4" spNbBars="8">
         <spVERSION>3</spVERSION>
-        <spRhythmName>70s Swing Piano.T281.prs</spRhythmName>
+        <spRhythmName>EasyAcJazz.T157.STY</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[3]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1810,6 +1830,10 @@
             <string>theme</string>
           </entry>
           <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
             <string>RpFillID</string>
             <string>always</string>
           </entry>
@@ -1819,9 +1843,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="70s Swing Piano.T281.prs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="116" spName="Chorus 4" spNbBars="8">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="EasyAcJazz.T157.STY-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="116" spName="Chorus 4" spNbBars="8">
         <spVERSION>3</spVERSION>
-        <spRhythmName>70s Swing Piano.T281.prs</spRhythmName>
+        <spRhythmName>EasyAcJazz.T157.STY</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[4]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1852,6 +1876,10 @@
             <string>theme</string>
           </entry>
           <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
             <string>RpFillID</string>
             <string>always</string>
           </entry>
@@ -1861,9 +1889,9 @@
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="70s Swing Piano.T281.prs-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="124" spName="Chorus 4" spNbBars="12">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="EasyAcJazz.T157.STY-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="124" spName="Chorus 4" spNbBars="12">
         <spVERSION>3</spVERSION>
-        <spRhythmName>70s Swing Piano.T281.prs</spRhythmName>
+        <spRhythmName>EasyAcJazz.T157.STY</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[6]"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -1894,6 +1922,10 @@
             <string>theme</string>
           </entry>
           <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
             <string>RpFillID</string>
             <string>break</string>
           </entry>
@@ -1905,11 +1937,11 @@
       </SongPartImpl>
     </spSpts>
     <spParentCls class="ChordLeadSheetImpl" reference="../../spChordLeadSheet"/>
-    <spKeepUpdated>true</spKeepUpdated>
+    <spKeepUpdated>false</spKeepUpdated>
   </spSongStructure>
   <spMapUserPhrases>
     <entry>
-      <string>User1</string>
+      <string>Lead</string>
       <Phrase resolves-to="PhraseSP" spVERSION="2">
         <spSaveString>[0|70,117,0.13541667:15.036458|70,111,0.114583336:15.703125|70,122,2.4895833:16.036459|70,115,0.16666667:19.036459|70,106,0.16666667:19.703125|67,113,0.8645833:20.036459|70,115,1.4375:21.036459|70,117,0.16666667:23.036459|70,104,0.15625:23.703125|70,118,2.53125:24.036459|70,117,0.1875:27.036459|70,108,0.17708333:27.703125|68,115,0.7916667:28.036459|70,110,1.7708334:29.036459|70,96,0.19791667:31.703125|74,127,0.26041666:32.036457|74,126,0.16666667:32.703125|74,127,0.20833333:33.036457|72,124,1.3333334:33.703125|72,112,0.15625:35.703125|70,126,0.20833333:36.036457|70,110,0.15625:36.703125|70,125,0.25:37.036457|68,122,1.2604166:37.703125|68,101,0.15625:39.703125|67,123,0.25:40.036457|67,113,0.16666667:40.703125|67,127,0.21875:41.036457|67,109,0.17708333:41.703125|65,118,0.21875:42.036457|65,108,0.16666667:42.703125|65,127,0.23958333:43.036457|65,106,0.15625:43.703125|63,118,1.9479166:44.036457|70,125,0.16666667:47.036457|70,113,0.15625:47.703125|70,127,2.4895833:48.036457|70,125,0.1875:51.036457|70,105,0.16666667:51.703125|67,118,1.09375:52.036457|70,103,1.3333334:53.036457|70,116,0.17708333:55.036457|70,105,0.15625:55.703125|70,122,2.40625:56.036457|70,122,0.19791667:59.036457|70,106,0.15625:59.703125|68,121,0.5104167:60.036457|70,117,1.9270834:61.036457|70,96,0.14583333:63.703125|74,124,0.19791667:64.03646|74,116,0.17708333:64.703125|74,127,0.19791667:65.03646|72,112,1.34375:65.703125|72,115,0.16666667:67.703125|70,126,0.21875:68.03646|70,107,0.17708333:68.703125|70,119,0.22916667:69.03646|68,123,1.3854166:69.703125|68,100,0.16666667:71.703125|67,122,0.20833333:72.03646|67,112,0.16666667:72.703125|67,124,0.22916667:73.03646|67,109,0.17708333:73.703125|65,110,0.23958333:74.03646|65,106,0.15625:74.703125|65,117,0.25:75.03646|65,101,0.16666667:75.703125|63,112,2.7291667:76.03646|62,115,0.20833333:80.03646|62,102,0.22916667:80.703125|71,119,0.19791667:81.03646|71,105,0.19791667:81.703125|64,112,0.20833333:82.03646|64,100,0.27083334:82.703125|72,119,0.19791667:83.03646|72,108,0.15625:83.703125|71,122,0.6875:84.03646|67,119,2.03125:85.03646|62,114,0.23958333:88.03646|62,104,0.23958333:88.703125|71,116,0.22916667:89.03646|71,104,0.23958333:89.703125|64,104,0.22916667:90.03646|64,102,0.32291666:90.703125|72,120,0.23958333:91.03646|72,102,0.15625:91.703125|71,119,2.9583333:92.03646|65,113,0.23958333:96.03646|65,106,0.27083334:96.703125|70,122,0.22916667:97.03646|70,105,0.27083334:97.703125|67,117,0.22916667:98.03646|67,106,0.27083334:98.703125|75,127,0.20833333:99.03646|75,108,0.17708333:99.703125|74,127,0.7604167:100.03646|70,127,1.4270834:101.03646|70,122,0.6458333:103.03646|74,113,0.23958333:104.03646|74,114,0.30208334:104.703125|70,115,0.22916667:105.03646|70,103,0.34375:105.703125|72,119,0.21875:106.03646|72,108,0.32291666:106.703125|65,107,0.22916667:107.03646|65,102,0.19791667:107.703125|70,122,2.1354167:108.03646|70,119,0.16666667:111.03646|70,106,0.14583333:111.703125|70,122,1.8541666:112.02604|70,122,0.1875:115.03646|70,103,0.19791667:115.703125|67,114,0.5:116.03646|70,123,1.2604166:117.03646|70,123,0.16666667:119.03646|70,127,0.14583333:119.703125|70,126,2.0416667:120.03646|70,115,0.20833333:123.03646|70,115,0.1875:123.703125|68,118,0.6875:124.03646|70,127,1.6145834:125.03646|70,101,0.1875:127.703125|74,127,0.20833333:128.03645|74,115,0.15625:128.70312|74,127,0.17708333:129.03645|72,127,1.1979166:129.70312|72,123,0.15625:131.70312|70,126,0.1875:132.03645|70,113,0.14583333:132.70312|70,123,0.19791667:133.03645|68,119,1.2708334:133.70312|68,100,0.16666667:135.70312|67,118,0.17708333:136.03645|67,108,0.13541667:136.70312|67,127,0.19791667:137.03645|67,108,0.17708333:137.70312|65,121,0.1875:138.03645|65,106,0.15625:138.70312|65,127,0.20833333:139.03645|65,108,0.16666667:139.70312|63,123,2.9895833:140.03645|70,117,0.13541667:398.9479|70,111,0.114583336:399.6146|70,122,2.4895833:399.9479|70,115,0.16666667:402.9479|70,106,0.16666667:403.6146|67,113,0.8645833:403.9479|70,115,1.4375:404.9479|70,117,0.16666667:406.9479|70,104,0.15625:407.6146|70,118,2.53125:407.9479|70,117,0.1875:410.9479|70,108,0.17708333:411.6146|68,115,0.7916667:411.9479|70,110,1.7708334:412.9479|70,96,0.19791667:415.6146|74,127,0.26041666:415.9479|74,126,0.16666667:416.6146|74,127,0.20833333:416.9479|72,124,1.3333334:417.6146|72,112,0.15625:419.6146|70,126,0.20833333:419.9479|70,110,0.15625:420.6146|70,125,0.25:420.9479|68,122,1.2604166:421.6146|68,101,0.15625:423.6146|67,123,0.25:423.9479|67,113,0.16666667:424.6146|67,127,0.21875:424.9479|67,109,0.17708333:425.6146|65,118,0.21875:425.9479|65,108,0.16666667:426.6146|65,127,0.23958333:426.9479|65,106,0.15625:427.6146|63,118,1.9479166:427.9479|70,125,0.16666667:430.9479|70,113,0.15625:431.6146|70,127,2.4895833:431.9479|70,125,0.1875:434.9479|70,105,0.16666667:435.6146|67,118,1.09375:435.9479|70,103,1.3333334:436.9479|70,116,0.17708333:438.9479|70,105,0.15625:439.6146|70,122,2.40625:439.9479|70,122,0.19791667:442.9479|70,106,0.15625:443.6146|68,121,0.5104167:443.9479|70,117,1.9270834:444.9479|70,96,0.14583333:447.6146|74,124,0.19791667:447.9479|74,116,0.17708333:448.6146|74,127,0.19791667:448.9479|72,112,1.34375:449.6146|72,115,0.16666667:451.6146|70,126,0.21875:451.9479|70,107,0.17708333:452.6146|70,119,0.22916667:452.9479|68,123,1.3854166:453.6146|68,100,0.16666667:455.6146|67,122,0.20833333:455.9479|67,112,0.16666667:456.6146|67,124,0.22916667:456.9479|67,109,0.17708333:457.6146|65,110,0.23958333:457.9479|65,106,0.15625:458.6146|65,117,0.25:458.9479|65,101,0.16666667:459.6146|63,112,2.7291667:459.9479|62,115,0.20833333:463.9479|62,102,0.22916667:464.6146|71,119,0.19791667:464.9479|71,105,0.19791667:465.6146|64,112,0.20833333:465.9479|64,100,0.27083334:466.6146|72,119,0.19791667:466.9479|72,108,0.15625:467.6146|71,122,0.6875:467.9479|67,119,2.03125:468.9479|62,114,0.23958333:471.9479|62,104,0.23958333:472.6146|71,116,0.22916667:472.9479|71,104,0.23958333:473.6146|64,104,0.22916667:473.9479|64,102,0.32291666:474.6146|72,120,0.23958333:474.9479|72,102,0.15625:475.6146|71,119,2.9583333:475.9479|65,113,0.23958333:479.9479|65,106,0.27083334:480.6146|70,122,0.22916667:480.9479|70,105,0.27083334:481.6146|67,117,0.22916667:481.9479|67,106,0.27083334:482.6146|75,127,0.20833333:482.9479|75,108,0.17708333:483.6146|74,127,0.7604167:483.9479|70,127,1.4270834:484.9479|70,122,0.6458333:486.9479|74,113,0.23958333:487.9479|74,114,0.30208334:488.6146|70,115,0.22916667:488.9479|70,103,0.34375:489.6146|72,119,0.21875:489.9479|72,108,0.32291666:490.6146|65,107,0.22916667:490.9479|65,102,0.19791667:491.6146|70,122,2.1354167:491.9479|70,119,0.16666667:494.9479|70,106,0.14583333:495.6146|70,122,1.8541666:495.9375|70,122,0.1875:498.9479|70,103,0.19791667:499.6146|67,114,0.5:499.9479|70,123,1.2604166:500.9479|70,123,0.16666667:502.9479|70,127,0.14583333:503.6146|70,126,2.0416667:503.9479|70,115,0.20833333:506.9479|70,115,0.1875:507.6146|68,118,0.6875:507.9479|70,127,1.6145834:508.9479|70,101,0.1875:511.6146|74,127,0.20833333:511.9479|74,115,0.15625:512.61456|74,127,0.17708333:512.94794|72,127,1.1979166:513.61456|72,123,0.15625:515.61456|70,126,0.1875:515.94794|70,113,0.14583333:516.61456|70,123,0.19791667:516.94794|68,119,1.2708334:517.61456|68,100,0.16666667:519.61456|67,118,0.17708333:519.94794|67,108,0.13541667:520.61456|67,127,0.19791667:520.94794|67,108,0.17708333:521.61456|65,121,0.1875:521.94794|65,106,0.15625:522.61456|65,127,0.20833333:522.94794|65,108,0.16666667:523.61456|63,123,2.9895833:523.94794]</spSaveString>
       </Phrase>
@@ -1926,12 +1958,20 @@
         <string>rpVariationID,rpIntensityID,RpFillID</string>
       </entry>
       <entry>
+        <string>PropCompactViewModeVisibleRps_jjSwing-ID</string>
+        <string>rpVariationID,BassStyleId,DrumsStyleId,RpFillID</string>
+      </entry>
+      <entry>
         <string>PropCompactViewModeVisibleRps_70s Swing Piano.T281.prs-ID</string>
         <string>rpVariationID,rpIntensityID,RpFillID</string>
       </entry>
       <entry>
+        <string>PropCompactViewModeVisibleRps_EasyAcJazz.T157.STY-ID</string>
+        <string>rpVariationID,rpIntensityID,RpFillID</string>
+      </entry>
+      <entry>
         <string>PropSsEditorZoomFactorX</string>
-        <string>4</string>
+        <string>6</string>
       </entry>
     </properties>
     <owner class="Song" reference="../.."/>
