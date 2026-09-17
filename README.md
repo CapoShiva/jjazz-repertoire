@@ -2,31 +2,20 @@
 
 A collection of jazz standards generated using [JJazzLab](https://www.jjazzlab.org/en/).
 
-This repository serves as a personal archive and a resource for practicing improvisation and harmony.
-
 ## 🎷 About This Repo
 
 This repository contains lead sheets and musical data created with [JJazzLab](https://www.jjazzlab.org/en/). These files are intended to help with:
   - Learning new jazz standards.
   - Practicing improvisation over various chord progressions.
   - Analyzing harmonic movements in the jazz tradition.
-  - Currently most songs are using styles from a hardware synth.
 
 Note: Please note that the accuracy and musical quality of these files may vary.
-
-## ⚙️ TODO
-
-  - Standardize all songs.
-  - Use default styles.
-  - Set the right instruments for FluidSynth.
-
-    **Al the songs that start with A,B,C,D,E,F,G,H,I,J and K are done**
 
 ## 🛠️ How to Use
 
 1. Clone this repository to your local machine or click green **Code** button and then Download ZIP.
 2. Open the files using [JJazzLab](https://www.jjazzlab.org/en/) software.
-3. Adjust the instruments to taste.
+3. Adjust style, instruments and parameters to taste.
 4. Happy practicing!
 
 ## ⚠️ Disclaimer
