@@ -1,6 +1,19 @@
 <Song resolves-to="SongSP" spName="AliceInWonderLand-C-Theme" spTempo="180">
   <spVERSION>4</spVERSION>
-  <spComments>Edit me...</spComments>
+  <spComments>Year: 	1951
+Composer: 	Sammy Fain
+Lyricist: 	Bob Hilliard
+Form: 	32-bar AABA (jazz waltz, 3/4 time)
+Key: 	G major (original), C major (jazz standard version)
+
+Written as the theme song for Walt Disney&apos;s 1951
+animated film Alice in Wonderland, this composition
+became a jazz standard through iconic recordings by 
+Bill Evans, Oscar Peterson, and Dave Brubeck.
+The waltz&apos;s distinctive &quot;dreamy&quot; quality and spirited
+3/4 feel perfectly capture the whimsical nature of
+Carroll&apos;s classic tale, making it one of the most
+beloved ballads in the jazz repertoire.</spComments>
   <spTags/>
   <spChordLeadSheet class="ChordLeadSheetImpl" resolves-to="ChordLeadSheetImplSP">
     <spVERSION>3</spVERSION>
@@ -325,7 +338,16 @@
       </CLI__SectionImpl>
       <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
         <spVERSION>3</spVERSION>
-        <spChord reference="../../CLI__ChordSymbolImpl/spChord"/>
+        <spChord resolves-to="ExtChordSymbolSP" spName="Dm7" spOriginalName="Dm7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
+              <null/>
+            </ChordRenderingInfoSP>
+          </spRenderingInfo>
+        </spChord>
         <spPos resolves-to="PositionSP" spVERSION="2" spPos="[16:0]"/>
         <spClientProperties>
           <owner class="CLI_ChordSymbolImpl" reference="../.."/>
@@ -806,7 +828,7 @@
       </CLI__SectionImpl>
       <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
         <spVERSION>3</spVERSION>
-        <spChord reference="../../CLI__ChordSymbolImpl/spChord"/>
+        <spChord reference="../../CLI__ChordSymbolImpl[19]/spChord"/>
         <spPos resolves-to="PositionSP" spVERSION="2" spPos="[48:0]"/>
         <spClientProperties>
           <owner class="CLI_ChordSymbolImpl" reference="../.."/>

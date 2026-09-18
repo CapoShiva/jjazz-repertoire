@@ -1,6 +1,20 @@
-<Song resolves-to="SongSP" spName="AllBlues-Theme" spTempo="108">
+<Song resolves-to="SongSP" spName="AllBlues-G-Theme" spTempo="108">
   <spVERSION>4</spVERSION>
-  <spComments>Link channel 6 to Drums to make it work</spComments>
+  <spComments>Year: 	1959
+Composer: 	Miles Davis
+Lyricist: 	None — instrumental
+Form: 	12-bar blues
+Key: 	G minor
+
+Recorded during the sessions for Miles Davis&apos;s
+landmark album Kind of Blue, &quot;All Blues&quot; is a modal
+blues that showcases the album&apos;s revolutionary
+approach to improvisation based on scales rather
+than chord changes. The piece features a distinctive
+samba-influenced rhythm and the interplay between
+Davis&apos;s trumpet and Cannonball Adderley&apos;s alto
+saxophone, becoming one of the most recorded
+and recognizable jazz compositions ever written.</spComments>
   <spTags/>
   <spChordLeadSheet class="ChordLeadSheetImpl" resolves-to="ChordLeadSheetImplSP">
     <spVERSION>3</spVERSION>
@@ -87,7 +101,16 @@
       </CLI__ChordSymbolImpl>
       <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
         <spVERSION>3</spVERSION>
-        <spChord reference="../../CLI__ChordSymbolImpl/spChord"/>
+        <spChord resolves-to="ExtChordSymbolSP" spName="G7" spOriginalName="G7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
+              <null/>
+            </ChordRenderingInfoSP>
+          </spRenderingInfo>
+        </spChord>
         <spPos resolves-to="PositionSP" spVERSION="2" spPos="[2:0]"/>
         <spClientProperties>
           <owner class="CLI_ChordSymbolImpl" reference="../.."/>
@@ -119,7 +142,7 @@
       </CLI__ChordSymbolImpl>
       <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
         <spVERSION>3</spVERSION>
-        <spChord reference="../../CLI__ChordSymbolImpl/spChord"/>
+        <spChord reference="../../CLI__ChordSymbolImpl[5]/spChord"/>
         <spPos resolves-to="PositionSP" spVERSION="2" spPos="[4:0]"/>
         <spClientProperties>
           <owner class="CLI_ChordSymbolImpl" reference="../.."/>
@@ -151,7 +174,7 @@
       </CLI__ChordSymbolImpl>
       <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
         <spVERSION>3</spVERSION>
-        <spChord reference="../../CLI__ChordSymbolImpl/spChord"/>
+        <spChord reference="../../CLI__ChordSymbolImpl[5]/spChord"/>
         <spPos resolves-to="PositionSP" spVERSION="2" spPos="[6:0]"/>
         <spClientProperties>
           <owner class="CLI_ChordSymbolImpl" reference="../.."/>
@@ -484,7 +507,7 @@
       </CLI__ChordSymbolImpl>
       <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
         <spVERSION>3</spVERSION>
-        <spChord reference="../../CLI__ChordSymbolImpl/spChord"/>
+        <spChord reference="../../CLI__ChordSymbolImpl[5]/spChord"/>
         <spPos resolves-to="PositionSP" spVERSION="2" spPos="[20:0]"/>
         <spClientProperties>
           <owner class="CLI_ChordSymbolImpl" reference="../.."/>
@@ -516,7 +539,7 @@
       </CLI__ChordSymbolImpl>
       <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
         <spVERSION>3</spVERSION>
-        <spChord reference="../../CLI__ChordSymbolImpl/spChord"/>
+        <spChord reference="../../CLI__ChordSymbolImpl[5]/spChord"/>
         <spPos resolves-to="PositionSP" spVERSION="2" spPos="[22:0]"/>
         <spClientProperties>
           <owner class="CLI_ChordSymbolImpl" reference="../.."/>
@@ -652,7 +675,7 @@
       </CLI__ChordSymbolImpl>
       <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
         <spVERSION>3</spVERSION>
-        <spChord reference="../../CLI__ChordSymbolImpl/spChord"/>
+        <spChord reference="../../CLI__ChordSymbolImpl[5]/spChord"/>
         <spPos resolves-to="PositionSP" spVERSION="2" spPos="[36:0]"/>
         <spClientProperties>
           <owner class="CLI_ChordSymbolImpl" reference="../.."/>
@@ -684,7 +707,7 @@
       </CLI__ChordSymbolImpl>
       <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
         <spVERSION>3</spVERSION>
-        <spChord reference="../../CLI__ChordSymbolImpl/spChord"/>
+        <spChord reference="../../CLI__ChordSymbolImpl[5]/spChord"/>
         <spPos resolves-to="PositionSP" spVERSION="2" spPos="[38:0]"/>
         <spClientProperties>
           <owner class="CLI_ChordSymbolImpl" reference="../.."/>
@@ -722,7 +745,7 @@
       </CLI__SectionImpl>
       <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
         <spVERSION>3</spVERSION>
-        <spChord reference="../../CLI__ChordSymbolImpl/spChord"/>
+        <spChord reference="../../CLI__ChordSymbolImpl[5]/spChord"/>
         <spPos resolves-to="PositionSP" spVERSION="2" spPos="[40:0]"/>
         <spClientProperties>
           <owner class="CLI_ChordSymbolImpl" reference="../.."/>
@@ -754,7 +777,7 @@
       </CLI__ChordSymbolImpl>
       <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
         <spVERSION>3</spVERSION>
-        <spChord reference="../../CLI__ChordSymbolImpl/spChord"/>
+        <spChord reference="../../CLI__ChordSymbolImpl[5]/spChord"/>
         <spPos resolves-to="PositionSP" spVERSION="2" spPos="[42:0]"/>
         <spClientProperties>
           <owner class="CLI_ChordSymbolImpl" reference="../.."/>
@@ -786,7 +809,7 @@
       </CLI__ChordSymbolImpl>
       <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
         <spVERSION>3</spVERSION>
-        <spChord reference="../../CLI__ChordSymbolImpl/spChord"/>
+        <spChord reference="../../CLI__ChordSymbolImpl[5]/spChord"/>
         <spPos resolves-to="PositionSP" spVERSION="2" spPos="[44:0]"/>
         <spClientProperties>
           <owner class="CLI_ChordSymbolImpl" reference="../.."/>
@@ -818,7 +841,7 @@
       </CLI__ChordSymbolImpl>
       <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
         <spVERSION>3</spVERSION>
-        <spChord reference="../../CLI__ChordSymbolImpl/spChord"/>
+        <spChord reference="../../CLI__ChordSymbolImpl[5]/spChord"/>
         <spPos resolves-to="PositionSP" spVERSION="2" spPos="[46:0]"/>
         <spClientProperties>
           <owner class="CLI_ChordSymbolImpl" reference="../.."/>
@@ -850,7 +873,7 @@
       </CLI__ChordSymbolImpl>
       <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
         <spVERSION>3</spVERSION>
-        <spChord reference="../../CLI__ChordSymbolImpl/spChord"/>
+        <spChord reference="../../CLI__ChordSymbolImpl[5]/spChord"/>
         <spPos resolves-to="PositionSP" spVERSION="2" spPos="[48:0]"/>
         <spClientProperties>
           <owner class="CLI_ChordSymbolImpl" reference="../.."/>
