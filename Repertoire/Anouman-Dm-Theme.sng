@@ -1,6 +1,21 @@
 <Song resolves-to="SongSP" spName="Anouman-Dm-Theme" spTempo="60">
   <spVERSION>4</spVERSION>
-  <spComments>Edit me...</spComments>
+  <spComments>Year:	1950
+Composer:	Django Reinhardt
+Lyricist:	None — instrumental
+Form:	32-bar AABA
+Style:	Parisian jazz ballad / swing
+Key:	D minor
+
+“Anouman” is a late-period composition by
+Django Reinhardt, recorded around 1950 and
+associated with his more reflective, melodic style
+after the height of the Quintette of the Hot Club of
+France. The title is often glossed as “a new man”;
+it can also be referred as Hanuman, the monkey god,
+exact publication details are sparse, and the key may
+vary by transcription, although D minor is the
+commonly cited tonal center.</spComments>
   <spTags/>
   <spChordLeadSheet class="ChordLeadSheetImpl" resolves-to="ChordLeadSheetImplSP">
     <spVERSION>3</spVERSION>
@@ -81,7 +96,16 @@
       </CLI__ChordSymbolImpl>
       <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
         <spVERSION>3</spVERSION>
-        <spChord reference="../../CLI__ChordSymbolImpl/spChord"/>
+        <spChord resolves-to="ExtChordSymbolSP" spName="Dm" spOriginalName="Dm">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
+              <null/>
+            </ChordRenderingInfoSP>
+          </spRenderingInfo>
+        </spChord>
         <spPos resolves-to="PositionSP" spVERSION="2" spPos="[2:0]"/>
         <spClientProperties>
           <owner class="CLI_ChordSymbolImpl" reference="../.."/>
@@ -239,7 +263,7 @@
       </CLI__SectionImpl>
       <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
         <spVERSION>3</spVERSION>
-        <spChord reference="../../CLI__ChordSymbolImpl/spChord"/>
+        <spChord reference="../../CLI__ChordSymbolImpl[5]/spChord"/>
         <spPos resolves-to="PositionSP" spVERSION="2" spPos="[8:0]"/>
         <spClientProperties>
           <owner class="CLI_ChordSymbolImpl" reference="../.."/>
@@ -271,7 +295,7 @@
       </CLI__ChordSymbolImpl>
       <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
         <spVERSION>3</spVERSION>
-        <spChord reference="../../CLI__ChordSymbolImpl/spChord"/>
+        <spChord reference="../../CLI__ChordSymbolImpl[5]/spChord"/>
         <spPos resolves-to="PositionSP" spVERSION="2" spPos="[10:0]"/>
         <spClientProperties>
           <owner class="CLI_ChordSymbolImpl" reference="../.."/>
@@ -538,7 +562,7 @@
       </CLI__SectionImpl>
       <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
         <spVERSION>3</spVERSION>
-        <spChord reference="../../CLI__ChordSymbolImpl/spChord"/>
+        <spChord reference="../../CLI__ChordSymbolImpl[5]/spChord"/>
         <spPos resolves-to="PositionSP" spVERSION="2" spPos="[24:0]"/>
         <spClientProperties>
           <owner class="CLI_ChordSymbolImpl" reference="../.."/>
@@ -570,7 +594,7 @@
       </CLI__ChordSymbolImpl>
       <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
         <spVERSION>3</spVERSION>
-        <spChord reference="../../CLI__ChordSymbolImpl/spChord"/>
+        <spChord reference="../../CLI__ChordSymbolImpl[5]/spChord"/>
         <spPos resolves-to="PositionSP" spVERSION="2" spPos="[26:0]"/>
         <spClientProperties>
           <owner class="CLI_ChordSymbolImpl" reference="../.."/>
@@ -1426,7 +1450,7 @@
       </entry>
       <entry>
         <string>PropSsEditorZoomFactorX</string>
-        <string>6</string>
+        <string>10</string>
       </entry>
       <entry>
         <string>PropViewMode</string>

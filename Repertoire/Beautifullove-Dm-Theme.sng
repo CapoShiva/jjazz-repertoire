@@ -1,6 +1,20 @@
 <Song resolves-to="SongSP" spName="Beautifullove-Dm-Theme" spTempo="144">
   <spVERSION>4</spVERSION>
-  <spComments>Imported from file Beautiful Love.Mgu</spComments>
+  <spComments>Year:	1931
+Composer:	Wayne King, Victor Young,
+	and Egbert Van Alstyne
+Lyricist:	Haven Gillespie
+Form:	32-bar AB
+Style:	Ballad
+Key:	D minor
+
+“Beautiful Love” was introduced by the Wayne King
+Orchestra in 1931 and later became a widely played
+jazz standard, especially through recordings by
+Bill Evans and other modern-jazz musicians. Its
+official music credit includes three composers,
+while Haven Gillespie wrote the lyrics; D minor is
+the key most commonly used in jazz arrangements. </spComments>
   <spTags/>
   <spChordLeadSheet class="ChordLeadSheetImpl" resolves-to="ChordLeadSheetImplSP">
     <spVERSION>3</spVERSION>
@@ -714,7 +728,16 @@
       </CLI__ChordSymbolImpl>
       <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
         <spVERSION>3</spVERSION>
-        <spChord reference="../../CLI__ChordSymbolImpl[27]/spChord"/>
+        <spChord resolves-to="ExtChordSymbolSP" spName="Dm" spOriginalName="Dm">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
+              <null/>
+            </ChordRenderingInfoSP>
+          </spRenderingInfo>
+        </spChord>
         <spPos resolves-to="PositionSP" spVERSION="2" spPos="[44:0]"/>
         <spClientProperties>
           <owner class="CLI_ChordSymbolImpl" reference="../.."/>
@@ -1907,7 +1930,7 @@
       </entry>
       <entry>
         <string>PropSsEditorZoomFactorX</string>
-        <string>2</string>
+        <string>4</string>
       </entry>
       <entry>
         <string>PropCompactViewModeVisibleRps_New.S837.sty-ID</string>

@@ -3,7 +3,8 @@
   <spComments>Year: 	1959
 Composer: 	Miles Davis
 Lyricist: 	None — instrumental
-Form: 	12-bar blues
+Form: 	32-bar AABA
+Style:	Jazz Waltz
 Key: 	G minor
 
 Recorded during the sessions for Miles Davis&apos;s
@@ -651,7 +652,16 @@ and recognizable jazz compositions ever written.</spComments>
       </CLI__SectionImpl>
       <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
         <spVERSION>3</spVERSION>
-        <spChord reference="../../CLI__ChordSymbolImpl[42]/spChord"/>
+        <spChord resolves-to="ExtChordSymbolSP" spName="D7" spOriginalName="D7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
+              <null/>
+            </ChordRenderingInfoSP>
+          </spRenderingInfo>
+        </spChord>
         <spPos resolves-to="PositionSP" spVERSION="2" spPos="[32:0]"/>
         <spClientProperties>
           <owner class="CLI_ChordSymbolImpl" reference="../.."/>
@@ -2005,7 +2015,7 @@ and recognizable jazz compositions ever written.</spComments>
       </entry>
       <entry>
         <string>PropSsEditorZoomFactorX</string>
-        <string>2</string>
+        <string>4</string>
       </entry>
       <entry>
         <string>PropViewMode</string>

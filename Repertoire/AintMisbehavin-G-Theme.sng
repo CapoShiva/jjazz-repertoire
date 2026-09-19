@@ -4,6 +4,7 @@
 Composer: 	Thomas &quot;Fats&quot; Waller and Harry Brooks
 Lyricist: 	Andy Razaf
 Form: 	32-bar AABA
+Style:	Swing
 Key: 	E-flat major (or C major in some editions)
 
 Written for the Broadway musical revue Connie&apos;s
@@ -301,7 +302,16 @@ popular recording success from 1929 onward.</spComments>
       </CLI__SectionImpl>
       <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
         <spVERSION>3</spVERSION>
-        <spChord reference="../../CLI__ChordSymbolImpl/spChord"/>
+        <spChord resolves-to="ExtChordSymbolSP" spName="G7" spOriginalName="G7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
+              <null/>
+            </ChordRenderingInfoSP>
+          </spRenderingInfo>
+        </spChord>
         <spPos resolves-to="PositionSP" spVERSION="2" spPos="[8:0]"/>
         <spClientProperties>
           <owner class="CLI_ChordSymbolImpl" reference="../.."/>
@@ -471,7 +481,7 @@ popular recording success from 1929 onward.</spComments>
       </CLI__SectionImpl>
       <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
         <spVERSION>3</spVERSION>
-        <spChord reference="../../CLI__ChordSymbolImpl/spChord"/>
+        <spChord reference="../../CLI__ChordSymbolImpl[17]/spChord"/>
         <spPos resolves-to="PositionSP" spVERSION="2" spPos="[16:0]"/>
         <spClientProperties>
           <owner class="CLI_ChordSymbolImpl" reference="../.."/>
@@ -834,7 +844,7 @@ popular recording success from 1929 onward.</spComments>
       </CLI__SectionImpl>
       <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
         <spVERSION>3</spVERSION>
-        <spChord reference="../../CLI__ChordSymbolImpl/spChord"/>
+        <spChord reference="../../CLI__ChordSymbolImpl[17]/spChord"/>
         <spPos resolves-to="PositionSP" spVERSION="2" spPos="[32:0]"/>
         <spClientProperties>
           <owner class="CLI_ChordSymbolImpl" reference="../.."/>
@@ -1785,7 +1795,7 @@ popular recording success from 1929 onward.</spComments>
       </entry>
       <entry>
         <string>PropSsEditorZoomFactorX</string>
-        <string>6</string>
+        <string>8</string>
       </entry>
       <entry>
         <string>SectionDisplayQuantization-A1*4/4</string>
