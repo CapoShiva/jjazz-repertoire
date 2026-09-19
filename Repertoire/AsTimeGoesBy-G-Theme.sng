@@ -1,6 +1,20 @@
 <Song resolves-to="SongSP" spName="AsTimeGoesBy-G-Theme" spTempo="112">
   <spVERSION>4</spVERSION>
-  <spComments>Edit me...</spComments>
+  <spComments>Year:	1931
+Composer:	Herman Hupfeld
+Lyricist:	Herman Hupfeld
+Form:	32-bar AABA
+Style:	Ballad
+Key:	E-flat major
+
+“As Time Goes By” was written for the 1931
+Broadway musical Everybody’s Welcome, where
+it was introduced by Frances Williams. Its
+worldwide fame came from its prominent use in
+the 1942 film Casablanca, although the song was
+already published and recorded a decade earlier;
+E-flat major is the original published key, while later
+performances use several alternatives. </spComments>
   <spTags/>
   <spChordLeadSheet class="ChordLeadSheetImpl" resolves-to="ChordLeadSheetImplSP">
     <spVERSION>3</spVERSION>
@@ -81,7 +95,16 @@
       </CLI__ChordSymbolImpl>
       <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
         <spVERSION>3</spVERSION>
-        <spChord reference="../../CLI__ChordSymbolImpl/spChord"/>
+        <spChord resolves-to="ExtChordSymbolSP" spName="Am7" spOriginalName="Am7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
+              <null/>
+            </ChordRenderingInfoSP>
+          </spRenderingInfo>
+        </spChord>
         <spPos resolves-to="PositionSP" spVERSION="2" spPos="[2:0]"/>
         <spClientProperties>
           <owner class="CLI_ChordSymbolImpl" reference="../.."/>
@@ -2391,7 +2414,7 @@
       </entry>
       <entry>
         <string>PropSsEditorZoomFactorX</string>
-        <string>6</string>
+        <string>8</string>
       </entry>
       <entry>
         <string>PropViewMode</string>
