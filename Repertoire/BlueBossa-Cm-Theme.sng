@@ -1,6 +1,18 @@
 <Song resolves-to="SongSP" spName="BlueBossa-Cm-Theme" spTempo="108">
   <spVERSION>4</spVERSION>
-  <spComments>Edit me...</spComments>
+  <spComments>Year:	1963
+Composer:	Kenny Dorham
+Lyricist:	None — instrumental
+Form:	16-bar AB
+Style:	Bossa nova–inflected hard bop
+Key:	C minor
+
+“Blue Bossa” was composed by Kenny Dorham and
+introduced on Joe Henderson’s 1963 album Page One.
+The tune combines a bossa nova rhythm with
+hard-bop phrasing; its second eight bars move to
+Db major, creating a distinctive contrast with the
+opening C-minor section. </spComments>
   <spTags/>
   <spChordLeadSheet class="ChordLeadSheetImpl" resolves-to="ChordLeadSheetImplSP">
     <spVERSION>3</spVERSION>
@@ -549,7 +561,7 @@
           </entry>
           <entry>
             <string>RpSysMuteID</string>
-            <string>[]</string>
+            <string>[Phrase1]</string>
           </entry>
           <entry>
             <string>rpSysMarkerID</string>
@@ -561,7 +573,7 @@
           </entry>
           <entry>
             <string>RpFillID</string>
-            <string></string>
+            <string>break</string>
           </entry>
           <entry>
             <string>rpTempoID</string>
@@ -733,7 +745,7 @@
           </entry>
           <entry>
             <string>RpSysMuteID</string>
-            <string>[]</string>
+            <string>[Phrase1]</string>
           </entry>
           <entry>
             <string>rpSysMarkerID</string>
@@ -783,7 +795,7 @@
           </entry>
           <entry>
             <string>rpSysMarkerID</string>
-            <string>solo2</string>
+            <string>solo</string>
           </entry>
           <entry>
             <string>RP_SYS_OverrideTracksID</string>
@@ -829,7 +841,7 @@
           </entry>
           <entry>
             <string>rpSysMarkerID</string>
-            <string>solo2</string>
+            <string>solo</string>
           </entry>
           <entry>
             <string>RP_SYS_OverrideTracksID</string>
@@ -871,11 +883,11 @@
           </entry>
           <entry>
             <string>RpSysMuteID</string>
-            <string>[]</string>
+            <string>[Phrase1]</string>
           </entry>
           <entry>
             <string>rpSysMarkerID</string>
-            <string>solo3</string>
+            <string>solo</string>
           </entry>
           <entry>
             <string>RP_SYS_OverrideTracksID</string>
@@ -921,7 +933,7 @@
           </entry>
           <entry>
             <string>rpSysMarkerID</string>
-            <string>solo3</string>
+            <string>solo</string>
           </entry>
           <entry>
             <string>RP_SYS_OverrideTracksID</string>
@@ -1059,7 +1071,7 @@
           </entry>
           <entry>
             <string>rpSysMarkerID</string>
-            <string>solo3</string>
+            <string>theme</string>
           </entry>
           <entry>
             <string>RP_SYS_OverrideTracksID</string>
@@ -1111,7 +1123,7 @@
       </entry>
       <entry>
         <string>PropCompactViewModeVisibleRps_BossaNova2.S469.prs-ID</string>
-        <string>rpVariationID,rpIntensityID,RpFillID,rpSysMarkerID</string>
+        <string>rpVariationID,rpIntensityID,RpFillID,RpSysMuteID,rpSysMarkerID</string>
       </entry>
       <entry>
         <string>PropCompactViewModeVisibleRps_GuitarBossa6.S081.sty-ID</string>

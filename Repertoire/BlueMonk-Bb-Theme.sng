@@ -1,6 +1,17 @@
 <Song resolves-to="SongSP" spName="BlueMonk-Bb-Theme" spTempo="120">
   <spVERSION>4</spVERSION>
-  <spComments>Edit me...</spComments>
+  <spComments>Year:	1954
+Composer:	Thelonious Monk
+Lyricist:	None — instrumental
+Form:	12-bar blues
+Style:	Bebop-influenced jazz blues swing
+Key:	Bb major
+
+“Blue Monk” was composed and first recorded by Thelonious
+Monk in 1954 for Thelonious Monk Trio. It is one of Monk’s most
+accessible blues themes, built around a memorable chromatic
+motif and a traditional dominant-blues progression; Abbey Lincoln
+later added lyrics and called her version “Monkery’s the Blues.” </spComments>
   <spTags/>
   <spChordLeadSheet class="ChordLeadSheetImpl" resolves-to="ChordLeadSheetImplSP">
     <spVERSION>3</spVERSION>
@@ -244,9 +255,9 @@
   <spSongStructure class="SongStructureImpl" resolves-to="SongStructureImplSP">
     <spVERSION>3</spVERSION>
     <spSpts>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="jjSwing-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="0" spName="Theme" spNbBars="12">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="MediumJazz.S737.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="0" spName="Theme" spNbBars="12">
         <spVERSION>3</spVERSION>
-        <spRhythmName>jjSwing</spRhythmName>
+        <spRhythmName>MediumJazz.S737.sst</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -269,10 +280,6 @@
             <string></string>
           </entry>
           <entry>
-            <string>DrumsStyleId</string>
-            <string>auto</string>
-          </entry>
-          <entry>
             <string>RpSysMuteID</string>
             <string>[]</string>
           </entry>
@@ -292,15 +299,11 @@
             <string>rpTempoID</string>
             <string>100</string>
           </entry>
-          <entry>
-            <string>BassStyleId</string>
-            <string>auto</string>
-          </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="jjSwing-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="12" spName="Theme" spNbBars="12">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="MediumJazz.S737.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="12" spName="Theme" spNbBars="12">
         <spVERSION>3</spVERSION>
-        <spRhythmName>jjSwing</spRhythmName>
+        <spRhythmName>MediumJazz.S737.sst</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -323,16 +326,12 @@
             <string></string>
           </entry>
           <entry>
-            <string>DrumsStyleId</string>
-            <string>auto</string>
-          </entry>
-          <entry>
             <string>RpSysMuteID</string>
             <string>[]</string>
           </entry>
           <entry>
             <string>rpSysMarkerID</string>
-            <string>solo</string>
+            <string>theme</string>
           </entry>
           <entry>
             <string>RP_SYS_OverrideTracksID</string>
@@ -340,21 +339,17 @@
           </entry>
           <entry>
             <string>RpFillID</string>
-            <string>break</string>
+            <string>always</string>
           </entry>
           <entry>
             <string>rpTempoID</string>
             <string>100</string>
           </entry>
-          <entry>
-            <string>BassStyleId</string>
-            <string>auto</string>
-          </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="jjSwing-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="24" spName="Solos" spNbBars="12">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="MediumJazz.S737.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="24" spName="Theme" spNbBars="12">
         <spVERSION>3</spVERSION>
-        <spRhythmName>jjSwing</spRhythmName>
+        <spRhythmName>MediumJazz.S737.sst</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -366,7 +361,7 @@
           </entry>
           <entry>
             <string>rpVariationID</string>
-            <string>Main C-1</string>
+            <string>Main A-1</string>
           </entry>
           <entry>
             <string>rpIntensityID</string>
@@ -377,8 +372,50 @@
             <string></string>
           </entry>
           <entry>
-            <string>DrumsStyleId</string>
-            <string>auto</string>
+            <string>RpSysMuteID</string>
+            <string>[]</string>
+          </entry>
+          <entry>
+            <string>rpSysMarkerID</string>
+            <string>theme</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpFillID</string>
+            <string>break</string>
+          </entry>
+          <entry>
+            <string>rpTempoID</string>
+            <string>100</string>
+          </entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="MediumJazz.S737.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="36" spName="Solos" spNbBars="12">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>MediumJazz.S737.sst</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>[DrumsMixIdhidden#]</string>
+          </entry>
+          <entry>
+            <string>rpVariationID</string>
+            <string>Main C-1</string>
+          </entry>
+          <entry>
+            <string>rpIntensityID</string>
+            <string>2</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_CustomPhraseId</string>
+            <string></string>
           </entry>
           <entry>
             <string>RpSysMuteID</string>
@@ -400,69 +437,11 @@
             <string>rpTempoID</string>
             <string>100</string>
           </entry>
-          <entry>
-            <string>BassStyleId</string>
-            <string>auto</string>
-          </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="jjSwing-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="36" spName="Solos" spNbBars="12">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="MediumJazz.S737.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="48" spName="Solos" spNbBars="12">
         <spVERSION>3</spVERSION>
-        <spRhythmName>jjSwing</spRhythmName>
-        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl"/>
-        <spClientProperties>
-          <owner class="SongPartImpl" reference="../.."/>
-        </spClientProperties>
-        <spHashMapRpIdValue>
-          <entry>
-            <string>RP_SYS_DrumsTransformId</string>
-            <string>[DrumsMixIdhidden#]</string>
-          </entry>
-          <entry>
-            <string>rpVariationID</string>
-            <string>Main C-1</string>
-          </entry>
-          <entry>
-            <string>rpIntensityID</string>
-            <string>2</string>
-          </entry>
-          <entry>
-            <string>RP_SYS_CustomPhraseId</string>
-            <string></string>
-          </entry>
-          <entry>
-            <string>DrumsStyleId</string>
-            <string>auto</string>
-          </entry>
-          <entry>
-            <string>RpSysMuteID</string>
-            <string>[]</string>
-          </entry>
-          <entry>
-            <string>rpSysMarkerID</string>
-            <string>solo2</string>
-          </entry>
-          <entry>
-            <string>RP_SYS_OverrideTracksID</string>
-            <string></string>
-          </entry>
-          <entry>
-            <string>RpFillID</string>
-            <string>always</string>
-          </entry>
-          <entry>
-            <string>rpTempoID</string>
-            <string>100</string>
-          </entry>
-          <entry>
-            <string>BassStyleId</string>
-            <string>auto</string>
-          </entry>
-        </spHashMapRpIdValue>
-      </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="jjSwing-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="48" spName="Solos" spNbBars="12">
-        <spVERSION>3</spVERSION>
-        <spRhythmName>jjSwing</spRhythmName>
+        <spRhythmName>MediumJazz.S737.sst</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -485,16 +464,12 @@
             <string></string>
           </entry>
           <entry>
-            <string>DrumsStyleId</string>
-            <string>auto</string>
-          </entry>
-          <entry>
             <string>RpSysMuteID</string>
             <string>[]</string>
           </entry>
           <entry>
             <string>rpSysMarkerID</string>
-            <string>solo2</string>
+            <string>solo</string>
           </entry>
           <entry>
             <string>RP_SYS_OverrideTracksID</string>
@@ -508,15 +483,11 @@
             <string>rpTempoID</string>
             <string>100</string>
           </entry>
-          <entry>
-            <string>BassStyleId</string>
-            <string>auto</string>
-          </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="jjSwing-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="60" spName="Solos" spNbBars="12">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="MediumJazz.S737.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="60" spName="Solos" spNbBars="12">
         <spVERSION>3</spVERSION>
-        <spRhythmName>jjSwing</spRhythmName>
+        <spRhythmName>MediumJazz.S737.sst</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -539,16 +510,12 @@
             <string></string>
           </entry>
           <entry>
-            <string>DrumsStyleId</string>
-            <string>auto</string>
-          </entry>
-          <entry>
             <string>RpSysMuteID</string>
             <string>[]</string>
           </entry>
           <entry>
             <string>rpSysMarkerID</string>
-            <string>solo3</string>
+            <string>solo</string>
           </entry>
           <entry>
             <string>RP_SYS_OverrideTracksID</string>
@@ -562,15 +529,11 @@
             <string>rpTempoID</string>
             <string>100</string>
           </entry>
-          <entry>
-            <string>BassStyleId</string>
-            <string>auto</string>
-          </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="jjSwing-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="72" spName="Theme" spNbBars="12">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="MediumJazz.S737.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="72" spName="Solos" spNbBars="12">
         <spVERSION>3</spVERSION>
-        <spRhythmName>jjSwing</spRhythmName>
+        <spRhythmName>MediumJazz.S737.sst</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -593,8 +556,50 @@
             <string></string>
           </entry>
           <entry>
-            <string>DrumsStyleId</string>
-            <string>auto</string>
+            <string>RpSysMuteID</string>
+            <string>[]</string>
+          </entry>
+          <entry>
+            <string>rpSysMarkerID</string>
+            <string>solo</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpFillID</string>
+            <string>always</string>
+          </entry>
+          <entry>
+            <string>rpTempoID</string>
+            <string>100</string>
+          </entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="MediumJazz.S737.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="84" spName="Solos" spNbBars="12">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>MediumJazz.S737.sst</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>[DrumsMixIdhidden#]</string>
+          </entry>
+          <entry>
+            <string>rpVariationID</string>
+            <string>Main C-1</string>
+          </entry>
+          <entry>
+            <string>rpIntensityID</string>
+            <string>2</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_CustomPhraseId</string>
+            <string></string>
           </entry>
           <entry>
             <string>RpSysMuteID</string>
@@ -602,7 +607,7 @@
           </entry>
           <entry>
             <string>rpSysMarkerID</string>
-            <string>solo3</string>
+            <string>solo</string>
           </entry>
           <entry>
             <string>RP_SYS_OverrideTracksID</string>
@@ -616,15 +621,103 @@
             <string>rpTempoID</string>
             <string>100</string>
           </entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="MediumJazz.S737.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="96" spName="Theme" spNbBars="12">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>MediumJazz.S737.sst</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
           <entry>
-            <string>BassStyleId</string>
-            <string>auto</string>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>[DrumsMixIdhidden#]</string>
+          </entry>
+          <entry>
+            <string>rpVariationID</string>
+            <string>Main C-1</string>
+          </entry>
+          <entry>
+            <string>rpIntensityID</string>
+            <string>2</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_CustomPhraseId</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpSysMuteID</string>
+            <string>[]</string>
+          </entry>
+          <entry>
+            <string>rpSysMarkerID</string>
+            <string>theme</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpFillID</string>
+            <string>always</string>
+          </entry>
+          <entry>
+            <string>rpTempoID</string>
+            <string>100</string>
           </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
-      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="jjSwing-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="84" spName="Theme" spNbBars="12">
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="MediumJazz.S737.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="108" spName="Theme" spNbBars="12">
         <spVERSION>3</spVERSION>
-        <spRhythmName>jjSwing</spRhythmName>
+        <spRhythmName>MediumJazz.S737.sst</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>[DrumsMixIdhidden#]</string>
+          </entry>
+          <entry>
+            <string>rpVariationID</string>
+            <string>Main D-1</string>
+          </entry>
+          <entry>
+            <string>rpIntensityID</string>
+            <string>2</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_CustomPhraseId</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpSysMuteID</string>
+            <string>[]</string>
+          </entry>
+          <entry>
+            <string>rpSysMarkerID</string>
+            <string>theme</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpFillID</string>
+            <string>always</string>
+          </entry>
+          <entry>
+            <string>rpTempoID</string>
+            <string>100</string>
+          </entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="MediumJazz.S737.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="120" spName="Theme" spNbBars="12">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>MediumJazz.S737.sst</spRhythmName>
         <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl"/>
         <spClientProperties>
           <owner class="SongPartImpl" reference="../.."/>
@@ -647,16 +740,12 @@
             <string></string>
           </entry>
           <entry>
-            <string>DrumsStyleId</string>
-            <string>auto</string>
-          </entry>
-          <entry>
             <string>RpSysMuteID</string>
             <string>[]</string>
           </entry>
           <entry>
             <string>rpSysMarkerID</string>
-            <string>theme2</string>
+            <string>theme</string>
           </entry>
           <entry>
             <string>RP_SYS_OverrideTracksID</string>
@@ -670,10 +759,6 @@
             <string>rpTempoID</string>
             <string>100</string>
           </entry>
-          <entry>
-            <string>BassStyleId</string>
-            <string>auto</string>
-          </entry>
         </spHashMapRpIdValue>
       </SongPartImpl>
     </spSpts>
@@ -682,14 +767,24 @@
   </spSongStructure>
   <spMapUserPhrases>
     <entry>
-      <string>User1</string>
+      <string>Piano</string>
       <Phrase resolves-to="PhraseSP" spVERSION="2">
-        <spSaveString>[0|62,80,0.49791667:0.0|63,81,0.49791667:0.49252728|64,80,0.49791667:0.99407643|65,79,2.4979167:1.5025053|67,80,0.49791667:3.9983656|68,81,0.49791667:4.4721017|69,86,0.49791667:5.005058|70,83,2.4979167:5.4888906|65,78,0.49791667:7.9897747|67,80,0.49791667:8.489201|65,83,0.49791667:8.991935|64,79,0.49791667:9.480198|63,84,0.49791667:9.982331|53,79,0.49791667:10.489437|61,78,0.49791667:11.013818|62,84,0.99791664:11.50981|61,78,0.99791664:12.49707|60,79,2.4979167:13.492121|67,81,0.49791667:16.005713|68,76,0.49791667:16.500956|69,75,0.49791667:17.020113|70,79,2.4979167:17.488852|70,77,0.49791667:19.987362|71,79,0.49791667:20.513184|72,83,0.49791667:21.00499|73,83,2.4979167:21.4867|65,79,0.49791667:23.973444|67,78,0.49791667:24.49161|65,79,0.49791667:24.992498|64,79,0.49791667:25.487482|63,81,0.49791667:25.997498|53,81,0.49791667:26.483004|61,79,0.49791667:26.995699|62,81,3.4979167:27.49359|65,78,0.33125:30.996658|65,78,0.31596375:31.34191|65,82,0.3292179:31.657873|65,80,0.49791667:31.987091|53,79,3.4979167:32.50182|65,81,0.49791667:36.006805|67,80,0.49791667:36.489727|65,82,0.49791667:36.988907|64,78,0.49791667:37.50315|63,79,0.49791667:37.99755|53,81,0.49791667:38.500374|61,80,0.49791667:38.990364|62,82,1.4979167:39.49258|65,82,0.49791667:41.00033|67,82,0.49791667:41.504707|65,76,0.49791667:41.991016|64,78,0.49791667:42.50643|63,77,0.49791667:42.995914|53,80,0.49791667:43.495674|61,79,0.49791667:44.014874|62,80,3.4979167:44.50371|62,77,0.49791667:48.007305|63,79,0.49791667:48.491364|64,80,0.49791667:48.988384|65,81,2.4979167:49.49156|67,81,0.49791667:51.990593|68,83,0.49791667:52.499245|69,82,0.49791667:52.98746|70,79,2.4979167:53.487476|65,77,0.49791667:56.000668|67,83,0.49791667:56.497955|65,78,0.49791667:56.98749|64,77,0.49791667:57.489666|63,80,0.49791667:57.98063|53,81,0.49791667:58.500706|61,82,0.49791667:58.99631|62,82,0.99791664:59.4848|61,78,0.99791664:60.50903|60,82,2.4979167:61.483177|67,81,0.49791667:64.00568|68,82,0.49791667:64.48626|69,78,0.49791667:64.98388|70,80,2.4979167:65.496475|70,80,0.49791667:67.99682|71,78,0.49791667:68.48594|72,77,0.49791667:69.00336|73,79,2.4979167:69.481186|65,79,0.49791667:71.994576|67,80,0.49791667:72.4871|65,81,0.49791667:72.97175|64,79,0.49791667:73.487564|63,80,0.49791667:73.99587|53,78,0.49791667:74.499954|61,82,0.49791667:74.997826|62,83,3.4979167:75.48591|65,80,0.32476044:79.00654|65,79,0.33125:79.3313|65,80,0.3120041:79.682144|65,80,0.49791667:79.99415|53,80,3.4979167:80.50808|65,80,0.49791667:83.98935|67,78,0.49791667:84.50246|65,83,0.49791667:84.9984|64,80,0.49791667:85.48116|63,78,0.49791667:85.994514|53,80,0.49791667:86.49829|61,82,0.49791667:87.001396|62,81,1.4979167:87.510254|65,84,0.49791667:88.9815|67,79,0.49791667:89.49293|65,78,0.49791667:89.983955|64,77,0.49791667:90.49522|63,79,0.49791667:91.00271|53,81,0.49791667:91.489204|61,78,0.49791667:91.97776|62,81,3.4979167:92.4911|62,80,0.49791667:288.0|63,81,0.49791667:288.66666|64,80,0.49791667:289.0|65,79,2.4979167:289.66666|67,80,0.49791667:292.0|68,81,0.49791667:292.66666|69,86,0.49791667:293.0|70,83,2.4979167:293.66666|65,78,0.49791667:296.0|67,80,0.49791667:296.66666|65,83,0.49791667:297.0|64,79,0.49791667:297.66666|63,84,0.49791667:298.0|53,79,0.49791667:298.66666|61,78,0.49791667:299.0|62,84,0.99791664:299.66666|61,78,0.99791664:300.66666|60,79,2.4979167:301.66666|67,81,0.49791667:304.0|68,76,0.49791667:304.66666|69,75,0.49791667:305.0|70,79,2.4979167:305.66666|70,77,0.49791667:308.0|71,79,0.49791667:308.66666|72,83,0.49791667:309.0|73,83,2.4979167:309.66666|65,79,0.49791667:312.0|67,78,0.49791667:312.66666|65,79,0.49791667:313.0|64,79,0.49791667:313.66666|63,81,0.49791667:314.0|53,81,0.49791667:314.66666|61,79,0.49791667:315.0|62,81,3.4979167:315.66666|65,78,0.33125:319.0|65,78,0.31596375:319.33334|65,82,0.3292179:319.66666|65,80,0.49791667:320.0|53,79,3.4979167:320.66666|65,81,0.49791667:324.0|67,80,0.49791667:324.66666|65,82,0.49791667:325.0|64,78,0.49791667:325.66666|63,79,0.49791667:326.0|53,81,0.49791667:326.66666|61,80,0.49791667:327.0|62,82,1.4979167:327.66666|65,82,0.49791667:329.0|67,82,0.49791667:329.66666|65,76,0.49791667:330.0|64,78,0.49791667:330.66666|63,77,0.49791667:331.0|53,80,0.49791667:331.66666|61,79,0.49791667:332.0|62,80,3.4979167:332.66666|62,77,0.49791667:336.0|63,79,0.49791667:336.66666|64,80,0.49791667:337.0|65,81,2.4979167:337.66666|67,81,0.49791667:340.0|68,83,0.49791667:340.66666|69,82,0.49791667:341.0|70,79,2.4979167:341.66666|65,77,0.49791667:344.0|67,83,0.49791667:344.66666|65,78,0.49791667:345.0|64,77,0.49791667:345.66666|63,80,0.49791667:346.0|53,81,0.49791667:346.66666|61,82,0.49791667:347.0|62,82,0.99791664:347.66666|61,78,0.99791664:348.66666|60,82,2.4979167:349.66666|67,81,0.49791667:352.0|68,82,0.49791667:352.66666|69,78,0.49791667:353.0|70,80,2.4979167:353.66666|70,80,0.49791667:356.0|71,78,0.49791667:356.66666|72,77,0.49791667:357.0|73,79,2.4979167:357.66666|65,79,0.49791667:360.0|67,80,0.49791667:360.66666|65,81,0.49791667:361.0|64,79,0.49791667:361.66666|63,80,0.49791667:362.0|53,78,0.49791667:362.66666|61,82,0.49791667:363.0|62,83,3.4979167:363.66666|65,80,0.32476044:367.0|65,79,0.33125:367.33334|65,80,0.3120041:367.66666|65,80,0.49791667:368.0|53,80,3.4979167:368.66666|65,80,0.49791667:372.0|67,78,0.49791667:372.66666|65,83,0.49791667:373.0|64,80,0.49791667:373.66666|63,78,0.49791667:374.0|53,80,0.49791667:374.66666|61,82,0.49791667:375.0|62,81,1.4979167:375.66666|65,84,0.49791667:377.0|67,79,0.49791667:377.66666|65,78,0.49791667:378.0|64,77,0.49791667:378.66666|63,79,0.49791667:379.0|53,81,0.49791667:379.66666|61,78,0.49791667:380.0|62,81,3.4979167:380.66666]</spSaveString>
+        <spSaveString>[0|58,80,0.49791667:0.0|62,80,0.49791667:0.0|60,80,0.49791667:0.5|63,80,0.49791667:0.5|61,80,0.49791667:1.0|64,80,0.49791667:1.0|62,80,2.4979167:1.5|65,80,2.4979167:1.5|63,80,0.49791667:4.0|67,80,0.49791667:4.0|65,80,0.49791667:4.5|68,80,0.49791667:4.5|66,80,0.49791667:5.0|69,80,0.49791667:5.0|67,80,2.4979167:5.5|70,80,2.4979167:5.5|62,80,0.49791667:8.0|65,80,0.49791667:8.0|63,80,0.49791667:8.5|67,80,0.49791667:8.5|62,80,0.49791667:9.0|65,80,0.49791667:9.0|61,80,0.49791667:9.5|64,80,0.49791667:9.5|60,80,0.49791667:10.0|63,80,0.49791667:10.0|53,80,0.49791667:10.5|58,80,0.49791667:10.5|57,80,0.49791667:11.0|61,80,0.49791667:11.0|58,80,0.99791664:11.5|62,80,0.99791664:11.5|57,80,0.99791664:12.5|61,80,0.99791664:12.5|56,80,2.4979167:13.5|60,80,2.4979167:13.5|63,80,0.49791667:16.0|67,80,0.49791667:16.0|65,80,0.49791667:16.5|68,80,0.49791667:16.5|66,80,0.49791667:17.0|69,80,0.49791667:17.0|67,80,2.4979167:17.5|70,80,2.4979167:17.5|67,80,0.49791667:20.0|70,80,0.49791667:20.0|68,80,0.49791667:20.5|71,80,0.49791667:20.5|69,80,0.49791667:21.0|72,80,0.49791667:21.0|70,80,0.49791667:21.5|73,80,0.49791667:21.5|70,80,1.9979167:22.0|73,80,1.9979167:22.0|62,80,0.49791667:24.0|65,80,0.49791667:24.0|63,80,0.49791667:24.5|67,80,0.49791667:24.5|62,80,0.49791667:25.0|65,80,0.49791667:25.0|61,80,0.49791667:25.5|64,80,0.49791667:25.5|60,80,0.49791667:26.0|63,80,0.49791667:26.0|53,80,0.49791667:26.5|58,80,0.49791667:26.5|57,80,0.49791667:27.0|61,80,0.49791667:27.0|58,80,3.4979167:27.5|62,80,3.4979167:27.5|62,80,0.33125:31.0|65,80,0.33125:31.0|62,80,0.33125:31.333334|65,80,0.33125:31.333334|62,80,0.33125:31.666666|65,80,0.33125:31.666666|62,80,0.49791667:32.0|65,80,0.49791667:32.0|53,80,3.4979167:32.5|62,80,0.49791667:36.0|65,80,0.49791667:36.0|63,80,0.49791667:36.5|67,80,0.49791667:36.5|62,80,0.49791667:37.0|65,80,0.49791667:37.0|61,80,0.49791667:37.5|64,80,0.49791667:37.5|60,80,0.49791667:38.0|63,80,0.49791667:38.0|53,80,0.49791667:38.5|58,80,0.49791667:38.5|57,80,0.49791667:39.0|61,80,0.49791667:39.0|58,80,1.4979167:39.5|62,80,1.4979167:39.5|62,80,0.49791667:41.0|65,80,0.49791667:41.0|63,80,0.49791667:41.5|67,80,0.49791667:41.5|62,80,0.49791667:42.0|65,80,0.49791667:42.0|61,80,0.49791667:42.5|64,80,0.49791667:42.5|60,80,0.49791667:43.0|63,80,0.49791667:43.0|53,80,0.49791667:43.5|58,80,0.49791667:43.5|57,80,0.49791667:44.0|61,80,0.49791667:44.0|58,80,3.4979167:44.5|62,80,3.4979167:44.5|58,80,0.49791667:48.0|62,80,0.49791667:48.0|60,80,0.49791667:48.5|63,80,0.49791667:48.5|61,80,0.49791667:49.0|64,80,0.49791667:49.0|62,80,2.4979167:49.5|65,80,2.4979167:49.5|63,80,0.49791667:52.0|67,80,0.49791667:52.0|65,80,0.49791667:52.5|68,80,0.49791667:52.5|66,80,0.49791667:53.0|69,80,0.49791667:53.0|67,80,2.4979167:53.5|70,80,2.4979167:53.5|62,80,0.49791667:56.0|65,80,0.49791667:56.0|63,80,0.49791667:56.5|67,80,0.49791667:56.5|62,80,0.49791667:57.0|65,80,0.49791667:57.0|61,80,0.49791667:57.5|64,80,0.49791667:57.5|60,80,0.49791667:58.0|63,80,0.49791667:58.0|53,80,0.49791667:58.5|58,80,0.49791667:58.5|57,80,0.49791667:59.0|61,80,0.49791667:59.0|58,80,0.99791664:59.5|62,80,0.99791664:59.5|57,80,0.99791664:60.5|61,80,0.99791664:60.5|56,80,2.4979167:61.5|60,80,2.4979167:61.5|63,80,0.49791667:64.0|67,80,0.49791667:64.0|65,80,0.49791667:64.5|68,80,0.49791667:64.5|66,80,0.49791667:65.0|69,80,0.49791667:65.0|67,80,2.4979167:65.5|70,80,2.4979167:65.5|67,80,0.49791667:68.0|70,80,0.49791667:68.0|68,80,0.49791667:68.5|71,80,0.49791667:68.5|69,80,0.49791667:69.0|72,80,0.49791667:69.0|70,80,0.49791667:69.5|73,80,0.49791667:69.5|70,80,1.9979167:70.0|73,80,1.9979167:70.0|62,80,0.49791667:72.0|65,80,0.49791667:72.0|63,80,0.49791667:72.5|67,80,0.49791667:72.5|62,80,0.49791667:73.0|65,80,0.49791667:73.0|61,80,0.49791667:73.5|64,80,0.49791667:73.5|60,80,0.49791667:74.0|63,80,0.49791667:74.0|53,80,0.49791667:74.5|58,80,0.49791667:74.5|57,80,0.49791667:75.0|61,80,0.49791667:75.0|58,80,3.4979167:75.5|62,80,3.4979167:75.5|62,80,0.33125:79.0|65,80,0.33125:79.0|62,80,0.33125:79.333336|65,80,0.33125:79.333336|62,80,0.33125:79.666664|65,80,0.33125:79.666664|62,80,0.49791667:80.0|65,80,0.49791667:80.0|53,80,3.4979167:80.5|62,80,0.49791667:84.0|65,80,0.49791667:84.0|63,80,0.49791667:84.5|67,80,0.49791667:84.5|62,80,0.49791667:85.0|65,80,0.49791667:85.0|61,80,0.49791667:85.5|64,80,0.49791667:85.5|60,80,0.49791667:86.0|63,80,0.49791667:86.0|53,80,0.49791667:86.5|58,80,0.49791667:86.5|57,80,0.49791667:87.0|61,80,0.49791667:87.0|58,80,1.4979167:87.5|62,80,1.4979167:87.5|62,80,0.49791667:89.0|65,80,0.49791667:89.0|63,80,0.49791667:89.5|67,80,0.49791667:89.5|62,80,0.49791667:90.0|65,80,0.49791667:90.0|61,80,0.49791667:90.5|64,80,0.49791667:90.5|60,80,0.49791667:91.0|63,80,0.49791667:91.0|53,80,0.49791667:91.5|58,80,0.49791667:91.5|57,80,0.49791667:92.0|61,80,0.49791667:92.0|58,80,3.4979167:92.5|62,80,3.4979167:92.5|58,80,0.49791667:96.0|62,80,0.49791667:96.0|60,80,0.49791667:96.5|63,80,0.49791667:96.5|61,80,0.49791667:97.0|64,80,0.49791667:97.0|62,80,2.4979167:97.5|65,80,2.4979167:97.5|63,80,0.49791667:100.0|67,80,0.49791667:100.0|65,80,0.49791667:100.5|68,80,0.49791667:100.5|66,80,0.49791667:101.0|69,80,0.49791667:101.0|67,80,2.4979167:101.5|70,80,2.4979167:101.5|62,80,0.49791667:104.0|65,80,0.49791667:104.0|63,80,0.49791667:104.5|67,80,0.49791667:104.5|62,80,0.49791667:105.0|65,80,0.49791667:105.0|61,80,0.49791667:105.5|64,80,0.49791667:105.5|60,80,0.49791667:106.0|63,80,0.49791667:106.0|53,80,0.49791667:106.5|58,80,0.49791667:106.5|57,80,0.49791667:107.0|61,80,0.49791667:107.0|58,80,0.99791664:107.5|62,80,0.99791664:107.5|57,80,0.99791664:108.5|61,80,0.99791664:108.5|56,80,2.4979167:109.5|60,80,2.4979167:109.5|63,80,0.49791667:112.0|67,80,0.49791667:112.0|65,80,0.49791667:112.5|68,80,0.49791667:112.5|66,80,0.49791667:113.0|69,80,0.49791667:113.0|67,80,2.4979167:113.5|70,80,2.4979167:113.5|67,80,0.49791667:116.0|70,80,0.49791667:116.0|68,80,0.49791667:116.5|71,80,0.49791667:116.5|69,80,0.49791667:117.0|72,80,0.49791667:117.0|70,80,0.49791667:117.5|73,80,0.49791667:117.5|70,80,1.9979167:118.0|73,80,1.9979167:118.0|62,80,0.49791667:120.0|65,80,0.49791667:120.0|63,80,0.49791667:120.5|67,80,0.49791667:120.5|62,80,0.49791667:121.0|65,80,0.49791667:121.0|61,80,0.49791667:121.5|64,80,0.49791667:121.5|60,80,0.49791667:122.0|63,80,0.49791667:122.0|53,80,0.49791667:122.5|58,80,0.49791667:122.5|57,80,0.49791667:123.0|61,80,0.49791667:123.0|58,80,3.4979167:123.5|62,80,3.4979167:123.5|62,80,0.33125:127.0|65,80,0.33125:127.0|62,80,0.33125:127.333336|65,80,0.33125:127.333336|62,80,0.33125:127.666664|65,80,0.33125:127.666664|62,80,0.49791667:128.0|65,80,0.49791667:128.0|53,80,3.4979167:128.5|62,80,0.49791667:132.0|65,80,0.49791667:132.0|63,80,0.49791667:132.5|67,80,0.49791667:132.5|62,80,0.49791667:133.0|65,80,0.49791667:133.0|61,80,0.49791667:133.5|64,80,0.49791667:133.5|60,80,0.49791667:134.0|63,80,0.49791667:134.0|53,80,0.49791667:134.5|58,80,0.49791667:134.5|57,80,0.49791667:135.0|61,80,0.49791667:135.0|58,80,1.4979167:135.5|62,80,1.4979167:135.5|62,80,0.49791667:137.0|65,80,0.49791667:137.0|63,80,0.49791667:137.5|67,80,0.49791667:137.5|62,80,0.49791667:138.0|65,80,0.49791667:138.0|61,80,0.49791667:138.5|64,80,0.49791667:138.5|60,80,0.49791667:139.0|63,80,0.49791667:139.0|53,80,0.49791667:139.5|58,80,0.49791667:139.5|57,80,0.49791667:140.0|61,80,0.49791667:140.0|58,80,3.4979167:140.5|62,80,3.4979167:140.5|58,80,0.49791667:384.0|62,80,0.49791667:384.0|60,80,0.49791667:384.5|63,80,0.49791667:384.5|61,80,0.49791667:385.0|64,80,0.49791667:385.0|62,80,2.4979167:385.5|65,80,2.4979167:385.5|63,80,0.49791667:388.0|67,80,0.49791667:388.0|65,80,0.49791667:388.5|68,80,0.49791667:388.5|66,80,0.49791667:389.0|69,80,0.49791667:389.0|67,80,2.4979167:389.5|70,80,2.4979167:389.5|62,80,0.49791667:392.0|65,80,0.49791667:392.0|63,80,0.49791667:392.5|67,80,0.49791667:392.5|62,80,0.49791667:393.0|65,80,0.49791667:393.0|61,80,0.49791667:393.5|64,80,0.49791667:393.5|60,80,0.49791667:394.0|63,80,0.49791667:394.0|53,80,0.49791667:394.5|58,80,0.49791667:394.5|57,80,0.49791667:395.0|61,80,0.49791667:395.0|58,80,0.99791664:395.5|62,80,0.99791664:395.5|57,80,0.99791664:396.5|61,80,0.99791664:396.5|56,80,2.4979167:397.5|60,80,2.4979167:397.5|63,80,0.49791667:400.0|67,80,0.49791667:400.0|65,80,0.49791667:400.5|68,80,0.49791667:400.5|66,80,0.49791667:401.0|69,80,0.49791667:401.0|67,80,2.4979167:401.5|70,80,2.4979167:401.5|67,80,0.49791667:404.0|70,80,0.49791667:404.0|68,80,0.49791667:404.5|71,80,0.49791667:404.5|69,80,0.49791667:405.0|72,80,0.49791667:405.0|70,80,0.49791667:405.5|73,80,0.49791667:405.5|70,80,1.9979167:406.0|73,80,1.9979167:406.0|62,80,0.49791667:408.0|65,80,0.49791667:408.0|63,80,0.49791667:408.5|67,80,0.49791667:408.5|62,80,0.49791667:409.0|65,80,0.49791667:409.0|61,80,0.49791667:409.5|64,80,0.49791667:409.5|60,80,0.49791667:410.0|63,80,0.49791667:410.0|53,80,0.49791667:410.5|58,80,0.49791667:410.5|57,80,0.49791667:411.0|61,80,0.49791667:411.0|58,80,3.4979167:411.5|62,80,3.4979167:411.5|62,80,0.33125:415.0|65,80,0.33125:415.0|62,80,0.33125:415.33334|65,80,0.33125:415.33334|62,80,0.33125:415.66666|65,80,0.33125:415.66666|62,80,0.49791667:416.0|65,80,0.49791667:416.0|53,80,3.4979167:416.5|62,80,0.49791667:420.0|65,80,0.49791667:420.0|63,80,0.49791667:420.5|67,80,0.49791667:420.5|62,80,0.49791667:421.0|65,80,0.49791667:421.0|61,80,0.49791667:421.5|64,80,0.49791667:421.5|60,80,0.49791667:422.0|63,80,0.49791667:422.0|53,80,0.49791667:422.5|58,80,0.49791667:422.5|57,80,0.49791667:423.0|61,80,0.49791667:423.0|58,80,1.4979167:423.5|62,80,1.4979167:423.5|62,80,0.49791667:425.0|65,80,0.49791667:425.0|63,80,0.49791667:425.5|67,80,0.49791667:425.5|62,80,0.49791667:426.0|65,80,0.49791667:426.0|61,80,0.49791667:426.5|64,80,0.49791667:426.5|60,80,0.49791667:427.0|63,80,0.49791667:427.0|53,80,0.49791667:427.5|58,80,0.49791667:427.5|57,80,0.49791667:428.0|61,80,0.49791667:428.0|58,80,3.4979167:428.5|62,80,3.4979167:428.5|58,80,0.49791667:432.0|62,80,0.49791667:432.0|60,80,0.49791667:432.5|63,80,0.49791667:432.5|61,80,0.49791667:433.0|64,80,0.49791667:433.0|62,80,2.4979167:433.5|65,80,2.4979167:433.5|63,80,0.49791667:436.0|67,80,0.49791667:436.0|65,80,0.49791667:436.5|68,80,0.49791667:436.5|66,80,0.49791667:437.0|69,80,0.49791667:437.0|67,80,2.4979167:437.5|70,80,2.4979167:437.5|62,80,0.49791667:440.0|65,80,0.49791667:440.0|63,80,0.49791667:440.5|67,80,0.49791667:440.5|62,80,0.49791667:441.0|65,80,0.49791667:441.0|61,80,0.49791667:441.5|64,80,0.49791667:441.5|60,80,0.49791667:442.0|63,80,0.49791667:442.0|53,80,0.49791667:442.5|58,80,0.49791667:442.5|57,80,0.49791667:443.0|61,80,0.49791667:443.0|58,80,0.99791664:443.5|62,80,0.99791664:443.5|57,80,0.99791664:444.5|61,80,0.99791664:444.5|56,80,2.4979167:445.5|60,80,2.4979167:445.5|63,80,0.49791667:448.0|67,80,0.49791667:448.0|65,80,0.49791667:448.5|68,80,0.49791667:448.5|66,80,0.49791667:449.0|69,80,0.49791667:449.0|67,80,2.4979167:449.5|70,80,2.4979167:449.5|67,80,0.49791667:452.0|70,80,0.49791667:452.0|68,80,0.49791667:452.5|71,80,0.49791667:452.5|69,80,0.49791667:453.0|72,80,0.49791667:453.0|70,80,0.49791667:453.5|73,80,0.49791667:453.5|70,80,1.9979167:454.0|73,80,1.9979167:454.0|62,80,0.49791667:456.0|65,80,0.49791667:456.0|63,80,0.49791667:456.5|67,80,0.49791667:456.5|62,80,0.49791667:457.0|65,80,0.49791667:457.0|61,80,0.49791667:457.5|64,80,0.49791667:457.5|60,80,0.49791667:458.0|63,80,0.49791667:458.0|53,80,0.49791667:458.5|58,80,0.49791667:458.5|57,80,0.49791667:459.0|61,80,0.49791667:459.0|58,80,3.4979167:459.5|62,80,3.4979167:459.5|62,80,0.33125:463.0|65,80,0.33125:463.0|62,80,0.33125:463.33334|65,80,0.33125:463.33334|62,80,0.33125:463.66666|65,80,0.33125:463.66666|62,80,0.49791667:464.0|65,80,0.49791667:464.0|53,80,3.4979167:464.5|62,80,0.49791667:468.0|65,80,0.49791667:468.0|63,80,0.49791667:468.5|67,80,0.49791667:468.5|62,80,0.49791667:469.0|65,80,0.49791667:469.0|61,80,0.49791667:469.5|64,80,0.49791667:469.5|60,80,0.49791667:470.0|63,80,0.49791667:470.0|53,80,0.49791667:470.5|58,80,0.49791667:470.5|57,80,0.49791667:471.0|61,80,0.49791667:471.0|58,80,1.4979167:471.5|62,80,1.4979167:471.5|62,80,0.49791667:473.0|65,80,0.49791667:473.0|63,80,0.49791667:473.5|67,80,0.49791667:473.5|62,80,0.49791667:474.0|65,80,0.49791667:474.0|61,80,0.49791667:474.5|64,80,0.49791667:474.5|60,80,0.49791667:475.0|63,80,0.49791667:475.0|53,80,0.49791667:475.5|58,80,0.49791667:475.5|57,80,0.49791667:476.0|61,80,0.49791667:476.0|58,80,3.4979167:476.5|62,80,3.4979167:476.5|58,80,0.49791667:480.0|62,80,0.49791667:480.0|60,80,0.49791667:480.5|63,80,0.49791667:480.5|61,80,0.49791667:481.0|64,80,0.49791667:481.0|62,80,2.4979167:481.5|65,80,2.4979167:481.5|63,80,0.49791667:484.0|67,80,0.49791667:484.0|65,80,0.49791667:484.5|68,80,0.49791667:484.5|66,80,0.49791667:485.0|69,80,0.49791667:485.0|67,80,2.4979167:485.5|70,80,2.4979167:485.5|62,80,0.49791667:488.0|65,80,0.49791667:488.0|63,80,0.49791667:488.5|67,80,0.49791667:488.5|62,80,0.49791667:489.0|65,80,0.49791667:489.0|61,80,0.49791667:489.5|64,80,0.49791667:489.5|60,80,0.49791667:490.0|63,80,0.49791667:490.0|53,80,0.49791667:490.5|58,80,0.49791667:490.5|57,80,0.49791667:491.0|61,80,0.49791667:491.0|58,80,0.99791664:491.5|62,80,0.99791664:491.5|57,80,0.99791664:492.5|61,80,0.99791664:492.5|56,80,2.4979167:493.5|60,80,2.4979167:493.5|63,80,0.49791667:496.0|67,80,0.49791667:496.0|65,80,0.49791667:496.5|68,80,0.49791667:496.5|66,80,0.49791667:497.0|69,80,0.49791667:497.0|67,80,2.4979167:497.5|70,80,2.4979167:497.5|67,80,0.49791667:500.0|70,80,0.49791667:500.0|68,80,0.49791667:500.5|71,80,0.49791667:500.5|69,80,0.49791667:501.0|72,80,0.49791667:501.0|70,80,0.49791667:501.5|73,80,0.49791667:501.5|70,80,1.9979167:502.0|73,80,1.9979167:502.0|62,80,0.49791667:504.0|65,80,0.49791667:504.0|63,80,0.49791667:504.5|67,80,0.49791667:504.5|62,80,0.49791667:505.0|65,80,0.49791667:505.0|61,80,0.49791667:505.5|64,80,0.49791667:505.5|60,80,0.49791667:506.0|63,80,0.49791667:506.0|53,80,0.49791667:506.5|58,80,0.49791667:506.5|57,80,0.49791667:507.0|61,80,0.49791667:507.0|58,80,3.4979167:507.5|62,80,3.4979167:507.5|62,80,0.33125:511.0|65,80,0.33125:511.0|62,80,0.33125:511.33334|65,80,0.33125:511.33334|62,80,0.33125:511.66666|65,80,0.33125:511.66666|62,80,0.49791667:512.0|65,80,0.49791667:512.0|53,80,3.4979167:512.5|62,80,0.49791667:516.0|65,80,0.49791667:516.0|63,80,0.49791667:516.5|67,80,0.49791667:516.5|62,80,0.49791667:517.0|65,80,0.49791667:517.0|61,80,0.49791667:517.5|64,80,0.49791667:517.5|60,80,0.49791667:518.0|63,80,0.49791667:518.0|53,80,0.49791667:518.5|58,80,0.49791667:518.5|57,80,0.49791667:519.0|61,80,0.49791667:519.0|58,80,1.4979167:519.5|62,80,1.4979167:519.5|62,80,0.49791667:521.0|65,80,0.49791667:521.0|63,80,0.49791667:521.5|67,80,0.49791667:521.5|62,80,0.49791667:522.0|65,80,0.49791667:522.0|61,80,0.49791667:522.5|64,80,0.49791667:522.5|60,80,0.49791667:523.0|63,80,0.49791667:523.0|53,80,0.49791667:523.5|58,80,0.49791667:523.5|57,80,0.49791667:524.0|61,80,0.49791667:524.0|58,80,3.4979167:524.5|62,80,3.4979167:524.5]</spSaveString>
+      </Phrase>
+    </entry>
+    <entry>
+      <string>Sax</string>
+      <Phrase resolves-to="PhraseSP" spVERSION="2">
+        <spSaveString>[0|74,80,0.49791667:48.0|75,80,0.49791667:48.5|76,80,0.49791667:49.0|77,80,2.4979167:49.5|79,80,0.49791667:52.0|80,80,0.49791667:52.5|81,80,0.49791667:53.0|82,80,2.4979167:53.5|77,80,0.49791667:56.0|79,80,0.49791667:56.5|77,80,0.49791667:57.0|76,80,0.49791667:57.5|75,80,0.49791667:58.0|65,80,0.49791667:58.5|73,80,0.49791667:59.0|74,80,0.99791664:59.5|73,80,0.99791664:60.5|72,80,2.4979167:61.5|79,80,0.49791667:64.0|80,80,0.49791667:64.5|81,80,0.49791667:65.0|82,80,2.4979167:65.5|82,80,0.49791667:68.0|83,80,0.49791667:68.5|84,80,0.49791667:69.0|85,80,2.4979167:69.5|77,80,0.49791667:72.0|79,80,0.49791667:72.5|77,80,0.49791667:73.0|76,80,0.49791667:73.5|75,80,0.49791667:74.0|65,80,0.49791667:74.5|73,80,0.49791667:75.0|74,80,3.4979167:75.5|77,80,0.33125:79.0|77,80,0.33125:79.333336|77,80,0.33125:79.666664|77,80,0.49791667:80.0|65,80,3.4979167:80.5|77,80,0.49791667:84.0|79,80,0.49791667:84.5|77,80,0.49791667:85.0|76,80,0.49791667:85.5|75,80,0.49791667:86.0|65,80,0.49791667:86.5|73,80,0.49791667:87.0|74,80,1.4979167:87.5|77,80,0.49791667:89.0|79,80,0.49791667:89.5|77,80,0.49791667:90.0|76,80,0.49791667:90.5|75,80,0.49791667:91.0|65,80,0.49791667:91.5|73,80,0.49791667:92.0|74,80,3.4979167:92.5|74,80,0.49791667:96.0|75,80,0.49791667:96.5|76,80,0.49791667:97.0|77,80,2.4979167:97.5|79,80,0.49791667:100.0|80,80,0.49791667:100.5|81,80,0.49791667:101.0|82,80,2.4979167:101.5|77,80,0.49791667:104.0|79,80,0.49791667:104.5|77,80,0.49791667:105.0|76,80,0.49791667:105.5|75,80,0.49791667:106.0|65,80,0.49791667:106.5|73,80,0.49791667:107.0|74,80,0.99791664:107.5|73,80,0.99791664:108.5|72,80,2.4979167:109.5|79,80,0.49791667:112.0|80,80,0.49791667:112.5|81,80,0.49791667:113.0|82,80,2.4979167:113.5|82,80,0.49791667:116.0|83,80,0.49791667:116.5|84,80,0.49791667:117.0|85,80,2.4979167:117.5|77,80,0.49791667:120.0|79,80,0.49791667:120.5|77,80,0.49791667:121.0|76,80,0.49791667:121.5|75,80,0.49791667:122.0|65,80,0.49791667:122.5|73,80,0.49791667:123.0|74,80,3.4979167:123.5|77,80,0.33125:127.0|77,80,0.33125:127.333336|77,80,0.33125:127.666664|77,80,0.49791667:128.0|65,80,3.4979167:128.5|77,80,0.49791667:132.0|79,80,0.49791667:132.5|77,80,0.49791667:133.0|76,80,0.49791667:133.5|75,80,0.49791667:134.0|65,80,0.49791667:134.5|73,80,0.49791667:135.0|74,80,1.4979167:135.5|77,80,0.49791667:137.0|79,80,0.49791667:137.5|77,80,0.49791667:138.0|76,80,0.49791667:138.5|75,80,0.49791667:139.0|65,80,0.49791667:139.5|73,80,0.49791667:140.0|74,80,3.4979167:140.5|74,80,0.49791667:384.0|75,80,0.49791667:384.5|76,80,0.49791667:385.0|77,80,2.4979167:385.5|79,80,0.49791667:388.0|80,80,0.49791667:388.5|81,80,0.49791667:389.0|82,80,2.4979167:389.5|77,80,0.49791667:392.0|79,80,0.49791667:392.5|77,80,0.49791667:393.0|76,80,0.49791667:393.5|75,80,0.49791667:394.0|65,80,0.49791667:394.5|73,80,0.49791667:395.0|74,80,0.99791664:395.5|73,80,0.99791664:396.5|72,80,2.4979167:397.5|79,80,0.49791667:400.0|80,80,0.49791667:400.5|81,80,0.49791667:401.0|82,80,2.4979167:401.5|82,80,0.49791667:404.0|83,80,0.49791667:404.5|84,80,0.49791667:405.0|85,80,2.4979167:405.5|77,80,0.49791667:408.0|79,80,0.49791667:408.5|77,80,0.49791667:409.0|76,80,0.49791667:409.5|75,80,0.49791667:410.0|65,80,0.49791667:410.5|73,80,0.49791667:411.0|74,80,3.4979167:411.5|77,80,0.33125:415.0|77,80,0.33125:415.33334|77,80,0.33125:415.66666|77,80,0.49791667:416.0|65,80,3.4979167:416.5|77,80,0.49791667:420.0|79,80,0.49791667:420.5|77,80,0.49791667:421.0|76,80,0.49791667:421.5|75,80,0.49791667:422.0|65,80,0.49791667:422.5|73,80,0.49791667:423.0|74,80,1.4979167:423.5|77,80,0.49791667:425.0|79,80,0.49791667:425.5|77,80,0.49791667:426.0|76,80,0.49791667:426.5|75,80,0.49791667:427.0|65,80,0.49791667:427.5|73,80,0.49791667:428.0|74,80,3.4979167:428.5|74,80,0.49791667:432.0|75,80,0.49791667:432.5|76,80,0.49791667:433.0|77,80,2.4979167:433.5|79,80,0.49791667:436.0|80,80,0.49791667:436.5|81,80,0.49791667:437.0|82,80,2.4979167:437.5|77,80,0.49791667:440.0|79,80,0.49791667:440.5|77,80,0.49791667:441.0|76,80,0.49791667:441.5|75,80,0.49791667:442.0|65,80,0.49791667:442.5|73,80,0.49791667:443.0|74,80,0.99791664:443.5|73,80,0.99791664:444.5|72,80,2.4979167:445.5|79,80,0.49791667:448.0|80,80,0.49791667:448.5|81,80,0.49791667:449.0|82,80,2.4979167:449.5|82,80,0.49791667:452.0|83,80,0.49791667:452.5|84,80,0.49791667:453.0|85,80,2.4979167:453.5|77,80,0.49791667:456.0|79,80,0.49791667:456.5|77,80,0.49791667:457.0|76,80,0.49791667:457.5|75,80,0.49791667:458.0|65,80,0.49791667:458.5|73,80,0.49791667:459.0|74,80,3.4979167:459.5|77,80,0.33125:463.0|77,80,0.33125:463.33334|77,80,0.33125:463.66666|77,80,0.49791667:464.0|65,80,3.4979167:464.5|77,80,0.49791667:468.0|79,80,0.49791667:468.5|77,80,0.49791667:469.0|76,80,0.49791667:469.5|75,80,0.49791667:470.0|65,80,0.49791667:470.5|73,80,0.49791667:471.0|74,80,1.4979167:471.5|77,80,0.49791667:473.0|79,80,0.49791667:473.5|77,80,0.49791667:474.0|76,80,0.49791667:474.5|75,80,0.49791667:475.0|65,80,0.49791667:475.5|73,80,0.49791667:476.0|74,80,3.4979167:476.5]</spSaveString>
       </Phrase>
     </entry>
   </spMapUserPhrases>
   <spClientPropertiesV3>
     <properties>
+      <entry>
+        <string>PropClEditorZoomFactorY</string>
+        <string>50</string>
+      </entry>
       <entry>
         <string>PropCompactViewModeVisibleRps_jjSwing-ID</string>
         <string>rpVariationID,BassStyleId,DrumsStyleId,rpIntensityID,RpFillID,rpSysMarkerID</string>
@@ -707,8 +802,12 @@
         <string>rpVariationID,rpIntensityID,RpFillID,rpSysMarkerID</string>
       </entry>
       <entry>
+        <string>PropCompactViewModeVisibleRps_MediumJazz.S737.sst-ID</string>
+        <string>rpVariationID,rpIntensityID,RpFillID,rpSysMarkerID</string>
+      </entry>
+      <entry>
         <string>PropSsEditorZoomFactorX</string>
-        <string>18</string>
+        <string>12</string>
       </entry>
       <entry>
         <string>SectionDisplayQuantization-A*4/4</string>
