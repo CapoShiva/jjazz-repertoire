@@ -1,0 +1,669 @@
+<Song resolves-to="SongSP" spName="MinorSwing-Dm-Theme" spTempo="144">
+  <spVERSION>4</spVERSION>
+  <spComments>Year:	1937
+Composer:	Django Reinhardt and Stéphane Grappelli
+Lyricist:	None — instrumental
+Form:	16-bar repeating chord progression,
+	with a short composed head and 
+                          improvised solos
+Style:	Gypsy jazz swing
+Key:	A minor
+
+“Minor Swing” was first recorded in 1937 by the Quintette
+du Hot Club de France. Its compact, repeating minor-key
+progression and opportunities for improvisation helped
+make it a signature tune of the gypsy-jazz tradition.</spComments>
+  <spTags/>
+  <spChordLeadSheet class="ChordLeadSheetImpl" resolves-to="ChordLeadSheetImplSP">
+    <spVERSION>3</spVERSION>
+    <spItems>
+      <CLI__SectionImpl resolves-to="CLI_SectionImplSP" spName="Intro" spTs="FOUR_FOUR" spBarIndex="0">
+        <spVERSION>4</spVERSION>
+        <spClientProperties>
+          <owner class="CLI_SectionImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__SectionImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="Am6" spOriginalName="Am6">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
+              <null/>
+            </ChordRenderingInfoSP>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[0:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="Dm7" spOriginalName="Dm7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
+              <null/>
+            </ChordRenderingInfoSP>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[1:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord reference="../../CLI__ChordSymbolImpl/spChord"/>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[2:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord reference="../../CLI__ChordSymbolImpl[2]/spChord"/>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[3:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord reference="../../CLI__ChordSymbolImpl/spChord"/>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[4:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord reference="../../CLI__ChordSymbolImpl[2]/spChord"/>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[5:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="E7" spOriginalName="E7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature">ACCENT,SHOT</enum-set>
+              <null/>
+            </ChordRenderingInfoSP>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[6:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord reference="../../CLI__ChordSymbolImpl/spChord"/>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[8:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord reference="../../CLI__ChordSymbolImpl[2]/spChord"/>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[9:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord reference="../../CLI__ChordSymbolImpl/spChord"/>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[10:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord reference="../../CLI__ChordSymbolImpl[2]/spChord"/>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[11:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord reference="../../CLI__ChordSymbolImpl/spChord"/>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[12:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord reference="../../CLI__ChordSymbolImpl[2]/spChord"/>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[13:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="E7" spOriginalName="E7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature">ACCENT,SHOT</enum-set>
+              <null/>
+            </ChordRenderingInfoSP>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[14:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__SectionImpl resolves-to="CLI_SectionImplSP" spName="A" spTs="FOUR_FOUR" spBarIndex="16">
+        <spVERSION>4</spVERSION>
+        <spClientProperties>
+          <owner class="CLI_SectionImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__SectionImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="Am6" spOriginalName="Am6">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
+              <null/>
+            </ChordRenderingInfoSP>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[16:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="Dm6" spOriginalName="Dm6">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
+              <null/>
+            </ChordRenderingInfoSP>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[18:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="E7" spOriginalName="E7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
+              <null/>
+            </ChordRenderingInfoSP>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[20:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="Am6" spOriginalName="Am6">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
+              <null/>
+            </ChordRenderingInfoSP>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[22:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="Dm6" spOriginalName="Dm6">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
+              <null/>
+            </ChordRenderingInfoSP>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[24:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="Am6" spOriginalName="Am6">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
+              <null/>
+            </ChordRenderingInfoSP>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[26:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="Bb7" spOriginalName="Bb7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
+              <null/>
+            </ChordRenderingInfoSP>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[28:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="E7" spOriginalName="E7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
+              <null/>
+            </ChordRenderingInfoSP>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[29:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="Am6" spOriginalName="Am6">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
+              <null/>
+            </ChordRenderingInfoSP>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[30:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="E7" spOriginalName="E7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
+              <null/>
+            </ChordRenderingInfoSP>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[31:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+    </spItems>
+    <spSize>32</spSize>
+  </spChordLeadSheet>
+  <spSongStructure class="SongStructureImpl" resolves-to="SongStructureImplSP">
+    <spVERSION>3</spVERSION>
+    <spSpts>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="FastJazz.S741.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="0" spName="Intro" spNbBars="16">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>FastJazz.S741.sst</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>[DrumsMixIdhidden#]</string>
+          </entry>
+          <entry>
+            <string>rpVariationID</string>
+            <string>Fill In AA-1</string>
+          </entry>
+          <entry>
+            <string>rpIntensityID</string>
+            <string>0</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_CustomPhraseId</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpSysMuteID</string>
+            <string>[]</string>
+          </entry>
+          <entry>
+            <string>rpSysMarkerID</string>
+            <string>theme</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpFillID</string>
+            <string>break</string>
+          </entry>
+          <entry>
+            <string>rpTempoID</string>
+            <string>100</string>
+          </entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="FastJazz.S741.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="16" spName="Chorus 1" spNbBars="16">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>FastJazz.S741.sst</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[2]"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>[DrumsMixIdhidden#]</string>
+          </entry>
+          <entry>
+            <string>rpVariationID</string>
+            <string>Main A-1</string>
+          </entry>
+          <entry>
+            <string>rpIntensityID</string>
+            <string>0</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_CustomPhraseId</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpSysMuteID</string>
+            <string>[]</string>
+          </entry>
+          <entry>
+            <string>rpSysMarkerID</string>
+            <string>theme</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpFillID</string>
+            <string>break</string>
+          </entry>
+          <entry>
+            <string>rpTempoID</string>
+            <string>100</string>
+          </entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="FastJazz.S741.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="32" spName="Chorus 2" spNbBars="16">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>FastJazz.S741.sst</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[2]"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>[DrumsMixIdhidden#]</string>
+          </entry>
+          <entry>
+            <string>rpVariationID</string>
+            <string>Main B-1</string>
+          </entry>
+          <entry>
+            <string>rpIntensityID</string>
+            <string>0</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_CustomPhraseId</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpSysMuteID</string>
+            <string>[]</string>
+          </entry>
+          <entry>
+            <string>rpSysMarkerID</string>
+            <string>solo</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpFillID</string>
+            <string>always</string>
+          </entry>
+          <entry>
+            <string>rpTempoID</string>
+            <string>100</string>
+          </entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="FastJazz.S741.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="48" spName="Chorus 3" spNbBars="16">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>FastJazz.S741.sst</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[2]"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>[DrumsMixIdhidden#]</string>
+          </entry>
+          <entry>
+            <string>rpVariationID</string>
+            <string>Main D-1</string>
+          </entry>
+          <entry>
+            <string>rpIntensityID</string>
+            <string>0</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_CustomPhraseId</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpSysMuteID</string>
+            <string>[]</string>
+          </entry>
+          <entry>
+            <string>rpSysMarkerID</string>
+            <string>solo</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpFillID</string>
+            <string>always</string>
+          </entry>
+          <entry>
+            <string>rpTempoID</string>
+            <string>100</string>
+          </entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="FastJazz.S741.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="64" spName="Chorus 4" spNbBars="16">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>FastJazz.S741.sst</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[2]"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>[DrumsMixIdhidden#]</string>
+          </entry>
+          <entry>
+            <string>rpVariationID</string>
+            <string>Main C-1</string>
+          </entry>
+          <entry>
+            <string>rpIntensityID</string>
+            <string>0</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_CustomPhraseId</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpSysMuteID</string>
+            <string>[]</string>
+          </entry>
+          <entry>
+            <string>rpSysMarkerID</string>
+            <string>solo</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpFillID</string>
+            <string>break</string>
+          </entry>
+          <entry>
+            <string>rpTempoID</string>
+            <string>100</string>
+          </entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="FastJazz.S741.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="80" spName="Outro" spNbBars="16">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>FastJazz.S741.sst</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>[DrumsMixIdhidden#]</string>
+          </entry>
+          <entry>
+            <string>rpVariationID</string>
+            <string>Fill In AA-1</string>
+          </entry>
+          <entry>
+            <string>rpIntensityID</string>
+            <string>0</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_CustomPhraseId</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpSysMuteID</string>
+            <string>[]</string>
+          </entry>
+          <entry>
+            <string>rpSysMarkerID</string>
+            <string>theme</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpFillID</string>
+            <string>break</string>
+          </entry>
+          <entry>
+            <string>rpTempoID</string>
+            <string>100</string>
+          </entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+    </spSpts>
+    <spParentCls class="ChordLeadSheetImpl" reference="../../spChordLeadSheet"/>
+    <spKeepUpdated>false</spKeepUpdated>
+  </spSongStructure>
+  <spMapUserPhrases>
+    <entry>
+      <string>User1</string>
+      <Phrase resolves-to="PhraseSP" spVERSION="2">
+        <spSaveString>[0|57,94,1.0:0.0|60,94,1.0:0.98306733|64,95,1.5:1.9936557|65,95,0.25:3.488777|64,94,0.25:3.7594097|62,95,1.0:3.9891844|65,94,0.5:4.977194|69,97,1.5:5.4848485|57,92,1.0:8.009791|60,96,1.0:9.000259|64,96,1.5:9.994234|65,93,0.25:11.47763|64,97,0.25:11.748954|62,95,1.0:11.994644|65,96,0.5:13.005096|69,94,1.5:13.486028|57,95,1.0:15.993249|60,98,1.0:16.9889|64,95,1.5:17.997738|65,91,0.25:19.506514|64,93,0.25:19.738724|62,95,1.0:19.985498|65,95,0.5:20.976559|69,93,1.5:21.490963|57,96,1.0:31.997437|60,93,1.0:32.987427|64,94,1.5:34.005104|65,96,0.25:35.51654|64,94,0.25:35.754166|62,96,1.0:36.012146|65,94,0.5:37.012154|69,96,1.5:37.486057|57,96,1.0:40.001083|60,93,1.0:40.990482|64,95,1.5:41.999737|65,91,0.25:43.48875|64,95,0.25:43.745792|62,95,1.0:43.996414|65,95,0.5:44.992085|69,94,1.5:45.486988|57,95,1.0:47.965874|60,96,1.0:49.016666|64,96,1.5:49.980827|65,95,0.25:51.486828|64,96,0.25:51.727425|62,95,1.0:52.011444|65,99,0.5:52.98318|69,92,1.5:53.504917|62,96,0.33333334:60.640232|65,94,0.3235054:60.66236|56,96,0.33333334:60.664124|72,95,0.3277626:60.66732|62,98,0.6627197:60.982307|65,95,0.6666667:60.985867|72,91,0.6666667:60.995083|56,98,0.64917374:61.00596|62,95,0.33333334:61.645027|65,94,0.33333334:61.652836|56,93,0.33333334:61.655132|72,94,0.33333334:61.67924|62,96,0.33333334:62.643444|65,93,0.33333334:62.65488|56,95,0.33000565:62.662342|72,95,0.33333334:62.678776|65,94,1.0:62.990734|56,94,1.0:62.992348|62,95,1.0:62.996616|71,95,1.0:63.004063|64,96,0.33333334:64.63001|54,93,0.33333334:64.63955|69,94,0.33333334:64.66693|60,96,0.3215027:64.67036|64,96,0.9854584:64.99146|60,97,0.99100494:64.99186|54,96,1.0:64.996994|69,95,1.0:65.001686|64,98,1.0:65.97692|60,95,1.0:65.982864|54,94,1.0:66.00669|69,95,1.0:66.01808|71,97,0.25:68.51379|69,94,0.25:68.74474|68,99,0.6666667:69.00014|69,92,0.33333334:69.67827|71,95,0.6666667:69.973114|69,93,0.33333334:70.67186|68,96,0.6666667:70.99889|71,95,0.33333334:71.648155|69,96,1.0:71.98081|65,95,0.6666667:72.98165|62,93,0.33333334:73.65085|59,100,1.0:73.9879|65,95,0.33333334:77.662445|74,94,0.6666667:77.96627|72,93,0.33333334:78.66294|71,96,0.6666667:79.011055|69,95,0.33333334:79.663|68,95,0.33333334:80.01395|69,93,0.33333334:80.333176|68,94,0.33333334:80.670204|65,94,0.6666667:80.99818|62,94,0.33333334:81.673584|59,94,1.0:82.01809|56,96,0.33333334:84.980354|59,96,0.33333334:85.338066|62,93,0.33333334:85.62591|65,94,1.0:85.99488|64,96,0.33333334:87.00356|65,95,0.33333334:87.33395|64,95,0.33333334:87.652504|60,93,0.6666667:87.99517|59,95,0.33333334:88.6837|57,96,1.0:88.99501|57,95,2.0:89.995964|69,97,0.33333334:93.65899|71,96,1.0:94.015076|72,95,0.6666667:94.989456|74,94,0.8333333:95.658424|74,94,1.5:96.50251|72,96,0.33333334:98.63975|71,96,0.6666667:98.97562|69,93,0.33333334:99.67254|71,96,1.0:99.98869|69,95,0.6666667:100.98324|68,94,0.33333334:101.65173|71,93,0.6666667:102.00937|69,95,0.33333334:102.667|65,94,0.6666667:103.005|64,96,0.33333334:103.655846|62,98,0.6666667:103.999344|60,93,0.33333334:104.67406|59,96,0.5:105.01719|64,96,1.5:105.5021|60,96,0.6666667:106.967026|57,96,0.33333334:107.6654|52,95,0.6666667:107.99196|57,94,0.33333334:108.63047|60,94,0.6666667:108.99167|64,95,0.33333334:109.65146|69,96,0.6666667:109.99758|71,94,0.33333334:110.64187|72,94,0.6666667:110.99543|69,93,0.33333334:111.6488|71,92,1.0:112.00528|66,94,0.6666667:113.00423|69,96,0.33333334:113.68813|68,99,1.0:114.00337|64,94,0.6666667:114.99528|63,96,0.33333334:115.65926|62,93,0.5:115.997696|72,94,1.5:116.497536|71,96,0.6666667:118.00382|69,93,0.33333334:118.664055|68,96,0.6666667:119.00339|71,96,0.33333334:119.662964|69,93,0.6666667:119.99166|64,93,0.33333334:120.672585|60,95,1.0:121.01419|57,96,1.0:122.001945|76,95,1.4753418:124.50756|76,94,1.0:125.9829|76,95,1.0:128.00975|71,95,0.6666667:129.00648|72,94,0.33333334:129.65654|76,93,1.0:129.97684|69,93,0.6666667:130.9823|72,97,0.33333334:131.65921|76,93,1.0:131.99715|69,95,0.6666667:132.97916|72,94,0.33333334:133.65903|76,94,0.6666667:133.98024|69,96,0.33333334:134.65358|72,93,0.6666667:135.00235|76,94,0.33333334:135.65013|77,94,0.6666667:135.99933|73,92,0.33333334:136.64655|76,93,0.6666667:136.98015|74,96,0.33333334:137.67683|69,96,0.6666667:137.9936|65,95,0.33333334:138.63948|62,94,2.0:138.99202|57,94,0.33333334:141.00938|62,96,0.33333334:141.3306|65,93,0.33333334:141.64963|76,93,1.5:141.99065|74,92,0.5:143.49097|72,97,0.6666667:143.98761|71,97,0.33333334:144.67589|69,96,0.6666667:144.97926|68,94,0.33333334:145.65955|71,96,1.5:145.98424|65,93,0.5:147.4879|62,97,1.0:147.99416|59,93,0.33333334:148.99646|58,94,0.33333334:149.31787|57,90,0.33333334:149.66187|56,97,0.6666667:149.97894|59,93,0.33333334:150.65706|62,96,0.6666667:151.02507|65,95,0.33333334:151.65869|64,95,0.6666667:152.00862|60,92,0.33333334:152.6662|57,93,1.0:152.98082|60,95,1.5:153.98152|57,97,0.5:155.50151|60,95,0.6666667:156.00233|64,96,0.33333334:156.66171|69,92,0.6666667:157.01207|72,95,0.33333334:157.64586|76,97,0.6666667:157.98517|79,96,0.6666667:158.66988|77,95,0.6666667:159.31558|71,95,2.0:159.98807|77,94,0.33333334:163.65663|81,97,1.0:163.98654|77,94,0.33333334:165.6606|74,95,0.6666667:165.97679|69,94,0.33333334:166.65222|65,97,0.6666667:166.98907|62,96,0.33333334:167.6643|64,96,2.0:168.00899|76,94,0.33333334:173.67166|76,91,0.6666667:174.02556|75,93,0.33224487:174.671|75,92,0.6666667:175.00325|74,95,0.3240204:175.66963|74,94,0.6666667:175.99365|73,93,0.33333334:176.63377|73,93,0.6666667:176.99452|72,94,0.33333334:177.65344|72,94,0.6666667:178.00735|71,94,0.31576538:178.66634|71,95,0.6666667:178.9821|69,95,0.33333334:179.65054|69,95,0.6666667:179.98434|68,95,0.30647278:180.68126|68,97,0.6666667:180.98773|65,96,0.33333334:181.65805|65,92,0.6666667:182.00046|64,93,0.33333334:182.64108|63,95,0.6666667:183.01259|64,95,0.33333334:183.65842|57,94,3.0:184.00545|64,96,0.33333334:188.66296|63,92,0.6666667:188.98671|64,95,0.33333334:189.68365|76,98,1.0:189.98848|71,94,0.6666667:191.01247|74,95,0.33333334:191.6598|72,96,0.6666667:191.99521|68,95,0.33333334:192.65753|71,95,0.6666667:192.98259|69,93,0.33333334:193.64778|64,97,2.0:193.99144|64,96,0.33333334:196.99564|65,95,0.33333334:197.32628|64,95,0.33333334:197.66396|63,93,0.6666667:197.98363|64,97,0.33333334:198.67116|65,97,0.6666667:199.00023|64,98,0.33333334:199.6737|66,97,3.0:199.98991|65,94,1.0:202.99765|59,96,3.0:203.99722|57,95,0.6666667:206.98444|57,92,0.33333334:207.65976|56,93,0.6666667:208.00659|59,96,0.33333334:208.66942|62,97,1.0:209.00111|62,98,1.0:210.0134|56,94,0.6666667:212.00319|59,93,0.33333334:212.65538|62,93,0.6666667:212.98235|65,94,0.33333334:213.6395|68,94,0.6666667:213.99577|71,90,0.33333334:214.66017|74,95,0.6666667:215.01956|77,94,0.33333334:215.66032|78,94,1.0:215.99567|71,85,0.33333334:218.67085|74,94,0.6666667:218.98936|72,96,0.33333334:219.64642|69,96,0.6666667:220.0016|72,94,0.33333334:220.65573|69,93,0.6666667:220.98233|64,92,0.33333334:221.68242|60,93,0.6666667:221.98196|64,91,0.33333334:222.65118|69,96,0.6666667:222.99663|72,95,0.33333334:223.6669|74,97,1.5:223.99562|71,98,0.4796753:225.50821|71,94,0.6666667:225.98788|72,95,0.33333334:226.68828|69,96,0.6666667:227.01105|71,94,0.33333334:227.65872|68,95,0.6666667:228.00603|71,97,0.33333334:228.67969|69,94,0.6666667:229.00217|65,95,0.33333334:229.66356|62,95,0.6666667:229.9996|60,97,0.33333334:230.66011|59,93,0.6666667:231.01453|64,96,1.8333334:231.66454|64,97,0.5:233.50484|60,99,0.6666667:233.99487|57,95,0.33333334:234.66966|52,97,1.0:234.97662|52,95,1.0:237.98221|57,95,1.0:240.98654|51,95,0.6666667:244.00807|52,97,0.33333334:244.67773|53,97,0.6666667:244.99203|52,95,0.33333334:245.63687|51,94,0.6666667:245.96469|52,94,0.33333334:246.62187|52,95,0.6666667:247.00296|52,94,0.33333334:247.68425|57,97,1.0:247.99942|52,96,0.6666667:248.9921|48,95,0.33333334:249.683|45,99,0.6666667:249.98698|45,94,0.33333334:250.65552|48,93,0.6666667:250.9955|52,97,0.33333334:251.66714|57,93,1.0:251.98778|63,97,0.33333334:253.65025|72,93,0.33333334:253.65556|57,94,0.32408142:253.65645|67,97,0.33333334:253.66269|57,94,1.0:253.98053|63,94,1.0:253.99724|72,94,0.97540283:254.00493|67,93,0.96588135:254.01378|67,95,1.0:254.97966|72,95,1.0:254.98033|63,96,1.0:255.00095|57,93,1.0:255.0075|62,99,1.0:255.98473|66,101,1.0:255.99423|71,92,1.0:256.0033|56,95,1.0:256.0083|54,94,1.0:256.96902|69,95,1.0:256.98132|60,96,1.0:256.98468|64,93,1.0:257.0015|67,94,1.0:257.99026|72,96,1.0:257.99197|57,95,1.0:257.99533|63,95,1.0:258.00775|69,92,0.32803345:259.65283|64,94,0.332489:259.6638|54,96,0.31585693:259.66647|60,98,0.3086548:259.6868|69,93,1.0:259.98087|54,95,1.0:259.98233|60,94,1.0:259.99545|64,93,1.0:259.99628|66,97,1.0:260.98492|71,93,1.0:260.9899|62,93,1.0:260.99448|56,93,1.0:261.018|57,95,1.0:261.9818|67,96,1.0:261.99478|63,95,1.0:261.99768|72,96,1.0:262.026|73,97,1.0:262.98257|58,92,1.0:262.98672|68,96,1.0:262.98923|64,96,1.0:263.00568|74,94,1.0:263.97134|59,96,1.0:263.974|65,96,1.0:263.98483|69,98,1.0:264.0049|74,94,2.0:265.99316|79,94,2.0:265.99716|70,97,2.0:266.00095|64,94,2.0:266.00333|52,95,1.0:267.97586|62,96,1.0:267.99173|67,95,1.0:267.99997|58,94,1.0:268.00604|67,96,0.33333334:270.0045|66,97,0.33333334:270.33286|65,94,0.33333334:270.6595|64,93,0.33333334:270.98053|63,98,0.33333334:271.31863|62,94,0.33333334:271.6549|61,94,0.33333334:271.9952|60,92,0.33333334:272.33368|59,96,0.33333334:272.65042|58,95,0.33333334:273.00208|57,93,0.33333334:273.32822|56,96,0.33333334:273.6541|55,95,0.33333334:273.9888|54,99,0.33333334:274.33344|53,92,0.33333334:274.67426|52,93,0.33333334:274.99725|51,96,0.33333334:275.30743|50,95,0.33333334:275.66702|49,96,0.33333334:275.98804|52,97,0.33333334:276.33008|53,94,0.33333334:276.6431|56,92,0.25:277.00128|59,92,0.25:277.24582|62,97,0.25:277.5078|65,95,0.25:277.7319|68,96,1.0:277.99857|71,95,0.6666667:278.9821|71,95,0.33333334:279.6661|69,97,0.33333334:280.6637|64,95,0.6666667:280.99222|60,96,0.33333334:281.64377|57,99,1.5:281.9989|72,92,0.33333334:284.6548|71,96,0.6666667:285.01395|69,95,0.33333334:285.6365|68,94,0.6666667:285.9936|71,95,0.33333334:286.65753|69,98,0.6666667:286.98297|65,94,0.33333334:287.67206|62,96,0.6666667:287.9742|59,91,0.33333334:288.64862|66,99,2.0:288.9895|65,97,0.6666667:291.00595|64,95,0.33333334:291.6731|59,99,0.33333334:291.9983|60,91,0.33333334:292.33328|62,98,0.33333334:292.6797|60,95,0.6666667:293.00967|59,94,0.33333334:293.66727|61,97,2.0:294.0198|60,98,0.6666667:295.97717|57,94,0.33333334:296.64053|52,92,1.0:296.9881|52,93,2.0:298.0049|51,98,1.0:302.0063|63,95,1.0:302.00888|52,93,1.0:302.99188|64,96,1.0:302.9929|65,97,1.0:303.95764|53,93,1.0:303.9859|52,94,1.0:304.99802|64,93,1.0:305.01083|59,94,1.0:305.99173|71,96,1.0:305.9978|60,97,1.0:306.97678|72,97,1.0:307.00638|62,95,1.0:307.996|74,100,1.0:308.01245|75,97,0.5:308.9968|63,95,0.5:308.99823|76,98,1.5:309.48343|64,98,1.5:309.49005|68,89,0.6666667:311.00046|56,96,0.6666667:311.01556|69,97,0.33333334:311.6498|57,96,0.33333334:311.6561|69,94,3.5:312.49158|57,96,3.5:312.50266|57,97,1.0:320.00278|60,94,1.0:320.9946|64,95,2.0:322.00385|57,95,1.0:323.97534|60,93,0.6666667:324.98795|64,94,0.8333333:325.6475|64,97,1.3333334:326.66592|62,95,1.0:328.00284|65,95,1.0:328.97443|69,96,2.0:330.01157|62,95,1.0:331.99127|65,99,0.6666667:332.9894|69,99,0.8333333:333.64978|69,94,1.3333334:334.67215|64,94,1.0:335.99716|68,95,1.0:336.97934|71,96,2.0:337.99207|64,94,1.0:339.98737|68,94,0.6666667:341.00626|71,93,0.8333333:341.64133|72,94,1.3333334:342.676|69,92,0.6666667:343.98404|64,95,0.6666667:343.9986|60,94,0.6666667:344.00354|54,96,0.6666667:344.00986|57,93,1.0:351.99423|60,95,1.0:353.01334|64,97,2.0:354.00674|57,95,1.0:355.99902|60,98,0.6666667:356.99908|64,95,0.8333333:357.6557|64,96,1.3333334:358.66577|62,93,1.0:359.9976|65,92,1.0:360.98517|69,96,2.0:361.98657|62,97,1.0:363.9711|65,98,0.6666667:364.99164|69,95,0.8333333:365.64835|69,94,1.3333334:366.6788|64,94,1.0:367.99966|68,95,1.0:368.9734|71,94,2.0:369.9847|64,95,1.0:371.99683|68,97,0.6666667:372.9808|71,100,0.8333333:373.66672|72,99,1.3333334:374.6782|64,95,0.33333334:375.9843|65,95,0.33333334:376.32654|64,94,0.33333334:376.65567|63,93,0.6666667:376.99725|64,96,0.33333334:377.66806|65,95,0.6666667:378.0017|66,95,0.33333334:378.6734|67,98,0.6666667:378.98297|68,94,0.33333334:379.66855|69,95,1.0:379.99802|45,97,2.0:381.98038|57,93,2.0:381.98105|69,95,2.0:381.988|60,94,2.0:381.9922|52,94,2.0:381.9995|66,92,1.9484863:382.00153]</spSaveString>
+      </Phrase>
+    </entry>
+  </spMapUserPhrases>
+  <spClientPropertiesV3>
+    <properties>
+      <entry>
+        <string>PropClEditorZoomFactorY</string>
+        <string>50</string>
+      </entry>
+      <entry>
+        <string>PropCompactViewModeVisibleRps_jjSwing-ID</string>
+        <string>rpVariationID,BassStyleId,DrumsStyleId,RpFillID</string>
+      </entry>
+      <entry>
+        <string>PropSsEditorZoomFactorY</string>
+        <string>50</string>
+      </entry>
+      <entry>
+        <string>PropSsEditorZoomFactorX</string>
+        <string>20</string>
+      </entry>
+      <entry>
+        <string>PropCompactViewModeVisibleRps_FastJazz.S741.sst-ID</string>
+        <string>rpVariationID,rpIntensityID,RpFillID,RpSysMuteID,rpSysMarkerID</string>
+      </entry>
+    </properties>
+    <owner class="Song" reference="../.."/>
+  </spClientPropertiesV3>
+</Song>
