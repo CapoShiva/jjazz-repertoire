@@ -1,6 +1,19 @@
 <Song resolves-to="SongSP" spName="ThereIsNoGreaterLove-Bb-Theme" spTempo="144">
   <spVERSION>4</spVERSION>
-  <spComments>Edit me...</spComments>
+  <spComments>Year:	1936
+Composer:	Isham Jones
+Lyricist:	Marty Symes
+Form:	32-bar AABA
+Style:	Swing; often performed as a ballad or
+	at a medium-up tempo
+Key:	Bb major
+
+Isham Jones and His Orchestra introduced the song in
+1936, with Woody Herman singing; it was released as
+ the B-side of “Life Begins When You’re in Love.” The
+tune became a jazz standard, with notable performances
+ranging from Dinah Washington’s ballad version to
+swinging recordings by Miles Davis.</spComments>
   <spTags/>
   <spChordLeadSheet class="ChordLeadSheetImpl" resolves-to="ChordLeadSheetImplSP">
     <spVERSION>3</spVERSION>
@@ -13,7 +26,7 @@
       </CLI__SectionImpl>
       <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
         <spVERSION>3</spVERSION>
-        <spChord resolves-to="ExtChordSymbolSP" spName="Bb" spOriginalName="Bb">
+        <spChord resolves-to="ExtChordSymbolSP" spName="BbM7" spOriginalName="BbM7">
           <spVERSION>3</spVERSION>
           <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
             <ChordRenderingInfoSP>
@@ -70,7 +83,7 @@
       </CLI__ChordSymbolImpl>
       <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
         <spVERSION>3</spVERSION>
-        <spChord resolves-to="ExtChordSymbolSP" spName="Ab7" spOriginalName="Ab7">
+        <spChord resolves-to="ExtChordSymbolSP" spName="Dm7" spOriginalName="Dm7">
           <spVERSION>3</spVERSION>
           <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
             <ChordRenderingInfoSP>
@@ -160,7 +173,16 @@
       </CLI__ChordSymbolImpl>
       <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
         <spVERSION>3</spVERSION>
-        <spChord reference="../../CLI__ChordSymbolImpl[4]/spChord"/>
+        <spChord resolves-to="ExtChordSymbolSP" spName="Dm7" spOriginalName="Dm7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
+              <null/>
+            </ChordRenderingInfoSP>
+          </spRenderingInfo>
+        </spChord>
         <spPos resolves-to="PositionSP" spVERSION="2" spPos="[14:0]"/>
         <spClientProperties>
           <owner class="CLI_ChordSymbolImpl" reference="../.."/>
@@ -396,7 +418,16 @@
       </CLI__ChordSymbolImpl>
       <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
         <spVERSION>3</spVERSION>
-        <spChord reference="../../CLI__ChordSymbolImpl[4]/spChord"/>
+        <spChord resolves-to="ExtChordSymbolSP" spName="Dm7" spOriginalName="Dm7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
+              <null/>
+            </ChordRenderingInfoSP>
+          </spRenderingInfo>
+        </spChord>
         <spPos resolves-to="PositionSP" spVERSION="2" spPos="[30:0]"/>
         <spClientProperties>
           <owner class="CLI_ChordSymbolImpl" reference="../.."/>
@@ -449,7 +480,7 @@
           <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
             <ChordRenderingInfoSP>
               <int>3</int>
-              <enum-set enum-type="Feature">ACCENT,SHOT</enum-set>
+              <enum-set enum-type="Feature"></enum-set>
               <null/>
             </ChordRenderingInfoSP>
           </spRenderingInfo>
@@ -1279,7 +1310,7 @@
       </entry>
       <entry>
         <string>PropCompactViewModeVisibleRps_Bebop.S468.sst-ID</string>
-        <string>rpVariationID,RpFillID,rpSysMarkerID</string>
+        <string>rpVariationID,rpIntensityID,RpFillID,RpSysMuteID,rpSysMarkerID</string>
       </entry>
       <entry>
         <string>PropSsEditorZoomFactorX</string>
