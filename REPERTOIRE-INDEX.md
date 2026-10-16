@@ -1,516 +1,516 @@
 # jjazz-repertoire index
 
-AanDeAmsterdamseGrachten-Cm-Theme
+AanDeAmsterdamseGrachten Cm
 
-AChildIsBorn-Bb-Theme
+AChildIsBorn Bb
 
-AfterYouveGone-G-Theme
+AfterYouveGone G
 
-AguadeBeber-Bm-theme
+AguadeBeber Bm
 
-AintMisbehavin-G-Theme
+AintMisbehavin G
 
-AliceInWonderLand-C-Theme
+AliceInWonderLand C
 
-AllBlues-G-Theme
+AllBlues G
 
-AllOfMe-C-Theme
+AllOfMe C
 
-AllorNothingatAll-Am-Theme
+AllorNothingatAll Am
 
-AllTheThingsYouAre-Ab-Theme
+AllTheThingsYouAre Ab
 
-AloneTogether-D-Theme
+AloneTogether D
 
-AngelEyes-G-Theme
+AngelEyes G
 
-ANightinTunisia-Eb-Theme
+ANightinTunisia Eb
 
-AnniversarySong-Am-Theme
+AnniversarySong Am
 
-Anouman-Dm-Theme
+Anouman Dm
 
-AprilinParis-C-Theme
+AprilinParis C
 
-AsTimeGoesBy-G-Theme
+AsTimeGoesBy G
 
-ATasteOfHoney-Dm-Theme
+ATasteOfHoney Dm
 
-AuPrivave-F-Theme
+AuPrivave F
 
-AutumnInNewYork-F-Alt-Theme
+AutumnInNewYork FAlt
 
-AutumnInNewYork-F-Theme
+AutumnInNewYork F
 
-AutumnLeaves-Em-Theme
+AutumnLeaves Em
 
-Avalon-F-Theme
+Avalon F
 
-AveMaria-A-Theme
+AveMaria A
 
-Beautifullove-Dm-Theme
+Beautifullove Dm
 
-BeiMirBisDuSchon-Am-Theme
+BeiMirBisDuSchon Am
 
-BerniesTune-Dm-Theme
+BerniesTune Dm
 
-BesameMucho-Dm-Theme
+BesameMucho Dm
 
-BilliesBounce-F-Theme
+BilliesBounce F
 
-BlackOrpheus-Theme-Am
+BlackOrpheus Am
 
-BlueBossa-Cm-Theme
+BlueBossa Cm
 
-BlueInGreen-Gm-Theme
+BlueInGreen Gm
 
-BlueMonk-Bb-Theme
+BlueMonk Bb
 
-BlueMoon-Eb-Theme
+BlueMoon Eb
 
-Bluesette-Bb-Theme
+Bluesette Bb
 
-BlueSkies-Dm-Theme
+BlueSkies Dm
 
-BodyandSoul-Eb-Theme
+BodyandSoul Eb
 
-BossaAntigua-Bb-Theme
+BossaAntigua Bb
 
-BossaDorado-Dm-Theme
+BossaDorado Dm
 
-BouncinAround-Gm-Theme
+BouncinAround Gm
 
-Brazil-G-Theme
+Brazil G
 
-ButNotForMe-A-Theme
+ButNotForMe A
 
-ByeByeBlackBird-C-Theme
+ByeByeBlackBird C
 
-CantGetOutOfThisMood-C-Theme
+CantGetOutOfThisMood C
 
-CantGetOutOfThisMood-F-Theme
+CantGetOutOfThisMood F
 
-Caravan-F-Theme
+Caravan F
 
-CestSiBon-Bb-Theme
+CestSiBon Bb
 
-Charleston-Bb-Theme
+Charleston Bb
 
-CheektoCheek-C-Theme
+CheektoCheek C
 
-ChegaDeSaudade-Dm-Theme
+ChegaDeSaudade Dm
 
-Cherokee-Bb-Theme
+Cherokee Bb
 
-Chicago-F-Theme
+Chicago F
 
-ChinatownMyChinatown-Bb-Theme
+ChinatownMyChinatown Bb
 
-ComesLove-Gm-Theme
+ComesLove Gm
 
-ConcertoDeAranjuez-Am-Alt-Theme
+ConcertoDeAranjuez AmAlt
 
-ConcertoDeAranjuez-Am-Theme
+ConcertoDeAranjuez Am
 
-Corcovado-A-Theme
+Corcovado A
 
-CryMeARiver-Bb-Theme
+CryMeARiver Bb
 
-CryMeARiver-Cm-Theme
+CryMeARiver Cm
 
-DarkEyes-A-Theme
+DarkEyes A
 
-DaysOfWineAndRoses-F-Theme
+DaysOfWineAndRoses F
 
-Desafinado-F-Theme
+Desafinado F
 
-Dindi-Eb-Theme
+Dindi Eb
 
-Dinette-Ab-Theme
+Dinette Ab
 
-Django-Fm-Theme
+Django Fm
 
-DonnaLee-Ab-Theme
+DonnaLee Ab
 
-DreamALittleDreamOfMe-D-Theme
+DreamALittleDreamOfMe D
 
-DukesPlace-C-Theme
+DukesPlace C
 
-EmbraceableYou-Eb-Theme
+EmbraceableYou Eb
 
-EmbraceableYou-F-Theme
+EmbraceableYou F
 
-Estate-Cm-Theme
+Estate Cm
 
-FlintStonesTheme-Bb-Theme
+FlintStones Bb
 
-FlyMeToTheMoon-Am-Theme
+FlyMeToTheMoon Am
 
-FlyMeToTheMoon-Fm-Theme
+FlyMeToTheMoon Fm
 
-ForSephora-Em-Theme
+ForSephora Em
 
-Four-Eb-Theme
+Four Eb
 
-FreddyFreeloader-Bb-Theme
+FreddyFreeloader Bb
 
-FunkInDeepFreeze-F-Theme
+FunkInDeepFreeze F
 
-GentleRain-Am-Theme
+GentleRain Am
 
-GiantSteps-B-Theme
+GiantSteps B
 
-GodBlessTheChild-Eb-Theme
+GodBlessTheChild Eb
 
-Greensleeves-Am-Theme
+Greensleeves Am
 
-HaveYouMetMissJones-F-Theme
+HaveYouMetMissJones F
 
-HaveYourselfAMerryLittleChristmas-C-Theme_JA_
+HaveYourselfAMerryLittleChristmas C_JA_
 
-HaveYourselfAMerryLittleChristmas-F-Theme
+HaveYourselfAMerryLittleChristmas F
 
-HelloDolly-Bb-Theme
+HelloDolly Bb
 
-HoneySuclkleRose-Ab-Theme
+HoneySuclkleRose Ab
 
-HoneySuclkleRose-F-Theme
+HoneySuclkleRose F
 
-HowDeepIsTheOcean-C-Theme
+HowDeepIsTheOcean C
 
-HowHighTheMoon-G-Theme
+HowHighTheMoon G
 
-HowInsensitive-Dm-Theme
+HowInsensitive Dm
 
-ICantGiveYouAnythingButLove-G-Theme
+ICantGiveYouAnythingButLove G
 
-ICouldWriteABook-G-Theme
+ICouldWriteABook G
 
-ICoverTheWaterfront-G-Theme
+ICoverTheWaterfront G
 
-IFallInLoveTooEasily-Eb-Theme
+IFallInLoveTooEasily Eb
 
-IFoundANewBaby-Dm-Theme
+IFoundANewBaby Dm
 
-IllSeeYouInMyDreams-Bb-Theme
+IllSeeYouInMyDreams Bb
 
-ImAFoolToWantYou-Bb-Theme
+ImAFoolToWantYou Bb
 
-ImBeginningToSeeTheLight-G-Theme
+ImBeginningToSeeTheLight G
 
-ImConfessin-G-Theme
+ImConfessin G
 
-ImInTheMoodForLove-C-Theme
+ImInTheMoodForLove C
 
-ImInTheMoodForLove-G-Theme
+ImInTheMoodForLove G
 
-InASentimentalMood-F-Theme
+InASentimentalMood F
 
-InASentimentalMood-G-Theme
+InASentimentalMood G
 
-Indifference-Em-Theme
+Indifference Em
 
-Invitation-G-Theme
+Invitation G
 
-InYourOwnSweetWay-Eb-Theme
+InYourOwnSweetWay Eb
 
-ISurrenderDear-C-Theme
+ISurrenderDear C
 
-ItAintNecessarilySo-Gm-Theme
+ItAintNecessarilySo Gm
 
-ItCouldHappenToYou-Bb-Theme
+ItCouldHappenToYou Bb
 
-ItDontMeanAThing-G-Theme
+ItDontMeanAThing G
 
-IThoughtAboutYou-C-Theme
+IThoughtAboutYou C
 
-ItsBeginningToLookLikeChristmas-Ab-Theme
+ItsBeginningToLookLikeChristmas Ab
 
-ItsTheMostWonderfulTimeOfTheYear-C-Theme
+ItsTheMostWonderfulTimeOfTheYear C
 
-IveGotMyLoveToKeepMeWarm-C-Theme
+IveGotMyLoveToKeepMeWarm C
 
-IveGotMyLoveToKeepMeWarm-Eb-Theme
+IveGotMyLoveToKeepMeWarm Eb
 
-IveGotMyLoveToKeepMeWarm-JJ-Eb-Theme
+IveGotMyLoveToKeepMeWarm JJEb
 
-IveGotRhythm-Bb-Theme
+IveGotRhythm Bb
 
-IWillWaitForYou-Dm-Theme
+IWillWaitForYou Dm
 
-IWishYouLove-Ebm-Theme
+IWishYouLove Ebm
 
-JustFriends-Bb-Theme
+JustFriends Bb
 
-LadyBeGood-G-Theme
+LadyBeGood G
 
-LadyBird-C-Theme
+LadyBird C
 
-LaVieEnRose-C-Theme
+LaVieEnRose C
 
-LetItSnow-B-Theme_JA
+LetItSnow B_JA
 
-LetItSnow-F-Theme_JA_
+LetItSnow F_JA_
 
-LetItSnow-F-Theme
+LetItSnow F
 
-Libertango-AstorPiazzolla-Am-Theme
+Libertango AstorPiazzollaAm
 
-LikeSomeoneInLove-C-Theme
+LikeSomeoneInLove C
 
-LimehouseBlues-Db-Theme
+LimehouseBlues Db
 
-LoveForSale-Eb-Theme-jl
+LoveForSale Ebjl
 
-LoveForSale-Eb-Theme
+LoveForSale Eb
 
-Loverman-Dm-Theme
+Loverman Dm
 
-LullabyofBirdland-Fm-Theme
+LullabyofBirdland Fm
 
-LullabyOfTheLeaves-Cm-Theme
+LullabyOfTheLeaves Cm
 
-MackTheKnife-G-Theme
+MackTheKnife G
 
-MakinWhoopee-Eb-Theme
+MakinWhoopee Eb
 
-Meditation-C-Theme
+Meditation C
 
-Menilmontant-G-Theme
+Menilmontant G
 
-MinorSwing-Dm-Theme
+MinorSwing Dm
 
-Misirlou-E-Theme-Raga
+Misirlou ERaga
 
-Misirlou-E-Theme
+Misirlou E
 
-MistigeRooieBeest-Cm-Theme
+MistigeRooieBeest Cm
 
-Misty-Eb-Theme
+Misty Eb
 
-MoodIndigo-Bb-Theme
+MoodIndigo Bb
 
-MoonDance-Am-Theme
+MoonDance Am
 
-MoonGlow-G-Theme
+MoonGlow G
 
-MoonlightInVermont-Eb-Theme
+MoonlightInVermont Eb
 
-MoonRiver-C-Theme
+MoonRiver C
 
-MyBlueHeaven-Eb-Theme
+MyBlueHeaven Eb
 
-MyFavoritThings-Em-Theme
+MyFavoritThings Em
 
-MyFunnyValentine-Theme
+MyFunnyValentine 
 
-MyRomance-Bb-Theme
+MyRomance Bb
 
-NatureBoy-Cm-Theme
+NatureBoy Cm
 
-NightAndDay-C-Theme
+NightAndDay C
 
-NonHoLeta-F-Theme
+NonHoLeta F
 
-NowsTheTime-F-Theme
+NowsTheTime F
 
-Nuages-G-Theme
+Nuages G
 
-Oblivion-Cm-Theme
+Oblivion Cm
 
-OnASlowBoatToChina-Bb-Theme
+OnASlowBoatToChina Bb
 
-OneNoteSamba-Dm-Theme
+OneNoteSamba Dm
 
-OnGreenDolphinStreet-Eb-Theme
+OnGreenDolphinStreet Eb
 
-OntheSunnyoftheStreet-C-Theme
+OntheSunnyoftheStreet C
 
-OutOfNoWhere-G-Theme
+OutOfNoWhere G
 
-OverTheRainbow-Eb-Theme
+OverTheRainbow Eb
 
-PentUpHouse-G-Theme
+PentUpHouse G
 
-Perdido-Bb-Theme
+Perdido Bb
 
-PetiteFleur-Dm-Theme2
+PetiteFleur Dm2
 
-PetiteFleur-Dm-Theme2-Tango
+PetiteFleur Dm2Tango
 
-PetiteFleur-Dm-Theme
+PetiteFleur Dm
 
-PinkPanterTheme-Em-Theme
+PinkPanter EmTheme
 
-PolkadotsandMoonbeams-F-Theme
+PolkadotsandMoonbeams F
 
-PuttinOnTheRitz-Am-Theme
+PuttinOnTheRitz Am
 
-RecadoBossaNova-Gm-Theme
+RecadoBossaNova Gm
 
-RoseRoom-Ab-Theme
+RoseRoom Ab
 
-RoundMidnight-Bbm-Theme
+RoundMidnight Bbm
 
-SaintJamesInfirmary-Dm-Theme
+SaintJamesInfirmary Dm
 
-SambaCantina-Fm-Theme
+SambaCantina Fm
 
-SantaClausIsComingToTown-Bb-Theme_JA_
+SantaClausIsComingToTown Bb_JA_
 
-SantaClausIsComingToTown-C-Theme_JA_
+SantaClausIsComingToTown C_JA_
 
-SatinDoll-C-Theme
+SatinDoll C
 
-SeptemberSong-C-Theme
+SeptemberSong C
 
-SeulCeSoir-C-Theme
+SeulCeSoir C
 
-ShinyStockings-Bb-Theme
+ShinyStockings Bb
 
-SleighRide-C-Theme
+SleighRide C
 
-SleighRide-G-Theme
+SleighRide G
 
-SleighRide-JA-Db-Theme
+SleighRide JADb
 
-SleighRide-JA-G-Theme
+SleighRide JAG
 
-Smile-F-Theme
+Smile F
 
-SoDancoSamba-C-Theme
+SoDancoSamba C
 
-SoftlyAsInAMorningSunrise-C-Theme
+SoftlyAsInAMorningSunrise C
 
-Solar-Cm-Theme
+Solar Cm
 
-SomeDayMyPrinceWillCome-Bb-Theme
+SomeDayMyPrinceWillCome Bb
 
-SomeOfTheseDays-G-Theme
+SomeOfTheseDays G
 
-SomeonetoWatchOverMe-Ab-Theme
+SomeonetoWatchOverMe Ab
 
-SongeDautomne-C-Theme
+SongeDautomne C
 
-SophisticatedLady-Bb-Theme
+SophisticatedLady Bb
 
-SousLeCielDeParis-Dm-Theme
+SousLeCielDeParis Dm
 
-Stardust-NRB-G-Theme
+Stardust NRBG
 
-StellaByStarlight-Bb-Theme-NewRealII
+StellaByStarlight BbNewRealII
 
-StellaByStarlight-Bb-Theme
+StellaByStarlight Bb
 
-StompinAtTheSavoy-Db-Theme
+StompinAtTheSavoy Db
 
-StormyWeather-Eb-Theme
+StormyWeather Eb
 
-StraightStraightNoChaser-F-Theme
+StraightStraightNoChaser F
 
-StThomas-C-Theme
+StThomas C
 
-Sugar-C-Theme
+Sugar C
 
-SummerTime-Am-Theme
+SummerTime Am
 
-Sunny-Theme
+Sunny 
 
-Sway-Gm-Theme
+Sway Gm
 
-SweetChorus-G-Theme
+SweetChorus G
 
-SweetGeorgiaBrown-F-Theme
+SweetGeorgiaBrown F
 
-SweetGeorgieFame-C-Theme
+SweetGeorgieFame C
 
-SweetSue-G-Theme
+SweetSue G
 
-Swing42-C-Theme
+Swing42 C
 
-TakeTen-Dm-Theme
+TakeTen Dm
 
-TakeTheATrain-C-Theme
+TakeTheATrain C
 
-TeaForTwo-Bb-Theme
+TeaForTwo Bb
 
-Tenderly-Eb-Theme
+Tenderly Eb
 
-ThatOldFeeling-C-Theme
+ThatOldFeeling C
 
-TheChrismasSong-Bb-Theme
+TheChrismasSong Bb
 
-TheChrismasSong-Bb-Theme-V2
+TheChrismasSong BbV2
 
-TheChrismasSong-Eb-Theme
+TheChrismasSong Eb
 
-TheGirlFromIpanema-F-Theme
+TheGirlFromIpanema F
 
-TheLookOfLove-Am-Theme
+TheLookOfLove Am
 
-TheLookOfLove-Dm-Theme
+TheLookOfLove Dm
 
-TheManILove-Eb-Theme
+TheManILove Eb
 
-ThemThereEyes-Ab-Theme
+ThemThereEyes Ab
 
-TheNearnessOfYou-Bb-Theme
+TheNearnessOfYou Bb
 
-ThereIsNoGreaterLove-Bb-Theme
+ThereIsNoGreaterLove Bb
 
-ThereWillNeverBeAnotherYou-Eb-Theme
+ThereWillNeverBeAnotherYou Eb
 
-TheShadowOfYourSmile-F#m-Theme
+TheShadowOfYourSmile F#m
 
-TheSheikofAraby-Bb-Theme
+TheSheikofAraby Bb
 
-ThisMasquerade-Fm-Theme
+ThisMasquerade Fm
 
-Triste-Bb-Theme
+Triste Bb
 
-TroublantBolero-E-Theme
+TroublantBolero E
 
-TurksFruit-F-Theme
+TurksFruit F
 
-Undecided-C-Theme
+Undecided C
 
-VoceAbusou-C-Theme
+VoceAbusou C
 
-Volare-Bb-Theme
+Volare Bb
 
-WatermelonMan-F-Theme
+WatermelonMan F
 
-Wave-Dm-Theme
+Wave Dm
 
-WavesOfTheDanube-B-Theme
+WavesOfTheDanube B
 
-WavesOfTheDanube-E-Theme
+WavesOfTheDanube E
 
-WhatADifferenceADayMakes-Bb-Theme
+WhatADifferenceADayMakes Bb
 
-WhatAWonderfulWorld-F-Theme
+WhatAWonderfulWorld F
 
-WhenSunnyGetsBlue-F-Theme
+WhenSunnyGetsBlue F
 
-WhiteChristmas-C-Theme
+WhiteChristmas C
 
-WillowWeepForMe-A-Theme
+WillowWeepForMe A
 
-WillowWeepForMe-G-Theme
+WillowWeepForMe G
 
-WinterWonderLand-Bb-Theme
+WinterWonderLand Bb
 
-WinterWonderLand-Eb-Theme_JA_
+WinterWonderLand Eb_JA_
 
-WinterWonderLand-F-Theme
+WinterWonderLand F
 
-WorkSong-Fm-Theme
+WorkSong Fm
 
-Yesterdays-Theme-Dm
+Yesterdays Dm
 
-YoudBeSoNiceToComeHomeTo-Am-Theme
+YoudBeSoNiceToComeHomeTo Am
 
-YoudBeSoNiceToComeHomeTo-Em-Theme
+YoudBeSoNiceToComeHomeTo Em
 
-YouDontKnowWhatLoveIs-Fm-Theme
+YouDontKnowWhatLoveIs Fm
 
