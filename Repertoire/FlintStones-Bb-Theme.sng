@@ -1,0 +1,1738 @@
+<Song resolves-to="SongSP" spName="FlintStonesTheme-Bb-Theme" spTempo="200">
+  <spVERSION>4</spVERSION>
+  <spComments>Edit me...</spComments>
+  <spTags/>
+  <spChordLeadSheet class="ChordLeadSheetImpl" resolves-to="ChordLeadSheetImplSP">
+    <spVERSION>3</spVERSION>
+    <spItems>
+      <CLI__SectionImpl resolves-to="CLI_SectionImplSP" spName="Intro" spTs="FOUR_FOUR" spBarIndex="0">
+        <spVERSION>4</spVERSION>
+        <spClientProperties>
+          <properties>
+            <entry>
+              <string>PropSectionQuantization</string>
+              <string>ONE_THIRD_BEAT</string>
+            </entry>
+          </properties>
+          <owner class="CLI_SectionImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__SectionImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="Bb7" spOriginalName="Bb7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
+              <null/>
+            </ChordRenderingInfoSP>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[0:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__SectionImpl resolves-to="CLI_SectionImplSP" spName="A1" spTs="FOUR_FOUR" spBarIndex="4">
+        <spVERSION>4</spVERSION>
+        <spClientProperties>
+          <properties>
+            <entry>
+              <string>PropSectionQuantization</string>
+              <string>ONE_THIRD_BEAT</string>
+            </entry>
+          </properties>
+          <owner class="CLI_SectionImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__SectionImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="BbM7" spOriginalName="BbMaj7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
+              <null/>
+            </ChordRenderingInfoSP>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[4:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="Gm7" spOriginalName="Gmi7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
+              <null/>
+            </ChordRenderingInfoSP>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[4:2]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="Cm7" spOriginalName="Cmi7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
+              <null/>
+            </ChordRenderingInfoSP>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[5:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="F7" spOriginalName="F7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
+              <null/>
+            </ChordRenderingInfoSP>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[5:2]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord reference="../../CLI__ChordSymbolImpl[2]/spChord"/>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[6:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord reference="../../CLI__ChordSymbolImpl[3]/spChord"/>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[6:2]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord reference="../../CLI__ChordSymbolImpl[4]/spChord"/>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[7:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord reference="../../CLI__ChordSymbolImpl[5]/spChord"/>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[7:2]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord reference="../../CLI__ChordSymbolImpl[2]/spChord"/>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[8:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord reference="../../CLI__ChordSymbolImpl[3]/spChord"/>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[8:2]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord reference="../../CLI__ChordSymbolImpl[4]/spChord"/>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[9:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord reference="../../CLI__ChordSymbolImpl[5]/spChord"/>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[9:2]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord reference="../../CLI__ChordSymbolImpl[2]/spChord"/>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[10:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord reference="../../CLI__ChordSymbolImpl[3]/spChord"/>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[10:2]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord reference="../../CLI__ChordSymbolImpl[4]/spChord"/>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[11:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord reference="../../CLI__ChordSymbolImpl[5]/spChord"/>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[11:2]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__SectionImpl resolves-to="CLI_SectionImplSP" spName="A2" spTs="FOUR_FOUR" spBarIndex="12">
+        <spVERSION>4</spVERSION>
+        <spClientProperties>
+          <properties>
+            <entry>
+              <string>PropSectionQuantization</string>
+              <string>ONE_THIRD_BEAT</string>
+            </entry>
+          </properties>
+          <owner class="CLI_SectionImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__SectionImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord reference="../../CLI__ChordSymbolImpl[2]/spChord"/>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[12:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord reference="../../CLI__ChordSymbolImpl[3]/spChord"/>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[12:2]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord reference="../../CLI__ChordSymbolImpl[4]/spChord"/>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[13:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord reference="../../CLI__ChordSymbolImpl[5]/spChord"/>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[13:2]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord reference="../../CLI__ChordSymbolImpl[2]/spChord"/>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[14:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord reference="../../CLI__ChordSymbolImpl[3]/spChord"/>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[14:2]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord reference="../../CLI__ChordSymbolImpl[4]/spChord"/>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[15:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord reference="../../CLI__ChordSymbolImpl[5]/spChord"/>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[15:2]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord reference="../../CLI__ChordSymbolImpl[2]/spChord"/>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[16:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord reference="../../CLI__ChordSymbolImpl[3]/spChord"/>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[16:2]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord reference="../../CLI__ChordSymbolImpl[4]/spChord"/>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[17:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord reference="../../CLI__ChordSymbolImpl[5]/spChord"/>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[17:2]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord reference="../../CLI__ChordSymbolImpl[2]/spChord"/>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[18:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__SectionImpl resolves-to="CLI_SectionImplSP" spName="B" spTs="FOUR_FOUR" spBarIndex="20">
+        <spVERSION>4</spVERSION>
+        <spClientProperties>
+          <properties>
+            <entry>
+              <string>PropSectionQuantization</string>
+              <string>ONE_THIRD_BEAT</string>
+            </entry>
+          </properties>
+          <owner class="CLI_SectionImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__SectionImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="D7" spOriginalName="D7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
+              <null/>
+            </ChordRenderingInfoSP>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[20:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="G7" spOriginalName="G7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
+              <null/>
+            </ChordRenderingInfoSP>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[22:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="C7" spOriginalName="C7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
+              <null/>
+            </ChordRenderingInfoSP>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[24:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord resolves-to="ExtChordSymbolSP" spName="F7" spOriginalName="F7">
+          <spVERSION>3</spVERSION>
+          <spRenderingInfo resolves-to="ChordRenderingInfoSP" serialization="custom">
+            <ChordRenderingInfoSP>
+              <int>3</int>
+              <enum-set enum-type="Feature"></enum-set>
+              <null/>
+            </ChordRenderingInfoSP>
+          </spRenderingInfo>
+        </spChord>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[26:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__SectionImpl resolves-to="CLI_SectionImplSP" spName="A3" spTs="FOUR_FOUR" spBarIndex="28">
+        <spVERSION>4</spVERSION>
+        <spClientProperties>
+          <properties>
+            <entry>
+              <string>PropSectionQuantization</string>
+              <string>ONE_THIRD_BEAT</string>
+            </entry>
+          </properties>
+          <owner class="CLI_SectionImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__SectionImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord reference="../../CLI__ChordSymbolImpl[2]/spChord"/>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[28:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord reference="../../CLI__ChordSymbolImpl[3]/spChord"/>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[28:2]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord reference="../../CLI__ChordSymbolImpl[4]/spChord"/>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[29:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord reference="../../CLI__ChordSymbolImpl[5]/spChord"/>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[29:2]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord reference="../../CLI__ChordSymbolImpl[2]/spChord"/>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[30:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord reference="../../CLI__ChordSymbolImpl[3]/spChord"/>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[30:2]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord reference="../../CLI__ChordSymbolImpl[4]/spChord"/>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[31:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord reference="../../CLI__ChordSymbolImpl[5]/spChord"/>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[31:2]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord reference="../../CLI__ChordSymbolImpl[2]/spChord"/>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[32:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord reference="../../CLI__ChordSymbolImpl[3]/spChord"/>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[32:2]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord reference="../../CLI__ChordSymbolImpl[4]/spChord"/>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[33:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord reference="../../CLI__ChordSymbolImpl[5]/spChord"/>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[33:2]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord reference="../../CLI__ChordSymbolImpl[2]/spChord"/>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[34:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__SectionImpl resolves-to="CLI_SectionImplSP" spName="A3-OUT" spTs="FOUR_FOUR" spBarIndex="36">
+        <spVERSION>4</spVERSION>
+        <spClientProperties>
+          <properties>
+            <entry>
+              <string>PropSectionQuantization</string>
+              <string>ONE_THIRD_BEAT</string>
+            </entry>
+          </properties>
+          <owner class="CLI_SectionImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__SectionImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord reference="../../CLI__ChordSymbolImpl[2]/spChord"/>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[36:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord reference="../../CLI__ChordSymbolImpl[3]/spChord"/>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[36:2]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord reference="../../CLI__ChordSymbolImpl[4]/spChord"/>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[37:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord reference="../../CLI__ChordSymbolImpl[5]/spChord"/>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[37:2]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord reference="../../CLI__ChordSymbolImpl[2]/spChord"/>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[38:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord reference="../../CLI__ChordSymbolImpl[3]/spChord"/>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[38:2]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord reference="../../CLI__ChordSymbolImpl[4]/spChord"/>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[39:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord reference="../../CLI__ChordSymbolImpl[5]/spChord"/>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[39:2]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord reference="../../CLI__ChordSymbolImpl[2]/spChord"/>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[40:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord reference="../../CLI__ChordSymbolImpl[3]/spChord"/>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[40:2]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord reference="../../CLI__ChordSymbolImpl[4]/spChord"/>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[41:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord reference="../../CLI__ChordSymbolImpl[5]/spChord"/>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[41:2]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord reference="../../CLI__ChordSymbolImpl[2]/spChord"/>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[42:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord reference="../../CLI__ChordSymbolImpl[3]/spChord"/>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[42:2]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord reference="../../CLI__ChordSymbolImpl[4]/spChord"/>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[43:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord reference="../../CLI__ChordSymbolImpl[5]/spChord"/>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[43:2]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord reference="../../CLI__ChordSymbolImpl[2]/spChord"/>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[44:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord reference="../../CLI__ChordSymbolImpl[3]/spChord"/>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[44:2]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord reference="../../CLI__ChordSymbolImpl[4]/spChord"/>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[45:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord reference="../../CLI__ChordSymbolImpl[5]/spChord"/>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[45:2]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+      <CLI__ChordSymbolImpl resolves-to="CLI_ChordSymbolSP">
+        <spVERSION>3</spVERSION>
+        <spChord reference="../../CLI__ChordSymbolImpl[2]/spChord"/>
+        <spPos resolves-to="PositionSP" spVERSION="2" spPos="[46:0]"/>
+        <spClientProperties>
+          <owner class="CLI_ChordSymbolImpl" reference="../.."/>
+        </spClientProperties>
+      </CLI__ChordSymbolImpl>
+    </spItems>
+    <spSize>48</spSize>
+  </spChordLeadSheet>
+  <spSongStructure class="SongStructureImpl" resolves-to="SongStructureImplSP">
+    <spVERSION>3</spVERSION>
+    <spSpts>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="FastJazz.S741.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="0" spName="Intro" spNbBars="4">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>FastJazz.S741.sst</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>[DrumsMixIdhidden#]</string>
+          </entry>
+          <entry>
+            <string>rpVariationID</string>
+            <string>Main A-1</string>
+          </entry>
+          <entry>
+            <string>rpIntensityID</string>
+            <string>0</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_CustomPhraseId</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpSysMuteID</string>
+            <string>[Chord2]</string>
+          </entry>
+          <entry>
+            <string>rpSysMarkerID</string>
+            <string>theme</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpFillID</string>
+            <string>break</string>
+          </entry>
+          <entry>
+            <string>rpTempoID</string>
+            <string>100</string>
+          </entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="FastJazz.S741.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="4" spName="Chorus 1" spNbBars="8">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>FastJazz.S741.sst</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[2]"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>[DrumsMixIdhidden#]</string>
+          </entry>
+          <entry>
+            <string>rpVariationID</string>
+            <string>Main A-1</string>
+          </entry>
+          <entry>
+            <string>rpIntensityID</string>
+            <string>0</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_CustomPhraseId</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpSysMuteID</string>
+            <string>[Chord2,Chord1]</string>
+          </entry>
+          <entry>
+            <string>rpSysMarkerID</string>
+            <string>theme</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpFillID</string>
+            <string>always</string>
+          </entry>
+          <entry>
+            <string>rpTempoID</string>
+            <string>100</string>
+          </entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="FastJazz.S741.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="12" spName="Chorus 1" spNbBars="8">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>FastJazz.S741.sst</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[3]"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>[DrumsMixIdhidden#]</string>
+          </entry>
+          <entry>
+            <string>rpVariationID</string>
+            <string>Main A-1</string>
+          </entry>
+          <entry>
+            <string>rpIntensityID</string>
+            <string>0</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_CustomPhraseId</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpSysMuteID</string>
+            <string>[Chord2,Chord1]</string>
+          </entry>
+          <entry>
+            <string>rpSysMarkerID</string>
+            <string>theme</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpFillID</string>
+            <string>always</string>
+          </entry>
+          <entry>
+            <string>rpTempoID</string>
+            <string>100</string>
+          </entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="FastJazz.S741.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="20" spName="Chorus 1" spNbBars="8">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>FastJazz.S741.sst</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[4]"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>[DrumsMixIdhidden#]</string>
+          </entry>
+          <entry>
+            <string>rpVariationID</string>
+            <string>Main B-1</string>
+          </entry>
+          <entry>
+            <string>rpIntensityID</string>
+            <string>0</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_CustomPhraseId</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpSysMuteID</string>
+            <string>[Chord2,Chord1]</string>
+          </entry>
+          <entry>
+            <string>rpSysMarkerID</string>
+            <string>theme</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpFillID</string>
+            <string>always</string>
+          </entry>
+          <entry>
+            <string>rpTempoID</string>
+            <string>100</string>
+          </entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="FastJazz.S741.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="28" spName="Chorus 1" spNbBars="8">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>FastJazz.S741.sst</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[5]"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>[DrumsMixIdhidden#]</string>
+          </entry>
+          <entry>
+            <string>rpVariationID</string>
+            <string>Main A-1</string>
+          </entry>
+          <entry>
+            <string>rpIntensityID</string>
+            <string>1</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_CustomPhraseId</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpSysMuteID</string>
+            <string>[Chord2,Chord1]</string>
+          </entry>
+          <entry>
+            <string>rpSysMarkerID</string>
+            <string>theme</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpFillID</string>
+            <string>break</string>
+          </entry>
+          <entry>
+            <string>rpTempoID</string>
+            <string>100</string>
+          </entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="FastJazz.S741.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="36" spName="Chorus 2" spNbBars="8">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>FastJazz.S741.sst</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[2]"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>[DrumsMixIdhidden#]</string>
+          </entry>
+          <entry>
+            <string>rpVariationID</string>
+            <string>Main B-1</string>
+          </entry>
+          <entry>
+            <string>rpIntensityID</string>
+            <string>2</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_CustomPhraseId</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpSysMuteID</string>
+            <string>[Chord2]</string>
+          </entry>
+          <entry>
+            <string>rpSysMarkerID</string>
+            <string>solo</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpFillID</string>
+            <string>always</string>
+          </entry>
+          <entry>
+            <string>rpTempoID</string>
+            <string>100</string>
+          </entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="FastJazz.S741.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="44" spName="Chorus 2" spNbBars="8">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>FastJazz.S741.sst</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[3]"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>[DrumsMixIdhidden#]</string>
+          </entry>
+          <entry>
+            <string>rpVariationID</string>
+            <string>Main B-1</string>
+          </entry>
+          <entry>
+            <string>rpIntensityID</string>
+            <string>2</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_CustomPhraseId</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpSysMuteID</string>
+            <string>[Chord2]</string>
+          </entry>
+          <entry>
+            <string>rpSysMarkerID</string>
+            <string>solo</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpFillID</string>
+            <string>random</string>
+          </entry>
+          <entry>
+            <string>rpTempoID</string>
+            <string>100</string>
+          </entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="FastJazz.S741.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="52" spName="Chorus 2" spNbBars="8">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>FastJazz.S741.sst</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[4]"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>[DrumsMixIdhidden#]</string>
+          </entry>
+          <entry>
+            <string>rpVariationID</string>
+            <string>Main C-1</string>
+          </entry>
+          <entry>
+            <string>rpIntensityID</string>
+            <string>2</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_CustomPhraseId</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpSysMuteID</string>
+            <string>[Chord2]</string>
+          </entry>
+          <entry>
+            <string>rpSysMarkerID</string>
+            <string>solo</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpFillID</string>
+            <string>always</string>
+          </entry>
+          <entry>
+            <string>rpTempoID</string>
+            <string>100</string>
+          </entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="FastJazz.S741.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="60" spName="Chorus 2" spNbBars="8">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>FastJazz.S741.sst</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[5]"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>[DrumsMixIdhidden#]</string>
+          </entry>
+          <entry>
+            <string>rpVariationID</string>
+            <string>Main B-1</string>
+          </entry>
+          <entry>
+            <string>rpIntensityID</string>
+            <string>2</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_CustomPhraseId</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpSysMuteID</string>
+            <string>[Chord2]</string>
+          </entry>
+          <entry>
+            <string>rpSysMarkerID</string>
+            <string>solo</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpFillID</string>
+            <string>random</string>
+          </entry>
+          <entry>
+            <string>rpTempoID</string>
+            <string>100</string>
+          </entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="FastJazz.S741.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="68" spName="Chorus 3" spNbBars="8">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>FastJazz.S741.sst</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[2]"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>[DrumsMixIdhidden#]</string>
+          </entry>
+          <entry>
+            <string>rpVariationID</string>
+            <string>Main C-1</string>
+          </entry>
+          <entry>
+            <string>rpIntensityID</string>
+            <string>2</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_CustomPhraseId</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpSysMuteID</string>
+            <string>[Chord2,Chord1]</string>
+          </entry>
+          <entry>
+            <string>rpSysMarkerID</string>
+            <string>solo2</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpFillID</string>
+            <string>always</string>
+          </entry>
+          <entry>
+            <string>rpTempoID</string>
+            <string>100</string>
+          </entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="FastJazz.S741.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="76" spName="Chorus 3" spNbBars="8">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>FastJazz.S741.sst</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[3]"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>[DrumsMixIdhidden#]</string>
+          </entry>
+          <entry>
+            <string>rpVariationID</string>
+            <string>Main C-1</string>
+          </entry>
+          <entry>
+            <string>rpIntensityID</string>
+            <string>4</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_CustomPhraseId</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpSysMuteID</string>
+            <string>[Chord2,Chord1]</string>
+          </entry>
+          <entry>
+            <string>rpSysMarkerID</string>
+            <string>solo2</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpFillID</string>
+            <string>random</string>
+          </entry>
+          <entry>
+            <string>rpTempoID</string>
+            <string>100</string>
+          </entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="FastJazz.S741.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="84" spName="Chorus 3" spNbBars="8">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>FastJazz.S741.sst</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[4]"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>[DrumsMixIdhidden#]</string>
+          </entry>
+          <entry>
+            <string>rpVariationID</string>
+            <string>Main D-1</string>
+          </entry>
+          <entry>
+            <string>rpIntensityID</string>
+            <string>4</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_CustomPhraseId</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpSysMuteID</string>
+            <string>[Chord2,Chord1]</string>
+          </entry>
+          <entry>
+            <string>rpSysMarkerID</string>
+            <string>solo2</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpFillID</string>
+            <string>always</string>
+          </entry>
+          <entry>
+            <string>rpTempoID</string>
+            <string>100</string>
+          </entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="FastJazz.S741.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="92" spName="Chorus 3" spNbBars="8">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>FastJazz.S741.sst</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[5]"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>[DrumsMixIdhidden#]</string>
+          </entry>
+          <entry>
+            <string>rpVariationID</string>
+            <string>Main C-1</string>
+          </entry>
+          <entry>
+            <string>rpIntensityID</string>
+            <string>2</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_CustomPhraseId</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpSysMuteID</string>
+            <string>[Chord2,Chord1]</string>
+          </entry>
+          <entry>
+            <string>rpSysMarkerID</string>
+            <string>solo2</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpFillID</string>
+            <string>random</string>
+          </entry>
+          <entry>
+            <string>rpTempoID</string>
+            <string>100</string>
+          </entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="FastJazz.S741.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="100" spName="Chorus 4" spNbBars="8">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>FastJazz.S741.sst</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[2]"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>[DrumsMixIdhidden#]</string>
+          </entry>
+          <entry>
+            <string>rpVariationID</string>
+            <string>Main B-1</string>
+          </entry>
+          <entry>
+            <string>rpIntensityID</string>
+            <string>2</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_CustomPhraseId</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpSysMuteID</string>
+            <string>[Chord2]</string>
+          </entry>
+          <entry>
+            <string>rpSysMarkerID</string>
+            <string>solo3</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpFillID</string>
+            <string>always</string>
+          </entry>
+          <entry>
+            <string>rpTempoID</string>
+            <string>100</string>
+          </entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="FastJazz.S741.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="108" spName="Chorus 4" spNbBars="8">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>FastJazz.S741.sst</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[3]"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>[DrumsMixIdhidden#]</string>
+          </entry>
+          <entry>
+            <string>rpVariationID</string>
+            <string>Main B-1</string>
+          </entry>
+          <entry>
+            <string>rpIntensityID</string>
+            <string>2</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_CustomPhraseId</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpSysMuteID</string>
+            <string>[Chord2]</string>
+          </entry>
+          <entry>
+            <string>rpSysMarkerID</string>
+            <string>solo3</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpFillID</string>
+            <string>random</string>
+          </entry>
+          <entry>
+            <string>rpTempoID</string>
+            <string>100</string>
+          </entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="FastJazz.S741.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="116" spName="Chorus 4" spNbBars="8">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>FastJazz.S741.sst</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[4]"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>[DrumsMixIdhidden#]</string>
+          </entry>
+          <entry>
+            <string>rpVariationID</string>
+            <string>Main C-1</string>
+          </entry>
+          <entry>
+            <string>rpIntensityID</string>
+            <string>1</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_CustomPhraseId</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpSysMuteID</string>
+            <string>[Chord2]</string>
+          </entry>
+          <entry>
+            <string>rpSysMarkerID</string>
+            <string>solo3</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpFillID</string>
+            <string>always</string>
+          </entry>
+          <entry>
+            <string>rpTempoID</string>
+            <string>100</string>
+          </entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="FastJazz.S741.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="124" spName="Chorus 4" spNbBars="8">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>FastJazz.S741.sst</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[5]"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>[DrumsMixIdhidden#]</string>
+          </entry>
+          <entry>
+            <string>rpVariationID</string>
+            <string>Main B-1</string>
+          </entry>
+          <entry>
+            <string>rpIntensityID</string>
+            <string>1</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_CustomPhraseId</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpSysMuteID</string>
+            <string>[Chord2]</string>
+          </entry>
+          <entry>
+            <string>rpSysMarkerID</string>
+            <string>solo3</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpFillID</string>
+            <string>break</string>
+          </entry>
+          <entry>
+            <string>rpTempoID</string>
+            <string>100</string>
+          </entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="FastJazz.S741.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="132" spName="Last Chorus" spNbBars="8">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>FastJazz.S741.sst</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[2]"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>[DrumsMixIdhidden#]</string>
+          </entry>
+          <entry>
+            <string>rpVariationID</string>
+            <string>Main A-1</string>
+          </entry>
+          <entry>
+            <string>rpIntensityID</string>
+            <string>1</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_CustomPhraseId</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpSysMuteID</string>
+            <string>[Chord2,Chord1]</string>
+          </entry>
+          <entry>
+            <string>rpSysMarkerID</string>
+            <string>theme2</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpFillID</string>
+            <string>always</string>
+          </entry>
+          <entry>
+            <string>rpTempoID</string>
+            <string>100</string>
+          </entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="FastJazz.S741.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="140" spName="Last Chorus" spNbBars="8">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>FastJazz.S741.sst</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[3]"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>[DrumsMixIdhidden#]</string>
+          </entry>
+          <entry>
+            <string>rpVariationID</string>
+            <string>Main A-1</string>
+          </entry>
+          <entry>
+            <string>rpIntensityID</string>
+            <string>0</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_CustomPhraseId</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpSysMuteID</string>
+            <string>[Chord2,Chord1]</string>
+          </entry>
+          <entry>
+            <string>rpSysMarkerID</string>
+            <string>theme2</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpFillID</string>
+            <string>always</string>
+          </entry>
+          <entry>
+            <string>rpTempoID</string>
+            <string>100</string>
+          </entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="FastJazz.S741.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="148" spName="Last Chorus" spNbBars="8">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>FastJazz.S741.sst</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[4]"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>[DrumsMixIdhidden#]</string>
+          </entry>
+          <entry>
+            <string>rpVariationID</string>
+            <string>Main B-1</string>
+          </entry>
+          <entry>
+            <string>rpIntensityID</string>
+            <string>0</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_CustomPhraseId</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpSysMuteID</string>
+            <string>[Chord2,Chord1]</string>
+          </entry>
+          <entry>
+            <string>rpSysMarkerID</string>
+            <string>theme2</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpFillID</string>
+            <string>always</string>
+          </entry>
+          <entry>
+            <string>rpTempoID</string>
+            <string>100</string>
+          </entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+      <SongPartImpl resolves-to="SongPartImplSP" spRhythmId="FastJazz.S741.sst-ID" spRhythmTs="FOUR_FOUR" spStartBarIndex="156" spName="Last Chorus" spNbBars="12">
+        <spVERSION>3</spVERSION>
+        <spRhythmName>FastJazz.S741.sst</spRhythmName>
+        <spParentSection class="CLI_SectionImpl" reference="../../../../spChordLeadSheet/spItems/CLI__SectionImpl[6]"/>
+        <spClientProperties>
+          <owner class="SongPartImpl" reference="../.."/>
+        </spClientProperties>
+        <spHashMapRpIdValue>
+          <entry>
+            <string>RP_SYS_DrumsTransformId</string>
+            <string>[DrumsMixIdhidden#]</string>
+          </entry>
+          <entry>
+            <string>rpVariationID</string>
+            <string>Main A-1</string>
+          </entry>
+          <entry>
+            <string>rpIntensityID</string>
+            <string>0</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_CustomPhraseId</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpSysMuteID</string>
+            <string>[Chord2,Chord1]</string>
+          </entry>
+          <entry>
+            <string>rpSysMarkerID</string>
+            <string>theme2</string>
+          </entry>
+          <entry>
+            <string>RP_SYS_OverrideTracksID</string>
+            <string></string>
+          </entry>
+          <entry>
+            <string>RpFillID</string>
+            <string>break</string>
+          </entry>
+          <entry>
+            <string>rpTempoID</string>
+            <string>100</string>
+          </entry>
+        </spHashMapRpIdValue>
+      </SongPartImpl>
+    </spSpts>
+    <spParentCls class="ChordLeadSheetImpl" reference="../../spChordLeadSheet"/>
+    <spKeepUpdated>false</spKeepUpdated>
+  </spSongStructure>
+  <spMapUserPhrases>
+    <entry>
+      <string>Lead</string>
+      <Phrase resolves-to="PhraseSP" spVERSION="2">
+        <spSaveString>[0|53,80,1.9979167:16.0|46,80,1.9979167:18.0|58,80,1.9979167:21.0|55,80,0.99791664:23.0|53,80,1.9979167:24.0|46,80,1.9979167:26.0|53,80,1.9979167:29.0|51,80,0.99791664:31.0|50,80,0.99791664:32.0|50,80,0.99791664:33.0|51,80,0.99791664:34.0|53,80,0.99791664:35.0|46,80,1.9979167:36.0|48,80,1.9979167:38.0|50,80,7.9979167:40.0|53,80,1.9979167:48.0|46,80,1.9979167:50.0|58,80,1.9979167:53.0|55,80,0.99791664:55.0|53,80,1.9979167:56.0|46,80,1.9979167:58.0|53,80,1.9979167:61.0|51,80,0.99791664:63.0|50,80,0.99791664:64.0|50,80,0.99791664:65.0|51,80,0.99791664:66.0|53,80,0.99791664:67.0|46,80,1.9979167:68.0|48,80,1.9979167:70.0|46,80,7.9979167:72.0|57,80,1.9979167:80.0|50,80,1.9979167:82.0|58,80,1.9979167:85.0|57,80,0.99791664:87.0|57,80,0.99791664:88.0|55,80,0.99791664:89.0|55,80,0.99791664:90.0|57,80,0.49791667:91.0|55,80,4.4979167:91.5|55,80,1.9979167:96.0|48,80,1.9979167:98.0|57,80,1.9979167:101.0|55,80,0.99791664:103.0|55,80,0.99791664:104.0|53,80,0.99791664:105.0|53,80,0.99791664:106.0|52,80,0.49791667:107.0|53,80,4.4979167:107.5|53,80,1.9979167:112.0|46,80,1.9979167:114.0|58,80,1.9979167:117.0|55,80,0.99791664:119.0|53,80,1.9979167:120.0|46,80,1.9979167:122.0|53,80,1.9979167:125.0|51,80,0.99791664:127.0|50,80,0.99791664:128.0|50,80,0.99791664:129.0|51,80,0.99791664:130.0|53,80,0.99791664:131.0|46,80,1.9979167:132.0|48,80,1.9979167:134.0|46,80,0.99791664:136.0|53,80,1.9979167:528.0|46,80,1.9979167:530.0|58,80,1.9979167:533.0|55,80,0.99791664:535.0|53,80,1.9979167:536.0|46,80,1.9979167:538.0|53,80,1.9979167:541.0|51,80,0.99791664:543.0|50,80,0.99791664:544.0|50,80,0.99791664:545.0|51,80,0.99791664:546.0|53,80,0.99791664:547.0|46,80,1.9979167:548.0|48,80,1.9979167:550.0|50,80,7.9979167:552.0|53,80,1.9979167:560.0|46,80,1.9979167:562.0|58,80,1.9979167:565.0|55,80,0.99791664:567.0|53,80,1.9979167:568.0|46,80,1.9979167:570.0|53,80,1.9979167:573.0|51,80,0.99791664:575.0|50,80,0.99791664:576.0|50,80,0.99791664:577.0|51,80,0.99791664:578.0|53,80,0.99791664:579.0|46,80,1.9979167:580.0|48,80,1.9979167:582.0|46,80,7.9979167:584.0|57,80,1.9979167:592.0|50,80,1.9979167:594.0|58,80,1.9979167:597.0|57,80,0.99791664:599.0|57,80,0.99791664:600.0|55,80,0.99791664:601.0|55,80,0.99791664:602.0|57,80,0.49791667:603.0|55,80,4.4979167:603.5|55,80,1.9979167:608.0|48,80,1.9979167:610.0|57,80,1.9979167:613.0|55,80,0.99791664:615.0|55,80,0.99791664:616.0|53,80,0.99791664:617.0|53,80,0.99791664:618.0|52,80,0.49791667:619.0|53,80,4.4979167:619.5|53,80,1.9979167:624.0|46,80,1.9979167:626.0|58,80,1.9979167:629.0|55,80,0.99791664:631.0|53,80,1.9979167:632.0|46,80,1.9979167:634.0|53,80,1.9979167:637.0|51,80,0.99791664:639.0|50,80,0.99791664:640.0|50,80,0.99791664:641.0|51,80,0.99791664:642.0|53,80,0.99791664:643.0|46,80,1.9979167:644.0|48,80,1.9979167:646.0|50,80,0.99791664:649.0|51,80,0.99791664:650.0|53,80,0.99791664:651.0|46,80,1.9979167:652.0|48,80,1.9979167:654.0|50,80,0.99791664:657.0|51,80,0.99791664:658.0|53,80,0.99791664:659.0|58,80,1.9979167:660.0|60,80,1.9979167:662.0|58,80,4.9979167:664.0]</spSaveString>
+      </Phrase>
+    </entry>
+  </spMapUserPhrases>
+  <spClientPropertiesV3>
+    <properties>
+      <entry>
+        <string>SectionDisplayQuantization-A3*4/4</string>
+        <string>ONE_THIRD_BEAT</string>
+      </entry>
+      <entry>
+        <string>PropCompactViewModeVisibleRps_jjSwing-ID</string>
+        <string>rpVariationID,BassStyleId,DrumsStyleId,rpIntensityID,RpFillID,RpSysMuteID,rpSysMarkerID</string>
+      </entry>
+      <entry>
+        <string>SectionDisplayQuantization-Intro*4/4</string>
+        <string>ONE_THIRD_BEAT</string>
+      </entry>
+      <entry>
+        <string>PropCompactViewModeVisibleRps_MediumJazz.S737.sst-ID</string>
+        <string>rpVariationID,rpIntensityID,RpFillID,RpSysMuteID,rpSysMarkerID</string>
+      </entry>
+      <entry>
+        <string>SectionDisplayQuantization-B*4/4</string>
+        <string>ONE_THIRD_BEAT</string>
+      </entry>
+      <entry>
+        <string>PropSsEditorZoomFactorX</string>
+        <string>6</string>
+      </entry>
+      <entry>
+        <string>PropCompactViewModeVisibleRps_FastJazz.S741.sst-ID</string>
+        <string>rpVariationID,rpIntensityID,RpFillID,RpSysMuteID,rpSysMarkerID</string>
+      </entry>
+      <entry>
+        <string>SectionDisplayQuantization-A1*4/4</string>
+        <string>ONE_THIRD_BEAT</string>
+      </entry>
+      <entry>
+        <string>PropCompactViewModeVisibleRps_AcousticJazz.S351.sst-ID</string>
+        <string>rpVariationID,rpIntensityID,RpFillID,RpSysMuteID,rpSysMarkerID</string>
+      </entry>
+      <entry>
+        <string>SectionDisplayQuantization-A2*4/4</string>
+        <string>ONE_THIRD_BEAT</string>
+      </entry>
+      <entry>
+        <string>SectionDisplayQuantization-A3-OUT*4/4</string>
+        <string>ONE_THIRD_BEAT</string>
+      </entry>
+    </properties>
+    <owner class="Song" reference="../.."/>
+  </spClientPropertiesV3>
+</Song>
