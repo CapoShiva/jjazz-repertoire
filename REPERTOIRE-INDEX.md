@@ -428,6 +428,8 @@ SweetSue G
 
 Swing42 C
 
+Swing48 Gm
+
 TakeTen Dm
 
 TakeTheATrain C
